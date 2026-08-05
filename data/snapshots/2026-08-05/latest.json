@@ -17051,7 +17051,7 @@
       "type": "snake"
     }
   ],
-  "generated_at": "2026-08-04T21:52:07.185614+00:00",
+  "generated_at": "2026-08-05T08:04:17.903363+00:00",
   "league": {
     "avatar": "7c15319eacc56bfdeb741f4b006ca693",
     "bracket_id": null,
@@ -19398,7 +19398,7 @@
   },
   "methodology_note": "Version 2.0 uses a modular valuation provider, optimized league-specific starting lineups, traded-pick inventory and player-level trade targeting. Without config/market_values.json, player values use a transparent fallback heuristic and must not be treated as calibrated market prices.",
   "nfl_state": {
-    "display_week": 1,
+    "display_week": 0,
     "league_create_season": "2026",
     "league_season": "2026",
     "leg": 0,
@@ -23724,7 +23724,7 @@
       },
       "lineups": {
         "future": {
-          "average": 79.8,
+          "average": 79.7,
           "bench_value": 1991.7,
           "filled": 24,
           "metric": "rebuild",
@@ -23857,17 +23857,17 @@
               "slot": "FLEX"
             },
             {
-              "full_name": "LeQuint Allen",
-              "player_id": "12544",
-              "position": "RB",
-              "score": 72.1,
-              "slot": "FLEX"
-            },
-            {
               "full_name": "Nicholas Singleton",
               "player_id": "13288",
               "position": "RB",
               "score": 71.8,
+              "slot": "FLEX"
+            },
+            {
+              "full_name": "LeQuint Allen",
+              "player_id": "12544",
+              "position": "RB",
+              "score": 70.3,
               "slot": "FLEX"
             },
             {
@@ -23899,11 +23899,11 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1914.9
+          "total": 1913.1
         },
         "win_now": {
           "average": 79.7,
-          "bench_value": 1792.4,
+          "bench_value": 1793.6,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -24108,8 +24108,8 @@
         "RB": {
           "contender_top": 286.5,
           "count": 8,
-          "market": 435.4,
-          "rebuild_top": 317.4
+          "market": 436.6,
+          "rebuild_top": 315.6
         },
         "TE": {
           "contender_top": 237.5,
@@ -24127,9 +24127,9 @@
       "power_rank": 2,
       "roster_id": 10,
       "scores": {
-        "future": 79.8,
+        "future": 79.7,
         "liquidity": 68.4,
-        "market_total": 3545.6,
+        "market_total": 3546.8,
         "risk": 29.4,
         "win_now": 79.7
       },
@@ -26574,7 +26574,7 @@
       "lineups": {
         "future": {
           "average": 74.6,
-          "bench_value": 1636.5,
+          "bench_value": 1632.5,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
@@ -26752,7 +26752,7 @@
         },
         "win_now": {
           "average": 76.8,
-          "bench_value": 1617.0,
+          "bench_value": 1611.6,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -26969,7 +26969,7 @@
         "WR": {
           "contender_top": 348.6,
           "count": 11,
-          "market": 652.7,
+          "market": 648.7,
           "rebuild_top": 334.6
         }
       },
@@ -26978,8 +26978,8 @@
       "scores": {
         "future": 74.6,
         "liquidity": 67.0,
-        "market_total": 3280.1,
-        "risk": 32.4,
+        "market_total": 3276.1,
+        "risk": 32.5,
         "win_now": 76.8
       },
       "team_name": null,
@@ -27126,8 +27126,8 @@
       },
       "lineups": {
         "future": {
-          "average": 73.2,
-          "bench_value": 1417.6,
+          "average": 73.0,
+          "bench_value": 1416.4,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
@@ -27266,17 +27266,17 @@
               "slot": "FLEX"
             },
             {
-              "full_name": "Jalen McMillan",
-              "player_id": "11618",
-              "position": "WR",
-              "score": 69.8,
-              "slot": "FLEX"
-            },
-            {
               "full_name": "Jalen Royals",
               "player_id": "12505",
               "position": "WR",
               "score": 67.1,
+              "slot": "FLEX"
+            },
+            {
+              "full_name": "Will Shipley",
+              "player_id": "11577",
+              "position": "RB",
+              "score": 67.0,
               "slot": "FLEX"
             },
             {
@@ -27301,11 +27301,11 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1755.9
+          "total": 1753.1
         },
         "win_now": {
           "average": 76.6,
-          "bench_value": 1447.0,
+          "bench_value": 1441.6,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -27522,17 +27522,17 @@
         "WR": {
           "contender_top": 326.6,
           "count": 14,
-          "market": 833.8,
+          "market": 829.8,
           "rebuild_top": 307.0
         }
       },
       "power_rank": 8,
       "roster_id": 9,
       "scores": {
-        "future": 73.2,
-        "liquidity": 69.1,
-        "market_total": 3105.5,
-        "risk": 32.0,
+        "future": 73.0,
+        "liquidity": 69.0,
+        "market_total": 3101.5,
+        "risk": 32.1,
         "win_now": 76.6
       },
       "team_name": "Ravensburger Playmakers",
@@ -28841,7 +28841,7 @@
       },
       "lineups": {
         "future": {
-          "average": 74.0,
+          "average": 73.9,
           "bench_value": 1026.4,
           "filled": 24,
           "metric": "rebuild",
@@ -28907,7 +28907,7 @@
               "full_name": "Christen Miller",
               "player_id": "13387",
               "position": "DL",
-              "score": 78.0,
+              "score": 76.2,
               "slot": "DL"
             },
             {
@@ -29016,7 +29016,7 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1774.9
+          "total": 1773.1
         },
         "win_now": {
           "average": 74.8,
@@ -29092,7 +29092,7 @@
               "full_name": "Christen Miller",
               "player_id": "13387",
               "position": "DL",
-              "score": 66.6,
+              "score": 67.8,
               "slot": "DL"
             },
             {
@@ -29194,7 +29194,7 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1794.2
+          "total": 1795.4
         }
       },
       "positions": {
@@ -29205,10 +29205,10 @@
           "rebuild_top": 296.5
         },
         "DL": {
-          "contender_top": 277.9,
+          "contender_top": 279.1,
           "count": 5,
-          "market": 296.7,
-          "rebuild_top": 276.3
+          "market": 297.9,
+          "rebuild_top": 274.5
         },
         "LB": {
           "contender_top": 290.5,
@@ -29244,9 +29244,9 @@
       "power_rank": 11,
       "roster_id": 8,
       "scores": {
-        "future": 74.0,
+        "future": 73.9,
         "liquidity": 68.0,
-        "market_total": 2736.8,
+        "market_total": 2738.0,
         "risk": 32.9,
         "win_now": 74.8
       },
@@ -62314,7 +62314,7 @@
         },
         {
           "active": true,
-          "age": 21,
+          "age": 22,
           "age_bucket": "young",
           "depth_chart_order": 2,
           "depth_chart_position": "NT",
@@ -62339,11 +62339,11 @@
           "team": "NO",
           "value": {
             "confidence": 70.0,
-            "contender": 66.6,
-            "liquidity": 54.3,
-            "market": 60.0,
+            "contender": 67.8,
+            "liquidity": 53.2,
+            "market": 61.2,
             "player_id": "13387",
-            "rebuild": 78.0,
+            "rebuild": 76.2,
             "risk": 28.0,
             "source": "heuristic-v0.2"
           },
@@ -63357,7 +63357,7 @@
         "DL": [
           {
             "active": true,
-            "age": 21,
+            "age": 22,
             "age_bucket": "young",
             "depth_chart_order": 2,
             "depth_chart_position": "NT",
@@ -63382,11 +63382,11 @@
             "team": "NO",
             "value": {
               "confidence": 70.0,
-              "contender": 66.6,
-              "liquidity": 54.3,
-              "market": 60.0,
+              "contender": 67.8,
+              "liquidity": 53.2,
+              "market": 61.2,
               "player_id": "13387",
-              "rebuild": 78.0,
+              "rebuild": 76.2,
               "risk": 28.0,
               "source": "heuristic-v0.2"
             },
@@ -65327,7 +65327,7 @@
           "active": true,
           "age": 22,
           "age_bucket": "young",
-          "depth_chart_order": 6,
+          "depth_chart_order": 5,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -66595,9 +66595,9 @@
           ],
           "first_name": "Jalen",
           "full_name": "Jalen McMillan",
-          "injury_body_part": null,
+          "injury_body_part": "Calf",
           "injury_notes": null,
-          "injury_status": null,
+          "injury_status": "Questionable",
           "is_reserve": false,
           "is_starter": false,
           "is_taxi": false,
@@ -66611,12 +66611,12 @@
           "team": "TB",
           "value": {
             "confidence": 55.0,
-            "contender": 60.8,
+            "contender": 55.4,
             "liquidity": 91.2,
-            "market": 60.8,
+            "market": 56.8,
             "player_id": "11618",
-            "rebuild": 69.8,
-            "risk": 24.0,
+            "rebuild": 65.8,
+            "risk": 28.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 2
@@ -68644,7 +68644,7 @@
             "active": true,
             "age": 22,
             "age_bucket": "young",
-            "depth_chart_order": 6,
+            "depth_chart_order": 5,
             "depth_chart_position": "SWR",
             "fantasy_positions": [
               "WR"
@@ -68725,9 +68725,9 @@
             ],
             "first_name": "Jalen",
             "full_name": "Jalen McMillan",
-            "injury_body_part": null,
+            "injury_body_part": "Calf",
             "injury_notes": null,
-            "injury_status": null,
+            "injury_status": "Questionable",
             "is_reserve": false,
             "is_starter": false,
             "is_taxi": false,
@@ -68741,12 +68741,12 @@
             "team": "TB",
             "value": {
               "confidence": 55.0,
-              "contender": 60.8,
+              "contender": 55.4,
               "liquidity": 91.2,
-              "market": 60.8,
+              "market": 56.8,
               "player_id": "11618",
-              "rebuild": 69.8,
-              "risk": 24.0,
+              "rebuild": 65.8,
+              "risk": 28.0,
               "source": "heuristic-v0.2"
             },
             "years_exp": 2
@@ -69531,7 +69531,7 @@
         },
         {
           "active": true,
-          "age": 21,
+          "age": 22,
           "age_bucket": "young",
           "depth_chart_order": 4,
           "depth_chart_position": "RB",
@@ -69556,11 +69556,11 @@
           "team": "JAX",
           "value": {
             "confidence": 55.0,
-            "contender": 54.1,
-            "liquidity": 89.3,
-            "market": 54.1,
+            "contender": 55.3,
+            "liquidity": 88.2,
+            "market": 55.3,
             "player_id": "12544",
-            "rebuild": 72.1,
+            "rebuild": 70.3,
             "risk": 34.0,
             "source": "heuristic-v0.2"
           },
@@ -72810,7 +72810,7 @@
           },
           {
             "active": true,
-            "age": 21,
+            "age": 22,
             "age_bucket": "young",
             "depth_chart_order": 4,
             "depth_chart_position": "RB",
@@ -72835,11 +72835,11 @@
             "team": "JAX",
             "value": {
               "confidence": 55.0,
-              "contender": 54.1,
-              "liquidity": 89.3,
-              "market": 54.1,
+              "contender": 55.3,
+              "liquidity": 88.2,
+              "market": 55.3,
               "player_id": "12544",
-              "rebuild": 72.1,
+              "rebuild": 70.3,
               "risk": 34.0,
               "source": "heuristic-v0.2"
             },
@@ -73798,9 +73798,9 @@
           ],
           "first_name": "Tez",
           "full_name": "Tez Johnson",
-          "injury_body_part": null,
-          "injury_notes": null,
-          "injury_status": null,
+          "injury_body_part": "Groin",
+          "injury_notes": "Strain",
+          "injury_status": "Questionable",
           "is_reserve": false,
           "is_starter": false,
           "is_taxi": false,
@@ -73814,12 +73814,12 @@
           "team": "TB",
           "value": {
             "confidence": 55.0,
-            "contender": 53.3,
+            "contender": 47.9,
             "liquidity": 91.2,
-            "market": 53.3,
+            "market": 49.3,
             "player_id": "12485",
-            "rebuild": 62.3,
-            "risk": 24.0,
+            "rebuild": 58.3,
+            "risk": 28.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 1
@@ -77891,9 +77891,9 @@
             ],
             "first_name": "Tez",
             "full_name": "Tez Johnson",
-            "injury_body_part": null,
-            "injury_notes": null,
-            "injury_status": null,
+            "injury_body_part": "Groin",
+            "injury_notes": "Strain",
+            "injury_status": "Questionable",
             "is_reserve": false,
             "is_starter": false,
             "is_taxi": false,
@@ -77907,12 +77907,12 @@
             "team": "TB",
             "value": {
               "confidence": 55.0,
-              "contender": 53.3,
+              "contender": 47.9,
               "liquidity": 91.2,
-              "market": 53.3,
+              "market": 49.3,
               "player_id": "12485",
-              "rebuild": 62.3,
-              "risk": 24.0,
+              "rebuild": 58.3,
+              "risk": 28.0,
               "source": "heuristic-v0.2"
             },
             "years_exp": 1
