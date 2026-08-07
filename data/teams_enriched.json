@@ -14394,7 +14394,7 @@
         "injury_body_part": "Finger",
         "injury_notes": null,
         "injury_status": "Questionable",
-        "is_reserve": true,
+        "is_reserve": false,
         "is_starter": false,
         "is_taxi": false,
         "last_name": "Noel",
@@ -17520,7 +17520,7 @@
           "injury_body_part": "Finger",
           "injury_notes": null,
           "injury_status": "Questionable",
-          "is_reserve": true,
+          "is_reserve": false,
           "is_starter": false,
           "is_taxi": false,
           "last_name": "Noel",
@@ -17694,7 +17694,6 @@
       ]
     },
     "reserve_ids": [
-      "12536",
       "5030"
     ],
     "roster_id": 4,
@@ -19537,7 +19536,7 @@
         "full_name": "Troy Andersen",
         "injury_body_part": "Knee",
         "injury_notes": null,
-        "injury_status": "PUP",
+        "injury_status": "Questionable",
         "is_reserve": true,
         "is_starter": false,
         "is_taxi": false,
@@ -19551,12 +19550,12 @@
         "team": null,
         "value": {
           "confidence": 35.0,
-          "contender": 24.0,
+          "contender": 32.1,
           "liquidity": 52.0,
-          "market": 27.5,
+          "market": 33.5,
           "player_id": "8388",
-          "rebuild": 27.5,
-          "risk": 40.0,
+          "rebuild": 33.5,
+          "risk": 34.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 4
@@ -21103,7 +21102,7 @@
           "full_name": "Troy Andersen",
           "injury_body_part": "Knee",
           "injury_notes": null,
-          "injury_status": "PUP",
+          "injury_status": "Questionable",
           "is_reserve": true,
           "is_starter": false,
           "is_taxi": false,
@@ -21117,12 +21116,12 @@
           "team": null,
           "value": {
             "confidence": 35.0,
-            "contender": 24.0,
+            "contender": 32.1,
             "liquidity": 52.0,
-            "market": 27.5,
+            "market": 33.5,
             "player_id": "8388",
-            "rebuild": 27.5,
-            "risk": 40.0,
+            "rebuild": 33.5,
+            "risk": 34.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 4
