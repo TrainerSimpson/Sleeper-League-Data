@@ -55,12 +55,12 @@
       "13363",
       "1052",
       "7496",
+      "11592",
       "6804",
       "13421",
       "5870",
       "12593",
       "5995",
-      "11744",
       "10940"
     ],
     "players": [
@@ -450,7 +450,7 @@
         "injury_status": null,
         "is_reserve": false,
         "is_starter": false,
-        "is_taxi": true,
+        "is_taxi": false,
         "last_name": "Coleman",
         "normalized_position": "RB",
         "number": 20,
@@ -1376,7 +1376,7 @@
         "injury_status": "Questionable",
         "is_reserve": false,
         "is_starter": false,
-        "is_taxi": true,
+        "is_taxi": false,
         "last_name": "Black",
         "normalized_position": "RB",
         "number": 26,
@@ -1562,7 +1562,7 @@
         "injury_status": null,
         "is_reserve": false,
         "is_starter": false,
-        "is_taxi": false,
+        "is_taxi": true,
         "last_name": "Pearce",
         "normalized_position": "DL",
         "number": 27,
@@ -1636,7 +1636,7 @@
         "injury_status": null,
         "is_reserve": false,
         "is_starter": false,
-        "is_taxi": false,
+        "is_taxi": true,
         "last_name": "Ferguson",
         "normalized_position": "TE",
         "number": 18,
@@ -1957,6 +1957,43 @@
       },
       {
         "active": true,
+        "age": 25,
+        "age_bucket": "prime",
+        "depth_chart_order": 2,
+        "depth_chart_position": "TE",
+        "fantasy_positions": [
+          "TE"
+        ],
+        "first_name": "Erick",
+        "full_name": "Erick All",
+        "injury_body_part": null,
+        "injury_notes": null,
+        "injury_status": null,
+        "is_reserve": false,
+        "is_starter": false,
+        "is_taxi": false,
+        "last_name": "All",
+        "normalized_position": "TE",
+        "number": 83,
+        "player_id": "11592",
+        "position": "TE",
+        "search_full_name": "erickall",
+        "status": "Active",
+        "team": "CIN",
+        "value": {
+          "confidence": 55.0,
+          "contender": 56.8,
+          "liquidity": 70.1,
+          "market": 56.8,
+          "player_id": "11592",
+          "rebuild": 62.8,
+          "risk": 24.0,
+          "source": "heuristic-v0.2"
+        },
+        "years_exp": 2
+      },
+      {
+        "active": true,
         "age": 27,
         "age_bucket": "prime",
         "depth_chart_order": 1,
@@ -2139,43 +2176,6 @@
           "source": "heuristic-v0.2"
         },
         "years_exp": 7
-      },
-      {
-        "active": true,
-        "age": 25,
-        "age_bucket": "prime",
-        "depth_chart_order": 2,
-        "depth_chart_position": "FS",
-        "fantasy_positions": [
-          "DB"
-        ],
-        "first_name": "Dadrion",
-        "full_name": "Dadrion Taylor-Demerson",
-        "injury_body_part": null,
-        "injury_notes": null,
-        "injury_status": null,
-        "is_reserve": false,
-        "is_starter": false,
-        "is_taxi": false,
-        "last_name": "Taylor-Demerson",
-        "normalized_position": "DB",
-        "number": 42,
-        "player_id": "11744",
-        "position": "DB",
-        "search_full_name": "dadriontaylordemerson",
-        "status": "Active",
-        "team": "ARI",
-        "value": {
-          "confidence": 55.0,
-          "contender": 49.0,
-          "liquidity": 40.1,
-          "market": 49.0,
-          "player_id": "11744",
-          "rebuild": 55.0,
-          "risk": 24.0,
-          "source": "heuristic-v0.2"
-        },
-        "years_exp": 2
       },
       {
         "active": true,
@@ -2405,43 +2405,6 @@
         },
         {
           "active": true,
-          "age": 25,
-          "age_bucket": "prime",
-          "depth_chart_order": 2,
-          "depth_chart_position": "FS",
-          "fantasy_positions": [
-            "DB"
-          ],
-          "first_name": "Dadrion",
-          "full_name": "Dadrion Taylor-Demerson",
-          "injury_body_part": null,
-          "injury_notes": null,
-          "injury_status": null,
-          "is_reserve": false,
-          "is_starter": false,
-          "is_taxi": false,
-          "last_name": "Taylor-Demerson",
-          "normalized_position": "DB",
-          "number": 42,
-          "player_id": "11744",
-          "position": "DB",
-          "search_full_name": "dadriontaylordemerson",
-          "status": "Active",
-          "team": "ARI",
-          "value": {
-            "confidence": 55.0,
-            "contender": 49.0,
-            "liquidity": 40.1,
-            "market": 49.0,
-            "player_id": "11744",
-            "rebuild": 55.0,
-            "risk": 24.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 2
-        },
-        {
-          "active": true,
           "age": 26,
           "age_bucket": "prime",
           "depth_chart_order": 1,
@@ -2606,7 +2569,7 @@
           "injury_status": null,
           "is_reserve": false,
           "is_starter": false,
-          "is_taxi": false,
+          "is_taxi": true,
           "last_name": "Pearce",
           "normalized_position": "DL",
           "number": 27,
@@ -3579,7 +3542,7 @@
           "injury_status": null,
           "is_reserve": false,
           "is_starter": false,
-          "is_taxi": true,
+          "is_taxi": false,
           "last_name": "Coleman",
           "normalized_position": "RB",
           "number": 20,
@@ -3653,7 +3616,7 @@
           "injury_status": "Questionable",
           "is_reserve": false,
           "is_starter": false,
-          "is_taxi": true,
+          "is_taxi": false,
           "last_name": "Black",
           "normalized_position": "RB",
           "number": 26,
@@ -3951,7 +3914,7 @@
           "injury_status": null,
           "is_reserve": false,
           "is_starter": false,
-          "is_taxi": false,
+          "is_taxi": true,
           "last_name": "Ferguson",
           "normalized_position": "TE",
           "number": 18,
@@ -3971,6 +3934,43 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 1
+        },
+        {
+          "active": true,
+          "age": 25,
+          "age_bucket": "prime",
+          "depth_chart_order": 2,
+          "depth_chart_position": "TE",
+          "fantasy_positions": [
+            "TE"
+          ],
+          "first_name": "Erick",
+          "full_name": "Erick All",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "All",
+          "normalized_position": "TE",
+          "number": 83,
+          "player_id": "11592",
+          "position": "TE",
+          "search_full_name": "erickall",
+          "status": "Active",
+          "team": "CIN",
+          "value": {
+            "confidence": 55.0,
+            "contender": 56.8,
+            "liquidity": 70.1,
+            "market": 56.8,
+            "player_id": "11592",
+            "rebuild": 62.8,
+            "risk": 24.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 2
         }
       ],
       "WR": [
@@ -4393,7 +4393,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 4,
-      "waiver_position": 6,
+      "waiver_position": 10,
       "wins": 0
     },
     "starter_ids": [
@@ -4425,12 +4425,12 @@
     "taxi_ids": [
       "12467",
       "12471",
+      "12487",
       "12543",
+      "12585",
       "12593",
-      "13345",
       "13349",
       "13391",
-      "13414",
       "13421",
       "13457"
     ],
@@ -8604,6 +8604,7 @@
       "10903",
       "8121",
       "7571",
+      "13297",
       "7567",
       "6901",
       "13445",
@@ -9542,7 +9543,7 @@
         "injury_body_part": "Achilles",
         "injury_notes": null,
         "injury_status": "PUP",
-        "is_reserve": false,
+        "is_reserve": true,
         "is_starter": false,
         "is_taxi": false,
         "last_name": "Sewell",
@@ -9712,6 +9713,43 @@
           "source": "heuristic-v0.2"
         },
         "years_exp": 5
+      },
+      {
+        "active": true,
+        "age": 22,
+        "age_bucket": "young",
+        "depth_chart_order": 5,
+        "depth_chart_position": "LWR",
+        "fantasy_positions": [
+          "WR"
+        ],
+        "first_name": "Reggie",
+        "full_name": "Reggie Virgil",
+        "injury_body_part": null,
+        "injury_notes": null,
+        "injury_status": null,
+        "is_reserve": false,
+        "is_starter": false,
+        "is_taxi": false,
+        "last_name": "Virgil",
+        "normalized_position": "WR",
+        "number": 82,
+        "player_id": "13297",
+        "position": "WR",
+        "search_full_name": "reggievirgil",
+        "status": "Active",
+        "team": "ARI",
+        "value": {
+          "confidence": 55.0,
+          "contender": 49.4,
+          "liquidity": 93.2,
+          "market": 49.4,
+          "player_id": "13297",
+          "rebuild": 64.4,
+          "risk": 24.0,
+          "source": "heuristic-v0.2"
+        },
+        "years_exp": 0
       },
       {
         "active": true,
@@ -11668,7 +11706,7 @@
           "injury_body_part": "Achilles",
           "injury_notes": null,
           "injury_status": "PUP",
-          "is_reserve": false,
+          "is_reserve": true,
           "is_starter": false,
           "is_taxi": false,
           "last_name": "Sewell",
@@ -12886,6 +12924,43 @@
         },
         {
           "active": true,
+          "age": 22,
+          "age_bucket": "young",
+          "depth_chart_order": 5,
+          "depth_chart_position": "LWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "first_name": "Reggie",
+          "full_name": "Reggie Virgil",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Virgil",
+          "normalized_position": "WR",
+          "number": 82,
+          "player_id": "13297",
+          "position": "WR",
+          "search_full_name": "reggievirgil",
+          "status": "Active",
+          "team": "ARI",
+          "value": {
+            "confidence": 55.0,
+            "contender": 49.4,
+            "liquidity": 93.2,
+            "market": 49.4,
+            "player_id": "13297",
+            "rebuild": 64.4,
+            "risk": 24.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 0
+        },
+        {
+          "active": true,
           "age": 23,
           "age_bucket": "young",
           "depth_chart_order": 4,
@@ -13258,6 +13333,7 @@
     },
     "reserve_ids": [
       "10905",
+      "10984",
       "4217",
       "6900",
       "7640"
@@ -13271,7 +13347,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 7,
-      "waiver_position": 7,
+      "waiver_position": 11,
       "wins": 0
     },
     "starter_ids": [
@@ -19472,7 +19548,7 @@
         "position": "LB",
         "search_full_name": "troyandersen",
         "status": "Active",
-        "team": "ATL",
+        "team": null,
         "value": {
           "confidence": 35.0,
           "contender": 24.0,
@@ -21038,7 +21114,7 @@
           "position": "LB",
           "search_full_name": "troyandersen",
           "status": "Active",
-          "team": "ATL",
+          "team": null,
           "value": {
             "confidence": 35.0,
             "contender": 24.0,
@@ -22596,7 +22672,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 41,
-      "waiver_position": 9,
+      "waiver_position": 7,
       "wins": 0
     },
     "starter_ids": [
@@ -22864,9 +22940,9 @@
         ],
         "first_name": "Kevin",
         "full_name": "Kevin Coleman",
-        "injury_body_part": null,
+        "injury_body_part": "Undisclosed",
         "injury_notes": null,
-        "injury_status": null,
+        "injury_status": "Questionable",
         "is_reserve": false,
         "is_starter": false,
         "is_taxi": false,
@@ -22880,12 +22956,12 @@
         "team": "MIA",
         "value": {
           "confidence": 55.0,
-          "contender": 49.4,
+          "contender": 44.0,
           "liquidity": 93.2,
-          "market": 49.4,
+          "market": 45.4,
           "player_id": "13338",
-          "rebuild": 64.4,
-          "risk": 24.0,
+          "rebuild": 60.4,
+          "risk": 28.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 0
@@ -26767,9 +26843,9 @@
           ],
           "first_name": "Kevin",
           "full_name": "Kevin Coleman",
-          "injury_body_part": null,
+          "injury_body_part": "Undisclosed",
           "injury_notes": null,
-          "injury_status": null,
+          "injury_status": "Questionable",
           "is_reserve": false,
           "is_starter": false,
           "is_taxi": false,
@@ -26783,12 +26859,12 @@
           "team": "MIA",
           "value": {
             "confidence": 55.0,
-            "contender": 49.4,
+            "contender": 44.0,
             "liquidity": 93.2,
-            "market": 49.4,
+            "market": 45.4,
             "player_id": "13338",
-            "rebuild": 64.4,
-            "risk": 24.0,
+            "rebuild": 60.4,
+            "risk": 28.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 0
@@ -27030,7 +27106,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 3,
-      "waiver_position": 10,
+      "waiver_position": 8,
       "wins": 0
     },
     "starter_ids": [
@@ -27097,6 +27173,7 @@
       "5580",
       "4999",
       "14046",
+      "3160",
       "5840",
       "10914",
       "8314",
@@ -27843,6 +27920,43 @@
           "source": "heuristic-v0.2"
         },
         "years_exp": 0
+      },
+      {
+        "active": true,
+        "age": 31,
+        "age_bucket": "veteran",
+        "depth_chart_order": 1,
+        "depth_chart_position": "NB",
+        "fantasy_positions": [
+          "DB"
+        ],
+        "first_name": "Jalen",
+        "full_name": "Jalen Ramsey",
+        "injury_body_part": "Knee",
+        "injury_notes": null,
+        "injury_status": "PUP",
+        "is_reserve": true,
+        "is_starter": false,
+        "is_taxi": false,
+        "last_name": "Ramsey",
+        "normalized_position": "DB",
+        "number": 5,
+        "player_id": "3160",
+        "position": "CB",
+        "search_full_name": "jalenramsey",
+        "status": "Active",
+        "team": "PIT",
+        "value": {
+          "confidence": 55.0,
+          "contender": 15.0,
+          "liquidity": 33.8,
+          "market": 18.5,
+          "player_id": "3160",
+          "rebuild": 6.5,
+          "risk": 64.0,
+          "source": "heuristic-v0.2"
+        },
+        "years_exp": 10
       },
       {
         "active": true,
@@ -29626,6 +29740,43 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 6
+        },
+        {
+          "active": true,
+          "age": 31,
+          "age_bucket": "veteran",
+          "depth_chart_order": 1,
+          "depth_chart_position": "NB",
+          "fantasy_positions": [
+            "DB"
+          ],
+          "first_name": "Jalen",
+          "full_name": "Jalen Ramsey",
+          "injury_body_part": "Knee",
+          "injury_notes": null,
+          "injury_status": "PUP",
+          "is_reserve": true,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Ramsey",
+          "normalized_position": "DB",
+          "number": 5,
+          "player_id": "3160",
+          "position": "CB",
+          "search_full_name": "jalenramsey",
+          "status": "Active",
+          "team": "PIT",
+          "value": {
+            "confidence": 55.0,
+            "contender": 15.0,
+            "liquidity": 33.8,
+            "market": 18.5,
+            "player_id": "3160",
+            "rebuild": 6.5,
+            "risk": 64.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 10
         }
       ],
       "DL": [
@@ -31683,6 +31834,7 @@
     "reserve_ids": [
       "11651",
       "13342",
+      "3160",
       "4999",
       "9481"
     ],
@@ -44086,7 +44238,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 8,
+      "waiver_position": 6,
       "wins": 0
     },
     "starter_ids": [
@@ -48598,7 +48750,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 5,
-      "waiver_position": 11,
+      "waiver_position": 9,
       "wins": 0
     },
     "starter_ids": [
