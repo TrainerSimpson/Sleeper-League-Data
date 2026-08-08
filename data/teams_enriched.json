@@ -17760,7 +17760,6 @@
       "13317",
       "12566",
       "8210",
-      "2505",
       "4017",
       "1466",
       "13434",
@@ -18079,43 +18078,6 @@
           "source": "heuristic-v0.2"
         },
         "years_exp": 4
-      },
-      {
-        "active": true,
-        "age": 33,
-        "age_bucket": "veteran",
-        "depth_chart_order": null,
-        "depth_chart_position": null,
-        "fantasy_positions": [
-          "TE"
-        ],
-        "first_name": "Darren",
-        "full_name": "Darren Waller",
-        "injury_body_part": "Groin",
-        "injury_notes": null,
-        "injury_status": "Questionable",
-        "is_reserve": false,
-        "is_starter": false,
-        "is_taxi": false,
-        "last_name": "Waller",
-        "normalized_position": "TE",
-        "number": 83,
-        "player_id": "2505",
-        "position": "TE",
-        "search_full_name": "darrenwaller",
-        "status": "Active",
-        "team": null,
-        "value": {
-          "confidence": 35.0,
-          "contender": 21.1,
-          "liquidity": 61.7,
-          "market": 22.5,
-          "player_id": "2505",
-          "rebuild": 4.5,
-          "risk": 64.0,
-          "source": "heuristic-v0.2"
-        },
-        "years_exp": 11
       },
       {
         "active": true,
@@ -19537,7 +19499,7 @@
         "injury_body_part": "Knee",
         "injury_notes": null,
         "injury_status": "Questionable",
-        "is_reserve": true,
+        "is_reserve": false,
         "is_starter": false,
         "is_taxi": false,
         "last_name": "Andersen",
@@ -21103,7 +21065,7 @@
           "injury_body_part": "Knee",
           "injury_notes": null,
           "injury_status": "Questionable",
-          "is_reserve": true,
+          "is_reserve": false,
           "is_starter": false,
           "is_taxi": false,
           "last_name": "Andersen",
@@ -22056,43 +22018,6 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 8
-        },
-        {
-          "active": true,
-          "age": 33,
-          "age_bucket": "veteran",
-          "depth_chart_order": null,
-          "depth_chart_position": null,
-          "fantasy_positions": [
-            "TE"
-          ],
-          "first_name": "Darren",
-          "full_name": "Darren Waller",
-          "injury_body_part": "Groin",
-          "injury_notes": null,
-          "injury_status": "Questionable",
-          "is_reserve": false,
-          "is_starter": false,
-          "is_taxi": false,
-          "last_name": "Waller",
-          "normalized_position": "TE",
-          "number": 83,
-          "player_id": "2505",
-          "position": "TE",
-          "search_full_name": "darrenwaller",
-          "status": "Active",
-          "team": null,
-          "value": {
-            "confidence": 35.0,
-            "contender": 21.1,
-            "liquidity": 61.7,
-            "market": 22.5,
-            "player_id": "2505",
-            "rebuild": 4.5,
-            "risk": 64.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 11
         }
       ],
       "WR": [
@@ -22659,8 +22584,7 @@
       "13311",
       "13512",
       "6218",
-      "7651",
-      "8388"
+      "7651"
     ],
     "roster_id": 5,
     "settings": {
@@ -36968,9 +36892,9 @@
         ],
         "first_name": "Drue",
         "full_name": "Drue Tranquill",
-        "injury_body_part": null,
+        "injury_body_part": "Back",
         "injury_notes": null,
-        "injury_status": null,
+        "injury_status": "Questionable",
         "is_reserve": false,
         "is_starter": false,
         "is_taxi": false,
@@ -36984,12 +36908,12 @@
         "team": "KC",
         "value": {
           "confidence": 55.0,
-          "contender": 36.5,
+          "contender": 31.1,
           "liquidity": 48.9,
-          "market": 36.5,
+          "market": 32.5,
           "player_id": "6141",
-          "rebuild": 27.5,
-          "risk": 48.0,
+          "rebuild": 23.5,
+          "risk": 52.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 7
@@ -38500,9 +38424,9 @@
           ],
           "first_name": "Drue",
           "full_name": "Drue Tranquill",
-          "injury_body_part": null,
+          "injury_body_part": "Back",
           "injury_notes": null,
-          "injury_status": null,
+          "injury_status": "Questionable",
           "is_reserve": false,
           "is_starter": false,
           "is_taxi": false,
@@ -38516,12 +38440,12 @@
           "team": "KC",
           "value": {
             "confidence": 55.0,
-            "contender": 36.5,
+            "contender": 31.1,
             "liquidity": 48.9,
-            "market": 36.5,
+            "market": 32.5,
             "player_id": "6141",
-            "rebuild": 27.5,
-            "risk": 48.0,
+            "rebuild": 23.5,
+            "risk": 52.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 7
@@ -45510,9 +45434,9 @@
         ],
         "first_name": "Jadarian",
         "full_name": "Jadarian Price",
-        "injury_body_part": null,
-        "injury_notes": null,
-        "injury_status": null,
+        "injury_body_part": "Lower Body",
+        "injury_notes": "Soreness",
+        "injury_status": "Questionable",
         "is_reserve": false,
         "is_starter": false,
         "is_taxi": false,
@@ -45526,12 +45450,12 @@
         "team": "SEA",
         "value": {
           "confidence": 55.0,
-          "contender": 62.8,
+          "contender": 57.4,
           "liquidity": 88.2,
-          "market": 62.8,
+          "market": 58.8,
           "player_id": "13286",
-          "rebuild": 77.8,
-          "risk": 34.0,
+          "rebuild": 73.8,
+          "risk": 38.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 0
@@ -48078,9 +48002,9 @@
           ],
           "first_name": "Jadarian",
           "full_name": "Jadarian Price",
-          "injury_body_part": null,
-          "injury_notes": null,
-          "injury_status": null,
+          "injury_body_part": "Lower Body",
+          "injury_notes": "Soreness",
+          "injury_status": "Questionable",
           "is_reserve": false,
           "is_starter": false,
           "is_taxi": false,
@@ -48094,12 +48018,12 @@
           "team": "SEA",
           "value": {
             "confidence": 55.0,
-            "contender": 62.8,
+            "contender": 57.4,
             "liquidity": 88.2,
-            "market": 62.8,
+            "market": 58.8,
             "player_id": "13286",
-            "rebuild": 77.8,
-            "risk": 34.0,
+            "rebuild": 73.8,
+            "risk": 38.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 0
