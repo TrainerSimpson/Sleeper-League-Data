@@ -8592,6 +8592,7 @@
       "11687",
       "11560",
       "7016",
+      "7678",
       "13293",
       "8172",
       "9997",
@@ -8619,7 +8620,6 @@
       "6900",
       "7610",
       "7640",
-      "12645",
       "7659",
       "13403",
       "12495",
@@ -9269,6 +9269,44 @@
           "source": "heuristic-v0.2"
         },
         "years_exp": 6
+      },
+      {
+        "active": true,
+        "age": 26,
+        "age_bucket": "prime",
+        "depth_chart_order": 1,
+        "depth_chart_position": "ROLB",
+        "fantasy_positions": [
+          "DL",
+          "LB"
+        ],
+        "first_name": "Joseph",
+        "full_name": "Joseph Ossai",
+        "injury_body_part": "Undisclosed",
+        "injury_notes": null,
+        "injury_status": "PUP",
+        "is_reserve": true,
+        "is_starter": false,
+        "is_taxi": false,
+        "last_name": "Ossai",
+        "normalized_position": "DL",
+        "number": 46,
+        "player_id": "7678",
+        "position": "DE",
+        "search_full_name": "josephossai",
+        "status": "Active",
+        "team": "NYJ",
+        "value": {
+          "confidence": 55.0,
+          "contender": 44.0,
+          "liquidity": 49.0,
+          "market": 47.5,
+          "player_id": "7678",
+          "rebuild": 50.5,
+          "risk": 34.0,
+          "source": "heuristic-v0.2"
+        },
+        "years_exp": 5
       },
       {
         "active": true,
@@ -10272,44 +10310,6 @@
           "source": "heuristic-v0.2"
         },
         "years_exp": 5
-      },
-      {
-        "active": true,
-        "age": 26,
-        "age_bucket": "prime",
-        "depth_chart_order": 3,
-        "depth_chart_position": "LOLB",
-        "fantasy_positions": [
-          "DL",
-          "LB"
-        ],
-        "first_name": "David",
-        "full_name": "David Walker",
-        "injury_body_part": null,
-        "injury_notes": null,
-        "injury_status": null,
-        "is_reserve": false,
-        "is_starter": false,
-        "is_taxi": false,
-        "last_name": "Walker",
-        "normalized_position": "LB",
-        "number": 51,
-        "player_id": "12645",
-        "position": "LB",
-        "search_full_name": "davidwalker",
-        "status": "Active",
-        "team": "TB",
-        "value": {
-          "confidence": 55.0,
-          "contender": 39.5,
-          "liquidity": 53.0,
-          "market": 39.5,
-          "player_id": "12645",
-          "rebuild": 42.5,
-          "risk": 24.0,
-          "source": "heuristic-v0.2"
-        },
-        "years_exp": 1
       },
       {
         "active": true,
@@ -11431,6 +11431,44 @@
         },
         {
           "active": true,
+          "age": 26,
+          "age_bucket": "prime",
+          "depth_chart_order": 1,
+          "depth_chart_position": "ROLB",
+          "fantasy_positions": [
+            "DL",
+            "LB"
+          ],
+          "first_name": "Joseph",
+          "full_name": "Joseph Ossai",
+          "injury_body_part": "Undisclosed",
+          "injury_notes": null,
+          "injury_status": "PUP",
+          "is_reserve": true,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Ossai",
+          "normalized_position": "DL",
+          "number": 46,
+          "player_id": "7678",
+          "position": "DE",
+          "search_full_name": "josephossai",
+          "status": "Active",
+          "team": "NYJ",
+          "value": {
+            "confidence": 55.0,
+            "contender": 44.0,
+            "liquidity": 49.0,
+            "market": 47.5,
+            "player_id": "7678",
+            "rebuild": 50.5,
+            "risk": 34.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 5
+        },
+        {
+          "active": true,
           "age": 29,
           "age_bucket": "veteran",
           "depth_chart_order": 1,
@@ -11766,44 +11804,6 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 3
-        },
-        {
-          "active": true,
-          "age": 26,
-          "age_bucket": "prime",
-          "depth_chart_order": 3,
-          "depth_chart_position": "LOLB",
-          "fantasy_positions": [
-            "DL",
-            "LB"
-          ],
-          "first_name": "David",
-          "full_name": "David Walker",
-          "injury_body_part": null,
-          "injury_notes": null,
-          "injury_status": null,
-          "is_reserve": false,
-          "is_starter": false,
-          "is_taxi": false,
-          "last_name": "Walker",
-          "normalized_position": "LB",
-          "number": 51,
-          "player_id": "12645",
-          "position": "LB",
-          "search_full_name": "davidwalker",
-          "status": "Active",
-          "team": "TB",
-          "value": {
-            "confidence": 55.0,
-            "contender": 39.5,
-            "liquidity": 53.0,
-            "market": 39.5,
-            "player_id": "12645",
-            "rebuild": 42.5,
-            "risk": 24.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 1
         },
         {
           "active": true,
@@ -13338,7 +13338,8 @@
       "10984",
       "4217",
       "6900",
-      "7640"
+      "7640",
+      "7678"
     ],
     "roster_id": 3,
     "settings": {
@@ -13349,7 +13350,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 7,
-      "waiver_position": 11,
+      "waiver_position": 12,
       "wins": 0
     },
     "starter_ids": [
@@ -13467,9 +13468,9 @@
         ],
         "first_name": "DK",
         "full_name": "DK Metcalf",
-        "injury_body_part": null,
+        "injury_body_part": "Undisclosed",
         "injury_notes": null,
-        "injury_status": null,
+        "injury_status": "Questionable",
         "is_reserve": false,
         "is_starter": true,
         "is_taxi": false,
@@ -13483,12 +13484,12 @@
         "team": "PIT",
         "value": {
           "confidence": 70.0,
-          "contender": 81.5,
+          "contender": 76.1,
           "liquidity": 87.0,
-          "market": 73.5,
+          "market": 69.5,
           "player_id": "5846",
-          "rebuild": 70.5,
-          "risk": 36.0,
+          "rebuild": 66.5,
+          "risk": 40.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 7
@@ -17445,9 +17446,9 @@
           ],
           "first_name": "DK",
           "full_name": "DK Metcalf",
-          "injury_body_part": null,
+          "injury_body_part": "Undisclosed",
           "injury_notes": null,
-          "injury_status": null,
+          "injury_status": "Questionable",
           "is_reserve": false,
           "is_starter": true,
           "is_taxi": false,
@@ -17461,12 +17462,12 @@
           "team": "PIT",
           "value": {
             "confidence": 70.0,
-            "contender": 81.5,
+            "contender": 76.1,
             "liquidity": 87.0,
-            "market": 73.5,
+            "market": 69.5,
             "player_id": "5846",
-            "rebuild": 70.5,
-            "risk": 36.0,
+            "rebuild": 66.5,
+            "risk": 40.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 7
@@ -19942,9 +19943,9 @@
         ],
         "first_name": "Jayden",
         "full_name": "Jayden Reed",
-        "injury_body_part": "Ankle",
+        "injury_body_part": null,
         "injury_notes": null,
-        "injury_status": "Questionable",
+        "injury_status": null,
         "is_reserve": false,
         "is_starter": true,
         "is_taxi": false,
@@ -19958,12 +19959,12 @@
         "team": "GB",
         "value": {
           "confidence": 70.0,
-          "contender": 79.1,
+          "contender": 84.5,
           "liquidity": 89.0,
-          "market": 72.5,
+          "market": 76.5,
           "player_id": "10222",
-          "rebuild": 75.5,
-          "risk": 28.0,
+          "rebuild": 79.5,
+          "risk": 24.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 3
@@ -22033,9 +22034,9 @@
           ],
           "first_name": "Jayden",
           "full_name": "Jayden Reed",
-          "injury_body_part": "Ankle",
+          "injury_body_part": null,
           "injury_notes": null,
-          "injury_status": "Questionable",
+          "injury_status": null,
           "is_reserve": false,
           "is_starter": true,
           "is_taxi": false,
@@ -22049,12 +22050,12 @@
           "team": "GB",
           "value": {
             "confidence": 70.0,
-            "contender": 79.1,
+            "contender": 84.5,
             "liquidity": 89.0,
-            "market": 72.5,
+            "market": 76.5,
             "player_id": "10222",
-            "rebuild": 75.5,
-            "risk": 28.0,
+            "rebuild": 79.5,
+            "risk": 24.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 3
@@ -31923,7 +31924,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 2,
-      "waiver_position": 12,
+      "waiver_position": 11,
       "wins": 0
     },
     "starter_ids": [
@@ -39768,9 +39769,9 @@
         ],
         "first_name": "Matthew",
         "full_name": "Matthew Golden",
-        "injury_body_part": "Toe",
+        "injury_body_part": null,
         "injury_notes": null,
-        "injury_status": "Questionable",
+        "injury_status": null,
         "is_reserve": false,
         "is_starter": true,
         "is_taxi": false,
@@ -39784,12 +39785,12 @@
         "team": "GB",
         "value": {
           "confidence": 70.0,
-          "contender": 80.7,
+          "contender": 86.1,
           "liquidity": 92.2,
-          "market": 74.1,
+          "market": 78.1,
           "player_id": "12501",
-          "rebuild": 86.1,
-          "risk": 28.0,
+          "rebuild": 90.1,
+          "risk": 24.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 1
@@ -43865,9 +43866,9 @@
           ],
           "first_name": "Matthew",
           "full_name": "Matthew Golden",
-          "injury_body_part": "Toe",
+          "injury_body_part": null,
           "injury_notes": null,
-          "injury_status": "Questionable",
+          "injury_status": null,
           "is_reserve": false,
           "is_starter": true,
           "is_taxi": false,
@@ -43881,12 +43882,12 @@
           "team": "GB",
           "value": {
             "confidence": 70.0,
-            "contender": 80.7,
+            "contender": 86.1,
             "liquidity": 92.2,
-            "market": 74.1,
+            "market": 78.1,
             "player_id": "12501",
-            "rebuild": 86.1,
-            "risk": 28.0,
+            "rebuild": 90.1,
+            "risk": 24.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 1
