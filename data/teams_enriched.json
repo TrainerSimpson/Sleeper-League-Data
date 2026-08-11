@@ -10538,7 +10538,7 @@
         "age": 30,
         "age_bucket": "veteran",
         "depth_chart_order": 1,
-        "depth_chart_position": "RDE",
+        "depth_chart_position": "ROLB",
         "fantasy_positions": [
           "DL"
         ],
@@ -10612,7 +10612,7 @@
         "age": 25,
         "age_bucket": "prime",
         "depth_chart_order": 1,
-        "depth_chart_position": "RWR",
+        "depth_chart_position": "LWR",
         "fantasy_positions": [
           "WR"
         ],
@@ -11249,7 +11249,7 @@
           "age": 30,
           "age_bucket": "veteran",
           "depth_chart_order": 1,
-          "depth_chart_position": "RDE",
+          "depth_chart_position": "ROLB",
           "fantasy_positions": [
             "DL"
           ],
@@ -12744,7 +12744,7 @@
           "age": 25,
           "age_bucket": "prime",
           "depth_chart_order": 1,
-          "depth_chart_position": "RWR",
+          "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
           ],
@@ -14310,8 +14310,8 @@
       },
       {
         "active": true,
-        "age": 24,
-        "age_bucket": "young",
+        "age": 25,
+        "age_bucket": "prime",
         "depth_chart_order": 2,
         "depth_chart_position": "NB",
         "fantasy_positions": [
@@ -14335,11 +14335,11 @@
         "team": "TB",
         "value": {
           "confidence": 55.0,
-          "contender": 44.8,
-          "liquidity": 41.1,
-          "market": 44.8,
+          "contender": 46.0,
+          "liquidity": 40.1,
+          "market": 46.0,
           "player_id": "13382",
-          "rebuild": 53.8,
+          "rebuild": 52.0,
           "risk": 24.0,
           "source": "heuristic-v0.2"
         },
@@ -15913,43 +15913,6 @@
           "fantasy_positions": [
             "DB"
           ],
-          "first_name": "Keionte",
-          "full_name": "Keionte Scott",
-          "injury_body_part": null,
-          "injury_notes": null,
-          "injury_status": null,
-          "is_reserve": false,
-          "is_starter": false,
-          "is_taxi": true,
-          "last_name": "Scott",
-          "normalized_position": "DB",
-          "number": 22,
-          "player_id": "13382",
-          "position": "DB",
-          "search_full_name": "keiontescott",
-          "status": "Active",
-          "team": "TB",
-          "value": {
-            "confidence": 55.0,
-            "contender": 44.8,
-            "liquidity": 41.1,
-            "market": 44.8,
-            "player_id": "13382",
-            "rebuild": 53.8,
-            "risk": 24.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 0
-        },
-        {
-          "active": true,
-          "age": 24,
-          "age_bucket": "young",
-          "depth_chart_order": 2,
-          "depth_chart_position": "NB",
-          "fantasy_positions": [
-            "DB"
-          ],
           "first_name": "Treydan",
           "full_name": "Treydan Stukes",
           "injury_body_part": null,
@@ -15973,6 +15936,43 @@
             "market": 44.8,
             "player_id": "13398",
             "rebuild": 53.8,
+            "risk": 24.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 0
+        },
+        {
+          "active": true,
+          "age": 25,
+          "age_bucket": "prime",
+          "depth_chart_order": 2,
+          "depth_chart_position": "NB",
+          "fantasy_positions": [
+            "DB"
+          ],
+          "first_name": "Keionte",
+          "full_name": "Keionte Scott",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": true,
+          "last_name": "Scott",
+          "normalized_position": "DB",
+          "number": 22,
+          "player_id": "13382",
+          "position": "DB",
+          "search_full_name": "keiontescott",
+          "status": "Active",
+          "team": "TB",
+          "value": {
+            "confidence": 55.0,
+            "contender": 46.0,
+            "liquidity": 40.1,
+            "market": 46.0,
+            "player_id": "13382",
+            "rebuild": 52.0,
             "risk": 24.0,
             "source": "heuristic-v0.2"
           },
@@ -18859,7 +18859,7 @@
       },
       {
         "active": true,
-        "age": 23,
+        "age": 24,
         "age_bucket": "young",
         "depth_chart_order": 1,
         "depth_chart_position": "LWR",
@@ -18884,11 +18884,11 @@
         "team": "ARI",
         "value": {
           "confidence": 55.0,
-          "contender": 65.6,
-          "liquidity": 92.2,
-          "market": 65.6,
+          "contender": 66.8,
+          "liquidity": 91.2,
+          "market": 66.8,
           "player_id": "11628",
-          "rebuild": 77.6,
+          "rebuild": 75.8,
           "risk": 24.0,
           "source": "heuristic-v0.2"
         },
@@ -18972,7 +18972,7 @@
         "active": true,
         "age": 26,
         "age_bucket": "prime",
-        "depth_chart_order": 2,
+        "depth_chart_order": 1,
         "depth_chart_position": "LDE",
         "fantasy_positions": [
           "DL"
@@ -18995,11 +18995,11 @@
         "team": "LAR",
         "value": {
           "confidence": 55.0,
-          "contender": 53.0,
+          "contender": 56.0,
           "liquidity": 49.0,
-          "market": 53.0,
+          "market": 56.0,
           "player_id": "11677",
-          "rebuild": 56.0,
+          "rebuild": 59.0,
           "risk": 24.0,
           "source": "heuristic-v0.2"
         },
@@ -20646,7 +20646,7 @@
           "active": true,
           "age": 26,
           "age_bucket": "prime",
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "LDE",
           "fantasy_positions": [
             "DL"
@@ -20669,11 +20669,11 @@
           "team": "LAR",
           "value": {
             "confidence": 55.0,
-            "contender": 53.0,
+            "contender": 56.0,
             "liquidity": 49.0,
-            "market": 53.0,
+            "market": 56.0,
             "player_id": "11677",
-            "rebuild": 56.0,
+            "rebuild": 59.0,
             "risk": 24.0,
             "source": "heuristic-v0.2"
           },
@@ -22320,7 +22320,7 @@
         },
         {
           "active": true,
-          "age": 23,
+          "age": 24,
           "age_bucket": "young",
           "depth_chart_order": 1,
           "depth_chart_position": "LWR",
@@ -22345,11 +22345,11 @@
           "team": "ARI",
           "value": {
             "confidence": 55.0,
-            "contender": 65.6,
-            "liquidity": 92.2,
-            "market": 65.6,
+            "contender": 66.8,
+            "liquidity": 91.2,
+            "market": 66.8,
             "player_id": "11628",
-            "rebuild": 77.6,
+            "rebuild": 75.8,
             "risk": 24.0,
             "source": "heuristic-v0.2"
           },
@@ -33398,7 +33398,7 @@
         "age": 33,
         "age_bucket": "veteran",
         "depth_chart_order": 2,
-        "depth_chart_position": "LWR",
+        "depth_chart_position": "RWR",
         "fantasy_positions": [
           "WR"
         ],
@@ -35525,7 +35525,7 @@
           "age": 33,
           "age_bucket": "veteran",
           "depth_chart_order": 2,
-          "depth_chart_position": "LWR",
+          "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
@@ -35814,7 +35814,7 @@
         "age": 27,
         "age_bucket": "prime",
         "depth_chart_order": 1,
-        "depth_chart_position": "LDE",
+        "depth_chart_position": "RDE",
         "fantasy_positions": [
           "DL"
         ],
@@ -35999,7 +35999,7 @@
         "active": true,
         "age": 22,
         "age_bucket": "young",
-        "depth_chart_order": 6,
+        "depth_chart_order": 5,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
@@ -37897,7 +37897,7 @@
           "age": 27,
           "age_bucket": "prime",
           "depth_chart_order": 1,
-          "depth_chart_position": "LDE",
+          "depth_chart_position": "RDE",
           "fantasy_positions": [
             "DL"
           ],
@@ -39316,7 +39316,7 @@
           "active": true,
           "age": 22,
           "age_bucket": "young",
-          "depth_chart_order": 6,
+          "depth_chart_order": 5,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -40058,7 +40058,7 @@
         "age": 26,
         "age_bucket": "prime",
         "depth_chart_order": 3,
-        "depth_chart_position": "SWR",
+        "depth_chart_position": "LWR",
         "fantasy_positions": [
           "WR"
         ],
@@ -44229,7 +44229,7 @@
           "age": 26,
           "age_bucket": "prime",
           "depth_chart_order": 3,
-          "depth_chart_position": "SWR",
+          "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
           ],
