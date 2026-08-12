@@ -1668,9 +1668,9 @@
         ],
         "first_name": "Emeka",
         "full_name": "Emeka Egbuka",
-        "injury_body_part": null,
+        "injury_body_part": "Undisclosed",
         "injury_notes": null,
-        "injury_status": null,
+        "injury_status": "Questionable",
         "is_reserve": false,
         "is_starter": true,
         "is_taxi": false,
@@ -1684,12 +1684,12 @@
         "team": "TB",
         "value": {
           "confidence": 70.0,
-          "contender": 92.1,
+          "contender": 86.7,
           "liquidity": 92.2,
-          "market": 84.1,
+          "market": 80.1,
           "player_id": "12514",
-          "rebuild": 96.1,
-          "risk": 24.0,
+          "rebuild": 92.1,
+          "risk": 28.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 1
@@ -4022,9 +4022,9 @@
           ],
           "first_name": "Emeka",
           "full_name": "Emeka Egbuka",
-          "injury_body_part": null,
+          "injury_body_part": "Undisclosed",
           "injury_notes": null,
-          "injury_status": null,
+          "injury_status": "Questionable",
           "is_reserve": false,
           "is_starter": true,
           "is_taxi": false,
@@ -4038,12 +4038,12 @@
           "team": "TB",
           "value": {
             "confidence": 70.0,
-            "contender": 92.1,
+            "contender": 86.7,
             "liquidity": 92.2,
-            "market": 84.1,
+            "market": 80.1,
             "player_id": "12514",
-            "rebuild": 96.1,
-            "risk": 24.0,
+            "rebuild": 92.1,
+            "risk": 28.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 1
@@ -4393,7 +4393,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 4,
-      "waiver_position": 10,
+      "waiver_position": 9,
       "wins": 0
     },
     "starter_ids": [
@@ -6227,7 +6227,7 @@
         "position": "RB",
         "search_full_name": "elijahmitchell",
         "status": "Inactive",
-        "team": "PHI",
+        "team": null,
         "value": {
           "confidence": 35.0,
           "contender": 6.9,
@@ -8131,7 +8131,7 @@
           "position": "RB",
           "search_full_name": "elijahmitchell",
           "status": "Inactive",
-          "team": "PHI",
+          "team": null,
           "value": {
             "confidence": 35.0,
             "contender": 6.9,
@@ -13349,7 +13349,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 7,
-      "waiver_position": 12,
+      "waiver_position": 11,
       "wins": 0
     },
     "starter_ids": [
@@ -22587,6 +22587,8 @@
       "11646",
       "13572",
       "12469",
+      "13150",
+      "13533",
       "13281",
       "12140",
       "13410",
@@ -23295,6 +23297,80 @@
           "source": "heuristic-v0.2"
         },
         "years_exp": 1
+      },
+      {
+        "active": true,
+        "age": 24,
+        "age_bucket": "young",
+        "depth_chart_order": 5,
+        "depth_chart_position": "RWR",
+        "fantasy_positions": [
+          "WR"
+        ],
+        "first_name": "Darius",
+        "full_name": "Darius Cooper",
+        "injury_body_part": null,
+        "injury_notes": null,
+        "injury_status": null,
+        "is_reserve": false,
+        "is_starter": false,
+        "is_taxi": false,
+        "last_name": "Cooper",
+        "normalized_position": "WR",
+        "number": 80,
+        "player_id": "13150",
+        "position": "WR",
+        "search_full_name": "dariuscooper",
+        "status": "Active",
+        "team": "PHI",
+        "value": {
+          "confidence": 55.0,
+          "contender": 53.3,
+          "liquidity": 91.2,
+          "market": 53.3,
+          "player_id": "13150",
+          "rebuild": 62.3,
+          "risk": 24.0,
+          "source": "heuristic-v0.2"
+        },
+        "years_exp": 1
+      },
+      {
+        "active": true,
+        "age": 22,
+        "age_bucket": "young",
+        "depth_chart_order": 7,
+        "depth_chart_position": "SWR",
+        "fantasy_positions": [
+          "WR"
+        ],
+        "first_name": "Barion",
+        "full_name": "Barion Brown",
+        "injury_body_part": null,
+        "injury_notes": null,
+        "injury_status": null,
+        "is_reserve": false,
+        "is_starter": false,
+        "is_taxi": false,
+        "last_name": "Brown",
+        "normalized_position": "WR",
+        "number": 19,
+        "player_id": "13533",
+        "position": "WR",
+        "search_full_name": "barionbrown",
+        "status": "Active",
+        "team": "NO",
+        "value": {
+          "confidence": 55.0,
+          "contender": 49.4,
+          "liquidity": 93.2,
+          "market": 49.4,
+          "player_id": "13533",
+          "rebuild": 64.4,
+          "risk": 24.0,
+          "source": "heuristic-v0.2"
+        },
+        "years_exp": 0
       },
       {
         "active": true,
@@ -26611,6 +26687,43 @@
           "active": true,
           "age": 22,
           "age_bucket": "young",
+          "depth_chart_order": 7,
+          "depth_chart_position": "SWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "first_name": "Barion",
+          "full_name": "Barion Brown",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Brown",
+          "normalized_position": "WR",
+          "number": 19,
+          "player_id": "13533",
+          "position": "WR",
+          "search_full_name": "barionbrown",
+          "status": "Active",
+          "team": "NO",
+          "value": {
+            "confidence": 55.0,
+            "contender": 49.4,
+            "liquidity": 93.2,
+            "market": 49.4,
+            "player_id": "13533",
+            "rebuild": 64.4,
+            "risk": 24.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 0
+        },
+        {
+          "active": true,
+          "age": 22,
+          "age_bucket": "young",
           "depth_chart_order": 4,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
@@ -26754,6 +26867,43 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 0
+        },
+        {
+          "active": true,
+          "age": 24,
+          "age_bucket": "young",
+          "depth_chart_order": 5,
+          "depth_chart_position": "RWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "first_name": "Darius",
+          "full_name": "Darius Cooper",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Cooper",
+          "normalized_position": "WR",
+          "number": 80,
+          "player_id": "13150",
+          "position": "WR",
+          "search_full_name": "dariuscooper",
+          "status": "Active",
+          "team": "PHI",
+          "value": {
+            "confidence": 55.0,
+            "contender": 53.3,
+            "liquidity": 91.2,
+            "market": 53.3,
+            "player_id": "13150",
+            "rebuild": 62.3,
+            "risk": 24.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 1
         },
         {
           "active": true,
@@ -26954,8 +27104,8 @@
       "losses": 0,
       "ties": 0,
       "total_moves": 0,
-      "waiver_budget_used": 3,
-      "waiver_position": 8,
+      "waiver_budget_used": 5,
+      "waiver_position": 12,
       "wins": 0
     },
     "starter_ids": [
@@ -31923,7 +32073,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 2,
-      "waiver_position": 11,
+      "waiver_position": 10,
       "wins": 0
     },
     "starter_ids": [
@@ -48826,7 +48976,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 5,
-      "waiver_position": 9,
+      "waiver_position": 8,
       "wins": 0
     },
     "starter_ids": [
