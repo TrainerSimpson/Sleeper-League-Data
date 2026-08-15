@@ -17051,7 +17051,7 @@
       "type": "snake"
     }
   ],
-  "generated_at": "2026-08-15T14:58:41.483045+00:00",
+  "generated_at": "2026-08-15T15:54:12.900724+00:00",
   "league": {
     "avatar": "7c15319eacc56bfdeb741f4b006ca693",
     "bracket_id": null,
@@ -18313,7 +18313,7 @@
           "12517",
           "13346",
           "8132",
-          "12524",
+          "12509",
           "8289",
           "13340",
           "13341",
@@ -22101,7 +22101,7 @@
         "12602"
       ],
       "reserve": [
-        "12640",
+        "12602",
         "13353"
       ],
       "roster_id": 6,
@@ -22128,7 +22128,7 @@
         "12517",
         "13346",
         "8132",
-        "12524",
+        "12509",
         "8289",
         "13340",
         "13341",
@@ -23170,8 +23170,8 @@
       },
       "lineups": {
         "future": {
-          "average": 84.2,
-          "bench_value": 1962.2,
+          "average": 84.0,
+          "bench_value": 1966.4,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
@@ -23289,17 +23289,17 @@
               "slot": "DB"
             },
             {
-              "full_name": "Shedeur Sanders",
-              "player_id": "12524",
-              "position": "QB",
-              "score": 92.5,
-              "slot": "SUPER_FLEX"
-            },
-            {
               "full_name": "Jordyn Tyson",
               "player_id": "13281",
               "position": "WR",
               "score": 89.4,
+              "slot": "SUPER_FLEX"
+            },
+            {
+              "full_name": "Tre' Harris",
+              "player_id": "12509",
+              "position": "WR",
+              "score": 88.3,
               "slot": "FLEX"
             },
             {
@@ -23345,11 +23345,11 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 2020.4
+          "total": 2016.2
         },
         "win_now": {
-          "average": 81.2,
-          "bench_value": 1687.2,
+          "average": 81.0,
+          "bench_value": 1691.4,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -23397,10 +23397,10 @@
               "slot": "WR"
             },
             {
-              "full_name": "Denzel Boston",
-              "player_id": "13346",
+              "full_name": "Tre' Harris",
+              "player_id": "12509",
               "position": "WR",
-              "score": 83.4,
+              "score": 87.3,
               "slot": "WR"
             },
             {
@@ -23467,10 +23467,10 @@
               "slot": "DB"
             },
             {
-              "full_name": "Shedeur Sanders",
-              "player_id": "12524",
-              "position": "QB",
-              "score": 91.5,
+              "full_name": "Denzel Boston",
+              "player_id": "13346",
+              "position": "WR",
+              "score": 83.4,
               "slot": "SUPER_FLEX"
             },
             {
@@ -23523,7 +23523,7 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1948.5
+          "total": 1944.3
         }
       },
       "positions": {
@@ -23546,10 +23546,10 @@
           "rebuild_top": 318.5
         },
         "QB": {
-          "contender_top": 328.6,
+          "contender_top": 303.6,
           "count": 7,
-          "market": 495.8,
-          "rebuild_top": 334.5
+          "market": 475.8,
+          "rebuild_top": 314.5
         },
         "RB": {
           "contender_top": 312.9,
@@ -23564,20 +23564,20 @@
           "rebuild_top": 309.3
         },
         "WR": {
-          "contender_top": 355.8,
+          "contender_top": 360.0,
           "count": 16,
-          "market": 917.5,
+          "market": 937.5,
           "rebuild_top": 368.1
         }
       },
       "power_rank": 1,
       "roster_id": 6,
       "scores": {
-        "future": 84.2,
-        "liquidity": 71.4,
+        "future": 84.0,
+        "liquidity": 71.5,
         "market_total": 3466.1,
         "risk": 27.5,
-        "win_now": 81.2
+        "win_now": 81.0
       },
       "team_name": "The Dawg Side",
       "window": "contender"
@@ -54205,7 +54205,7 @@
           "injury_notes": null,
           "injury_status": null,
           "is_reserve": false,
-          "is_starter": false,
+          "is_starter": true,
           "is_taxi": false,
           "last_name": "Harris",
           "normalized_position": "WR",
@@ -54216,12 +54216,12 @@
           "status": "Active",
           "team": "LAC",
           "value": {
-            "confidence": 55.0,
-            "contender": 59.3,
+            "confidence": 70.0,
+            "contender": 87.3,
             "liquidity": 91.2,
-            "market": 59.3,
+            "market": 79.3,
             "player_id": "12509",
-            "rebuild": 68.3,
+            "rebuild": 88.3,
             "risk": 24.0,
             "source": "heuristic-v0.2"
           },
@@ -54316,7 +54316,7 @@
           "injury_notes": null,
           "injury_status": null,
           "is_reserve": false,
-          "is_starter": true,
+          "is_starter": false,
           "is_taxi": false,
           "last_name": "Sanders",
           "normalized_position": "QB",
@@ -54327,12 +54327,12 @@
           "status": "Active",
           "team": "CLE",
           "value": {
-            "confidence": 70.0,
-            "contender": 91.5,
+            "confidence": 55.0,
+            "contender": 63.5,
             "liquidity": 81.2,
-            "market": 83.5,
+            "market": 63.5,
             "player_id": "12524",
-            "rebuild": 92.5,
+            "rebuild": 72.5,
             "risk": 24.0,
             "source": "heuristic-v0.2"
           },
@@ -54685,7 +54685,7 @@
           "injury_body_part": "Knee - ACL",
           "injury_notes": "Surgery",
           "injury_status": "Questionable",
-          "is_reserve": true,
+          "is_reserve": false,
           "is_starter": false,
           "is_taxi": false,
           "last_name": "Buchanan",
@@ -54722,7 +54722,7 @@
           "injury_body_part": "Knee - ACL",
           "injury_notes": "Surgery",
           "injury_status": "PUP",
-          "is_reserve": false,
+          "is_reserve": true,
           "is_starter": false,
           "is_taxi": false,
           "last_name": "Williams",
@@ -55209,7 +55209,7 @@
             "injury_body_part": "Knee - ACL",
             "injury_notes": "Surgery",
             "injury_status": "PUP",
-            "is_reserve": false,
+            "is_reserve": true,
             "is_starter": false,
             "is_taxi": false,
             "last_name": "Williams",
@@ -55581,7 +55581,7 @@
             "injury_body_part": "Knee - ACL",
             "injury_notes": "Surgery",
             "injury_status": "Questionable",
-            "is_reserve": true,
+            "is_reserve": false,
             "is_starter": false,
             "is_taxi": false,
             "last_name": "Buchanan",
@@ -55719,43 +55719,6 @@
         "QB": [
           {
             "active": true,
-            "age": 24,
-            "age_bucket": "young",
-            "depth_chart_order": 2,
-            "depth_chart_position": "QB",
-            "fantasy_positions": [
-              "QB"
-            ],
-            "first_name": "Shedeur",
-            "full_name": "Shedeur Sanders",
-            "injury_body_part": null,
-            "injury_notes": null,
-            "injury_status": null,
-            "is_reserve": false,
-            "is_starter": true,
-            "is_taxi": false,
-            "last_name": "Sanders",
-            "normalized_position": "QB",
-            "number": 2,
-            "player_id": "12524",
-            "position": "QB",
-            "search_full_name": "shedeursanders",
-            "status": "Active",
-            "team": "CLE",
-            "value": {
-              "confidence": 70.0,
-              "contender": 91.5,
-              "liquidity": 81.2,
-              "market": 83.5,
-              "player_id": "12524",
-              "rebuild": 92.5,
-              "risk": 24.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 1
-          },
-          {
-            "active": true,
             "age": 25,
             "age_bucket": "prime",
             "depth_chart_order": 1,
@@ -55864,6 +55827,43 @@
               "source": "heuristic-v0.2"
             },
             "years_exp": 3
+          },
+          {
+            "active": true,
+            "age": 24,
+            "age_bucket": "young",
+            "depth_chart_order": 2,
+            "depth_chart_position": "QB",
+            "fantasy_positions": [
+              "QB"
+            ],
+            "first_name": "Shedeur",
+            "full_name": "Shedeur Sanders",
+            "injury_body_part": null,
+            "injury_notes": null,
+            "injury_status": null,
+            "is_reserve": false,
+            "is_starter": false,
+            "is_taxi": false,
+            "last_name": "Sanders",
+            "normalized_position": "QB",
+            "number": 2,
+            "player_id": "12524",
+            "position": "QB",
+            "search_full_name": "shedeursanders",
+            "status": "Active",
+            "team": "CLE",
+            "value": {
+              "confidence": 55.0,
+              "contender": 63.5,
+              "liquidity": 81.2,
+              "market": 63.5,
+              "player_id": "12524",
+              "rebuild": 72.5,
+              "risk": 24.0,
+              "source": "heuristic-v0.2"
+            },
+            "years_exp": 1
           },
           {
             "active": true,
@@ -56540,6 +56540,43 @@
           },
           {
             "active": true,
+            "age": 24,
+            "age_bucket": "young",
+            "depth_chart_order": 3,
+            "depth_chart_position": "RWR",
+            "fantasy_positions": [
+              "WR"
+            ],
+            "first_name": "Tre'",
+            "full_name": "Tre' Harris",
+            "injury_body_part": null,
+            "injury_notes": null,
+            "injury_status": null,
+            "is_reserve": false,
+            "is_starter": true,
+            "is_taxi": false,
+            "last_name": "Harris",
+            "normalized_position": "WR",
+            "number": 9,
+            "player_id": "12509",
+            "position": "WR",
+            "search_full_name": "treharris",
+            "status": "Active",
+            "team": "LAC",
+            "value": {
+              "confidence": 70.0,
+              "contender": 87.3,
+              "liquidity": 91.2,
+              "market": 79.3,
+              "player_id": "12509",
+              "rebuild": 88.3,
+              "risk": 24.0,
+              "source": "heuristic-v0.2"
+            },
+            "years_exp": 1
+          },
+          {
+            "active": true,
             "age": 25,
             "age_bucket": "prime",
             "depth_chart_order": 1,
@@ -56799,43 +56836,6 @@
           },
           {
             "active": true,
-            "age": 24,
-            "age_bucket": "young",
-            "depth_chart_order": 3,
-            "depth_chart_position": "RWR",
-            "fantasy_positions": [
-              "WR"
-            ],
-            "first_name": "Tre'",
-            "full_name": "Tre' Harris",
-            "injury_body_part": null,
-            "injury_notes": null,
-            "injury_status": null,
-            "is_reserve": false,
-            "is_starter": false,
-            "is_taxi": false,
-            "last_name": "Harris",
-            "normalized_position": "WR",
-            "number": 9,
-            "player_id": "12509",
-            "position": "WR",
-            "search_full_name": "treharris",
-            "status": "Active",
-            "team": "LAC",
-            "value": {
-              "confidence": 55.0,
-              "contender": 59.3,
-              "liquidity": 91.2,
-              "market": 59.3,
-              "player_id": "12509",
-              "rebuild": 68.3,
-              "risk": 24.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 1
-          },
-          {
-            "active": true,
             "age": 25,
             "age_bucket": "prime",
             "depth_chart_order": 6,
@@ -56985,7 +56985,7 @@
         ]
       },
       "reserve_ids": [
-        "12640",
+        "12602",
         "13353"
       ],
       "roster_id": 6,
@@ -57012,7 +57012,7 @@
         "12517",
         "13346",
         "8132",
-        "12524",
+        "12509",
         "8289",
         "13340",
         "13341",
