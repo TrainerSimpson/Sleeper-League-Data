@@ -17051,7 +17051,7 @@
       "type": "snake"
     }
   ],
-  "generated_at": "2026-08-15T17:00:34.371884+00:00",
+  "generated_at": "2026-08-15T17:54:55.766688+00:00",
   "league": {
     "avatar": "7c15319eacc56bfdeb741f4b006ca693",
     "bracket_id": null,
@@ -28302,7 +28302,7 @@
       "lineups": {
         "future": {
           "average": 73.4,
-          "bench_value": 2108.1,
+          "bench_value": 2104.1,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
@@ -28479,7 +28479,7 @@
           "total": 1762.3
         },
         "win_now": {
-          "average": 75.7,
+          "average": 75.5,
           "bench_value": 1929.3,
           "filled": 24,
           "metric": "contender",
@@ -28605,13 +28605,6 @@
               "slot": "SUPER_FLEX"
             },
             {
-              "full_name": "DJ Moore",
-              "player_id": "4983",
-              "position": "WR",
-              "score": 78.5,
-              "slot": "FLEX"
-            },
-            {
               "full_name": "Blake Corum",
               "player_id": "11586",
               "position": "RB",
@@ -28623,6 +28616,13 @@
               "player_id": "8138",
               "position": "RB",
               "score": 74.5,
+              "slot": "FLEX"
+            },
+            {
+              "full_name": "DJ Moore",
+              "player_id": "4983",
+              "position": "WR",
+              "score": 73.1,
               "slot": "FLEX"
             },
             {
@@ -28654,7 +28654,7 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1816.7
+          "total": 1811.3
         }
       },
       "positions": {
@@ -28695,9 +28695,9 @@
           "rebuild_top": 258.8
         },
         "WR": {
-          "contender_top": 336.0,
+          "contender_top": 330.6,
           "count": 15,
-          "market": 911.3,
+          "market": 907.3,
           "rebuild_top": 317.1
         }
       },
@@ -28706,9 +28706,9 @@
       "scores": {
         "future": 73.4,
         "liquidity": 71.2,
-        "market_total": 3590.4,
+        "market_total": 3586.4,
         "risk": 31.5,
-        "win_now": 75.7
+        "win_now": 75.5
       },
       "team_name": "Ostalb Highlanders",
       "window": "contender"
@@ -28876,7 +28876,7 @@
       "lineups": {
         "future": {
           "average": 73.5,
-          "bench_value": 1015.4,
+          "bench_value": 1011.4,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
@@ -29054,7 +29054,7 @@
         },
         "win_now": {
           "average": 74.2,
-          "bench_value": 1118.7,
+          "bench_value": 1113.3,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -29235,7 +29235,7 @@
         "DB": {
           "contender_top": 279.1,
           "count": 6,
-          "market": 319.5,
+          "market": 315.5,
           "rebuild_top": 296.5
         },
         "DL": {
@@ -29280,7 +29280,7 @@
       "scores": {
         "future": 73.5,
         "liquidity": 67.9,
-        "market_total": 2717.0,
+        "market_total": 2713.0,
         "risk": 33.2,
         "win_now": 74.2
       },
@@ -58531,9 +58531,9 @@
           ],
           "first_name": "DJ",
           "full_name": "DJ Moore",
-          "injury_body_part": null,
+          "injury_body_part": "Lower Body",
           "injury_notes": null,
-          "injury_status": null,
+          "injury_status": "Questionable",
           "is_reserve": false,
           "is_starter": true,
           "is_taxi": false,
@@ -58547,12 +58547,12 @@
           "team": "BUF",
           "value": {
             "confidence": 70.0,
-            "contender": 78.5,
+            "contender": 73.1,
             "liquidity": 85.9,
-            "market": 70.5,
+            "market": 66.5,
             "player_id": "4983",
-            "rebuild": 64.5,
-            "risk": 42.0,
+            "rebuild": 60.5,
+            "risk": 46.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 8
@@ -61512,9 +61512,9 @@
             ],
             "first_name": "DJ",
             "full_name": "DJ Moore",
-            "injury_body_part": null,
+            "injury_body_part": "Lower Body",
             "injury_notes": null,
-            "injury_status": null,
+            "injury_status": "Questionable",
             "is_reserve": false,
             "is_starter": true,
             "is_taxi": false,
@@ -61528,12 +61528,12 @@
             "team": "BUF",
             "value": {
               "confidence": 70.0,
-              "contender": 78.5,
+              "contender": 73.1,
               "liquidity": 85.9,
-              "market": 70.5,
+              "market": 66.5,
               "player_id": "4983",
-              "rebuild": 64.5,
-              "risk": 42.0,
+              "rebuild": 60.5,
+              "risk": 46.0,
               "source": "heuristic-v0.2"
             },
             "years_exp": 8
@@ -62407,9 +62407,9 @@
           ],
           "first_name": "Paulson",
           "full_name": "Paulson Adebo",
-          "injury_body_part": null,
+          "injury_body_part": "Hamstring",
           "injury_notes": null,
-          "injury_status": null,
+          "injury_status": "Questionable",
           "is_reserve": false,
           "is_starter": false,
           "is_taxi": false,
@@ -62423,12 +62423,12 @@
           "team": "NYG",
           "value": {
             "confidence": 55.0,
-            "contender": 40.5,
+            "contender": 35.1,
             "liquidity": 38.0,
-            "market": 40.5,
+            "market": 36.5,
             "player_id": "7669",
-            "rebuild": 40.5,
-            "risk": 30.0,
+            "rebuild": 36.5,
+            "risk": 34.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 5
@@ -64004,9 +64004,9 @@
             ],
             "first_name": "Paulson",
             "full_name": "Paulson Adebo",
-            "injury_body_part": null,
+            "injury_body_part": "Hamstring",
             "injury_notes": null,
-            "injury_status": null,
+            "injury_status": "Questionable",
             "is_reserve": false,
             "is_starter": false,
             "is_taxi": false,
@@ -64020,12 +64020,12 @@
             "team": "NYG",
             "value": {
               "confidence": 55.0,
-              "contender": 40.5,
+              "contender": 35.1,
               "liquidity": 38.0,
-              "market": 40.5,
+              "market": 36.5,
               "player_id": "7669",
-              "rebuild": 40.5,
-              "risk": 30.0,
+              "rebuild": 36.5,
+              "risk": 34.0,
               "source": "heuristic-v0.2"
             },
             "years_exp": 5
