@@ -23721,7 +23721,7 @@
         "injury_notes": null,
         "injury_status": null,
         "is_reserve": false,
-        "is_starter": false,
+        "is_starter": true,
         "is_taxi": false,
         "last_name": "Nixon",
         "normalized_position": "DB",
@@ -23732,12 +23732,12 @@
         "status": "Active",
         "team": "GB",
         "value": {
-          "confidence": 55.0,
-          "contender": 34.5,
+          "confidence": 70.0,
+          "contender": 62.5,
           "liquidity": 35.9,
-          "market": 34.5,
+          "market": 54.5,
           "player_id": "6333",
-          "rebuild": 28.5,
+          "rebuild": 48.5,
           "risk": 42.0,
           "source": "heuristic-v0.2"
         },
@@ -24128,7 +24128,7 @@
         "injury_notes": null,
         "injury_status": null,
         "is_reserve": false,
-        "is_starter": true,
+        "is_starter": false,
         "is_taxi": false,
         "last_name": "Allgeier",
         "normalized_position": "RB",
@@ -24139,12 +24139,12 @@
         "status": "Active",
         "team": "ARI",
         "value": {
-          "confidence": 70.0,
-          "contender": 71.5,
+          "confidence": 55.0,
+          "contender": 43.5,
           "liquidity": 84.0,
-          "market": 63.5,
+          "market": 43.5,
           "player_id": "8132",
-          "rebuild": 61.5,
+          "rebuild": 41.5,
           "risk": 46.0,
           "source": "heuristic-v0.2"
         },
@@ -25006,6 +25006,43 @@
         },
         {
           "active": true,
+          "age": 29,
+          "age_bucket": "veteran",
+          "depth_chart_order": 1,
+          "depth_chart_position": "LCB",
+          "fantasy_positions": [
+            "DB"
+          ],
+          "first_name": "Keisean",
+          "full_name": "Keisean Nixon",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": true,
+          "is_taxi": false,
+          "last_name": "Nixon",
+          "normalized_position": "DB",
+          "number": 25,
+          "player_id": "6333",
+          "position": "CB",
+          "search_full_name": "keiseannixon",
+          "status": "Active",
+          "team": "GB",
+          "value": {
+            "confidence": 70.0,
+            "contender": 62.5,
+            "liquidity": 35.9,
+            "market": 54.5,
+            "player_id": "6333",
+            "rebuild": 48.5,
+            "risk": 42.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 7
+        },
+        {
+          "active": true,
           "age": 21,
           "age_bucket": "young",
           "depth_chart_order": 1,
@@ -25077,43 +25114,6 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 0
-        },
-        {
-          "active": true,
-          "age": 29,
-          "age_bucket": "veteran",
-          "depth_chart_order": 1,
-          "depth_chart_position": "LCB",
-          "fantasy_positions": [
-            "DB"
-          ],
-          "first_name": "Keisean",
-          "full_name": "Keisean Nixon",
-          "injury_body_part": null,
-          "injury_notes": null,
-          "injury_status": null,
-          "is_reserve": false,
-          "is_starter": false,
-          "is_taxi": false,
-          "last_name": "Nixon",
-          "normalized_position": "DB",
-          "number": 25,
-          "player_id": "6333",
-          "position": "CB",
-          "search_full_name": "keiseannixon",
-          "status": "Active",
-          "team": "GB",
-          "value": {
-            "confidence": 55.0,
-            "contender": 34.5,
-            "liquidity": 35.9,
-            "market": 34.5,
-            "player_id": "6333",
-            "rebuild": 28.5,
-            "risk": 42.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 7
         }
       ],
       "DL": [
@@ -26162,43 +26162,6 @@
         },
         {
           "active": true,
-          "age": 26,
-          "age_bucket": "prime",
-          "depth_chart_order": 2,
-          "depth_chart_position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "first_name": "Tyler",
-          "full_name": "Tyler Allgeier",
-          "injury_body_part": null,
-          "injury_notes": null,
-          "injury_status": null,
-          "is_reserve": false,
-          "is_starter": true,
-          "is_taxi": false,
-          "last_name": "Allgeier",
-          "normalized_position": "RB",
-          "number": 22,
-          "player_id": "8132",
-          "position": "RB",
-          "search_full_name": "tylerallgeier",
-          "status": "Active",
-          "team": "ARI",
-          "value": {
-            "confidence": 70.0,
-            "contender": 71.5,
-            "liquidity": 84.0,
-            "market": 63.5,
-            "player_id": "8132",
-            "rebuild": 61.5,
-            "risk": 46.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 4
-        },
-        {
-          "active": true,
           "age": 23,
           "age_bucket": "young",
           "depth_chart_order": 2,
@@ -26307,6 +26270,43 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 0
+        },
+        {
+          "active": true,
+          "age": 26,
+          "age_bucket": "prime",
+          "depth_chart_order": 2,
+          "depth_chart_position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "first_name": "Tyler",
+          "full_name": "Tyler Allgeier",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Allgeier",
+          "normalized_position": "RB",
+          "number": 22,
+          "player_id": "8132",
+          "position": "RB",
+          "search_full_name": "tylerallgeier",
+          "status": "Active",
+          "team": "ARI",
+          "value": {
+            "confidence": 55.0,
+            "contender": 43.5,
+            "liquidity": 84.0,
+            "market": 43.5,
+            "player_id": "8132",
+            "rebuild": 41.5,
+            "risk": 46.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 4
         },
         {
           "active": true,
@@ -27119,7 +27119,7 @@
       "8111",
       "12517",
       "13346",
-      "8132",
+      "12530",
       "12509",
       "8289",
       "13340",
@@ -27131,7 +27131,7 @@
       "13371",
       "8333",
       "8838",
-      "12530",
+      "6333",
       "11760"
     ],
     "taxi_ids": [

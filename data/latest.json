@@ -17051,7 +17051,7 @@
       "type": "snake"
     }
   ],
-  "generated_at": "2026-08-16T21:53:14.504443+00:00",
+  "generated_at": "2026-08-16T22:55:49.473996+00:00",
   "league": {
     "avatar": "7c15319eacc56bfdeb741f4b006ca693",
     "bracket_id": null,
@@ -18312,7 +18312,7 @@
           "8111",
           "12517",
           "13346",
-          "8132",
+          "12530",
           "12509",
           "8289",
           "13340",
@@ -18324,7 +18324,7 @@
           "13371",
           "8333",
           "8838",
-          "12530",
+          "6333",
           "11760"
         ],
         "starters_points": [
@@ -20456,7 +20456,7 @@
           "8111",
           "12517",
           "13346",
-          "8132",
+          "12530",
           "12509",
           "8289",
           "13340",
@@ -20468,7 +20468,7 @@
           "13371",
           "8333",
           "8838",
-          "12530",
+          "6333",
           "11760"
         ],
         "starters_points": [
@@ -24271,7 +24271,7 @@
         "8111",
         "12517",
         "13346",
-        "8132",
+        "12530",
         "12509",
         "8289",
         "13340",
@@ -24283,7 +24283,7 @@
         "13371",
         "8333",
         "8838",
-        "12530",
+        "6333",
         "11760"
       ],
       "taxi": [
@@ -25500,8 +25500,8 @@
           "total": 2020.2
         },
         "win_now": {
-          "average": 81.2,
-          "bench_value": 1683.0,
+          "average": 81.5,
+          "bench_value": 1677.5,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -25668,21 +25668,21 @@
               "slot": "IDP_FLEX"
             },
             {
-              "full_name": "Omar Speights",
-              "player_id": "12140",
-              "position": "LB",
-              "score": 57.0,
+              "full_name": "Keisean Nixon",
+              "player_id": "6333",
+              "position": "DB",
+              "score": 62.5,
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1949.7
+          "total": 1955.2
         }
       },
       "positions": {
         "DB": {
           "contender_top": 282.6,
           "count": 7,
-          "market": 370.5,
+          "market": 390.5,
           "rebuild_top": 285.3
         },
         "DL": {
@@ -25704,10 +25704,10 @@
           "rebuild_top": 313.0
         },
         "RB": {
-          "contender_top": 312.9,
+          "contender_top": 287.4,
           "count": 7,
-          "market": 404.4,
-          "rebuild_top": 331.9
+          "market": 384.4,
+          "rebuild_top": 325.4
         },
         "TE": {
           "contender_top": 306.3,
@@ -25726,10 +25726,10 @@
       "roster_id": 6,
       "scores": {
         "future": 84.2,
-        "liquidity": 71.5,
+        "liquidity": 71.2,
         "market_total": 3463.1,
         "risk": 27.5,
-        "win_now": 81.2
+        "win_now": 81.5
       },
       "team_name": "The Dawg Side",
       "window": "contender"
@@ -55765,7 +55765,7 @@
           "injury_notes": null,
           "injury_status": null,
           "is_reserve": false,
-          "is_starter": false,
+          "is_starter": true,
           "is_taxi": false,
           "last_name": "Nixon",
           "normalized_position": "DB",
@@ -55776,12 +55776,12 @@
           "status": "Active",
           "team": "GB",
           "value": {
-            "confidence": 55.0,
-            "contender": 34.5,
+            "confidence": 70.0,
+            "contender": 62.5,
             "liquidity": 35.9,
-            "market": 34.5,
+            "market": 54.5,
             "player_id": "6333",
-            "rebuild": 28.5,
+            "rebuild": 48.5,
             "risk": 42.0,
             "source": "heuristic-v0.2"
           },
@@ -56172,7 +56172,7 @@
           "injury_notes": null,
           "injury_status": null,
           "is_reserve": false,
-          "is_starter": true,
+          "is_starter": false,
           "is_taxi": false,
           "last_name": "Allgeier",
           "normalized_position": "RB",
@@ -56183,12 +56183,12 @@
           "status": "Active",
           "team": "ARI",
           "value": {
-            "confidence": 70.0,
-            "contender": 71.5,
+            "confidence": 55.0,
+            "contender": 43.5,
             "liquidity": 84.0,
-            "market": 63.5,
+            "market": 43.5,
             "player_id": "8132",
-            "rebuild": 61.5,
+            "rebuild": 41.5,
             "risk": 46.0,
             "source": "heuristic-v0.2"
           },
@@ -57050,6 +57050,43 @@
           },
           {
             "active": true,
+            "age": 29,
+            "age_bucket": "veteran",
+            "depth_chart_order": 1,
+            "depth_chart_position": "LCB",
+            "fantasy_positions": [
+              "DB"
+            ],
+            "first_name": "Keisean",
+            "full_name": "Keisean Nixon",
+            "injury_body_part": null,
+            "injury_notes": null,
+            "injury_status": null,
+            "is_reserve": false,
+            "is_starter": true,
+            "is_taxi": false,
+            "last_name": "Nixon",
+            "normalized_position": "DB",
+            "number": 25,
+            "player_id": "6333",
+            "position": "CB",
+            "search_full_name": "keiseannixon",
+            "status": "Active",
+            "team": "GB",
+            "value": {
+              "confidence": 70.0,
+              "contender": 62.5,
+              "liquidity": 35.9,
+              "market": 54.5,
+              "player_id": "6333",
+              "rebuild": 48.5,
+              "risk": 42.0,
+              "source": "heuristic-v0.2"
+            },
+            "years_exp": 7
+          },
+          {
+            "active": true,
             "age": 21,
             "age_bucket": "young",
             "depth_chart_order": 1,
@@ -57121,43 +57158,6 @@
               "source": "heuristic-v0.2"
             },
             "years_exp": 0
-          },
-          {
-            "active": true,
-            "age": 29,
-            "age_bucket": "veteran",
-            "depth_chart_order": 1,
-            "depth_chart_position": "LCB",
-            "fantasy_positions": [
-              "DB"
-            ],
-            "first_name": "Keisean",
-            "full_name": "Keisean Nixon",
-            "injury_body_part": null,
-            "injury_notes": null,
-            "injury_status": null,
-            "is_reserve": false,
-            "is_starter": false,
-            "is_taxi": false,
-            "last_name": "Nixon",
-            "normalized_position": "DB",
-            "number": 25,
-            "player_id": "6333",
-            "position": "CB",
-            "search_full_name": "keiseannixon",
-            "status": "Active",
-            "team": "GB",
-            "value": {
-              "confidence": 55.0,
-              "contender": 34.5,
-              "liquidity": 35.9,
-              "market": 34.5,
-              "player_id": "6333",
-              "rebuild": 28.5,
-              "risk": 42.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 7
           }
         ],
         "DL": [
@@ -58206,43 +58206,6 @@
           },
           {
             "active": true,
-            "age": 26,
-            "age_bucket": "prime",
-            "depth_chart_order": 2,
-            "depth_chart_position": "RB",
-            "fantasy_positions": [
-              "RB"
-            ],
-            "first_name": "Tyler",
-            "full_name": "Tyler Allgeier",
-            "injury_body_part": null,
-            "injury_notes": null,
-            "injury_status": null,
-            "is_reserve": false,
-            "is_starter": true,
-            "is_taxi": false,
-            "last_name": "Allgeier",
-            "normalized_position": "RB",
-            "number": 22,
-            "player_id": "8132",
-            "position": "RB",
-            "search_full_name": "tylerallgeier",
-            "status": "Active",
-            "team": "ARI",
-            "value": {
-              "confidence": 70.0,
-              "contender": 71.5,
-              "liquidity": 84.0,
-              "market": 63.5,
-              "player_id": "8132",
-              "rebuild": 61.5,
-              "risk": 46.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 4
-          },
-          {
-            "active": true,
             "age": 23,
             "age_bucket": "young",
             "depth_chart_order": 2,
@@ -58351,6 +58314,43 @@
               "source": "heuristic-v0.2"
             },
             "years_exp": 0
+          },
+          {
+            "active": true,
+            "age": 26,
+            "age_bucket": "prime",
+            "depth_chart_order": 2,
+            "depth_chart_position": "RB",
+            "fantasy_positions": [
+              "RB"
+            ],
+            "first_name": "Tyler",
+            "full_name": "Tyler Allgeier",
+            "injury_body_part": null,
+            "injury_notes": null,
+            "injury_status": null,
+            "is_reserve": false,
+            "is_starter": false,
+            "is_taxi": false,
+            "last_name": "Allgeier",
+            "normalized_position": "RB",
+            "number": 22,
+            "player_id": "8132",
+            "position": "RB",
+            "search_full_name": "tylerallgeier",
+            "status": "Active",
+            "team": "ARI",
+            "value": {
+              "confidence": 55.0,
+              "contender": 43.5,
+              "liquidity": 84.0,
+              "market": 43.5,
+              "player_id": "8132",
+              "rebuild": 41.5,
+              "risk": 46.0,
+              "source": "heuristic-v0.2"
+            },
+            "years_exp": 4
           },
           {
             "active": true,
@@ -59163,7 +59163,7 @@
         "8111",
         "12517",
         "13346",
-        "8132",
+        "12530",
         "12509",
         "8289",
         "13340",
@@ -59175,7 +59175,7 @@
         "13371",
         "8333",
         "8838",
-        "12530",
+        "6333",
         "11760"
       ],
       "taxi_ids": [
@@ -85543,19 +85543,6 @@
       "seller_roster_id": 12
     },
     {
-      "buyer_name": "The Dawg Side",
-      "buyer_roster_id": 6,
-      "contender_value": 58.5,
-      "estimated_fit_score": 75.1,
-      "player_id": "2617",
-      "player_name": "Alex Singleton",
-      "position": "LB",
-      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
-      "rebuild_value": 35.5,
-      "seller_name": "Ravensburger Playmakers",
-      "seller_roster_id": 9
-    },
-    {
       "buyer_name": "Ostalb Highlanders",
       "buyer_roster_id": 7,
       "contender_value": 60.5,
@@ -85741,7 +85728,7 @@
       "buyer_name": "The Dawg Side",
       "buyer_roster_id": 6,
       "contender_value": 56.5,
-      "estimated_fit_score": 71.5,
+      "estimated_fit_score": 71.4,
       "player_id": "6301",
       "player_name": "Nick Scott",
       "position": "DB",
@@ -85749,71 +85736,6 @@
       "rebuild_value": 36.5,
       "seller_name": "Lonskiy",
       "seller_roster_id": 5
-    },
-    {
-      "buyer_name": "The Dawg Side",
-      "buyer_roster_id": 6,
-      "contender_value": 61.5,
-      "estimated_fit_score": 71.5,
-      "player_id": "4413",
-      "player_name": "Eric Wilson",
-      "position": "LB",
-      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
-      "rebuild_value": 41.5,
-      "seller_name": "Lonskiy",
-      "seller_roster_id": 5
-    },
-    {
-      "buyer_name": "The Dawg Side",
-      "buyer_roster_id": 6,
-      "contender_value": 61.5,
-      "estimated_fit_score": 71.5,
-      "player_id": "4070",
-      "player_name": "T.J. Watt",
-      "position": "LB",
-      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
-      "rebuild_value": 41.5,
-      "seller_name": "Ostalb Highlanders",
-      "seller_roster_id": 7
-    },
-    {
-      "buyer_name": "The Dawg Side",
-      "buyer_roster_id": 6,
-      "contender_value": 61.5,
-      "estimated_fit_score": 71.5,
-      "player_id": "6183",
-      "player_name": "Andrew Van Ginkel",
-      "position": "LB",
-      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
-      "rebuild_value": 41.5,
-      "seller_name": "Big Black Blocks",
-      "seller_roster_id": 8
-    },
-    {
-      "buyer_name": "The Dawg Side",
-      "buyer_roster_id": 6,
-      "contender_value": 61.5,
-      "estimated_fit_score": 71.5,
-      "player_id": "5332",
-      "player_name": "Foyesade Oluokun",
-      "position": "LB",
-      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
-      "rebuild_value": 41.5,
-      "seller_name": "Ravensburger Playmakers",
-      "seller_roster_id": 9
-    },
-    {
-      "buyer_name": "The Dawg Side",
-      "buyer_roster_id": 6,
-      "contender_value": 61.5,
-      "estimated_fit_score": 71.5,
-      "player_id": "6302",
-      "player_name": "Kaden Elliss",
-      "position": "LB",
-      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
-      "rebuild_value": 41.5,
-      "seller_name": "Kindergarten Cop",
-      "seller_roster_id": 10
     },
     {
       "buyer_name": "Ostalb Highlanders",
@@ -86100,6 +86022,32 @@
       "rebuild_value": 36.5,
       "seller_name": "Lonskiy",
       "seller_roster_id": 5
+    },
+    {
+      "buyer_name": "The Dawg Side",
+      "buyer_roster_id": 6,
+      "contender_value": 59.5,
+      "estimated_fit_score": 70.2,
+      "player_id": "4866",
+      "player_name": "Saquon Barkley",
+      "position": "RB",
+      "reason": "Targets a weak RB group and may fit seller window 'contender'.",
+      "rebuild_value": 40.5,
+      "seller_name": "Kindergarten Cop",
+      "seller_roster_id": 10
+    },
+    {
+      "buyer_name": "The Dawg Side",
+      "buyer_roster_id": 6,
+      "contender_value": 59.5,
+      "estimated_fit_score": 70.2,
+      "player_id": "5892",
+      "player_name": "David Montgomery",
+      "position": "RB",
+      "reason": "Targets a weak RB group and may fit seller window 'contender'.",
+      "rebuild_value": 40.5,
+      "seller_name": "Steffmeff",
+      "seller_roster_id": 11
     },
     {
       "buyer_name": "Lonskiy",
@@ -86169,34 +86117,8 @@
     {
       "buyer_name": "The Dawg Side",
       "buyer_roster_id": 6,
-      "contender_value": 64.5,
-      "estimated_fit_score": 67.9,
-      "player_id": "5960",
-      "player_name": "T.J. Edwards",
-      "position": "LB",
-      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
-      "rebuild_value": 47.5,
-      "seller_name": "T’s Golden Browns",
-      "seller_roster_id": 1
-    },
-    {
-      "buyer_name": "The Dawg Side",
-      "buyer_roster_id": 6,
-      "contender_value": 64.5,
-      "estimated_fit_score": 67.9,
-      "player_id": "5346",
-      "player_name": "Zaire Franklin",
-      "position": "LB",
-      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
-      "rebuild_value": 47.5,
-      "seller_name": "Lokomotive Bodensee",
-      "seller_roster_id": 2
-    },
-    {
-      "buyer_name": "The Dawg Side",
-      "buyer_roster_id": 6,
       "contender_value": 59.5,
-      "estimated_fit_score": 67.9,
+      "estimated_fit_score": 67.8,
       "player_id": "4081",
       "player_name": "Budda Baker",
       "position": "DB",
@@ -86208,21 +86130,8 @@
     {
       "buyer_name": "The Dawg Side",
       "buyer_roster_id": 6,
-      "contender_value": 56.5,
-      "estimated_fit_score": 67.9,
-      "player_id": "3156",
-      "player_name": "Joey Bosa",
-      "position": "LB",
-      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
-      "rebuild_value": 39.5,
-      "seller_name": "Ostalb Highlanders",
-      "seller_roster_id": 7
-    },
-    {
-      "buyer_name": "The Dawg Side",
-      "buyer_roster_id": 6,
       "contender_value": 59.5,
-      "estimated_fit_score": 67.9,
+      "estimated_fit_score": 67.8,
       "player_id": "4971",
       "player_name": "Derwin James",
       "position": "DB",
@@ -86230,32 +86139,6 @@
       "rebuild_value": 42.5,
       "seller_name": "Ravensburger Playmakers",
       "seller_roster_id": 9
-    },
-    {
-      "buyer_name": "The Dawg Side",
-      "buyer_roster_id": 6,
-      "contender_value": 64.5,
-      "estimated_fit_score": 67.9,
-      "player_id": "5726",
-      "player_name": "Robert Spillane",
-      "position": "LB",
-      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
-      "rebuild_value": 47.5,
-      "seller_name": "Ravensburger Playmakers",
-      "seller_roster_id": 9
-    },
-    {
-      "buyer_name": "The Dawg Side",
-      "buyer_roster_id": 6,
-      "contender_value": 64.5,
-      "estimated_fit_score": 67.9,
-      "player_id": "6217",
-      "player_name": "Blake Cashman",
-      "position": "LB",
-      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
-      "rebuild_value": 47.5,
-      "seller_name": "The Infinite Rebuild",
-      "seller_roster_id": 12
     },
     {
       "buyer_name": "Ostalb Highlanders",
@@ -86635,6 +86518,32 @@
       "seller_roster_id": 8
     },
     {
+      "buyer_name": "The Dawg Side",
+      "buyer_roster_id": 6,
+      "contender_value": 61.5,
+      "estimated_fit_score": 66.6,
+      "player_id": "7611",
+      "player_name": "Rhamondre Stevenson",
+      "position": "RB",
+      "reason": "Targets a weak RB group and may fit seller window 'contender'.",
+      "rebuild_value": 45.5,
+      "seller_name": "Dirty's Devils",
+      "seller_roster_id": 4
+    },
+    {
+      "buyer_name": "The Dawg Side",
+      "buyer_roster_id": 6,
+      "contender_value": 61.5,
+      "estimated_fit_score": 66.6,
+      "player_id": "7021",
+      "player_name": "Rico Dowdle",
+      "position": "RB",
+      "reason": "Targets a weak RB group and may fit seller window 'contender'.",
+      "rebuild_value": 45.5,
+      "seller_name": "Steffmeff",
+      "seller_roster_id": 11
+    },
+    {
       "buyer_name": "Lonskiy",
       "buyer_roster_id": 5,
       "contender_value": 61.5,
@@ -86802,6 +86711,97 @@
       "rebuild_value": 45.5,
       "seller_name": "Ravensburger Playmakers",
       "seller_roster_id": 9
+    },
+    {
+      "buyer_name": "The Dawg Side",
+      "buyer_roster_id": 6,
+      "contender_value": 59.1,
+      "estimated_fit_score": 65.0,
+      "player_id": "5850",
+      "player_name": "Josh Jacobs",
+      "position": "RB",
+      "reason": "Targets a weak RB group and may fit seller window 'contender'.",
+      "rebuild_value": 44.5,
+      "seller_name": "Big Black Blocks",
+      "seller_roster_id": 8
+    },
+    {
+      "buyer_name": "Lonskiy",
+      "buyer_roster_id": 5,
+      "contender_value": 59.1,
+      "estimated_fit_score": 64.7,
+      "player_id": "5850",
+      "player_name": "Josh Jacobs",
+      "position": "RB",
+      "reason": "Targets a weak RB group and may fit seller window 'contender'.",
+      "rebuild_value": 44.5,
+      "seller_name": "Big Black Blocks",
+      "seller_roster_id": 8
+    },
+    {
+      "buyer_name": "Springfield Wildcats",
+      "buyer_roster_id": 3,
+      "contender_value": 69.5,
+      "estimated_fit_score": 64.4,
+      "player_id": "5466",
+      "player_name": "John Franklin-Myers",
+      "position": "DL",
+      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
+      "rebuild_value": 55.5,
+      "seller_name": "Lonskiy",
+      "seller_roster_id": 5
+    },
+    {
+      "buyer_name": "Springfield Wildcats",
+      "buyer_roster_id": 3,
+      "contender_value": 69.5,
+      "estimated_fit_score": 64.4,
+      "player_id": "5840",
+      "player_name": "Josh Hines-Allen",
+      "position": "DL",
+      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
+      "rebuild_value": 55.5,
+      "seller_name": "Ostalb Highlanders",
+      "seller_roster_id": 7
+    },
+    {
+      "buyer_name": "Springfield Wildcats",
+      "buyer_roster_id": 3,
+      "contender_value": 69.5,
+      "estimated_fit_score": 64.4,
+      "player_id": "5912",
+      "player_name": "Carl Granderson",
+      "position": "DL",
+      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
+      "rebuild_value": 55.5,
+      "seller_name": "Big Black Blocks",
+      "seller_roster_id": 8
+    },
+    {
+      "buyer_name": "Springfield Wildcats",
+      "buyer_roster_id": 3,
+      "contender_value": 69.5,
+      "estimated_fit_score": 64.4,
+      "player_id": "6124",
+      "player_name": "Montez Sweat",
+      "position": "DL",
+      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
+      "rebuild_value": 55.5,
+      "seller_name": "Kindergarten Cop",
+      "seller_roster_id": 10
+    },
+    {
+      "buyer_name": "Springfield Wildcats",
+      "buyer_roster_id": 3,
+      "contender_value": 74.5,
+      "estimated_fit_score": 64.4,
+      "player_id": "7002",
+      "player_name": "Juwan Johnson",
+      "position": "TE",
+      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
+      "rebuild_value": 60.5,
+      "seller_name": "The Infinite Rebuild",
+      "seller_roster_id": 12
     }
   ],
   "trade_targets": [
@@ -86845,19 +86845,6 @@
       "seller_roster_id": 12
     },
     {
-      "buyer_name": "The Dawg Side",
-      "buyer_roster_id": 6,
-      "contender_value": 58.5,
-      "estimated_fit_score": 75.1,
-      "player_id": "2617",
-      "player_name": "Alex Singleton",
-      "position": "LB",
-      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
-      "rebuild_value": 35.5,
-      "seller_name": "Ravensburger Playmakers",
-      "seller_roster_id": 9
-    },
-    {
       "buyer_name": "Ostalb Highlanders",
       "buyer_roster_id": 7,
       "contender_value": 60.5,
@@ -87043,7 +87030,7 @@
       "buyer_name": "The Dawg Side",
       "buyer_roster_id": 6,
       "contender_value": 56.5,
-      "estimated_fit_score": 71.5,
+      "estimated_fit_score": 71.4,
       "player_id": "6301",
       "player_name": "Nick Scott",
       "position": "DB",
@@ -87051,71 +87038,6 @@
       "rebuild_value": 36.5,
       "seller_name": "Lonskiy",
       "seller_roster_id": 5
-    },
-    {
-      "buyer_name": "The Dawg Side",
-      "buyer_roster_id": 6,
-      "contender_value": 61.5,
-      "estimated_fit_score": 71.5,
-      "player_id": "4413",
-      "player_name": "Eric Wilson",
-      "position": "LB",
-      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
-      "rebuild_value": 41.5,
-      "seller_name": "Lonskiy",
-      "seller_roster_id": 5
-    },
-    {
-      "buyer_name": "The Dawg Side",
-      "buyer_roster_id": 6,
-      "contender_value": 61.5,
-      "estimated_fit_score": 71.5,
-      "player_id": "4070",
-      "player_name": "T.J. Watt",
-      "position": "LB",
-      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
-      "rebuild_value": 41.5,
-      "seller_name": "Ostalb Highlanders",
-      "seller_roster_id": 7
-    },
-    {
-      "buyer_name": "The Dawg Side",
-      "buyer_roster_id": 6,
-      "contender_value": 61.5,
-      "estimated_fit_score": 71.5,
-      "player_id": "6183",
-      "player_name": "Andrew Van Ginkel",
-      "position": "LB",
-      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
-      "rebuild_value": 41.5,
-      "seller_name": "Big Black Blocks",
-      "seller_roster_id": 8
-    },
-    {
-      "buyer_name": "The Dawg Side",
-      "buyer_roster_id": 6,
-      "contender_value": 61.5,
-      "estimated_fit_score": 71.5,
-      "player_id": "5332",
-      "player_name": "Foyesade Oluokun",
-      "position": "LB",
-      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
-      "rebuild_value": 41.5,
-      "seller_name": "Ravensburger Playmakers",
-      "seller_roster_id": 9
-    },
-    {
-      "buyer_name": "The Dawg Side",
-      "buyer_roster_id": 6,
-      "contender_value": 61.5,
-      "estimated_fit_score": 71.5,
-      "player_id": "6302",
-      "player_name": "Kaden Elliss",
-      "position": "LB",
-      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
-      "rebuild_value": 41.5,
-      "seller_name": "Kindergarten Cop",
-      "seller_roster_id": 10
     },
     {
       "buyer_name": "Ostalb Highlanders",
@@ -87402,6 +87324,32 @@
       "rebuild_value": 36.5,
       "seller_name": "Lonskiy",
       "seller_roster_id": 5
+    },
+    {
+      "buyer_name": "The Dawg Side",
+      "buyer_roster_id": 6,
+      "contender_value": 59.5,
+      "estimated_fit_score": 70.2,
+      "player_id": "4866",
+      "player_name": "Saquon Barkley",
+      "position": "RB",
+      "reason": "Targets a weak RB group and may fit seller window 'contender'.",
+      "rebuild_value": 40.5,
+      "seller_name": "Kindergarten Cop",
+      "seller_roster_id": 10
+    },
+    {
+      "buyer_name": "The Dawg Side",
+      "buyer_roster_id": 6,
+      "contender_value": 59.5,
+      "estimated_fit_score": 70.2,
+      "player_id": "5892",
+      "player_name": "David Montgomery",
+      "position": "RB",
+      "reason": "Targets a weak RB group and may fit seller window 'contender'.",
+      "rebuild_value": 40.5,
+      "seller_name": "Steffmeff",
+      "seller_roster_id": 11
     },
     {
       "buyer_name": "Lonskiy",
@@ -87471,34 +87419,8 @@
     {
       "buyer_name": "The Dawg Side",
       "buyer_roster_id": 6,
-      "contender_value": 64.5,
-      "estimated_fit_score": 67.9,
-      "player_id": "5960",
-      "player_name": "T.J. Edwards",
-      "position": "LB",
-      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
-      "rebuild_value": 47.5,
-      "seller_name": "T’s Golden Browns",
-      "seller_roster_id": 1
-    },
-    {
-      "buyer_name": "The Dawg Side",
-      "buyer_roster_id": 6,
-      "contender_value": 64.5,
-      "estimated_fit_score": 67.9,
-      "player_id": "5346",
-      "player_name": "Zaire Franklin",
-      "position": "LB",
-      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
-      "rebuild_value": 47.5,
-      "seller_name": "Lokomotive Bodensee",
-      "seller_roster_id": 2
-    },
-    {
-      "buyer_name": "The Dawg Side",
-      "buyer_roster_id": 6,
       "contender_value": 59.5,
-      "estimated_fit_score": 67.9,
+      "estimated_fit_score": 67.8,
       "player_id": "4081",
       "player_name": "Budda Baker",
       "position": "DB",
@@ -87510,21 +87432,8 @@
     {
       "buyer_name": "The Dawg Side",
       "buyer_roster_id": 6,
-      "contender_value": 56.5,
-      "estimated_fit_score": 67.9,
-      "player_id": "3156",
-      "player_name": "Joey Bosa",
-      "position": "LB",
-      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
-      "rebuild_value": 39.5,
-      "seller_name": "Ostalb Highlanders",
-      "seller_roster_id": 7
-    },
-    {
-      "buyer_name": "The Dawg Side",
-      "buyer_roster_id": 6,
       "contender_value": 59.5,
-      "estimated_fit_score": 67.9,
+      "estimated_fit_score": 67.8,
       "player_id": "4971",
       "player_name": "Derwin James",
       "position": "DB",
@@ -87532,32 +87441,6 @@
       "rebuild_value": 42.5,
       "seller_name": "Ravensburger Playmakers",
       "seller_roster_id": 9
-    },
-    {
-      "buyer_name": "The Dawg Side",
-      "buyer_roster_id": 6,
-      "contender_value": 64.5,
-      "estimated_fit_score": 67.9,
-      "player_id": "5726",
-      "player_name": "Robert Spillane",
-      "position": "LB",
-      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
-      "rebuild_value": 47.5,
-      "seller_name": "Ravensburger Playmakers",
-      "seller_roster_id": 9
-    },
-    {
-      "buyer_name": "The Dawg Side",
-      "buyer_roster_id": 6,
-      "contender_value": 64.5,
-      "estimated_fit_score": 67.9,
-      "player_id": "6217",
-      "player_name": "Blake Cashman",
-      "position": "LB",
-      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
-      "rebuild_value": 47.5,
-      "seller_name": "The Infinite Rebuild",
-      "seller_roster_id": 12
     },
     {
       "buyer_name": "Ostalb Highlanders",
@@ -87937,6 +87820,32 @@
       "seller_roster_id": 8
     },
     {
+      "buyer_name": "The Dawg Side",
+      "buyer_roster_id": 6,
+      "contender_value": 61.5,
+      "estimated_fit_score": 66.6,
+      "player_id": "7611",
+      "player_name": "Rhamondre Stevenson",
+      "position": "RB",
+      "reason": "Targets a weak RB group and may fit seller window 'contender'.",
+      "rebuild_value": 45.5,
+      "seller_name": "Dirty's Devils",
+      "seller_roster_id": 4
+    },
+    {
+      "buyer_name": "The Dawg Side",
+      "buyer_roster_id": 6,
+      "contender_value": 61.5,
+      "estimated_fit_score": 66.6,
+      "player_id": "7021",
+      "player_name": "Rico Dowdle",
+      "position": "RB",
+      "reason": "Targets a weak RB group and may fit seller window 'contender'.",
+      "rebuild_value": 45.5,
+      "seller_name": "Steffmeff",
+      "seller_roster_id": 11
+    },
+    {
       "buyer_name": "Lonskiy",
       "buyer_roster_id": 5,
       "contender_value": 61.5,
@@ -88104,6 +88013,97 @@
       "rebuild_value": 45.5,
       "seller_name": "Ravensburger Playmakers",
       "seller_roster_id": 9
+    },
+    {
+      "buyer_name": "The Dawg Side",
+      "buyer_roster_id": 6,
+      "contender_value": 59.1,
+      "estimated_fit_score": 65.0,
+      "player_id": "5850",
+      "player_name": "Josh Jacobs",
+      "position": "RB",
+      "reason": "Targets a weak RB group and may fit seller window 'contender'.",
+      "rebuild_value": 44.5,
+      "seller_name": "Big Black Blocks",
+      "seller_roster_id": 8
+    },
+    {
+      "buyer_name": "Lonskiy",
+      "buyer_roster_id": 5,
+      "contender_value": 59.1,
+      "estimated_fit_score": 64.7,
+      "player_id": "5850",
+      "player_name": "Josh Jacobs",
+      "position": "RB",
+      "reason": "Targets a weak RB group and may fit seller window 'contender'.",
+      "rebuild_value": 44.5,
+      "seller_name": "Big Black Blocks",
+      "seller_roster_id": 8
+    },
+    {
+      "buyer_name": "Springfield Wildcats",
+      "buyer_roster_id": 3,
+      "contender_value": 69.5,
+      "estimated_fit_score": 64.4,
+      "player_id": "5466",
+      "player_name": "John Franklin-Myers",
+      "position": "DL",
+      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
+      "rebuild_value": 55.5,
+      "seller_name": "Lonskiy",
+      "seller_roster_id": 5
+    },
+    {
+      "buyer_name": "Springfield Wildcats",
+      "buyer_roster_id": 3,
+      "contender_value": 69.5,
+      "estimated_fit_score": 64.4,
+      "player_id": "5840",
+      "player_name": "Josh Hines-Allen",
+      "position": "DL",
+      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
+      "rebuild_value": 55.5,
+      "seller_name": "Ostalb Highlanders",
+      "seller_roster_id": 7
+    },
+    {
+      "buyer_name": "Springfield Wildcats",
+      "buyer_roster_id": 3,
+      "contender_value": 69.5,
+      "estimated_fit_score": 64.4,
+      "player_id": "5912",
+      "player_name": "Carl Granderson",
+      "position": "DL",
+      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
+      "rebuild_value": 55.5,
+      "seller_name": "Big Black Blocks",
+      "seller_roster_id": 8
+    },
+    {
+      "buyer_name": "Springfield Wildcats",
+      "buyer_roster_id": 3,
+      "contender_value": 69.5,
+      "estimated_fit_score": 64.4,
+      "player_id": "6124",
+      "player_name": "Montez Sweat",
+      "position": "DL",
+      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
+      "rebuild_value": 55.5,
+      "seller_name": "Kindergarten Cop",
+      "seller_roster_id": 10
+    },
+    {
+      "buyer_name": "Springfield Wildcats",
+      "buyer_roster_id": 3,
+      "contender_value": 74.5,
+      "estimated_fit_score": 64.4,
+      "player_id": "7002",
+      "player_name": "Juwan Johnson",
+      "position": "TE",
+      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
+      "rebuild_value": 60.5,
+      "seller_name": "The Infinite Rebuild",
+      "seller_roster_id": 12
     }
   ],
   "traded_picks": [
