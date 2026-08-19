@@ -17051,7 +17051,7 @@
       "type": "snake"
     }
   ],
-  "generated_at": "2026-08-19T05:51:38.274768+00:00",
+  "generated_at": "2026-08-19T08:06:05.722200+00:00",
   "league": {
     "avatar": "7c15319eacc56bfdeb741f4b006ca693",
     "bracket_id": null,
@@ -17064,9 +17064,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1393661339167125504",
+    "last_message_id": "1395684542597070848",
     "last_message_text_map": null,
-    "last_message_time": 1786637265534,
+    "last_message_time": 1787119634821,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1354800861066317824",
@@ -18042,7 +18042,6 @@
           "13347",
           "6768",
           "11731",
-          "7608",
           "13282",
           "11370",
           "10222",
@@ -18105,7 +18104,6 @@
           "6301": 0.0,
           "6768": 0.0,
           "7594": 0.0,
-          "7608": 0.0,
           "7651": 0.0,
           "8117": 0.0,
           "8210": 0.0,
@@ -18140,7 +18138,7 @@
           "10883",
           "8406",
           "5908",
-          "8293",
+          "0",
           "6301",
           "5847",
           "5466"
@@ -20186,7 +20184,6 @@
           "13347",
           "6768",
           "11731",
-          "7608",
           "13282",
           "11370",
           "10222",
@@ -20249,7 +20246,6 @@
           "6301": 0.0,
           "6768": 0.0,
           "7594": 0.0,
-          "7608": 0.0,
           "7651": 0.0,
           "8117": 0.0,
           "8210": 0.0,
@@ -20284,7 +20280,7 @@
           "10883",
           "8406",
           "5908",
-          "8293",
+          "0",
           "6301",
           "5847",
           "5466"
@@ -24107,7 +24103,6 @@
         "13347",
         "6768",
         "11731",
-        "7608",
         "13282",
         "11370",
         "10222",
@@ -24118,11 +24113,10 @@
         "3294"
       ],
       "reserve": [
-        "11691",
-        "13311",
         "13512",
         "6218",
-        "7651"
+        "7651",
+        "8293"
       ],
       "roster_id": 5,
       "settings": {
@@ -24157,7 +24151,7 @@
         "10883",
         "8406",
         "5908",
-        "8293",
+        "0",
         "6301",
         "5847",
         "5466"
@@ -31630,7 +31624,7 @@
       "lineups": {
         "future": {
           "average": 72.2,
-          "bench_value": 1940.1,
+          "bench_value": 1899.6,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
@@ -31808,7 +31802,7 @@
         },
         "win_now": {
           "average": 73.6,
-          "bench_value": 1885.4,
+          "bench_value": 1828.9,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -31987,9 +31981,9 @@
       },
       "positions": {
         "DB": {
-          "contender_top": 245.5,
+          "contender_top": 240.1,
           "count": 7,
-          "market": 361.5,
+          "market": 341.5,
           "rebuild_top": 238.0
         },
         "DL": {
@@ -32012,8 +32006,8 @@
         },
         "RB": {
           "contender_top": 245.4,
-          "count": 9,
-          "market": 403.8,
+          "count": 8,
+          "market": 375.3,
           "rebuild_top": 258.8
         },
         "TE": {
@@ -32034,8 +32028,8 @@
       "scores": {
         "future": 72.2,
         "liquidity": 69.6,
-        "market_total": 3484.0,
-        "risk": 32.7,
+        "market_total": 3435.5,
+        "risk": 32.5,
         "win_now": 73.6
       },
       "team_name": null,
@@ -49853,7 +49847,6 @@
         "13347",
         "6768",
         "11731",
-        "7608",
         "13282",
         "11370",
         "10222",
@@ -50286,8 +50279,8 @@
           "injury_body_part": "Knee",
           "injury_notes": "Fracture",
           "injury_status": "Out",
-          "is_reserve": false,
-          "is_starter": true,
+          "is_reserve": true,
+          "is_starter": false,
           "is_taxi": false,
           "last_name": "Bryant",
           "normalized_position": "DB",
@@ -50298,12 +50291,12 @@
           "status": "Active",
           "team": "CHI",
           "value": {
-            "confidence": 70.0,
-            "contender": 55.0,
+            "confidence": 55.0,
+            "contender": 27.0,
             "liquidity": 38.0,
-            "market": 50.5,
+            "market": 30.5,
             "player_id": "8293",
-            "rebuild": 50.5,
+            "rebuild": 30.5,
             "risk": 40.0,
             "source": "heuristic-v0.2"
           },
@@ -51211,7 +51204,7 @@
           "injury_body_part": null,
           "injury_notes": null,
           "injury_status": null,
-          "is_reserve": true,
+          "is_reserve": false,
           "is_starter": false,
           "is_taxi": false,
           "last_name": "Sweat",
@@ -51396,7 +51389,7 @@
           "injury_body_part": "Knee - ACL",
           "injury_notes": "Surgery",
           "injury_status": "Questionable",
-          "is_reserve": true,
+          "is_reserve": false,
           "is_starter": false,
           "is_taxi": false,
           "last_name": "Bell",
@@ -51866,43 +51859,6 @@
         },
         {
           "active": true,
-          "age": 28,
-          "age_bucket": "prime",
-          "depth_chart_order": null,
-          "depth_chart_position": null,
-          "fantasy_positions": [
-            "RB"
-          ],
-          "first_name": "Khalil",
-          "full_name": "Khalil Herbert",
-          "injury_body_part": null,
-          "injury_notes": null,
-          "injury_status": null,
-          "is_reserve": false,
-          "is_starter": false,
-          "is_taxi": false,
-          "last_name": "Herbert",
-          "normalized_position": "RB",
-          "number": 40,
-          "player_id": "7608",
-          "position": "RB",
-          "search_full_name": "khalilherbert",
-          "status": "Active",
-          "team": null,
-          "value": {
-            "confidence": 35.0,
-            "contender": 28.5,
-            "liquidity": 82.0,
-            "market": 28.5,
-            "player_id": "7608",
-            "rebuild": 20.5,
-            "risk": 58.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 5
-        },
-        {
-          "active": true,
           "age": 22,
           "age_bucket": "young",
           "depth_chart_order": 4,
@@ -52210,43 +52166,6 @@
             "fantasy_positions": [
               "DB"
             ],
-            "first_name": "Coby",
-            "full_name": "Coby Bryant",
-            "injury_body_part": "Knee",
-            "injury_notes": "Fracture",
-            "injury_status": "Out",
-            "is_reserve": false,
-            "is_starter": true,
-            "is_taxi": false,
-            "last_name": "Bryant",
-            "normalized_position": "DB",
-            "number": 2,
-            "player_id": "8293",
-            "position": "DB",
-            "search_full_name": "cobybryant",
-            "status": "Active",
-            "team": "CHI",
-            "value": {
-              "confidence": 70.0,
-              "contender": 55.0,
-              "liquidity": 38.0,
-              "market": 50.5,
-              "player_id": "8293",
-              "rebuild": 50.5,
-              "risk": 40.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 4
-          },
-          {
-            "active": true,
-            "age": 27,
-            "age_bucket": "prime",
-            "depth_chart_order": 1,
-            "depth_chart_position": "FS",
-            "fantasy_positions": [
-              "DB"
-            ],
             "first_name": "Reed",
             "full_name": "Reed Blankenship",
             "injury_body_part": null,
@@ -52459,6 +52378,43 @@
               "source": "heuristic-v0.2"
             },
             "years_exp": 2
+          },
+          {
+            "active": true,
+            "age": 27,
+            "age_bucket": "prime",
+            "depth_chart_order": 1,
+            "depth_chart_position": "FS",
+            "fantasy_positions": [
+              "DB"
+            ],
+            "first_name": "Coby",
+            "full_name": "Coby Bryant",
+            "injury_body_part": "Knee",
+            "injury_notes": "Fracture",
+            "injury_status": "Out",
+            "is_reserve": true,
+            "is_starter": false,
+            "is_taxi": false,
+            "last_name": "Bryant",
+            "normalized_position": "DB",
+            "number": 2,
+            "player_id": "8293",
+            "position": "DB",
+            "search_full_name": "cobybryant",
+            "status": "Active",
+            "team": "CHI",
+            "value": {
+              "confidence": 55.0,
+              "contender": 27.0,
+              "liquidity": 38.0,
+              "market": 30.5,
+              "player_id": "8293",
+              "rebuild": 30.5,
+              "risk": 40.0,
+              "source": "heuristic-v0.2"
+            },
+            "years_exp": 4
           }
         ],
         "DL": [
@@ -52663,7 +52619,7 @@
             "injury_body_part": null,
             "injury_notes": null,
             "injury_status": null,
-            "is_reserve": true,
+            "is_reserve": false,
             "is_starter": false,
             "is_taxi": false,
             "last_name": "Sweat",
@@ -53548,43 +53504,6 @@
             "active": true,
             "age": 28,
             "age_bucket": "prime",
-            "depth_chart_order": null,
-            "depth_chart_position": null,
-            "fantasy_positions": [
-              "RB"
-            ],
-            "first_name": "Khalil",
-            "full_name": "Khalil Herbert",
-            "injury_body_part": null,
-            "injury_notes": null,
-            "injury_status": null,
-            "is_reserve": false,
-            "is_starter": false,
-            "is_taxi": false,
-            "last_name": "Herbert",
-            "normalized_position": "RB",
-            "number": 40,
-            "player_id": "7608",
-            "position": "RB",
-            "search_full_name": "khalilherbert",
-            "status": "Active",
-            "team": null,
-            "value": {
-              "confidence": 35.0,
-              "contender": 28.5,
-              "liquidity": 82.0,
-              "market": 28.5,
-              "player_id": "7608",
-              "rebuild": 20.5,
-              "risk": 58.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 5
-          },
-          {
-            "active": true,
-            "age": 28,
-            "age_bucket": "prime",
             "depth_chart_order": 2,
             "depth_chart_position": "RB",
             "fantasy_positions": [
@@ -54265,7 +54184,7 @@
             "injury_body_part": "Knee - ACL",
             "injury_notes": "Surgery",
             "injury_status": "Questionable",
-            "is_reserve": true,
+            "is_reserve": false,
             "is_starter": false,
             "is_taxi": false,
             "last_name": "Bell",
@@ -54550,11 +54469,10 @@
         ]
       },
       "reserve_ids": [
-        "11691",
-        "13311",
         "13512",
         "6218",
-        "7651"
+        "7651",
+        "8293"
       ],
       "roster_id": 5,
       "settings": {
@@ -54589,7 +54507,7 @@
         "10883",
         "8406",
         "5908",
-        "8293",
+        "0",
         "6301",
         "5847",
         "5466"
@@ -88635,6 +88553,29 @@
   ],
   "transactions_by_week": {
     "1": [
+      {
+        "adds": null,
+        "consenter_ids": [
+          5
+        ],
+        "created": 1787119634776,
+        "creator": "963572049115508736",
+        "draft_picks": [],
+        "drops": {
+          "7608": 5
+        },
+        "leg": 1,
+        "metadata": null,
+        "roster_ids": [
+          5
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1787119634776,
+        "transaction_id": "1395684542408323085",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
       {
         "adds": {
           "2505": 10
