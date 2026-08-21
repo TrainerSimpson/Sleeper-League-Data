@@ -17051,7 +17051,7 @@
       "type": "snake"
     }
   ],
-  "generated_at": "2026-08-21T21:58:48.311521+00:00",
+  "generated_at": "2026-08-21T23:01:22.938283+00:00",
   "league": {
     "avatar": "7c15319eacc56bfdeb741f4b006ca693",
     "bracket_id": null,
@@ -27061,7 +27061,7 @@
       "lineups": {
         "future": {
           "average": 74.2,
-          "bench_value": 2196.1,
+          "bench_value": 2192.1,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
@@ -27239,7 +27239,7 @@
         },
         "win_now": {
           "average": 77.1,
-          "bench_value": 2013.6,
+          "bench_value": 2008.2,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -27456,7 +27456,7 @@
         "WR": {
           "contender_top": 368.9,
           "count": 17,
-          "market": 1080.2,
+          "market": 1076.2,
           "rebuild_top": 362.3
         }
       },
@@ -27465,8 +27465,8 @@
       "scores": {
         "future": 74.2,
         "liquidity": 72.2,
-        "market_total": 3705.9,
-        "risk": 30.8,
+        "market_total": 3701.9,
+        "risk": 30.9,
         "win_now": 77.1
       },
       "team_name": "Springfield Wildcats",
@@ -28167,7 +28167,7 @@
       "lineups": {
         "future": {
           "average": 74.4,
-          "bench_value": 1589.9,
+          "bench_value": 1587.8,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
@@ -28320,13 +28320,6 @@
               "slot": "FLEX"
             },
             {
-              "full_name": "Jaelan Phillips",
-              "player_id": "7635",
-              "position": "LB",
-              "score": 65.5,
-              "slot": "IDP_FLEX"
-            },
-            {
               "full_name": "Devin Lloyd",
               "player_id": "8329",
               "position": "LB",
@@ -28339,12 +28332,19 @@
               "position": "LB",
               "score": 64.5,
               "slot": "IDP_FLEX"
+            },
+            {
+              "full_name": "Justin Jefferson",
+              "player_id": "13524",
+              "position": "LB",
+              "score": 63.6,
+              "slot": "IDP_FLEX"
             }
           ],
-          "total": 1786.4
+          "total": 1784.5
         },
         "win_now": {
-          "average": 76.7,
+          "average": 76.4,
           "bench_value": 1573.4,
           "filled": 24,
           "metric": "contender",
@@ -28498,17 +28498,17 @@
               "slot": "FLEX"
             },
             {
-              "full_name": "Jaelan Phillips",
-              "player_id": "7635",
+              "full_name": "Devin Lloyd",
+              "player_id": "8329",
               "position": "LB",
               "score": 73.5,
               "slot": "IDP_FLEX"
             },
             {
-              "full_name": "Devin Lloyd",
-              "player_id": "8329",
+              "full_name": "Jaelan Phillips",
+              "player_id": "7635",
               "position": "LB",
-              "score": 73.5,
+              "score": 68.1,
               "slot": "IDP_FLEX"
             },
             {
@@ -28519,7 +28519,7 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1840.0
+          "total": 1834.6
         }
       },
       "positions": {
@@ -28538,7 +28538,7 @@
         "LB": {
           "contender_top": 307.6,
           "count": 15,
-          "market": 857.0,
+          "market": 853.0,
           "rebuild_top": 293.6
         },
         "QB": {
@@ -28571,9 +28571,9 @@
       "scores": {
         "future": 74.4,
         "liquidity": 66.8,
-        "market_total": 3243.8,
-        "risk": 32.7,
-        "win_now": 76.7
+        "market_total": 3239.8,
+        "risk": 32.8,
+        "win_now": 76.4
       },
       "team_name": null,
       "window": "contender"
@@ -41702,9 +41702,9 @@
           ],
           "first_name": "Xavier",
           "full_name": "Xavier Legette",
-          "injury_body_part": null,
+          "injury_body_part": "Lower Body",
           "injury_notes": null,
-          "injury_status": null,
+          "injury_status": "Questionable",
           "is_reserve": false,
           "is_starter": false,
           "is_taxi": false,
@@ -41718,12 +41718,12 @@
           "team": "CAR",
           "value": {
             "confidence": 55.0,
-            "contender": 62.0,
+            "contender": 56.6,
             "liquidity": 90.1,
-            "market": 62.0,
+            "market": 58.0,
             "player_id": "11626",
-            "rebuild": 68.0,
-            "risk": 24.0,
+            "rebuild": 64.0,
+            "risk": 28.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 2
@@ -45392,9 +45392,9 @@
             ],
             "first_name": "Xavier",
             "full_name": "Xavier Legette",
-            "injury_body_part": null,
+            "injury_body_part": "Lower Body",
             "injury_notes": null,
-            "injury_status": null,
+            "injury_status": "Questionable",
             "is_reserve": false,
             "is_starter": false,
             "is_taxi": false,
@@ -45408,12 +45408,12 @@
             "team": "CAR",
             "value": {
               "confidence": 55.0,
-              "contender": 62.0,
+              "contender": 56.6,
               "liquidity": 90.1,
-              "market": 62.0,
+              "market": 58.0,
               "player_id": "11626",
-              "rebuild": 68.0,
-              "risk": 24.0,
+              "rebuild": 64.0,
+              "risk": 28.0,
               "source": "heuristic-v0.2"
             },
             "years_exp": 2
@@ -77270,9 +77270,9 @@
           ],
           "first_name": "Jaelan",
           "full_name": "Jaelan Phillips",
-          "injury_body_part": null,
+          "injury_body_part": "Arm",
           "injury_notes": null,
-          "injury_status": null,
+          "injury_status": "Questionable",
           "is_reserve": false,
           "is_starter": true,
           "is_taxi": false,
@@ -77286,12 +77286,12 @@
           "team": "CAR",
           "value": {
             "confidence": 70.0,
-            "contender": 73.5,
+            "contender": 68.1,
             "liquidity": 52.0,
-            "market": 65.5,
+            "market": 61.5,
             "player_id": "7635",
-            "rebuild": 65.5,
-            "risk": 30.0,
+            "rebuild": 61.5,
+            "risk": 34.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 5
@@ -79427,9 +79427,9 @@
             ],
             "first_name": "Jaelan",
             "full_name": "Jaelan Phillips",
-            "injury_body_part": null,
+            "injury_body_part": "Arm",
             "injury_notes": null,
-            "injury_status": null,
+            "injury_status": "Questionable",
             "is_reserve": false,
             "is_starter": true,
             "is_taxi": false,
@@ -79443,12 +79443,12 @@
             "team": "CAR",
             "value": {
               "confidence": 70.0,
-              "contender": 73.5,
+              "contender": 68.1,
               "liquidity": 52.0,
-              "market": 65.5,
+              "market": 61.5,
               "player_id": "7635",
-              "rebuild": 65.5,
-              "risk": 30.0,
+              "rebuild": 61.5,
+              "risk": 34.0,
               "source": "heuristic-v0.2"
             },
             "years_exp": 5
