@@ -17051,7 +17051,7 @@
       "type": "snake"
     }
   ],
-  "generated_at": "2026-08-21T00:00:01.936375+00:00",
+  "generated_at": "2026-08-21T03:33:20.794584+00:00",
   "league": {
     "avatar": "7c15319eacc56bfdeb741f4b006ca693",
     "bracket_id": null,
@@ -28762,7 +28762,7 @@
       "lineups": {
         "future": {
           "average": 73.2,
-          "bench_value": 1754.8,
+          "bench_value": 1748.8,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
@@ -28939,7 +28939,7 @@
           "total": 1756.8
         },
         "win_now": {
-          "average": 76.3,
+          "average": 76.2,
           "bench_value": 1570.1,
           "filled": 24,
           "metric": "contender",
@@ -29093,17 +29093,17 @@
               "slot": "FLEX"
             },
             {
-              "full_name": "Justin Strnad",
-              "player_id": "6977",
-              "position": "LB",
-              "score": 67.5,
-              "slot": "IDP_FLEX"
-            },
-            {
               "full_name": "Derrick Brown",
               "player_id": "6784",
               "position": "DL",
               "score": 67.1,
+              "slot": "IDP_FLEX"
+            },
+            {
+              "full_name": "Justin Strnad",
+              "player_id": "6977",
+              "position": "LB",
+              "score": 64.5,
               "slot": "IDP_FLEX"
             },
             {
@@ -29114,7 +29114,7 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1831.3
+          "total": 1828.3
         }
       },
       "positions": {
@@ -29131,9 +29131,9 @@
           "rebuild_top": 253.5
         },
         "LB": {
-          "contender_top": 292.7,
+          "contender_top": 289.7,
           "count": 7,
-          "market": 368.8,
+          "market": 365.8,
           "rebuild_top": 281.3
         },
         "QB": {
@@ -29166,9 +29166,9 @@
       "scores": {
         "future": 73.2,
         "liquidity": 65.6,
-        "market_total": 3227.6,
-        "risk": 31.0,
-        "win_now": 76.3
+        "market_total": 3224.6,
+        "risk": 31.1,
+        "win_now": 76.2
       },
       "team_name": "Dirty's Devils",
       "window": "contender"
@@ -29350,7 +29350,7 @@
       "lineups": {
         "future": {
           "average": 73.4,
-          "bench_value": 1657.2,
+          "bench_value": 1651.2,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
@@ -29528,7 +29528,7 @@
         },
         "win_now": {
           "average": 76.0,
-          "bench_value": 1622.3,
+          "bench_value": 1619.3,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -29745,7 +29745,7 @@
         "WR": {
           "contender_top": 342.7,
           "count": 12,
-          "market": 751.9,
+          "market": 748.9,
           "rebuild_top": 338.1
         }
       },
@@ -29754,8 +29754,8 @@
       "scores": {
         "future": 73.4,
         "liquidity": 66.3,
-        "market_total": 3271.1,
-        "risk": 32.9,
+        "market_total": 3268.1,
+        "risk": 33.0,
         "win_now": 76.0
       },
       "team_name": "The Infinite Rebuild",
@@ -47545,7 +47545,7 @@
         },
         {
           "active": true,
-          "age": 29,
+          "age": 30,
           "age_bucket": "veteran",
           "depth_chart_order": 1,
           "depth_chart_position": "LILB",
@@ -47570,12 +47570,12 @@
           "team": "DEN",
           "value": {
             "confidence": 70.0,
-            "contender": 67.5,
-            "liquidity": 49.9,
-            "market": 59.5,
+            "contender": 64.5,
+            "liquidity": 48.9,
+            "market": 56.5,
             "player_id": "6977",
-            "rebuild": 53.5,
-            "risk": 42.0,
+            "rebuild": 47.5,
+            "risk": 48.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 6
@@ -48633,43 +48633,6 @@
             "fantasy_positions": [
               "LB"
             ],
-            "first_name": "Justin",
-            "full_name": "Justin Strnad",
-            "injury_body_part": null,
-            "injury_notes": null,
-            "injury_status": null,
-            "is_reserve": false,
-            "is_starter": true,
-            "is_taxi": false,
-            "last_name": "Strnad",
-            "normalized_position": "LB",
-            "number": 40,
-            "player_id": "6977",
-            "position": "LB",
-            "search_full_name": "justinstrnad",
-            "status": "Active",
-            "team": "DEN",
-            "value": {
-              "confidence": 70.0,
-              "contender": 67.5,
-              "liquidity": 49.9,
-              "market": 59.5,
-              "player_id": "6977",
-              "rebuild": 53.5,
-              "risk": 42.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 6
-          },
-          {
-            "active": true,
-            "age": 29,
-            "age_bucket": "veteran",
-            "depth_chart_order": 1,
-            "depth_chart_position": "LILB",
-            "fantasy_positions": [
-              "LB"
-            ],
             "first_name": "Zack",
             "full_name": "Zack Baun",
             "injury_body_part": null,
@@ -48694,6 +48657,43 @@
               "player_id": "6815",
               "rebuild": 53.5,
               "risk": 42.0,
+              "source": "heuristic-v0.2"
+            },
+            "years_exp": 6
+          },
+          {
+            "active": true,
+            "age": 30,
+            "age_bucket": "veteran",
+            "depth_chart_order": 1,
+            "depth_chart_position": "LILB",
+            "fantasy_positions": [
+              "LB"
+            ],
+            "first_name": "Justin",
+            "full_name": "Justin Strnad",
+            "injury_body_part": null,
+            "injury_notes": null,
+            "injury_status": null,
+            "is_reserve": false,
+            "is_starter": true,
+            "is_taxi": false,
+            "last_name": "Strnad",
+            "normalized_position": "LB",
+            "number": 40,
+            "player_id": "6977",
+            "position": "LB",
+            "search_full_name": "justinstrnad",
+            "status": "Active",
+            "team": "DEN",
+            "value": {
+              "confidence": 70.0,
+              "contender": 64.5,
+              "liquidity": 48.9,
+              "market": 56.5,
+              "player_id": "6977",
+              "rebuild": 47.5,
+              "risk": 48.0,
               "source": "heuristic-v0.2"
             },
             "years_exp": 6
@@ -82474,7 +82474,7 @@
         },
         {
           "active": true,
-          "age": 32,
+          "age": 33,
           "age_bucket": "veteran",
           "depth_chart_order": 1,
           "depth_chart_position": "LWR",
@@ -82499,12 +82499,12 @@
           "team": "SF",
           "value": {
             "confidence": 70.0,
-            "contender": 64.1,
-            "liquidity": 82.8,
-            "market": 57.5,
+            "contender": 61.1,
+            "liquidity": 81.7,
+            "market": 54.5,
             "player_id": "2216",
-            "rebuild": 42.5,
-            "risk": 64.0,
+            "rebuild": 36.5,
+            "risk": 70.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 12
@@ -85154,7 +85154,7 @@
           },
           {
             "active": true,
-            "age": 32,
+            "age": 33,
             "age_bucket": "veteran",
             "depth_chart_order": 1,
             "depth_chart_position": "LWR",
@@ -85179,12 +85179,12 @@
             "team": "SF",
             "value": {
               "confidence": 70.0,
-              "contender": 64.1,
-              "liquidity": 82.8,
-              "market": 57.5,
+              "contender": 61.1,
+              "liquidity": 81.7,
+              "market": 54.5,
               "player_id": "2216",
-              "rebuild": 42.5,
-              "risk": 64.0,
+              "rebuild": 36.5,
+              "risk": 70.0,
               "source": "heuristic-v0.2"
             },
             "years_exp": 12
@@ -86316,6 +86316,19 @@
     {
       "buyer_name": "The Dawg Side",
       "buyer_roster_id": 6,
+      "contender_value": 64.5,
+      "estimated_fit_score": 67.8,
+      "player_id": "6977",
+      "player_name": "Justin Strnad",
+      "position": "LB",
+      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
+      "rebuild_value": 47.5,
+      "seller_name": "Dirty's Devils",
+      "seller_roster_id": 4
+    },
+    {
+      "buyer_name": "The Dawg Side",
+      "buyer_roster_id": 6,
       "contender_value": 59.5,
       "estimated_fit_score": 67.8,
       "player_id": "4081",
@@ -86481,6 +86494,19 @@
       "rebuild_value": 54.5,
       "seller_name": "Springfield Wildcats",
       "seller_roster_id": 3
+    },
+    {
+      "buyer_name": "Ravensburger Playmakers",
+      "buyer_roster_id": 9,
+      "contender_value": 64.5,
+      "estimated_fit_score": 67.5,
+      "player_id": "6977",
+      "player_name": "Justin Strnad",
+      "position": "LB",
+      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
+      "rebuild_value": 47.5,
+      "seller_name": "Dirty's Devils",
+      "seller_roster_id": 4
     },
     {
       "buyer_name": "Ravensburger Playmakers",
@@ -86773,32 +86799,6 @@
       "buyer_roster_id": 3,
       "contender_value": 61.1,
       "estimated_fit_score": 66.3,
-      "player_id": "5297",
-      "player_name": "Zach Sieler",
-      "position": "DL",
-      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
-      "rebuild_value": 45.5,
-      "seller_name": "Ravensburger Playmakers",
-      "seller_roster_id": 9
-    },
-    {
-      "buyer_name": "Ostalb Highlanders",
-      "buyer_roster_id": 7,
-      "contender_value": 61.1,
-      "estimated_fit_score": 66.1,
-      "player_id": "3973",
-      "player_name": "Myles Garrett",
-      "position": "DL",
-      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
-      "rebuild_value": 45.5,
-      "seller_name": "Springfield Wildcats",
-      "seller_roster_id": 3
-    },
-    {
-      "buyer_name": "Ostalb Highlanders",
-      "buyer_roster_id": 7,
-      "contender_value": 61.1,
-      "estimated_fit_score": 66.1,
       "player_id": "5297",
       "player_name": "Zach Sieler",
       "position": "DL",
@@ -87618,6 +87618,19 @@
     {
       "buyer_name": "The Dawg Side",
       "buyer_roster_id": 6,
+      "contender_value": 64.5,
+      "estimated_fit_score": 67.8,
+      "player_id": "6977",
+      "player_name": "Justin Strnad",
+      "position": "LB",
+      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
+      "rebuild_value": 47.5,
+      "seller_name": "Dirty's Devils",
+      "seller_roster_id": 4
+    },
+    {
+      "buyer_name": "The Dawg Side",
+      "buyer_roster_id": 6,
       "contender_value": 59.5,
       "estimated_fit_score": 67.8,
       "player_id": "4081",
@@ -87783,6 +87796,19 @@
       "rebuild_value": 54.5,
       "seller_name": "Springfield Wildcats",
       "seller_roster_id": 3
+    },
+    {
+      "buyer_name": "Ravensburger Playmakers",
+      "buyer_roster_id": 9,
+      "contender_value": 64.5,
+      "estimated_fit_score": 67.5,
+      "player_id": "6977",
+      "player_name": "Justin Strnad",
+      "position": "LB",
+      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
+      "rebuild_value": 47.5,
+      "seller_name": "Dirty's Devils",
+      "seller_roster_id": 4
     },
     {
       "buyer_name": "Ravensburger Playmakers",
@@ -88075,32 +88101,6 @@
       "buyer_roster_id": 3,
       "contender_value": 61.1,
       "estimated_fit_score": 66.3,
-      "player_id": "5297",
-      "player_name": "Zach Sieler",
-      "position": "DL",
-      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
-      "rebuild_value": 45.5,
-      "seller_name": "Ravensburger Playmakers",
-      "seller_roster_id": 9
-    },
-    {
-      "buyer_name": "Ostalb Highlanders",
-      "buyer_roster_id": 7,
-      "contender_value": 61.1,
-      "estimated_fit_score": 66.1,
-      "player_id": "3973",
-      "player_name": "Myles Garrett",
-      "position": "DL",
-      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
-      "rebuild_value": 45.5,
-      "seller_name": "Springfield Wildcats",
-      "seller_roster_id": 3
-    },
-    {
-      "buyer_name": "Ostalb Highlanders",
-      "buyer_roster_id": 7,
-      "contender_value": 61.1,
-      "estimated_fit_score": 66.1,
       "player_id": "5297",
       "player_name": "Zach Sieler",
       "position": "DL",
