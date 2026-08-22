@@ -17051,7 +17051,7 @@
       "type": "snake"
     }
   ],
-  "generated_at": "2026-08-22T20:59:50.416775+00:00",
+  "generated_at": "2026-08-22T21:55:39.323518+00:00",
   "league": {
     "avatar": "7c15319eacc56bfdeb741f4b006ca693",
     "bracket_id": null,
@@ -26493,7 +26493,7 @@
       },
       "lineups": {
         "future": {
-          "average": 75.3,
+          "average": 75.1,
           "bench_value": 1273.7,
           "filled": 24,
           "metric": "rebuild",
@@ -26626,13 +26626,6 @@
               "slot": "FLEX"
             },
             {
-              "full_name": "De'Zhaun Stribling",
-              "player_id": "13417",
-              "position": "WR",
-              "score": 68.6,
-              "slot": "FLEX"
-            },
-            {
               "full_name": "Isaac TeSlaa",
               "player_id": "12535",
               "position": "WR",
@@ -26644,6 +26637,13 @@
               "player_id": "12476",
               "position": "RB",
               "score": 67.5,
+              "slot": "FLEX"
+            },
+            {
+              "full_name": "De'Zhaun Stribling",
+              "player_id": "13417",
+              "position": "WR",
+              "score": 64.6,
               "slot": "FLEX"
             },
             {
@@ -26668,11 +26668,11 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1806.8
+          "total": 1802.8
         },
         "win_now": {
           "average": 77.9,
-          "bench_value": 1315.7,
+          "bench_value": 1310.3,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -26889,17 +26889,17 @@
         "WR": {
           "contender_top": 325.8,
           "count": 7,
-          "market": 444.4,
-          "rebuild_top": 320.1
+          "market": 440.4,
+          "rebuild_top": 319.8
         }
       },
       "power_rank": 3,
       "roster_id": 2,
       "scores": {
-        "future": 75.3,
-        "liquidity": 64.0,
-        "market_total": 3005.5,
-        "risk": 32.5,
+        "future": 75.1,
+        "liquidity": 63.9,
+        "market_total": 3001.5,
+        "risk": 32.6,
         "win_now": 77.9
       },
       "team_name": "Lokomotive Bodensee",
@@ -27060,7 +27060,7 @@
       },
       "lineups": {
         "future": {
-          "average": 74.2,
+          "average": 74.0,
           "bench_value": 2192.1,
           "filled": 24,
           "metric": "rebuild",
@@ -27091,7 +27091,7 @@
               "full_name": "Ollie Gordon",
               "player_id": "12495",
               "position": "RB",
-              "score": 73.3,
+              "score": 69.3,
               "slot": "RB"
             },
             {
@@ -27235,11 +27235,11 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1780.8
+          "total": 1776.8
         },
         "win_now": {
           "average": 77.1,
-          "bench_value": 2008.2,
+          "bench_value": 2002.8,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -27444,8 +27444,8 @@
         "RB": {
           "contender_top": 284.6,
           "count": 12,
-          "market": 651.3,
-          "rebuild_top": 280.8
+          "market": 647.3,
+          "rebuild_top": 276.8
         },
         "TE": {
           "contender_top": 216.3,
@@ -27463,9 +27463,9 @@
       "power_rank": 4,
       "roster_id": 3,
       "scores": {
-        "future": 74.2,
+        "future": 74.0,
         "liquidity": 72.2,
-        "market_total": 3701.9,
+        "market_total": 3697.9,
         "risk": 30.9,
         "win_now": 77.1
       },
@@ -38005,9 +38005,9 @@
           ],
           "first_name": "De'Zhaun",
           "full_name": "De'Zhaun Stribling",
-          "injury_body_part": null,
+          "injury_body_part": "Shoulder",
           "injury_notes": null,
-          "injury_status": null,
+          "injury_status": "Questionable",
           "is_reserve": false,
           "is_starter": false,
           "is_taxi": false,
@@ -38021,12 +38021,12 @@
           "team": "SF",
           "value": {
             "confidence": 55.0,
-            "contender": 56.6,
+            "contender": 51.2,
             "liquidity": 92.2,
-            "market": 56.6,
+            "market": 52.6,
             "player_id": "13417",
-            "rebuild": 68.6,
-            "risk": 24.0,
+            "rebuild": 64.6,
+            "risk": 28.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 0
@@ -40505,9 +40505,9 @@
             ],
             "first_name": "De'Zhaun",
             "full_name": "De'Zhaun Stribling",
-            "injury_body_part": null,
+            "injury_body_part": "Shoulder",
             "injury_notes": null,
-            "injury_status": null,
+            "injury_status": "Questionable",
             "is_reserve": false,
             "is_starter": false,
             "is_taxi": false,
@@ -40521,12 +40521,12 @@
             "team": "SF",
             "value": {
               "confidence": 55.0,
-              "contender": 56.6,
+              "contender": 51.2,
               "liquidity": 92.2,
-              "market": 56.6,
+              "market": 52.6,
               "player_id": "13417",
-              "rebuild": 68.6,
-              "risk": 24.0,
+              "rebuild": 64.6,
+              "risk": 28.0,
               "source": "heuristic-v0.2"
             },
             "years_exp": 0
@@ -42520,9 +42520,9 @@
           ],
           "first_name": "Ollie",
           "full_name": "Ollie Gordon",
-          "injury_body_part": null,
+          "injury_body_part": "Undisclosed",
           "injury_notes": null,
-          "injury_status": null,
+          "injury_status": "Questionable",
           "is_reserve": false,
           "is_starter": false,
           "is_taxi": false,
@@ -42536,12 +42536,12 @@
           "team": "MIA",
           "value": {
             "confidence": 55.0,
-            "contender": 58.3,
+            "contender": 52.9,
             "liquidity": 88.2,
-            "market": 58.3,
+            "market": 54.3,
             "player_id": "12495",
-            "rebuild": 73.3,
-            "risk": 34.0,
+            "rebuild": 69.3,
+            "risk": 38.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 1
@@ -44389,9 +44389,9 @@
             ],
             "first_name": "Ollie",
             "full_name": "Ollie Gordon",
-            "injury_body_part": null,
+            "injury_body_part": "Undisclosed",
             "injury_notes": null,
-            "injury_status": null,
+            "injury_status": "Questionable",
             "is_reserve": false,
             "is_starter": false,
             "is_taxi": false,
@@ -44405,12 +44405,12 @@
             "team": "MIA",
             "value": {
               "confidence": 55.0,
-              "contender": 58.3,
+              "contender": 52.9,
               "liquidity": 88.2,
-              "market": 58.3,
+              "market": 54.3,
               "player_id": "12495",
-              "rebuild": 73.3,
-              "risk": 34.0,
+              "rebuild": 69.3,
+              "risk": 38.0,
               "source": "heuristic-v0.2"
             },
             "years_exp": 1
@@ -86746,7 +86746,7 @@
       "buyer_name": "Lokomotive Bodensee",
       "buyer_roster_id": 2,
       "contender_value": 71.5,
-      "estimated_fit_score": 66.8,
+      "estimated_fit_score": 66.7,
       "player_id": "5001",
       "player_name": "Dalton Schultz",
       "position": "TE",
@@ -86759,7 +86759,7 @@
       "buyer_name": "Lokomotive Bodensee",
       "buyer_roster_id": 2,
       "contender_value": 71.5,
-      "estimated_fit_score": 66.8,
+      "estimated_fit_score": 66.7,
       "player_id": "5012",
       "player_name": "Mark Andrews",
       "position": "TE",
@@ -88048,7 +88048,7 @@
       "buyer_name": "Lokomotive Bodensee",
       "buyer_roster_id": 2,
       "contender_value": 71.5,
-      "estimated_fit_score": 66.8,
+      "estimated_fit_score": 66.7,
       "player_id": "5001",
       "player_name": "Dalton Schultz",
       "position": "TE",
@@ -88061,7 +88061,7 @@
       "buyer_name": "Lokomotive Bodensee",
       "buyer_roster_id": 2,
       "contender_value": 71.5,
-      "estimated_fit_score": 66.8,
+      "estimated_fit_score": 66.7,
       "player_id": "5012",
       "player_name": "Mark Andrews",
       "position": "TE",
