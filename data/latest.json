@@ -17051,7 +17051,7 @@
       "type": "snake"
     }
   ],
-  "generated_at": "2026-08-23T20:58:29.893150+00:00",
+  "generated_at": "2026-08-23T21:55:41.772475+00:00",
   "league": {
     "avatar": "7c15319eacc56bfdeb741f4b006ca693",
     "bracket_id": null,
@@ -25318,7 +25318,7 @@
       },
       "lineups": {
         "future": {
-          "average": 83.2,
+          "average": 83.0,
           "bench_value": 1984.2,
           "filled": 24,
           "metric": "rebuild",
@@ -25339,17 +25339,17 @@
               "slot": "TE"
             },
             {
-              "full_name": "Ashton Jeanty",
-              "player_id": "12527",
-              "position": "RB",
-              "score": 99.3,
-              "slot": "RB"
-            },
-            {
               "full_name": "Dylan Sampson",
               "player_id": "12469",
               "position": "RB",
               "score": 98.1,
+              "slot": "RB"
+            },
+            {
+              "full_name": "Ashton Jeanty",
+              "player_id": "12527",
+              "position": "RB",
+              "score": 95.3,
               "slot": "RB"
             },
             {
@@ -25493,10 +25493,10 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1996.2
+          "total": 1992.2
         },
         "win_now": {
-          "average": 80.4,
+          "average": 80.2,
           "bench_value": 1704.2,
           "filled": 24,
           "metric": "contender",
@@ -25517,17 +25517,17 @@
               "slot": "TE"
             },
             {
-              "full_name": "Ashton Jeanty",
-              "player_id": "12527",
-              "position": "RB",
-              "score": 92.3,
-              "slot": "RB"
-            },
-            {
               "full_name": "Dylan Sampson",
               "player_id": "12469",
               "position": "RB",
               "score": 88.1,
+              "slot": "RB"
+            },
+            {
+              "full_name": "Ashton Jeanty",
+              "player_id": "12527",
+              "position": "RB",
+              "score": 86.9,
               "slot": "RB"
             },
             {
@@ -25671,7 +25671,7 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1929.5
+          "total": 1924.1
         }
       },
       "positions": {
@@ -25700,10 +25700,10 @@
           "rebuild_top": 314.5
         },
         "RB": {
-          "contender_top": 312.9,
+          "contender_top": 307.5,
           "count": 6,
-          "market": 365.4,
-          "rebuild_top": 331.9
+          "market": 361.4,
+          "rebuild_top": 327.9
         },
         "TE": {
           "contender_top": 300.9,
@@ -25721,11 +25721,11 @@
       "power_rank": 1,
       "roster_id": 6,
       "scores": {
-        "future": 83.2,
+        "future": 83.0,
         "liquidity": 71.3,
-        "market_total": 3466.9,
-        "risk": 27.8,
-        "win_now": 80.4
+        "market_total": 3462.9,
+        "risk": 27.9,
+        "win_now": 80.2
       },
       "team_name": "The Dawg Side",
       "window": "contender"
@@ -28161,7 +28161,7 @@
       "lineups": {
         "future": {
           "average": 74.2,
-          "bench_value": 1583.8,
+          "bench_value": 1579.8,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
@@ -28339,7 +28339,7 @@
         },
         "win_now": {
           "average": 76.2,
-          "bench_value": 1568.0,
+          "bench_value": 1562.6,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -28532,7 +28532,7 @@
         "LB": {
           "contender_top": 307.6,
           "count": 15,
-          "market": 853.0,
+          "market": 849.0,
           "rebuild_top": 293.6
         },
         "QB": {
@@ -28565,8 +28565,8 @@
       "scores": {
         "future": 74.2,
         "liquidity": 66.8,
-        "market_total": 3231.8,
-        "risk": 32.9,
+        "market_total": 3227.8,
+        "risk": 33.0,
         "win_now": 76.2
       },
       "team_name": null,
@@ -55646,9 +55646,9 @@
           ],
           "first_name": "Ashton",
           "full_name": "Ashton Jeanty",
-          "injury_body_part": null,
+          "injury_body_part": "Knee",
           "injury_notes": null,
-          "injury_status": null,
+          "injury_status": "Questionable",
           "is_reserve": false,
           "is_starter": true,
           "is_taxi": false,
@@ -55662,12 +55662,12 @@
           "team": "LV",
           "value": {
             "confidence": 70.0,
-            "contender": 92.3,
+            "contender": 86.9,
             "liquidity": 88.2,
-            "market": 84.3,
+            "market": 80.3,
             "player_id": "12527",
-            "rebuild": 99.3,
-            "risk": 34.0,
+            "rebuild": 95.3,
+            "risk": 38.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 1
@@ -58100,9 +58100,9 @@
             ],
             "first_name": "Ashton",
             "full_name": "Ashton Jeanty",
-            "injury_body_part": null,
+            "injury_body_part": "Knee",
             "injury_notes": null,
-            "injury_status": null,
+            "injury_status": "Questionable",
             "is_reserve": false,
             "is_starter": true,
             "is_taxi": false,
@@ -58116,12 +58116,12 @@
             "team": "LV",
             "value": {
               "confidence": 70.0,
-              "contender": 92.3,
+              "contender": 86.9,
               "liquidity": 88.2,
-              "market": 84.3,
+              "market": 80.3,
               "player_id": "12527",
-              "rebuild": 99.3,
-              "risk": 34.0,
+              "rebuild": 95.3,
+              "risk": 38.0,
               "source": "heuristic-v0.2"
             },
             "years_exp": 1
@@ -77522,9 +77522,9 @@
           ],
           "first_name": "Romello",
           "full_name": "Romello Height",
-          "injury_body_part": null,
+          "injury_body_part": "Undisclosed",
           "injury_notes": null,
-          "injury_status": null,
+          "injury_status": "Questionable",
           "is_reserve": false,
           "is_starter": false,
           "is_taxi": true,
@@ -77538,12 +77538,12 @@
           "team": "SF",
           "value": {
             "confidence": 55.0,
-            "contender": 48.0,
+            "contender": 42.6,
             "liquidity": 54.1,
-            "market": 48.0,
+            "market": 44.0,
             "player_id": "13361",
-            "rebuild": 54.0,
-            "risk": 24.0,
+            "rebuild": 50.0,
+            "risk": 28.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 0
@@ -79604,9 +79604,9 @@
             ],
             "first_name": "Romello",
             "full_name": "Romello Height",
-            "injury_body_part": null,
+            "injury_body_part": "Undisclosed",
             "injury_notes": null,
-            "injury_status": null,
+            "injury_status": "Questionable",
             "is_reserve": false,
             "is_starter": false,
             "is_taxi": true,
@@ -79620,12 +79620,12 @@
             "team": "SF",
             "value": {
               "confidence": 55.0,
-              "contender": 48.0,
+              "contender": 42.6,
               "liquidity": 54.1,
-              "market": 48.0,
+              "market": 44.0,
               "player_id": "13361",
-              "rebuild": 54.0,
-              "risk": 24.0,
+              "rebuild": 50.0,
+              "risk": 28.0,
               "source": "heuristic-v0.2"
             },
             "years_exp": 0
