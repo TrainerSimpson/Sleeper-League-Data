@@ -17051,7 +17051,7 @@
       "type": "snake"
     }
   ],
-  "generated_at": "2026-08-22T23:55:30.494366+00:00",
+  "generated_at": "2026-08-23T03:32:47.072201+00:00",
   "league": {
     "avatar": "7c15319eacc56bfdeb741f4b006ca693",
     "bracket_id": null,
@@ -28167,7 +28167,7 @@
       "lineups": {
         "future": {
           "average": 74.2,
-          "bench_value": 1587.8,
+          "bench_value": 1583.8,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
@@ -28344,7 +28344,7 @@
           "total": 1780.5
         },
         "win_now": {
-          "average": 76.4,
+          "average": 76.2,
           "bench_value": 1568.0,
           "filled": 24,
           "metric": "contender",
@@ -28449,17 +28449,17 @@
               "slot": "DB"
             },
             {
-              "full_name": "Alohi Gilman",
-              "player_id": "7069",
+              "full_name": "Geno Stone",
+              "player_id": "6923",
               "position": "DB",
               "score": 65.5,
               "slot": "DB"
             },
             {
-              "full_name": "Geno Stone",
-              "player_id": "6923",
+              "full_name": "Alohi Gilman",
+              "player_id": "7069",
               "position": "DB",
-              "score": 65.5,
+              "score": 60.1,
               "slot": "DB"
             },
             {
@@ -28519,15 +28519,15 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1834.6
+          "total": 1829.2
         }
       },
       "positions": {
         "DB": {
-          "contender_top": 256.4,
+          "contender_top": 251.0,
           "count": 6,
-          "market": 314.7,
-          "rebuild_top": 250.4
+          "market": 310.7,
+          "rebuild_top": 249.7
         },
         "DL": {
           "contender_top": 253.1,
@@ -28571,9 +28571,9 @@
       "scores": {
         "future": 74.2,
         "liquidity": 66.8,
-        "market_total": 3235.8,
-        "risk": 32.8,
-        "win_now": 76.4
+        "market_total": 3231.8,
+        "risk": 32.9,
+        "win_now": 76.2
       },
       "team_name": null,
       "window": "contender"
@@ -37122,7 +37122,7 @@
           "is_taxi": false,
           "last_name": "Diggs",
           "normalized_position": "WR",
-          "number": 18,
+          "number": 3,
           "player_id": "2449",
           "position": "WR",
           "search_full_name": "stefondiggs",
@@ -40624,7 +40624,7 @@
             "is_taxi": false,
             "last_name": "Diggs",
             "normalized_position": "WR",
-            "number": 18,
+            "number": 3,
             "player_id": "2449",
             "position": "WR",
             "search_full_name": "stefondiggs",
@@ -46154,7 +46154,7 @@
           "is_taxi": true,
           "last_name": "Williams",
           "normalized_position": "WR",
-          "number": 8,
+          "number": 18,
           "player_id": "12547",
           "position": "WR",
           "search_full_name": "kylewilliams",
@@ -49688,7 +49688,7 @@
             "is_taxi": true,
             "last_name": "Williams",
             "normalized_position": "WR",
-            "number": 8,
+            "number": 18,
             "player_id": "12547",
             "position": "WR",
             "search_full_name": "kylewilliams",
@@ -77826,9 +77826,9 @@
           ],
           "first_name": "Alohi",
           "full_name": "Alohi Gilman",
-          "injury_body_part": null,
+          "injury_body_part": "Back",
           "injury_notes": null,
-          "injury_status": null,
+          "injury_status": "Questionable",
           "is_reserve": false,
           "is_starter": true,
           "is_taxi": false,
@@ -77842,12 +77842,12 @@
           "team": "KC",
           "value": {
             "confidence": 70.0,
-            "contender": 65.5,
+            "contender": 60.1,
             "liquidity": 37.0,
-            "market": 57.5,
+            "market": 53.5,
             "player_id": "7069",
-            "rebuild": 54.5,
-            "risk": 36.0,
+            "rebuild": 50.5,
+            "risk": 40.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 6
@@ -78828,9 +78828,9 @@
             ],
             "first_name": "Alohi",
             "full_name": "Alohi Gilman",
-            "injury_body_part": null,
+            "injury_body_part": "Back",
             "injury_notes": null,
-            "injury_status": null,
+            "injury_status": "Questionable",
             "is_reserve": false,
             "is_starter": true,
             "is_taxi": false,
@@ -78844,12 +78844,12 @@
             "team": "KC",
             "value": {
               "confidence": 70.0,
-              "contender": 65.5,
+              "contender": 60.1,
               "liquidity": 37.0,
-              "market": 57.5,
+              "market": 53.5,
               "player_id": "7069",
-              "rebuild": 54.5,
-              "risk": 36.0,
+              "rebuild": 50.5,
+              "risk": 40.0,
               "source": "heuristic-v0.2"
             },
             "years_exp": 6
@@ -85703,45 +85703,6 @@
       "seller_roster_id": 12
     },
     {
-      "buyer_name": "Steffmeff",
-      "buyer_roster_id": 11,
-      "contender_value": 60.5,
-      "estimated_fit_score": 74.4,
-      "player_id": "3558",
-      "player_name": "Chris Jones",
-      "position": "DL",
-      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
-      "rebuild_value": 37.5,
-      "seller_name": "Dirty's Devils",
-      "seller_roster_id": 4
-    },
-    {
-      "buyer_name": "Steffmeff",
-      "buyer_roster_id": 11,
-      "contender_value": 60.5,
-      "estimated_fit_score": 74.4,
-      "player_id": "3172",
-      "player_name": "DeForest Buckner",
-      "position": "DL",
-      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
-      "rebuild_value": 37.5,
-      "seller_name": "Lonskiy",
-      "seller_roster_id": 5
-    },
-    {
-      "buyer_name": "Steffmeff",
-      "buyer_roster_id": 11,
-      "contender_value": 60.5,
-      "estimated_fit_score": 74.4,
-      "player_id": "2311",
-      "player_name": "Leonard Williams",
-      "position": "DL",
-      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
-      "rebuild_value": 37.5,
-      "seller_name": "The Infinite Rebuild",
-      "seller_roster_id": 12
-    },
-    {
       "buyer_name": "The Infinite Rebuild",
       "buyer_roster_id": 12,
       "contender_value": 60.5,
@@ -86108,19 +86069,6 @@
     {
       "buyer_name": "Steffmeff",
       "buyer_roster_id": 11,
-      "contender_value": 63.5,
-      "estimated_fit_score": 70.8,
-      "player_id": "2393",
-      "player_name": "Danielle Hunter",
-      "position": "DL",
-      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
-      "rebuild_value": 43.5,
-      "seller_name": "Lokomotive Bodensee",
-      "seller_roster_id": 2
-    },
-    {
-      "buyer_name": "Steffmeff",
-      "buyer_roster_id": 11,
       "contender_value": 68.5,
       "estimated_fit_score": 70.8,
       "player_id": "3214",
@@ -86134,15 +86082,15 @@
     {
       "buyer_name": "Steffmeff",
       "buyer_roster_id": 11,
-      "contender_value": 63.5,
+      "contender_value": 56.5,
       "estimated_fit_score": 70.8,
-      "player_id": "4135",
-      "player_name": "Trey Hendrickson",
-      "position": "DL",
-      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
-      "rebuild_value": 43.5,
-      "seller_name": "Ostalb Highlanders",
-      "seller_roster_id": 7
+      "player_id": "6301",
+      "player_name": "Nick Scott",
+      "position": "DB",
+      "reason": "Targets a weak DB group and may fit seller window 'contender'.",
+      "rebuild_value": 36.5,
+      "seller_name": "Lonskiy",
+      "seller_roster_id": 5
     },
     {
       "buyer_name": "The Infinite Rebuild",
@@ -86641,6 +86589,32 @@
     {
       "buyer_name": "Steffmeff",
       "buyer_roster_id": 11,
+      "contender_value": 59.5,
+      "estimated_fit_score": 67.2,
+      "player_id": "5341",
+      "player_name": "Taron Johnson",
+      "position": "DB",
+      "reason": "Targets a weak DB group and may fit seller window 'contender'.",
+      "rebuild_value": 42.5,
+      "seller_name": "Dirty's Devils",
+      "seller_roster_id": 4
+    },
+    {
+      "buyer_name": "Steffmeff",
+      "buyer_roster_id": 11,
+      "contender_value": 59.5,
+      "estimated_fit_score": 67.2,
+      "player_id": "4081",
+      "player_name": "Budda Baker",
+      "position": "DB",
+      "reason": "Targets a weak DB group and may fit seller window 'contender'.",
+      "rebuild_value": 42.5,
+      "seller_name": "Ostalb Highlanders",
+      "seller_roster_id": 7
+    },
+    {
+      "buyer_name": "Steffmeff",
+      "buyer_roster_id": 11,
       "contender_value": 71.5,
       "estimated_fit_score": 67.2,
       "player_id": "5012",
@@ -86650,6 +86624,19 @@
       "rebuild_value": 54.5,
       "seller_name": "Big Black Blocks",
       "seller_roster_id": 8
+    },
+    {
+      "buyer_name": "Steffmeff",
+      "buyer_roster_id": 11,
+      "contender_value": 59.5,
+      "estimated_fit_score": 67.2,
+      "player_id": "4971",
+      "player_name": "Derwin James",
+      "position": "DB",
+      "reason": "Targets a weak DB group and may fit seller window 'contender'.",
+      "rebuild_value": 42.5,
+      "seller_name": "Ravensburger Playmakers",
+      "seller_roster_id": 9
     },
     {
       "buyer_name": "The Infinite Rebuild",
@@ -86806,6 +86793,19 @@
       "rebuild_value": 45.5,
       "seller_name": "Ravensburger Playmakers",
       "seller_roster_id": 9
+    },
+    {
+      "buyer_name": "Ostalb Highlanders",
+      "buyer_roster_id": 7,
+      "contender_value": 61.1,
+      "estimated_fit_score": 66.1,
+      "player_id": "3973",
+      "player_name": "Myles Garrett",
+      "position": "DL",
+      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
+      "rebuild_value": 45.5,
+      "seller_name": "Springfield Wildcats",
+      "seller_roster_id": 3
     }
   ],
   "trade_targets": [
@@ -87005,45 +87005,6 @@
       "seller_roster_id": 12
     },
     {
-      "buyer_name": "Steffmeff",
-      "buyer_roster_id": 11,
-      "contender_value": 60.5,
-      "estimated_fit_score": 74.4,
-      "player_id": "3558",
-      "player_name": "Chris Jones",
-      "position": "DL",
-      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
-      "rebuild_value": 37.5,
-      "seller_name": "Dirty's Devils",
-      "seller_roster_id": 4
-    },
-    {
-      "buyer_name": "Steffmeff",
-      "buyer_roster_id": 11,
-      "contender_value": 60.5,
-      "estimated_fit_score": 74.4,
-      "player_id": "3172",
-      "player_name": "DeForest Buckner",
-      "position": "DL",
-      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
-      "rebuild_value": 37.5,
-      "seller_name": "Lonskiy",
-      "seller_roster_id": 5
-    },
-    {
-      "buyer_name": "Steffmeff",
-      "buyer_roster_id": 11,
-      "contender_value": 60.5,
-      "estimated_fit_score": 74.4,
-      "player_id": "2311",
-      "player_name": "Leonard Williams",
-      "position": "DL",
-      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
-      "rebuild_value": 37.5,
-      "seller_name": "The Infinite Rebuild",
-      "seller_roster_id": 12
-    },
-    {
       "buyer_name": "The Infinite Rebuild",
       "buyer_roster_id": 12,
       "contender_value": 60.5,
@@ -87410,19 +87371,6 @@
     {
       "buyer_name": "Steffmeff",
       "buyer_roster_id": 11,
-      "contender_value": 63.5,
-      "estimated_fit_score": 70.8,
-      "player_id": "2393",
-      "player_name": "Danielle Hunter",
-      "position": "DL",
-      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
-      "rebuild_value": 43.5,
-      "seller_name": "Lokomotive Bodensee",
-      "seller_roster_id": 2
-    },
-    {
-      "buyer_name": "Steffmeff",
-      "buyer_roster_id": 11,
       "contender_value": 68.5,
       "estimated_fit_score": 70.8,
       "player_id": "3214",
@@ -87436,15 +87384,15 @@
     {
       "buyer_name": "Steffmeff",
       "buyer_roster_id": 11,
-      "contender_value": 63.5,
+      "contender_value": 56.5,
       "estimated_fit_score": 70.8,
-      "player_id": "4135",
-      "player_name": "Trey Hendrickson",
-      "position": "DL",
-      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
-      "rebuild_value": 43.5,
-      "seller_name": "Ostalb Highlanders",
-      "seller_roster_id": 7
+      "player_id": "6301",
+      "player_name": "Nick Scott",
+      "position": "DB",
+      "reason": "Targets a weak DB group and may fit seller window 'contender'.",
+      "rebuild_value": 36.5,
+      "seller_name": "Lonskiy",
+      "seller_roster_id": 5
     },
     {
       "buyer_name": "The Infinite Rebuild",
@@ -87943,6 +87891,32 @@
     {
       "buyer_name": "Steffmeff",
       "buyer_roster_id": 11,
+      "contender_value": 59.5,
+      "estimated_fit_score": 67.2,
+      "player_id": "5341",
+      "player_name": "Taron Johnson",
+      "position": "DB",
+      "reason": "Targets a weak DB group and may fit seller window 'contender'.",
+      "rebuild_value": 42.5,
+      "seller_name": "Dirty's Devils",
+      "seller_roster_id": 4
+    },
+    {
+      "buyer_name": "Steffmeff",
+      "buyer_roster_id": 11,
+      "contender_value": 59.5,
+      "estimated_fit_score": 67.2,
+      "player_id": "4081",
+      "player_name": "Budda Baker",
+      "position": "DB",
+      "reason": "Targets a weak DB group and may fit seller window 'contender'.",
+      "rebuild_value": 42.5,
+      "seller_name": "Ostalb Highlanders",
+      "seller_roster_id": 7
+    },
+    {
+      "buyer_name": "Steffmeff",
+      "buyer_roster_id": 11,
       "contender_value": 71.5,
       "estimated_fit_score": 67.2,
       "player_id": "5012",
@@ -87952,6 +87926,19 @@
       "rebuild_value": 54.5,
       "seller_name": "Big Black Blocks",
       "seller_roster_id": 8
+    },
+    {
+      "buyer_name": "Steffmeff",
+      "buyer_roster_id": 11,
+      "contender_value": 59.5,
+      "estimated_fit_score": 67.2,
+      "player_id": "4971",
+      "player_name": "Derwin James",
+      "position": "DB",
+      "reason": "Targets a weak DB group and may fit seller window 'contender'.",
+      "rebuild_value": 42.5,
+      "seller_name": "Ravensburger Playmakers",
+      "seller_roster_id": 9
     },
     {
       "buyer_name": "The Infinite Rebuild",
@@ -88108,6 +88095,19 @@
       "rebuild_value": 45.5,
       "seller_name": "Ravensburger Playmakers",
       "seller_roster_id": 9
+    },
+    {
+      "buyer_name": "Ostalb Highlanders",
+      "buyer_roster_id": 7,
+      "contender_value": 61.1,
+      "estimated_fit_score": 66.1,
+      "player_id": "3973",
+      "player_name": "Myles Garrett",
+      "position": "DL",
+      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
+      "rebuild_value": 45.5,
+      "seller_name": "Springfield Wildcats",
+      "seller_roster_id": 3
     }
   ],
   "traded_picks": [
