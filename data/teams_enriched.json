@@ -8666,7 +8666,6 @@
       "13306",
       "12670",
       "13329",
-      "12910",
       "11687",
       "11560",
       "7016",
@@ -9198,43 +9197,6 @@
           "source": "heuristic-v0.2"
         },
         "years_exp": 0
-      },
-      {
-        "active": true,
-        "age": 23,
-        "age_bucket": "young",
-        "depth_chart_order": 2,
-        "depth_chart_position": "LDE",
-        "fantasy_positions": [
-          "DL"
-        ],
-        "first_name": "B.J.",
-        "full_name": "B.J. Green",
-        "injury_body_part": null,
-        "injury_notes": null,
-        "injury_status": null,
-        "is_reserve": false,
-        "is_starter": false,
-        "is_taxi": false,
-        "last_name": "Green",
-        "normalized_position": "DL",
-        "number": 95,
-        "player_id": "12910",
-        "position": "DE",
-        "search_full_name": "bjgreen",
-        "status": "Active",
-        "team": "JAX",
-        "value": {
-          "confidence": 55.0,
-          "contender": 47.9,
-          "liquidity": 52.2,
-          "market": 47.9,
-          "player_id": "12910",
-          "rebuild": 59.9,
-          "risk": 24.0,
-          "source": "heuristic-v0.2"
-        },
-        "years_exp": 1
       },
       {
         "active": true,
@@ -10252,9 +10214,9 @@
         "full_name": "George Kittle",
         "injury_body_part": "Achilles",
         "injury_notes": "Surgery",
-        "injury_status": "PUP",
-        "is_reserve": true,
-        "is_starter": false,
+        "injury_status": "Questionable",
+        "is_reserve": false,
+        "is_starter": true,
         "is_taxi": false,
         "last_name": "Kittle",
         "normalized_position": "TE",
@@ -10265,13 +10227,13 @@
         "status": "Active",
         "team": "SF",
         "value": {
-          "confidence": 55.0,
-          "contender": 24.0,
+          "confidence": 70.0,
+          "contender": 60.1,
           "liquidity": 62.8,
-          "market": 27.5,
+          "market": 53.5,
           "player_id": "4217",
-          "rebuild": 12.5,
-          "risk": 64.0,
+          "rebuild": 38.5,
+          "risk": 58.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 9
@@ -10774,7 +10736,7 @@
         "injury_notes": null,
         "injury_status": null,
         "is_reserve": false,
-        "is_starter": true,
+        "is_starter": false,
         "is_taxi": false,
         "last_name": "Nailor",
         "normalized_position": "WR",
@@ -10785,12 +10747,12 @@
         "status": "Active",
         "team": "LV",
         "value": {
-          "confidence": 70.0,
-          "contender": 81.5,
+          "confidence": 55.0,
+          "contender": 53.5,
           "liquidity": 88.0,
-          "market": 73.5,
+          "market": 53.5,
           "player_id": "8180",
-          "rebuild": 73.5,
+          "rebuild": 53.5,
           "risk": 30.0,
           "source": "heuristic-v0.2"
         },
@@ -11358,43 +11320,6 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 9
-        },
-        {
-          "active": true,
-          "age": 23,
-          "age_bucket": "young",
-          "depth_chart_order": 2,
-          "depth_chart_position": "LDE",
-          "fantasy_positions": [
-            "DL"
-          ],
-          "first_name": "B.J.",
-          "full_name": "B.J. Green",
-          "injury_body_part": null,
-          "injury_notes": null,
-          "injury_status": null,
-          "is_reserve": false,
-          "is_starter": false,
-          "is_taxi": false,
-          "last_name": "Green",
-          "normalized_position": "DL",
-          "number": 95,
-          "player_id": "12910",
-          "position": "DE",
-          "search_full_name": "bjgreen",
-          "status": "Active",
-          "team": "JAX",
-          "value": {
-            "confidence": 55.0,
-            "contender": 47.9,
-            "liquidity": 52.2,
-            "market": 47.9,
-            "player_id": "12910",
-            "rebuild": 59.9,
-            "risk": 24.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 1
         },
         {
           "active": true,
@@ -12669,6 +12594,43 @@
         },
         {
           "active": true,
+          "age": 32,
+          "age_bucket": "veteran",
+          "depth_chart_order": 1,
+          "depth_chart_position": "TE",
+          "fantasy_positions": [
+            "TE"
+          ],
+          "first_name": "George",
+          "full_name": "George Kittle",
+          "injury_body_part": "Achilles",
+          "injury_notes": "Surgery",
+          "injury_status": "Questionable",
+          "is_reserve": false,
+          "is_starter": true,
+          "is_taxi": false,
+          "last_name": "Kittle",
+          "normalized_position": "TE",
+          "number": 85,
+          "player_id": "4217",
+          "position": "TE",
+          "search_full_name": "georgekittle",
+          "status": "Active",
+          "team": "SF",
+          "value": {
+            "confidence": 70.0,
+            "contender": 60.1,
+            "liquidity": 62.8,
+            "market": 53.5,
+            "player_id": "4217",
+            "rebuild": 38.5,
+            "risk": 58.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 9
+        },
+        {
+          "active": true,
           "age": 25,
           "age_bucket": "prime",
           "depth_chart_order": 2,
@@ -12740,43 +12702,6 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 4
-        },
-        {
-          "active": true,
-          "age": 32,
-          "age_bucket": "veteran",
-          "depth_chart_order": 1,
-          "depth_chart_position": "TE",
-          "fantasy_positions": [
-            "TE"
-          ],
-          "first_name": "George",
-          "full_name": "George Kittle",
-          "injury_body_part": "Achilles",
-          "injury_notes": "Surgery",
-          "injury_status": "PUP",
-          "is_reserve": true,
-          "is_starter": false,
-          "is_taxi": false,
-          "last_name": "Kittle",
-          "normalized_position": "TE",
-          "number": 85,
-          "player_id": "4217",
-          "position": "TE",
-          "search_full_name": "georgekittle",
-          "status": "Active",
-          "team": "SF",
-          "value": {
-            "confidence": 55.0,
-            "contender": 24.0,
-            "liquidity": 62.8,
-            "market": 27.5,
-            "player_id": "4217",
-            "rebuild": 12.5,
-            "risk": 64.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 9
         }
       ],
       "WR": [
@@ -12924,43 +12849,6 @@
             "player_id": "8121",
             "rebuild": 79.5,
             "risk": 24.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 4
-        },
-        {
-          "active": true,
-          "age": 27,
-          "age_bucket": "prime",
-          "depth_chart_order": 2,
-          "depth_chart_position": "SWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "first_name": "Jalen",
-          "full_name": "Jalen Nailor",
-          "injury_body_part": null,
-          "injury_notes": null,
-          "injury_status": null,
-          "is_reserve": false,
-          "is_starter": true,
-          "is_taxi": false,
-          "last_name": "Nailor",
-          "normalized_position": "WR",
-          "number": 9,
-          "player_id": "8180",
-          "position": "WR",
-          "search_full_name": "jalennailor",
-          "status": "Active",
-          "team": "LV",
-          "value": {
-            "confidence": 70.0,
-            "contender": 81.5,
-            "liquidity": 88.0,
-            "market": 73.5,
-            "player_id": "8180",
-            "rebuild": 73.5,
-            "risk": 30.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 4
@@ -13408,13 +13296,49 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 5
+        },
+        {
+          "active": true,
+          "age": 27,
+          "age_bucket": "prime",
+          "depth_chart_order": 2,
+          "depth_chart_position": "SWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "first_name": "Jalen",
+          "full_name": "Jalen Nailor",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Nailor",
+          "normalized_position": "WR",
+          "number": 9,
+          "player_id": "8180",
+          "position": "WR",
+          "search_full_name": "jalennailor",
+          "status": "Active",
+          "team": "LV",
+          "value": {
+            "confidence": 55.0,
+            "contender": 53.5,
+            "liquidity": 88.0,
+            "market": 53.5,
+            "player_id": "8180",
+            "rebuild": 53.5,
+            "risk": 30.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 4
         }
       ]
     },
     "reserve_ids": [
       "10905",
       "10984",
-      "4217",
       "6900",
       "7640"
     ],
@@ -13440,7 +13364,7 @@
       "5001",
       "6806",
       "7567",
-      "8180",
+      "4217",
       "8121",
       "8183",
       "7626",
