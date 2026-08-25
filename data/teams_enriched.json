@@ -10579,7 +10579,7 @@
         "age": 23,
         "age_bucket": "young",
         "depth_chart_order": null,
-        "depth_chart_position": "SWR",
+        "depth_chart_position": null,
         "fantasy_positions": [
           "WR"
         ],
@@ -10837,8 +10837,8 @@
         "active": true,
         "age": 24,
         "age_bucket": "young",
-        "depth_chart_order": 4,
-        "depth_chart_position": "RB",
+        "depth_chart_order": null,
+        "depth_chart_position": null,
         "fantasy_positions": [
           "RB"
         ],
@@ -10859,12 +10859,12 @@
         "status": "Active",
         "team": "ARI",
         "value": {
-          "confidence": 55.0,
-          "contender": 40.6,
+          "confidence": 35.0,
+          "contender": 41.6,
           "liquidity": 86.2,
-          "market": 42.0,
+          "market": 43.0,
           "player_id": "11589",
-          "rebuild": 51.0,
+          "rebuild": 52.0,
           "risk": 38.0,
           "source": "heuristic-v0.2"
         },
@@ -12521,8 +12521,8 @@
           "active": true,
           "age": 24,
           "age_bucket": "young",
-          "depth_chart_order": 4,
-          "depth_chart_position": "RB",
+          "depth_chart_order": null,
+          "depth_chart_position": null,
           "fantasy_positions": [
             "RB"
           ],
@@ -12543,12 +12543,12 @@
           "status": "Active",
           "team": "ARI",
           "value": {
-            "confidence": 55.0,
-            "contender": 40.6,
+            "confidence": 35.0,
+            "contender": 41.6,
             "liquidity": 86.2,
-            "market": 42.0,
+            "market": 43.0,
             "player_id": "11589",
-            "rebuild": 51.0,
+            "rebuild": 52.0,
             "risk": 38.0,
             "source": "heuristic-v0.2"
           },
@@ -13044,7 +13044,7 @@
           "age": 23,
           "age_bucket": "young",
           "depth_chart_order": null,
-          "depth_chart_position": "SWR",
+          "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
           ],
@@ -27929,7 +27929,7 @@
         "age": 24,
         "age_bucket": "young",
         "depth_chart_order": null,
-        "depth_chart_position": null,
+        "depth_chart_position": "LB",
         "fantasy_positions": [
           "LB"
         ],
@@ -30497,7 +30497,7 @@
           "age": 24,
           "age_bucket": "young",
           "depth_chart_order": null,
-          "depth_chart_position": null,
+          "depth_chart_position": "LB",
           "fantasy_positions": [
             "LB"
           ],
@@ -39991,7 +39991,7 @@
       },
       {
         "active": true,
-        "age": 21,
+        "age": 22,
         "age_bucket": "young",
         "depth_chart_order": null,
         "depth_chart_position": "LB",
@@ -40016,11 +40016,11 @@
         "team": "CAR",
         "value": {
           "confidence": 35.0,
-          "contender": 10.8,
-          "liquidity": 54.3,
-          "market": 18.5,
+          "contender": 12.0,
+          "liquidity": 53.2,
+          "market": 19.7,
           "player_id": "12562",
-          "rebuild": 36.5,
+          "rebuild": 34.7,
           "risk": 46.0,
           "source": "heuristic-v0.2"
         },
@@ -42557,43 +42557,6 @@
         },
         {
           "active": true,
-          "age": 21,
-          "age_bucket": "young",
-          "depth_chart_order": null,
-          "depth_chart_position": "LB",
-          "fantasy_positions": [
-            "DL"
-          ],
-          "first_name": "Nic",
-          "full_name": "Nic Scourton",
-          "injury_body_part": "Knee - ACL",
-          "injury_notes": "Surgery",
-          "injury_status": "IR",
-          "is_reserve": true,
-          "is_starter": false,
-          "is_taxi": false,
-          "last_name": "Scourton",
-          "normalized_position": "DL",
-          "number": 11,
-          "player_id": "12562",
-          "position": "DL",
-          "search_full_name": "nicscourton",
-          "status": "Inactive",
-          "team": "CAR",
-          "value": {
-            "confidence": 35.0,
-            "contender": 10.8,
-            "liquidity": 54.3,
-            "market": 18.5,
-            "player_id": "12562",
-            "rebuild": 36.5,
-            "risk": 46.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 1
-        },
-        {
-          "active": true,
           "age": 22,
           "age_bucket": "young",
           "depth_chart_order": 1,
@@ -42625,6 +42588,43 @@
             "player_id": "12556",
             "rebuild": 64.7,
             "risk": 24.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 1
+        },
+        {
+          "active": true,
+          "age": 22,
+          "age_bucket": "young",
+          "depth_chart_order": null,
+          "depth_chart_position": "LB",
+          "fantasy_positions": [
+            "DL"
+          ],
+          "first_name": "Nic",
+          "full_name": "Nic Scourton",
+          "injury_body_part": "Knee - ACL",
+          "injury_notes": "Surgery",
+          "injury_status": "IR",
+          "is_reserve": true,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Scourton",
+          "normalized_position": "DL",
+          "number": 11,
+          "player_id": "12562",
+          "position": "DL",
+          "search_full_name": "nicscourton",
+          "status": "Inactive",
+          "team": "CAR",
+          "value": {
+            "confidence": 35.0,
+            "contender": 12.0,
+            "liquidity": 53.2,
+            "market": 19.7,
+            "player_id": "12562",
+            "rebuild": 34.7,
+            "risk": 46.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 1
