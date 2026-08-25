@@ -308,8 +308,8 @@
     },
     "lineups": {
       "future": {
-        "average": 83.0,
-        "bench_value": 1984.2,
+        "average": 83.8,
+        "bench_value": 1960.2,
         "filled": 24,
         "metric": "rebuild",
         "required": 24,
@@ -350,17 +350,17 @@
             "slot": "WR"
           },
           {
+            "full_name": "Caleb Douglas",
+            "player_id": "13296",
+            "position": "WR",
+            "score": 93.4,
+            "slot": "WR"
+          },
+          {
             "full_name": "Jalen Coker",
             "player_id": "11646",
             "position": "WR",
             "score": 92.8,
-            "slot": "WR"
-          },
-          {
-            "full_name": "Denzel Boston",
-            "player_id": "13346",
-            "position": "WR",
-            "score": 90.4,
             "slot": "WR"
           },
           {
@@ -427,11 +427,18 @@
             "slot": "DB"
           },
           {
+            "full_name": "Denzel Boston",
+            "player_id": "13346",
+            "position": "WR",
+            "score": 90.4,
+            "slot": "SUPER_FLEX"
+          },
+          {
             "full_name": "Travis Hunter",
             "player_id": "12530",
             "position": "WR",
             "score": 87.1,
-            "slot": "SUPER_FLEX"
+            "slot": "FLEX"
           },
           {
             "full_name": "Trey McBride",
@@ -445,13 +452,6 @@
             "player_id": "12509",
             "position": "WR",
             "score": 84.3,
-            "slot": "FLEX"
-          },
-          {
-            "full_name": "Caleb Douglas",
-            "player_id": "13296",
-            "position": "WR",
-            "score": 73.4,
             "slot": "FLEX"
           },
           {
@@ -483,11 +483,11 @@
             "slot": "IDP_FLEX"
           }
         ],
-        "total": 1992.2
+        "total": 2012.2
       },
       "win_now": {
-        "average": 80.2,
-        "bench_value": 1704.2,
+        "average": 80.6,
+        "bench_value": 1689.4,
         "filled": 24,
         "metric": "contender",
         "required": 24,
@@ -535,10 +535,10 @@
             "slot": "WR"
           },
           {
-            "full_name": "Denzel Boston",
-            "player_id": "13346",
+            "full_name": "Caleb Douglas",
+            "player_id": "13296",
             "position": "WR",
-            "score": 83.4,
+            "score": 86.4,
             "slot": "WR"
           },
           {
@@ -605,11 +605,18 @@
             "slot": "DB"
           },
           {
+            "full_name": "Denzel Boston",
+            "player_id": "13346",
+            "position": "WR",
+            "score": 83.4,
+            "slot": "SUPER_FLEX"
+          },
+          {
             "full_name": "Travis Hunter",
             "player_id": "12530",
             "position": "WR",
             "score": 83.1,
-            "slot": "SUPER_FLEX"
+            "slot": "FLEX"
           },
           {
             "full_name": "Colston Loveland",
@@ -633,13 +640,6 @@
             "slot": "FLEX"
           },
           {
-            "full_name": "Tyler Allgeier",
-            "player_id": "8132",
-            "position": "RB",
-            "score": 71.5,
-            "slot": "FLEX"
-          },
-          {
             "full_name": "Rueben Bain",
             "player_id": "13340",
             "position": "DL",
@@ -654,21 +654,21 @@
             "slot": "IDP_FLEX"
           },
           {
-            "full_name": "Keisean Nixon",
-            "player_id": "6333",
-            "position": "DB",
-            "score": 62.5,
+            "full_name": "Omar Speights",
+            "player_id": "12140",
+            "position": "LB",
+            "score": 57.0,
             "slot": "IDP_FLEX"
           }
         ],
-        "total": 1924.1
+        "total": 1933.5
       }
     },
     "positions": {
       "DB": {
         "contender_top": 282.6,
         "count": 7,
-        "market": 390.5,
+        "market": 370.5,
         "rebuild_top": 285.3
       },
       "DL": {
@@ -696,26 +696,26 @@
         "rebuild_top": 327.9
       },
       "TE": {
-        "contender_top": 300.9,
+        "contender_top": 295.5,
         "count": 4,
-        "market": 278.3,
-        "rebuild_top": 305.3
+        "market": 274.3,
+        "rebuild_top": 301.3
       },
       "WR": {
-        "contender_top": 355.8,
+        "contender_top": 359.1,
         "count": 17,
-        "market": 971.1,
-        "rebuild_top": 365.8
+        "market": 991.1,
+        "rebuild_top": 372.1
       }
     },
     "power_rank": 1,
     "roster_id": 6,
     "scores": {
-      "future": 83.0,
-      "liquidity": 71.3,
-      "market_total": 3462.9,
+      "future": 83.8,
+      "liquidity": 71.6,
+      "market_total": 3458.9,
       "risk": 27.9,
-      "win_now": 80.2
+      "win_now": 80.6
     },
     "team_name": "The Dawg Side",
     "window": "contender"
