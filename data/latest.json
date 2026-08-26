@@ -17051,7 +17051,7 @@
       "type": "snake"
     }
   ],
-  "generated_at": "2026-08-26T03:39:06.541618+00:00",
+  "generated_at": "2026-08-26T05:59:29.212708+00:00",
   "league": {
     "avatar": "7c15319eacc56bfdeb741f4b006ca693",
     "bracket_id": null,
@@ -26018,6 +26018,8 @@
       "reserve": [
         "10905",
         "10984",
+        "11589",
+        "13392",
         "6900",
         "7640"
       ],
@@ -26065,7 +26067,6 @@
         "13293",
         "13306",
         "13329",
-        "13392",
         "13403",
         "13405",
         "13423",
@@ -29771,7 +29772,7 @@
       "lineups": {
         "future": {
           "average": 73.7,
-          "bench_value": 2130.1,
+          "bench_value": 2106.1,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
@@ -29949,7 +29950,7 @@
         },
         "win_now": {
           "average": 76.3,
-          "bench_value": 1963.6,
+          "bench_value": 1931.2,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -30154,7 +30155,7 @@
         "RB": {
           "contender_top": 284.6,
           "count": 12,
-          "market": 636.3,
+          "market": 624.3,
           "rebuild_top": 275.3
         },
         "TE": {
@@ -30166,7 +30167,7 @@
         "WR": {
           "contender_top": 368.9,
           "count": 17,
-          "market": 1050.2,
+          "market": 1038.2,
           "rebuild_top": 362.3
         }
       },
@@ -30174,9 +30175,9 @@
       "roster_id": 3,
       "scores": {
         "future": 73.7,
-        "liquidity": 72.2,
-        "market_total": 3639.0,
-        "risk": 31.2,
+        "liquidity": 72.1,
+        "market_total": 3615.0,
+        "risk": 31.3,
         "win_now": 76.3
       },
       "team_name": "Springfield Wildcats",
@@ -44777,25 +44778,25 @@
           "injury_body_part": "Knee",
           "injury_notes": "Soreness",
           "injury_status": "IR",
-          "is_reserve": false,
+          "is_reserve": true,
           "is_starter": false,
-          "is_taxi": true,
+          "is_taxi": false,
           "last_name": "Caldwell",
           "normalized_position": "WR",
           "number": 8,
           "player_id": "13392",
           "position": "WR",
           "search_full_name": "jeffcaldwell",
-          "status": "Active",
-          "team": null,
+          "status": "Inactive",
+          "team": "KC",
           "value": {
             "confidence": 35.0,
-            "contender": 41.1,
+            "contender": 24.9,
             "liquidity": 92.2,
-            "market": 44.6,
+            "market": 32.6,
             "player_id": "13392",
-            "rebuild": 56.6,
-            "risk": 34.0,
+            "rebuild": 44.6,
+            "risk": 46.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 0
@@ -45036,7 +45037,7 @@
           "injury_body_part": "Knee",
           "injury_notes": null,
           "injury_status": "IR",
-          "is_reserve": false,
+          "is_reserve": true,
           "is_starter": false,
           "is_taxi": false,
           "last_name": "Benson",
@@ -45045,16 +45046,16 @@
           "player_id": "11589",
           "position": "RB",
           "search_full_name": "treybenson",
-          "status": "Active",
-          "team": null,
+          "status": "Inactive",
+          "team": "ARI",
           "value": {
             "confidence": 55.0,
-            "contender": 29.5,
+            "contender": 13.3,
             "liquidity": 86.2,
-            "market": 33.0,
+            "market": 21.0,
             "player_id": "11589",
-            "rebuild": 42.0,
-            "risk": 44.0,
+            "rebuild": 30.0,
+            "risk": 56.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 2
@@ -46720,7 +46721,7 @@
             "injury_body_part": "Knee",
             "injury_notes": null,
             "injury_status": "IR",
-            "is_reserve": false,
+            "is_reserve": true,
             "is_starter": false,
             "is_taxi": false,
             "last_name": "Benson",
@@ -46729,16 +46730,16 @@
             "player_id": "11589",
             "position": "RB",
             "search_full_name": "treybenson",
-            "status": "Active",
-            "team": null,
+            "status": "Inactive",
+            "team": "ARI",
             "value": {
               "confidence": 55.0,
-              "contender": 29.5,
+              "contender": 13.3,
               "liquidity": 86.2,
-              "market": 33.0,
+              "market": 21.0,
               "player_id": "11589",
-              "rebuild": 42.0,
-              "risk": 44.0,
+              "rebuild": 30.0,
+              "risk": 56.0,
               "source": "heuristic-v0.2"
             },
             "years_exp": 2
@@ -47242,25 +47243,25 @@
             "injury_body_part": "Knee",
             "injury_notes": "Soreness",
             "injury_status": "IR",
-            "is_reserve": false,
+            "is_reserve": true,
             "is_starter": false,
-            "is_taxi": true,
+            "is_taxi": false,
             "last_name": "Caldwell",
             "normalized_position": "WR",
             "number": 8,
             "player_id": "13392",
             "position": "WR",
             "search_full_name": "jeffcaldwell",
-            "status": "Active",
-            "team": null,
+            "status": "Inactive",
+            "team": "KC",
             "value": {
               "confidence": 35.0,
-              "contender": 41.1,
+              "contender": 24.9,
               "liquidity": 92.2,
-              "market": 44.6,
+              "market": 32.6,
               "player_id": "13392",
-              "rebuild": 56.6,
-              "risk": 34.0,
+              "rebuild": 44.6,
+              "risk": 46.0,
               "source": "heuristic-v0.2"
             },
             "years_exp": 0
@@ -47603,6 +47604,8 @@
       "reserve_ids": [
         "10905",
         "10984",
+        "11589",
+        "13392",
         "6900",
         "7640"
       ],
@@ -47650,7 +47653,6 @@
         "13293",
         "13306",
         "13329",
-        "13392",
         "13403",
         "13405",
         "13423",
