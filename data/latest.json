@@ -17051,7 +17051,7 @@
       "type": "snake"
     }
   ],
-  "generated_at": "2026-08-26T11:03:59.382788+00:00",
+  "generated_at": "2026-08-26T14:08:15.612653+00:00",
   "league": {
     "avatar": "7c15319eacc56bfdeb741f4b006ca693",
     "bracket_id": null,
@@ -27468,7 +27468,7 @@
       },
       "lineups": {
         "future": {
-          "average": 83.8,
+          "average": 83.7,
           "bench_value": 1964.2,
           "filled": 24,
           "metric": "rebuild",
@@ -27524,17 +27524,17 @@
               "slot": "WR"
             },
             {
-              "full_name": "Rueben Bain",
-              "player_id": "13340",
-              "position": "DL",
-              "score": 85.0,
-              "slot": "DL"
-            },
-            {
               "full_name": "Austin Booker",
               "player_id": "11760",
               "position": "DL",
               "score": 84.4,
+              "slot": "DL"
+            },
+            {
+              "full_name": "Rueben Bain",
+              "player_id": "13340",
+              "position": "DL",
+              "score": 81.0,
               "slot": "DL"
             },
             {
@@ -27643,10 +27643,10 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 2012.2
+          "total": 2008.2
         },
         "win_now": {
-          "average": 80.8,
+          "average": 80.6,
           "bench_value": 1689.4,
           "filled": 24,
           "metric": "contender",
@@ -27803,7 +27803,7 @@
               "full_name": "Rueben Bain",
               "player_id": "13340",
               "position": "DL",
-              "score": 75.0,
+              "score": 69.6,
               "slot": "IDP_FLEX"
             },
             {
@@ -27821,7 +27821,7 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1938.9
+          "total": 1933.5
         }
       },
       "positions": {
@@ -27832,10 +27832,10 @@
           "rebuild_top": 285.3
         },
         "DL": {
-          "contender_top": 317.7,
+          "contender_top": 312.3,
           "count": 6,
-          "market": 363.6,
-          "rebuild_top": 324.7
+          "market": 359.6,
+          "rebuild_top": 320.7
         },
         "LB": {
           "contender_top": 287.1,
@@ -27871,11 +27871,11 @@
       "power_rank": 1,
       "roster_id": 6,
       "scores": {
-        "future": 83.8,
-        "liquidity": 71.6,
-        "market_total": 3462.9,
-        "risk": 27.8,
-        "win_now": 80.8
+        "future": 83.7,
+        "liquidity": 71.7,
+        "market_total": 3458.9,
+        "risk": 27.9,
+        "win_now": 80.6
       },
       "team_name": "The Dawg Side",
       "window": "contender"
@@ -58797,9 +58797,9 @@
           ],
           "first_name": "Rueben",
           "full_name": "Rueben Bain",
-          "injury_body_part": null,
+          "injury_body_part": "Shoulder - AC Joint",
           "injury_notes": null,
-          "injury_status": null,
+          "injury_status": "Questionable",
           "is_reserve": false,
           "is_starter": true,
           "is_taxi": false,
@@ -58813,12 +58813,12 @@
           "team": "TB",
           "value": {
             "confidence": 70.0,
-            "contender": 75.0,
+            "contender": 69.6,
             "liquidity": 54.3,
-            "market": 67.0,
+            "market": 63.0,
             "player_id": "13340",
-            "rebuild": 85.0,
-            "risk": 24.0,
+            "rebuild": 81.0,
+            "risk": 28.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 0
@@ -59320,9 +59320,9 @@
             ],
             "first_name": "Rueben",
             "full_name": "Rueben Bain",
-            "injury_body_part": null,
+            "injury_body_part": "Shoulder - AC Joint",
             "injury_notes": null,
-            "injury_status": null,
+            "injury_status": "Questionable",
             "is_reserve": false,
             "is_starter": true,
             "is_taxi": false,
@@ -59336,12 +59336,12 @@
             "team": "TB",
             "value": {
               "confidence": 70.0,
-              "contender": 75.0,
+              "contender": 69.6,
               "liquidity": 54.3,
-              "market": 67.0,
+              "market": 63.0,
               "player_id": "13340",
-              "rebuild": 85.0,
-              "risk": 24.0,
+              "rebuild": 81.0,
+              "risk": 28.0,
               "source": "heuristic-v0.2"
             },
             "years_exp": 0
