@@ -4546,7 +4546,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 4,
-      "waiver_position": 12,
+      "waiver_position": 11,
       "wins": 0
     },
     "starter_ids": [
@@ -13503,7 +13503,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 7,
-      "waiver_position": 11,
+      "waiver_position": 10,
       "wins": 0
     },
     "starter_ids": [
@@ -18317,9 +18317,9 @@
         ],
         "first_name": "Will",
         "full_name": "Will Kacmarek",
-        "injury_body_part": null,
+        "injury_body_part": "Undisclosed",
         "injury_notes": null,
-        "injury_status": null,
+        "injury_status": "Questionable",
         "is_reserve": false,
         "is_starter": false,
         "is_taxi": true,
@@ -18333,12 +18333,12 @@
         "team": "MIA",
         "value": {
           "confidence": 55.0,
-          "contender": 51.4,
+          "contender": 46.0,
           "liquidity": 72.2,
-          "market": 51.4,
+          "market": 47.4,
           "player_id": "13434",
-          "rebuild": 63.4,
-          "risk": 24.0,
+          "rebuild": 59.4,
+          "risk": 28.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 0
@@ -21813,9 +21813,9 @@
           ],
           "first_name": "Will",
           "full_name": "Will Kacmarek",
-          "injury_body_part": null,
+          "injury_body_part": "Undisclosed",
           "injury_notes": null,
-          "injury_status": null,
+          "injury_status": "Questionable",
           "is_reserve": false,
           "is_starter": false,
           "is_taxi": true,
@@ -21829,12 +21829,12 @@
           "team": "MIA",
           "value": {
             "confidence": 55.0,
-            "contender": 51.4,
+            "contender": 46.0,
             "liquidity": 72.2,
-            "market": 51.4,
+            "market": 47.4,
             "player_id": "13434",
-            "rebuild": 63.4,
-            "risk": 24.0,
+            "rebuild": 59.4,
+            "risk": 28.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 0
@@ -22617,6 +22617,7 @@
       "13296",
       "9228",
       "12509",
+      "13264",
       "13492",
       "13915",
       "12524",
@@ -24336,6 +24337,43 @@
           "source": "heuristic-v0.2"
         },
         "years_exp": 1
+      },
+      {
+        "active": true,
+        "age": 26,
+        "age_bucket": "prime",
+        "depth_chart_order": null,
+        "depth_chart_position": "SWR",
+        "fantasy_positions": [
+          "WR"
+        ],
+        "first_name": "Dohnte",
+        "full_name": "Dohnte Meyers",
+        "injury_body_part": null,
+        "injury_notes": null,
+        "injury_status": null,
+        "is_reserve": false,
+        "is_starter": false,
+        "is_taxi": false,
+        "last_name": "Meyers",
+        "normalized_position": "WR",
+        "number": 81,
+        "player_id": "13264",
+        "position": "WR",
+        "search_full_name": "dohntemeyers",
+        "status": "Active",
+        "team": "CIN",
+        "value": {
+          "confidence": 35.0,
+          "contender": 51.5,
+          "liquidity": 89.0,
+          "market": 51.5,
+          "player_id": "13264",
+          "rebuild": 54.5,
+          "risk": 24.0,
+          "source": "heuristic-v0.2"
+        },
+        "years_exp": 3
       },
       {
         "active": true,
@@ -26983,6 +27021,43 @@
         },
         {
           "active": true,
+          "age": 26,
+          "age_bucket": "prime",
+          "depth_chart_order": null,
+          "depth_chart_position": "SWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "first_name": "Dohnte",
+          "full_name": "Dohnte Meyers",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Meyers",
+          "normalized_position": "WR",
+          "number": 81,
+          "player_id": "13264",
+          "position": "WR",
+          "search_full_name": "dohntemeyers",
+          "status": "Active",
+          "team": "CIN",
+          "value": {
+            "confidence": 35.0,
+            "contender": 51.5,
+            "liquidity": 89.0,
+            "market": 51.5,
+            "player_id": "13264",
+            "rebuild": 54.5,
+            "risk": 24.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 3
+        },
+        {
+          "active": true,
           "age": 31,
           "age_bucket": "veteran",
           "depth_chart_order": null,
@@ -27107,8 +27182,8 @@
       "losses": 0,
       "ties": 0,
       "total_moves": 0,
-      "waiver_budget_used": 7,
-      "waiver_position": 10,
+      "waiver_budget_used": 10,
+      "waiver_position": 12,
       "wins": 0
     },
     "starter_ids": [
