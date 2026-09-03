@@ -4545,7 +4545,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 4,
-      "waiver_position": 10,
+      "waiver_position": 9,
       "wins": 0
     },
     "starter_ids": [
@@ -8753,6 +8753,7 @@
       "12520",
       "11637",
       "11626",
+      "11729",
       "10984",
       "11199",
       "10903",
@@ -8769,12 +8770,12 @@
       "13405",
       "12541",
       "8183",
+      "5061",
       "4217",
       "6900",
       "7610",
       "7640",
       "7659",
-      "13403",
       "12495",
       "10933",
       "13392",
@@ -9759,6 +9760,43 @@
       },
       {
         "active": true,
+        "age": 25,
+        "age_bucket": "prime",
+        "depth_chart_order": 3,
+        "depth_chart_position": "RB",
+        "fantasy_positions": [
+          "RB"
+        ],
+        "first_name": "Sione",
+        "full_name": "Sione Vaki",
+        "injury_body_part": null,
+        "injury_notes": null,
+        "injury_status": null,
+        "is_reserve": false,
+        "is_starter": false,
+        "is_taxi": false,
+        "last_name": "Vaki",
+        "normalized_position": "RB",
+        "number": 33,
+        "player_id": "11729",
+        "position": "RB",
+        "search_full_name": "sionevaki",
+        "status": "Active",
+        "team": "DET",
+        "value": {
+          "confidence": 55.0,
+          "contender": 44.0,
+          "liquidity": 85.1,
+          "market": 44.0,
+          "player_id": "11729",
+          "rebuild": 50.0,
+          "risk": 40.0,
+          "source": "heuristic-v0.2"
+        },
+        "years_exp": 2
+      },
+      {
+        "active": true,
         "age": 24,
         "age_bucket": "young",
         "depth_chart_order": 2,
@@ -9995,7 +10033,7 @@
         "injury_status": null,
         "is_reserve": false,
         "is_starter": false,
-        "is_taxi": false,
+        "is_taxi": true,
         "last_name": "Thomas",
         "normalized_position": "DL",
         "number": 57,
@@ -10352,6 +10390,44 @@
       },
       {
         "active": true,
+        "age": 29,
+        "age_bucket": "veteran",
+        "depth_chart_order": 1,
+        "depth_chart_position": "ROLB",
+        "fantasy_positions": [
+          "DL",
+          "LB"
+        ],
+        "first_name": "Uchenna",
+        "full_name": "Uchenna Nwosu",
+        "injury_body_part": null,
+        "injury_notes": null,
+        "injury_status": null,
+        "is_reserve": false,
+        "is_starter": false,
+        "is_taxi": false,
+        "last_name": "Nwosu",
+        "normalized_position": "LB",
+        "number": 7,
+        "player_id": "5061",
+        "position": "LB",
+        "search_full_name": "uchennanwosu",
+        "status": "Active",
+        "team": "SEA",
+        "value": {
+          "confidence": 55.0,
+          "contender": 39.5,
+          "liquidity": 49.9,
+          "market": 39.5,
+          "player_id": "5061",
+          "rebuild": 33.5,
+          "risk": 42.0,
+          "source": "heuristic-v0.2"
+        },
+        "years_exp": 8
+      },
+      {
+        "active": true,
         "age": 32,
         "age_bucket": "veteran",
         "depth_chart_order": 1,
@@ -10536,43 +10612,6 @@
           "source": "heuristic-v0.2"
         },
         "years_exp": 5
-      },
-      {
-        "active": true,
-        "age": null,
-        "age_bucket": "unknown",
-        "depth_chart_order": null,
-        "depth_chart_position": null,
-        "fantasy_positions": [
-          "RB"
-        ],
-        "first_name": "Jam",
-        "full_name": "Jam Miller",
-        "injury_body_part": "Undisclosed",
-        "injury_notes": null,
-        "injury_status": "Questionable",
-        "is_reserve": false,
-        "is_starter": false,
-        "is_taxi": true,
-        "last_name": "Miller",
-        "normalized_position": "RB",
-        "number": 30,
-        "player_id": "13403",
-        "position": "RB",
-        "search_full_name": "jammiller",
-        "status": "Active",
-        "team": null,
-        "value": {
-          "confidence": 35.0,
-          "contender": 43.6,
-          "liquidity": 83.0,
-          "market": 45.0,
-          "player_id": "13403",
-          "rebuild": 45.0,
-          "risk": 44.0,
-          "source": "heuristic-v0.2"
-        },
-        "years_exp": 0
       },
       {
         "active": true,
@@ -11747,7 +11786,7 @@
           "injury_status": null,
           "is_reserve": false,
           "is_starter": false,
-          "is_taxi": false,
+          "is_taxi": true,
           "last_name": "Thomas",
           "normalized_position": "DL",
           "number": 57,
@@ -12104,6 +12143,44 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 5
+        },
+        {
+          "active": true,
+          "age": 29,
+          "age_bucket": "veteran",
+          "depth_chart_order": 1,
+          "depth_chart_position": "ROLB",
+          "fantasy_positions": [
+            "DL",
+            "LB"
+          ],
+          "first_name": "Uchenna",
+          "full_name": "Uchenna Nwosu",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Nwosu",
+          "normalized_position": "LB",
+          "number": 7,
+          "player_id": "5061",
+          "position": "LB",
+          "search_full_name": "uchennanwosu",
+          "status": "Active",
+          "team": "SEA",
+          "value": {
+            "confidence": 55.0,
+            "contender": 39.5,
+            "liquidity": 49.9,
+            "market": 39.5,
+            "player_id": "5061",
+            "rebuild": 33.5,
+            "risk": 42.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 8
         }
       ],
       "QB": [
@@ -12703,6 +12780,43 @@
         },
         {
           "active": true,
+          "age": 25,
+          "age_bucket": "prime",
+          "depth_chart_order": 3,
+          "depth_chart_position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "first_name": "Sione",
+          "full_name": "Sione Vaki",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Vaki",
+          "normalized_position": "RB",
+          "number": 33,
+          "player_id": "11729",
+          "position": "RB",
+          "search_full_name": "sionevaki",
+          "status": "Active",
+          "team": "DET",
+          "value": {
+            "confidence": 55.0,
+            "contender": 44.0,
+            "liquidity": 85.1,
+            "market": 44.0,
+            "player_id": "11729",
+            "rebuild": 50.0,
+            "risk": 40.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 2
+        },
+        {
+          "active": true,
           "age": 27,
           "age_bucket": "prime",
           "depth_chart_order": 4,
@@ -12774,43 +12888,6 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 6
-        },
-        {
-          "active": true,
-          "age": null,
-          "age_bucket": "unknown",
-          "depth_chart_order": null,
-          "depth_chart_position": null,
-          "fantasy_positions": [
-            "RB"
-          ],
-          "first_name": "Jam",
-          "full_name": "Jam Miller",
-          "injury_body_part": "Undisclosed",
-          "injury_notes": null,
-          "injury_status": "Questionable",
-          "is_reserve": false,
-          "is_starter": false,
-          "is_taxi": true,
-          "last_name": "Miller",
-          "normalized_position": "RB",
-          "number": 30,
-          "player_id": "13403",
-          "position": "RB",
-          "search_full_name": "jammiller",
-          "status": "Active",
-          "team": null,
-          "value": {
-            "confidence": 35.0,
-            "contender": 43.6,
-            "liquidity": 83.0,
-            "market": 45.0,
-            "player_id": "13403",
-            "rebuild": 45.0,
-            "risk": 44.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 0
         }
       ],
       "TE": [
@@ -13611,11 +13688,11 @@
       "13293",
       "13306",
       "13329",
-      "13403",
       "13405",
       "13423",
       "13425",
-      "13445"
+      "13445",
+      "13650"
     ],
     "team_name": "Springfield Wildcats"
   },
@@ -22598,7 +22675,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 41,
-      "waiver_position": 6,
+      "waiver_position": 5,
       "wins": 0
     },
     "starter_ids": [
@@ -27258,7 +27335,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 10,
-      "waiver_position": 11,
+      "waiver_position": 10,
       "wins": 0
     },
     "starter_ids": [
@@ -32226,7 +32303,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 2,
-      "waiver_position": 8,
+      "waiver_position": 7,
       "wins": 0
     },
     "starter_ids": [
@@ -40062,6 +40139,7 @@
       "13380",
       "9488",
       "8278",
+      "11714",
       "8119",
       "11667",
       "12571"
@@ -42182,6 +42260,43 @@
       },
       {
         "active": true,
+        "age": 23,
+        "age_bucket": "young",
+        "depth_chart_order": 2,
+        "depth_chart_position": "LOLB",
+        "fantasy_positions": [
+          "DL"
+        ],
+        "first_name": "Jonah",
+        "full_name": "Jonah Elliss",
+        "injury_body_part": null,
+        "injury_notes": null,
+        "injury_status": null,
+        "is_reserve": false,
+        "is_starter": false,
+        "is_taxi": false,
+        "last_name": "Elliss",
+        "normalized_position": "DL",
+        "number": 52,
+        "player_id": "11714",
+        "position": "DE",
+        "search_full_name": "jonahelliss",
+        "status": "Active",
+        "team": "DEN",
+        "value": {
+          "confidence": 55.0,
+          "contender": 49.4,
+          "liquidity": 52.2,
+          "market": 49.4,
+          "player_id": "11714",
+          "rebuild": 61.4,
+          "risk": 24.0,
+          "source": "heuristic-v0.2"
+        },
+        "years_exp": 2
+      },
+      {
+        "active": true,
         "age": 26,
         "age_bucket": "prime",
         "depth_chart_order": 2,
@@ -42814,6 +42929,43 @@
             "market": 52.4,
             "player_id": "11663",
             "rebuild": 64.4,
+            "risk": 24.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 2
+        },
+        {
+          "active": true,
+          "age": 23,
+          "age_bucket": "young",
+          "depth_chart_order": 2,
+          "depth_chart_position": "LOLB",
+          "fantasy_positions": [
+            "DL"
+          ],
+          "first_name": "Jonah",
+          "full_name": "Jonah Elliss",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Elliss",
+          "normalized_position": "DL",
+          "number": 52,
+          "player_id": "11714",
+          "position": "DE",
+          "search_full_name": "jonahelliss",
+          "status": "Active",
+          "team": "DEN",
+          "value": {
+            "confidence": 55.0,
+            "contender": 49.4,
+            "liquidity": 52.2,
+            "market": 49.4,
+            "player_id": "11714",
+            "rebuild": 61.4,
             "risk": 24.0,
             "source": "heuristic-v0.2"
           },
@@ -44550,7 +44702,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 5,
+      "waiver_position": 11,
       "wins": 0
     },
     "starter_ids": [
@@ -49062,7 +49214,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 5,
-      "waiver_position": 7,
+      "waiver_position": 6,
       "wins": 0
     },
     "starter_ids": [
@@ -53568,7 +53720,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 10,
-      "waiver_position": 9,
+      "waiver_position": 8,
       "wins": 0
     },
     "starter_ids": [
