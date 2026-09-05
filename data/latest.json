@@ -17051,7 +17051,7 @@
       "type": "snake"
     }
   ],
-  "generated_at": "2026-09-05T10:40:09.043130+00:00",
+  "generated_at": "2026-09-05T13:52:59.178344+00:00",
   "league": {
     "avatar": "7c15319eacc56bfdeb741f4b006ca693",
     "bracket_id": null,
@@ -17774,7 +17774,7 @@
           "11620",
           "5001",
           "10213",
-          "7567",
+          "6806",
           "4217",
           "8121",
           "8183",
@@ -21770,7 +21770,7 @@
         "11620",
         "5001",
         "10213",
-        "7567",
+        "6806",
         "4217",
         "8121",
         "8183",
@@ -25113,8 +25113,8 @@
           "total": 1775.9
         },
         "win_now": {
-          "average": 77.1,
-          "bench_value": 1989.5,
+          "average": 77.2,
+          "bench_value": 1986.5,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -25253,10 +25253,10 @@
               "slot": "FLEX"
             },
             {
-              "full_name": "Kenny Gainwell",
-              "player_id": "7567",
+              "full_name": "J.K. Dobbins",
+              "player_id": "6806",
               "position": "RB",
-              "score": 66.5,
+              "score": 69.5,
               "slot": "FLEX"
             },
             {
@@ -25288,7 +25288,7 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1850.2
+          "total": 1853.2
         }
       },
       "positions": {
@@ -25317,7 +25317,7 @@
           "rebuild_top": 333.6
         },
         "RB": {
-          "contender_top": 273.1,
+          "contender_top": 276.1,
           "count": 11,
           "market": 549.8,
           "rebuild_top": 279.8
@@ -25342,7 +25342,7 @@
         "liquidity": 70.6,
         "market_total": 3703.0,
         "risk": 31.7,
-        "win_now": 77.1
+        "win_now": 77.2
       },
       "team_name": "Springfield Wildcats",
       "window": "contender"
@@ -38879,7 +38879,7 @@
           "injury_notes": null,
           "injury_status": null,
           "is_reserve": false,
-          "is_starter": false,
+          "is_starter": true,
           "is_taxi": false,
           "last_name": "Dobbins",
           "normalized_position": "RB",
@@ -38890,12 +38890,12 @@
           "status": "Active",
           "team": "DEN",
           "value": {
-            "confidence": 55.0,
-            "contender": 41.5,
+            "confidence": 70.0,
+            "contender": 69.5,
             "liquidity": 83.0,
-            "market": 41.5,
+            "market": 61.5,
             "player_id": "6806",
-            "rebuild": 36.5,
+            "rebuild": 56.5,
             "risk": 52.0,
             "source": "heuristic-v0.2"
           },
@@ -40028,7 +40028,7 @@
           "injury_notes": null,
           "injury_status": null,
           "is_reserve": false,
-          "is_starter": true,
+          "is_starter": false,
           "is_taxi": false,
           "last_name": "Gainwell",
           "normalized_position": "RB",
@@ -40039,12 +40039,12 @@
           "status": "Active",
           "team": "TB",
           "value": {
-            "confidence": 70.0,
-            "contender": 66.5,
+            "confidence": 55.0,
+            "contender": 38.5,
             "liquidity": 83.0,
-            "market": 58.5,
+            "market": 38.5,
             "player_id": "7567",
-            "rebuild": 53.5,
+            "rebuild": 33.5,
             "risk": 52.0,
             "source": "heuristic-v0.2"
           },
@@ -42556,38 +42556,38 @@
             "active": true,
             "age": 27,
             "age_bucket": "prime",
-            "depth_chart_order": 2,
+            "depth_chart_order": 1,
             "depth_chart_position": "RB",
             "fantasy_positions": [
               "RB"
             ],
-            "first_name": "Kenny",
-            "full_name": "Kenny Gainwell",
+            "first_name": "J.K.",
+            "full_name": "J.K. Dobbins",
             "injury_body_part": null,
             "injury_notes": null,
             "injury_status": null,
             "is_reserve": false,
             "is_starter": true,
             "is_taxi": false,
-            "last_name": "Gainwell",
+            "last_name": "Dobbins",
             "normalized_position": "RB",
-            "number": 1,
-            "player_id": "7567",
+            "number": 27,
+            "player_id": "6806",
             "position": "RB",
-            "search_full_name": "kennygainwell",
+            "search_full_name": "jkdobbins",
             "status": "Active",
-            "team": "TB",
+            "team": "DEN",
             "value": {
               "confidence": 70.0,
-              "contender": 66.5,
+              "contender": 69.5,
               "liquidity": 83.0,
-              "market": 58.5,
-              "player_id": "7567",
-              "rebuild": 53.5,
+              "market": 61.5,
+              "player_id": "6806",
+              "rebuild": 56.5,
               "risk": 52.0,
               "source": "heuristic-v0.2"
             },
-            "years_exp": 5
+            "years_exp": 6
           },
           {
             "active": true,
@@ -42852,38 +42852,38 @@
             "active": true,
             "age": 27,
             "age_bucket": "prime",
-            "depth_chart_order": 1,
+            "depth_chart_order": 2,
             "depth_chart_position": "RB",
             "fantasy_positions": [
               "RB"
             ],
-            "first_name": "J.K.",
-            "full_name": "J.K. Dobbins",
+            "first_name": "Kenny",
+            "full_name": "Kenny Gainwell",
             "injury_body_part": null,
             "injury_notes": null,
             "injury_status": null,
             "is_reserve": false,
             "is_starter": false,
             "is_taxi": false,
-            "last_name": "Dobbins",
+            "last_name": "Gainwell",
             "normalized_position": "RB",
-            "number": 27,
-            "player_id": "6806",
+            "number": 1,
+            "player_id": "7567",
             "position": "RB",
-            "search_full_name": "jkdobbins",
+            "search_full_name": "kennygainwell",
             "status": "Active",
-            "team": "DEN",
+            "team": "TB",
             "value": {
               "confidence": 55.0,
-              "contender": 41.5,
+              "contender": 38.5,
               "liquidity": 83.0,
-              "market": 41.5,
-              "player_id": "6806",
-              "rebuild": 36.5,
+              "market": 38.5,
+              "player_id": "7567",
+              "rebuild": 33.5,
               "risk": 52.0,
               "source": "heuristic-v0.2"
             },
-            "years_exp": 6
+            "years_exp": 5
           }
         ],
         "TE": [
@@ -43661,7 +43661,7 @@
         "11620",
         "5001",
         "10213",
-        "7567",
+        "6806",
         "4217",
         "8121",
         "8183",
