@@ -14811,7 +14811,7 @@
         "full_name": "Nick Martin",
         "injury_body_part": null,
         "injury_notes": null,
-        "injury_status": null,
+        "injury_status": "IR",
         "is_reserve": false,
         "is_starter": false,
         "is_taxi": true,
@@ -14825,12 +14825,12 @@
         "team": "SF",
         "value": {
           "confidence": 55.0,
-          "contender": 33.9,
+          "contender": 20.4,
           "liquidity": 56.2,
-          "market": 38.1,
+          "market": 28.1,
           "player_id": "12630",
-          "rebuild": 50.1,
-          "risk": 36.0,
+          "rebuild": 40.1,
+          "risk": 46.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 1
@@ -16968,7 +16968,7 @@
           "full_name": "Nick Martin",
           "injury_body_part": null,
           "injury_notes": null,
-          "injury_status": null,
+          "injury_status": "IR",
           "is_reserve": false,
           "is_starter": false,
           "is_taxi": true,
@@ -16982,12 +16982,12 @@
           "team": "SF",
           "value": {
             "confidence": 55.0,
-            "contender": 33.9,
+            "contender": 20.4,
             "liquidity": 56.2,
-            "market": 38.1,
+            "market": 28.1,
             "player_id": "12630",
-            "rebuild": 50.1,
-            "risk": 36.0,
+            "rebuild": 40.1,
+            "risk": 46.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 1
@@ -18243,8 +18243,7 @@
         "depth_chart_order": 1,
         "depth_chart_position": "LDE",
         "fantasy_positions": [
-          "DL",
-          "LB"
+          "DL"
         ],
         "first_name": "Travon",
         "full_name": "Travon Walker",
@@ -18255,20 +18254,20 @@
         "is_starter": true,
         "is_taxi": false,
         "last_name": "Walker",
-        "normalized_position": "LB",
+        "normalized_position": "DL",
         "number": 44,
         "player_id": "8265",
-        "position": "LB",
+        "position": "DL",
         "search_full_name": "travonwalker",
         "status": "Active",
         "team": "JAX",
         "value": {
           "confidence": 70.0,
-          "contender": 86.5,
-          "liquidity": 54.1,
-          "market": 78.5,
+          "contender": 84.3,
+          "liquidity": 50.1,
+          "market": 76.3,
           "player_id": "8265",
-          "rebuild": 84.5,
+          "rebuild": 82.3,
           "risk": 24.0,
           "source": "heuristic-v0.2"
         },
@@ -20688,6 +20687,43 @@
       "DL": [
         {
           "active": true,
+          "age": 25,
+          "age_bucket": "prime",
+          "depth_chart_order": 1,
+          "depth_chart_position": "LDE",
+          "fantasy_positions": [
+            "DL"
+          ],
+          "first_name": "Travon",
+          "full_name": "Travon Walker",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": true,
+          "is_taxi": false,
+          "last_name": "Walker",
+          "normalized_position": "DL",
+          "number": 44,
+          "player_id": "8265",
+          "position": "DL",
+          "search_full_name": "travonwalker",
+          "status": "Active",
+          "team": "JAX",
+          "value": {
+            "confidence": 70.0,
+            "contender": 84.3,
+            "liquidity": 50.1,
+            "market": 76.3,
+            "player_id": "8265",
+            "rebuild": 82.3,
+            "risk": 24.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 4
+        },
+        {
+          "active": true,
           "age": 28,
           "age_bucket": "prime",
           "depth_chart_order": 1,
@@ -21054,44 +21090,6 @@
             "liquidity": 54.1,
             "market": 78.5,
             "player_id": "8267",
-            "rebuild": 84.5,
-            "risk": 24.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 4
-        },
-        {
-          "active": true,
-          "age": 25,
-          "age_bucket": "prime",
-          "depth_chart_order": 1,
-          "depth_chart_position": "LDE",
-          "fantasy_positions": [
-            "DL",
-            "LB"
-          ],
-          "first_name": "Travon",
-          "full_name": "Travon Walker",
-          "injury_body_part": null,
-          "injury_notes": null,
-          "injury_status": null,
-          "is_reserve": false,
-          "is_starter": true,
-          "is_taxi": false,
-          "last_name": "Walker",
-          "normalized_position": "LB",
-          "number": 44,
-          "player_id": "8265",
-          "position": "LB",
-          "search_full_name": "travonwalker",
-          "status": "Active",
-          "team": "JAX",
-          "value": {
-            "confidence": 70.0,
-            "contender": 86.5,
-            "liquidity": 54.1,
-            "market": 78.5,
-            "player_id": "8265",
             "rebuild": 84.5,
             "risk": 24.0,
             "source": "heuristic-v0.2"
@@ -24870,7 +24868,8 @@
         "depth_chart_order": 1,
         "depth_chart_position": "LOLB",
         "fantasy_positions": [
-          "DL"
+          "DL",
+          "LB"
         ],
         "first_name": "Rueben",
         "full_name": "Rueben Bain",
@@ -25468,7 +25467,8 @@
           "depth_chart_order": 1,
           "depth_chart_position": "LOLB",
           "fantasy_positions": [
-            "DL"
+            "DL",
+            "LB"
           ],
           "first_name": "Rueben",
           "full_name": "Rueben Bain",
@@ -33337,6 +33337,7 @@
         "depth_chart_order": 1,
         "depth_chart_position": "LILB",
         "fantasy_positions": [
+          "DL",
           "LB"
         ],
         "first_name": "Arvell",
@@ -34679,6 +34680,7 @@
           "depth_chart_order": 1,
           "depth_chart_position": "LILB",
           "fantasy_positions": [
+            "DL",
             "LB"
           ],
           "first_name": "Arvell",
@@ -37870,7 +37872,8 @@
         "depth_chart_order": 1,
         "depth_chart_position": "ROLB",
         "fantasy_positions": [
-          "DL"
+          "DL",
+          "LB"
         ],
         "first_name": "Jalyx",
         "full_name": "Jalyx Hunt",
@@ -37884,7 +37887,7 @@
         "normalized_position": "DL",
         "number": 58,
         "player_id": "11703",
-        "position": "DE",
+        "position": "DL",
         "search_full_name": "jalyxhunt",
         "status": "Active",
         "team": "PHI",
@@ -38618,7 +38621,8 @@
           "depth_chart_order": 1,
           "depth_chart_position": "ROLB",
           "fantasy_positions": [
-            "DL"
+            "DL",
+            "LB"
           ],
           "first_name": "Jalyx",
           "full_name": "Jalyx Hunt",
@@ -38632,7 +38636,7 @@
           "normalized_position": "DL",
           "number": 58,
           "player_id": "11703",
-          "position": "DE",
+          "position": "DL",
           "search_full_name": "jalyxhunt",
           "status": "Active",
           "team": "PHI",
@@ -41752,7 +41756,8 @@
         "depth_chart_order": 1,
         "depth_chart_position": "ROLB",
         "fantasy_positions": [
-          "DL"
+          "DL",
+          "LB"
         ],
         "first_name": "Donovan",
         "full_name": "Donovan Ezeiruaku",
@@ -43056,7 +43061,8 @@
           "depth_chart_order": 1,
           "depth_chart_position": "ROLB",
           "fantasy_positions": [
-            "DL"
+            "DL",
+            "LB"
           ],
           "first_name": "Donovan",
           "full_name": "Donovan Ezeiruaku",
