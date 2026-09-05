@@ -4620,7 +4620,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 4,
-      "waiver_position": 10,
+      "waiver_position": 8,
       "wins": 0
     },
     "starter_ids": [
@@ -13728,7 +13728,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 7,
-      "waiver_position": 12,
+      "waiver_position": 9,
       "wins": 0
     },
     "starter_ids": [
@@ -18155,6 +18155,7 @@
       "6039",
       "5908",
       "7651",
+      "12652",
       "8406",
       "13348",
       "12502",
@@ -18901,6 +18902,43 @@
           "source": "heuristic-v0.2"
         },
         "years_exp": 5
+      },
+      {
+        "active": true,
+        "age": 22,
+        "age_bucket": "young",
+        "depth_chart_order": 1,
+        "depth_chart_position": "NT",
+        "fantasy_positions": [
+          "DL"
+        ],
+        "first_name": "Deone",
+        "full_name": "Deone Walker",
+        "injury_body_part": null,
+        "injury_notes": null,
+        "injury_status": null,
+        "is_reserve": false,
+        "is_starter": false,
+        "is_taxi": false,
+        "last_name": "Walker",
+        "normalized_position": "DL",
+        "number": 96,
+        "player_id": "12652",
+        "position": "DT",
+        "search_full_name": "deonewalker",
+        "status": "Active",
+        "team": "BUF",
+        "value": {
+          "confidence": 55.0,
+          "contender": 49.7,
+          "liquidity": 53.2,
+          "market": 49.7,
+          "player_id": "12652",
+          "rebuild": 64.7,
+          "risk": 24.0,
+          "source": "heuristic-v0.2"
+        },
+        "years_exp": 1
       },
       {
         "active": true,
@@ -20835,6 +20873,43 @@
         },
         {
           "active": true,
+          "age": 22,
+          "age_bucket": "young",
+          "depth_chart_order": 1,
+          "depth_chart_position": "NT",
+          "fantasy_positions": [
+            "DL"
+          ],
+          "first_name": "Deone",
+          "full_name": "Deone Walker",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Walker",
+          "normalized_position": "DL",
+          "number": 96,
+          "player_id": "12652",
+          "position": "DT",
+          "search_full_name": "deonewalker",
+          "status": "Active",
+          "team": "BUF",
+          "value": {
+            "confidence": 55.0,
+            "contender": 49.7,
+            "liquidity": 53.2,
+            "market": 49.7,
+            "player_id": "12652",
+            "rebuild": 64.7,
+            "risk": 24.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 1
+        },
+        {
+          "active": true,
           "age": 25,
           "age_bucket": "prime",
           "depth_chart_order": 1,
@@ -22750,7 +22825,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 41,
-      "waiver_position": 4,
+      "waiver_position": 11,
       "wins": 0
     },
     "starter_ids": [
@@ -22802,6 +22877,7 @@
       "13341",
       "13511",
       "13338",
+      "10235",
       "7528",
       "13346",
       "14034",
@@ -23008,6 +23084,43 @@
           "source": "heuristic-v0.2"
         },
         "years_exp": 0
+      },
+      {
+        "active": true,
+        "age": 25,
+        "age_bucket": "prime",
+        "depth_chart_order": 3,
+        "depth_chart_position": "RB",
+        "fantasy_positions": [
+          "RB"
+        ],
+        "first_name": "Roschon",
+        "full_name": "Roschon Johnson",
+        "injury_body_part": null,
+        "injury_notes": null,
+        "injury_status": null,
+        "is_reserve": false,
+        "is_starter": true,
+        "is_taxi": false,
+        "last_name": "Johnson",
+        "normalized_position": "RB",
+        "number": 23,
+        "player_id": "10235",
+        "position": "RB",
+        "search_full_name": "roschonjohnson",
+        "status": "Active",
+        "team": "CHI",
+        "value": {
+          "confidence": 70.0,
+          "contender": 73.5,
+          "liquidity": 85.1,
+          "market": 65.5,
+          "player_id": "10235",
+          "rebuild": 71.5,
+          "risk": 40.0,
+          "source": "heuristic-v0.2"
+        },
+        "years_exp": 3
       },
       {
         "active": true,
@@ -23699,7 +23812,7 @@
         "position": "WR",
         "search_full_name": "chaseroberts",
         "status": "Inactive",
-        "team": "LV",
+        "team": null,
         "value": {
           "confidence": 35.0,
           "contender": 35.4,
@@ -24505,7 +24618,7 @@
         "injury_notes": null,
         "injury_status": "Questionable",
         "is_reserve": false,
-        "is_starter": true,
+        "is_starter": false,
         "is_taxi": false,
         "last_name": "Harris",
         "normalized_position": "WR",
@@ -24516,12 +24629,12 @@
         "status": "Active",
         "team": "LAC",
         "value": {
-          "confidence": 70.0,
-          "contender": 81.9,
+          "confidence": 55.0,
+          "contender": 53.9,
           "liquidity": 91.2,
-          "market": 75.3,
+          "market": 55.3,
           "player_id": "12509",
-          "rebuild": 84.3,
+          "rebuild": 64.3,
           "risk": 28.0,
           "source": "heuristic-v0.2"
         },
@@ -26394,6 +26507,43 @@
         },
         {
           "active": true,
+          "age": 25,
+          "age_bucket": "prime",
+          "depth_chart_order": 3,
+          "depth_chart_position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "first_name": "Roschon",
+          "full_name": "Roschon Johnson",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": true,
+          "is_taxi": false,
+          "last_name": "Johnson",
+          "normalized_position": "RB",
+          "number": 23,
+          "player_id": "10235",
+          "position": "RB",
+          "search_full_name": "roschonjohnson",
+          "status": "Active",
+          "team": "CHI",
+          "value": {
+            "confidence": 70.0,
+            "contender": 73.5,
+            "liquidity": 85.1,
+            "market": 65.5,
+            "player_id": "10235",
+            "rebuild": 71.5,
+            "risk": 40.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 3
+        },
+        {
+          "active": true,
           "age": 26,
           "age_bucket": "prime",
           "depth_chart_order": 2,
@@ -26842,43 +26992,6 @@
         },
         {
           "active": true,
-          "age": 24,
-          "age_bucket": "young",
-          "depth_chart_order": 3,
-          "depth_chart_position": "RWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "first_name": "Tre'",
-          "full_name": "Tre' Harris",
-          "injury_body_part": "Undisclosed",
-          "injury_notes": null,
-          "injury_status": "Questionable",
-          "is_reserve": false,
-          "is_starter": true,
-          "is_taxi": false,
-          "last_name": "Harris",
-          "normalized_position": "WR",
-          "number": 9,
-          "player_id": "12509",
-          "position": "WR",
-          "search_full_name": "treharris",
-          "status": "Active",
-          "team": "LAC",
-          "value": {
-            "confidence": 70.0,
-            "contender": 81.9,
-            "liquidity": 91.2,
-            "market": 75.3,
-            "player_id": "12509",
-            "rebuild": 84.3,
-            "risk": 28.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 1
-        },
-        {
-          "active": true,
           "age": 25,
           "age_bucket": "prime",
           "depth_chart_order": 1,
@@ -27138,6 +27251,43 @@
         },
         {
           "active": true,
+          "age": 24,
+          "age_bucket": "young",
+          "depth_chart_order": 3,
+          "depth_chart_position": "RWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "first_name": "Tre'",
+          "full_name": "Tre' Harris",
+          "injury_body_part": "Undisclosed",
+          "injury_notes": null,
+          "injury_status": "Questionable",
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Harris",
+          "normalized_position": "WR",
+          "number": 9,
+          "player_id": "12509",
+          "position": "WR",
+          "search_full_name": "treharris",
+          "status": "Active",
+          "team": "LAC",
+          "value": {
+            "confidence": 55.0,
+            "contender": 53.9,
+            "liquidity": 91.2,
+            "market": 55.3,
+            "player_id": "12509",
+            "rebuild": 64.3,
+            "risk": 28.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 1
+        },
+        {
+          "active": true,
           "age": 25,
           "age_bucket": "prime",
           "depth_chart_order": null,
@@ -27160,7 +27310,7 @@
           "position": "WR",
           "search_full_name": "chaseroberts",
           "status": "Inactive",
-          "team": "LV",
+          "team": null,
           "value": {
             "confidence": 35.0,
             "contender": 35.4,
@@ -27336,8 +27486,8 @@
       "losses": 0,
       "ties": 0,
       "total_moves": 0,
-      "waiver_budget_used": 10,
-      "waiver_position": 11,
+      "waiver_budget_used": 18,
+      "waiver_position": 10,
       "wins": 0
     },
     "starter_ids": [
@@ -27352,7 +27502,7 @@
       "12517",
       "8132",
       "13296",
-      "12509",
+      "10235",
       "8289",
       "13340",
       "13341",
@@ -32305,7 +32455,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 2,
-      "waiver_position": 6,
+      "waiver_position": 5,
       "wins": 0
     },
     "starter_ids": [
@@ -40193,7 +40343,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 2,
-      "waiver_position": 9,
+      "waiver_position": 7,
       "wins": 0
     },
     "starter_ids": [
@@ -40244,6 +40394,7 @@
       "12639",
       "6124",
       "13298",
+      "11656",
       "13289",
       "10880",
       "9502",
@@ -40271,6 +40422,7 @@
       "13379",
       "12614",
       "13482",
+      "6271",
       "4866",
       "5859",
       "11663",
@@ -40520,6 +40672,43 @@
           "source": "heuristic-v0.2"
         },
         "years_exp": 0
+      },
+      {
+        "active": true,
+        "age": 23,
+        "age_bucket": "young",
+        "depth_chart_order": 1,
+        "depth_chart_position": "LCB",
+        "fantasy_positions": [
+          "DB"
+        ],
+        "first_name": "Nate",
+        "full_name": "Nate Wiggins",
+        "injury_body_part": null,
+        "injury_notes": null,
+        "injury_status": null,
+        "is_reserve": false,
+        "is_starter": false,
+        "is_taxi": false,
+        "last_name": "Wiggins",
+        "normalized_position": "DB",
+        "number": 2,
+        "player_id": "11656",
+        "position": "CB",
+        "search_full_name": "natewiggins",
+        "status": "Active",
+        "team": "BAL",
+        "value": {
+          "confidence": 55.0,
+          "contender": 49.6,
+          "liquidity": 42.2,
+          "market": 49.6,
+          "player_id": "11656",
+          "rebuild": 61.6,
+          "risk": 24.0,
+          "source": "heuristic-v0.2"
+        },
+        "years_exp": 2
       },
       {
         "active": true,
@@ -41522,6 +41711,43 @@
           "source": "heuristic-v0.2"
         },
         "years_exp": 0
+      },
+      {
+        "active": true,
+        "age": 29,
+        "age_bucket": "veteran",
+        "depth_chart_order": 4,
+        "depth_chart_position": "SWR",
+        "fantasy_positions": [
+          "WR"
+        ],
+        "first_name": "Olamide",
+        "full_name": "Olamide Zaccheaus",
+        "injury_body_part": null,
+        "injury_notes": null,
+        "injury_status": null,
+        "is_reserve": false,
+        "is_starter": false,
+        "is_taxi": false,
+        "last_name": "Zaccheaus",
+        "normalized_position": "WR",
+        "number": 14,
+        "player_id": "6271",
+        "position": "WR",
+        "search_full_name": "olamidezaccheaus",
+        "status": "Active",
+        "team": "ATL",
+        "value": {
+          "confidence": 55.0,
+          "contender": 41.5,
+          "liquidity": 85.9,
+          "market": 41.5,
+          "player_id": "6271",
+          "rebuild": 35.5,
+          "risk": 42.0,
+          "source": "heuristic-v0.2"
+        },
+        "years_exp": 7
       },
       {
         "active": true,
@@ -42676,6 +42902,43 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 0
+        },
+        {
+          "active": true,
+          "age": 23,
+          "age_bucket": "young",
+          "depth_chart_order": 1,
+          "depth_chart_position": "LCB",
+          "fantasy_positions": [
+            "DB"
+          ],
+          "first_name": "Nate",
+          "full_name": "Nate Wiggins",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Wiggins",
+          "normalized_position": "DB",
+          "number": 2,
+          "player_id": "11656",
+          "position": "CB",
+          "search_full_name": "natewiggins",
+          "status": "Active",
+          "team": "BAL",
+          "value": {
+            "confidence": 55.0,
+            "contender": 49.6,
+            "liquidity": 42.2,
+            "market": 49.6,
+            "player_id": "11656",
+            "rebuild": 61.6,
+            "risk": 24.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 2
         },
         {
           "active": true,
@@ -44693,6 +44956,43 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 3
+        },
+        {
+          "active": true,
+          "age": 29,
+          "age_bucket": "veteran",
+          "depth_chart_order": 4,
+          "depth_chart_position": "SWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "first_name": "Olamide",
+          "full_name": "Olamide Zaccheaus",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Zaccheaus",
+          "normalized_position": "WR",
+          "number": 14,
+          "player_id": "6271",
+          "position": "WR",
+          "search_full_name": "olamidezaccheaus",
+          "status": "Active",
+          "team": "ATL",
+          "value": {
+            "confidence": 55.0,
+            "contender": 41.5,
+            "liquidity": 85.9,
+            "market": 41.5,
+            "player_id": "6271",
+            "rebuild": 35.5,
+            "risk": 42.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 7
         }
       ]
     },
@@ -44711,7 +45011,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 8,
+      "waiver_position": 12,
       "wins": 0
     },
     "starter_ids": [
@@ -49223,7 +49523,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 5,
-      "waiver_position": 5,
+      "waiver_position": 4,
       "wins": 0
     },
     "starter_ids": [
@@ -53729,7 +54029,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 10,
-      "waiver_position": 7,
+      "waiver_position": 6,
       "wins": 0
     },
     "starter_ids": [
