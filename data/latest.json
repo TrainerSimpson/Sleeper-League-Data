@@ -17051,7 +17051,7 @@
       "type": "snake"
     }
   ],
-  "generated_at": "2026-09-06T09:28:34.702372+00:00",
+  "generated_at": "2026-09-06T13:41:42.150609+00:00",
   "league": {
     "avatar": "7c15319eacc56bfdeb741f4b006ca693",
     "bracket_id": null,
@@ -17767,16 +17767,16 @@
         "roster_id": 3,
         "starters": [
           "11560",
-          "8155",
+          "6806",
           "7588",
-          "9493",
-          "9997",
+          "8121",
+          "10213",
           "11620",
           "5001",
-          "10213",
-          "6806",
+          "9997",
+          "8155",
           "4217",
-          "8121",
+          "9493",
           "8183",
           "7626",
           "3973",
@@ -18854,7 +18854,7 @@
           "2617",
           "4971",
           "5876",
-          "8348",
+          "11739",
           "10916",
           "12567",
           "5297"
@@ -21771,16 +21771,16 @@
       },
       "starters": [
         "11560",
-        "8155",
+        "6806",
         "7588",
-        "9493",
-        "9997",
+        "8121",
+        "10213",
         "11620",
         "5001",
-        "10213",
-        "6806",
+        "9997",
+        "8155",
         "4217",
-        "8121",
+        "9493",
         "8183",
         "7626",
         "3973",
@@ -22479,7 +22479,10 @@
         "7782",
         "6783"
       ],
-      "reserve": null,
+      "reserve": [
+        "4950",
+        "8348"
+      ],
       "roster_id": 9,
       "settings": {
         "division": 1,
@@ -22513,7 +22516,7 @@
         "2617",
         "4971",
         "5876",
-        "8348",
+        "11739",
         "10916",
         "12567",
         "5297"
@@ -26060,8 +26063,8 @@
       },
       "lineups": {
         "future": {
-          "average": 73.9,
-          "bench_value": 1484.5,
+          "average": 74.1,
+          "bench_value": 1479.5,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
@@ -26165,17 +26168,17 @@
               "slot": "DB"
             },
             {
-              "full_name": "Kerby Joseph",
-              "player_id": "8348",
-              "position": "DB",
-              "score": 69.5,
-              "slot": "DB"
-            },
-            {
               "full_name": "Evan Williams",
               "player_id": "11739",
               "position": "DB",
-              "score": 58.0,
+              "score": 78.0,
+              "slot": "DB"
+            },
+            {
+              "full_name": "Julian Love",
+              "player_id": "5876",
+              "position": "DB",
+              "score": 54.5,
               "slot": "DB"
             },
             {
@@ -26235,11 +26238,11 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1773.0
+          "total": 1778.0
         },
         "win_now": {
-          "average": 76.4,
-          "bench_value": 1523.5,
+          "average": 76.9,
+          "bench_value": 1511.5,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -26336,17 +26339,17 @@
               "slot": "LB"
             },
             {
+              "full_name": "Evan Williams",
+              "player_id": "11739",
+              "position": "DB",
+              "score": 80.0,
+              "slot": "DB"
+            },
+            {
               "full_name": "Malaki Starks",
               "player_id": "12567",
               "position": "DB",
               "score": 74.9,
-              "slot": "DB"
-            },
-            {
-              "full_name": "Kerby Joseph",
-              "player_id": "8348",
-              "position": "DB",
-              "score": 68.0,
               "slot": "DB"
             },
             {
@@ -26413,12 +26416,12 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1834.7
+          "total": 1846.7
         }
       },
       "positions": {
         "DB": {
-          "contender_top": 267.9,
+          "contender_top": 279.9,
           "count": 5,
           "market": 291.4,
           "rebuild_top": 263.9
@@ -26463,11 +26466,11 @@
       "power_rank": 6,
       "roster_id": 9,
       "scores": {
-        "future": 73.9,
+        "future": 74.1,
         "liquidity": 68.8,
         "market_total": 3189.5,
         "risk": 31.9,
-        "win_now": 76.4
+        "win_now": 76.9
       },
       "team_name": "Ravensburger Playmakers",
       "window": "contender"
@@ -43666,16 +43669,16 @@
       },
       "starter_ids": [
         "11560",
-        "8155",
+        "6806",
         "7588",
-        "9493",
-        "9997",
+        "8121",
+        "10213",
         "11620",
         "5001",
-        "10213",
-        "6806",
+        "9997",
+        "8155",
         "4217",
-        "8121",
+        "9493",
         "8183",
         "7626",
         "3973",
@@ -66663,7 +66666,7 @@
           "injury_body_part": "Calf",
           "injury_notes": null,
           "injury_status": "IR",
-          "is_reserve": false,
+          "is_reserve": true,
           "is_starter": false,
           "is_taxi": false,
           "last_name": "Kirk",
@@ -67034,7 +67037,7 @@
           "injury_notes": null,
           "injury_status": null,
           "is_reserve": false,
-          "is_starter": false,
+          "is_starter": true,
           "is_taxi": false,
           "last_name": "Williams",
           "normalized_position": "DB",
@@ -67045,12 +67048,12 @@
           "status": "Active",
           "team": "GB",
           "value": {
-            "confidence": 55.0,
-            "contender": 52.0,
+            "confidence": 70.0,
+            "contender": 80.0,
             "liquidity": 40.1,
-            "market": 52.0,
+            "market": 72.0,
             "player_id": "11739",
-            "rebuild": 58.0,
+            "rebuild": 78.0,
             "risk": 24.0,
             "source": "heuristic-v0.2"
           },
@@ -67963,8 +67966,8 @@
           "injury_body_part": "Knee",
           "injury_notes": null,
           "injury_status": "PUP",
-          "is_reserve": false,
-          "is_starter": true,
+          "is_reserve": true,
+          "is_starter": false,
           "is_taxi": false,
           "last_name": "Joseph",
           "normalized_position": "DB",
@@ -67975,12 +67978,12 @@
           "status": "Active",
           "team": "DET",
           "value": {
-            "confidence": 70.0,
-            "contender": 68.0,
+            "confidence": 55.0,
+            "contender": 40.0,
             "liquidity": 40.1,
-            "market": 63.5,
+            "market": 43.5,
             "player_id": "8348",
-            "rebuild": 69.5,
+            "rebuild": 49.5,
             "risk": 34.0,
             "source": "heuristic-v0.2"
           },
@@ -68257,33 +68260,33 @@
             "fantasy_positions": [
               "DB"
             ],
-            "first_name": "Kerby",
-            "full_name": "Kerby Joseph",
-            "injury_body_part": "Knee",
+            "first_name": "Evan",
+            "full_name": "Evan Williams",
+            "injury_body_part": null,
             "injury_notes": null,
-            "injury_status": "PUP",
+            "injury_status": null,
             "is_reserve": false,
             "is_starter": true,
             "is_taxi": false,
-            "last_name": "Joseph",
+            "last_name": "Williams",
             "normalized_position": "DB",
-            "number": 31,
-            "player_id": "8348",
+            "number": 33,
+            "player_id": "11739",
             "position": "DB",
-            "search_full_name": "kerbyjoseph",
+            "search_full_name": "evanwilliams",
             "status": "Active",
-            "team": "DET",
+            "team": "GB",
             "value": {
               "confidence": 70.0,
-              "contender": 68.0,
+              "contender": 80.0,
               "liquidity": 40.1,
-              "market": 63.5,
-              "player_id": "8348",
-              "rebuild": 69.5,
-              "risk": 34.0,
+              "market": 72.0,
+              "player_id": "11739",
+              "rebuild": 78.0,
+              "risk": 24.0,
               "source": "heuristic-v0.2"
             },
-            "years_exp": 4
+            "years_exp": 2
           },
           {
             "active": true,
@@ -68368,33 +68371,33 @@
             "fantasy_positions": [
               "DB"
             ],
-            "first_name": "Evan",
-            "full_name": "Evan Williams",
-            "injury_body_part": null,
+            "first_name": "Kerby",
+            "full_name": "Kerby Joseph",
+            "injury_body_part": "Knee",
             "injury_notes": null,
-            "injury_status": null,
-            "is_reserve": false,
+            "injury_status": "PUP",
+            "is_reserve": true,
             "is_starter": false,
             "is_taxi": false,
-            "last_name": "Williams",
+            "last_name": "Joseph",
             "normalized_position": "DB",
-            "number": 33,
-            "player_id": "11739",
+            "number": 31,
+            "player_id": "8348",
             "position": "DB",
-            "search_full_name": "evanwilliams",
+            "search_full_name": "kerbyjoseph",
             "status": "Active",
-            "team": "GB",
+            "team": "DET",
             "value": {
               "confidence": 55.0,
-              "contender": 52.0,
+              "contender": 40.0,
               "liquidity": 40.1,
-              "market": 52.0,
-              "player_id": "11739",
-              "rebuild": 58.0,
-              "risk": 24.0,
+              "market": 43.5,
+              "player_id": "8348",
+              "rebuild": 49.5,
+              "risk": 34.0,
               "source": "heuristic-v0.2"
             },
-            "years_exp": 2
+            "years_exp": 4
           }
         ],
         "DL": [
@@ -70204,7 +70207,7 @@
             "injury_body_part": "Calf",
             "injury_notes": null,
             "injury_status": "IR",
-            "is_reserve": false,
+            "is_reserve": true,
             "is_starter": false,
             "is_taxi": false,
             "last_name": "Kirk",
@@ -70266,7 +70269,10 @@
           }
         ]
       },
-      "reserve_ids": [],
+      "reserve_ids": [
+        "4950",
+        "8348"
+      ],
       "roster_id": 9,
       "settings": {
         "division": 1,
@@ -70300,7 +70306,7 @@
         "2617",
         "4971",
         "5876",
-        "8348",
+        "11739",
         "10916",
         "12567",
         "5297"
