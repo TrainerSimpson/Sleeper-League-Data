@@ -6102,7 +6102,7 @@
         "age": 23,
         "age_bucket": "young",
         "depth_chart_order": 3,
-        "depth_chart_position": "LWR",
+        "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
         ],
@@ -8602,7 +8602,7 @@
           "age": 23,
           "age_bucket": "young",
           "depth_chart_order": 3,
-          "depth_chart_position": "LWR",
+          "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
@@ -14281,7 +14281,7 @@
       },
       {
         "active": true,
-        "age": 21,
+        "age": 22,
         "age_bucket": "young",
         "depth_chart_order": 2,
         "depth_chart_position": "LDE",
@@ -14306,11 +14306,11 @@
         "team": "TEN",
         "value": {
           "confidence": 55.0,
-          "contender": 38.6,
-          "liquidity": 54.3,
-          "market": 40.0,
+          "contender": 39.8,
+          "liquidity": 53.2,
+          "market": 41.2,
           "player_id": "13395",
-          "rebuild": 58.0,
+          "rebuild": 56.2,
           "risk": 28.0,
           "source": "heuristic-v0.2"
         },
@@ -16661,43 +16661,6 @@
           "age": 21,
           "age_bucket": "young",
           "depth_chart_order": 2,
-          "depth_chart_position": "LDE",
-          "fantasy_positions": [
-            "DL"
-          ],
-          "first_name": "Keldric",
-          "full_name": "Keldric Faulk",
-          "injury_body_part": "Shoulder",
-          "injury_notes": null,
-          "injury_status": "Questionable",
-          "is_reserve": false,
-          "is_starter": false,
-          "is_taxi": false,
-          "last_name": "Faulk",
-          "normalized_position": "DL",
-          "number": 15,
-          "player_id": "13395",
-          "position": "DL",
-          "search_full_name": "keldricfaulk",
-          "status": "Active",
-          "team": "TEN",
-          "value": {
-            "confidence": 55.0,
-            "contender": 38.6,
-            "liquidity": 54.3,
-            "market": 40.0,
-            "player_id": "13395",
-            "rebuild": 58.0,
-            "risk": 28.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 0
-        },
-        {
-          "active": true,
-          "age": 21,
-          "age_bucket": "young",
-          "depth_chart_order": 2,
           "depth_chart_position": "LDT",
           "fantasy_positions": [
             "DL"
@@ -16726,6 +16689,43 @@
             "player_id": "13390",
             "rebuild": 62.0,
             "risk": 24.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 0
+        },
+        {
+          "active": true,
+          "age": 22,
+          "age_bucket": "young",
+          "depth_chart_order": 2,
+          "depth_chart_position": "LDE",
+          "fantasy_positions": [
+            "DL"
+          ],
+          "first_name": "Keldric",
+          "full_name": "Keldric Faulk",
+          "injury_body_part": "Shoulder",
+          "injury_notes": null,
+          "injury_status": "Questionable",
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Faulk",
+          "normalized_position": "DL",
+          "number": 15,
+          "player_id": "13395",
+          "position": "DL",
+          "search_full_name": "keldricfaulk",
+          "status": "Active",
+          "team": "TEN",
+          "value": {
+            "confidence": 55.0,
+            "contender": 39.8,
+            "liquidity": 53.2,
+            "market": 41.2,
+            "player_id": "13395",
+            "rebuild": 56.2,
+            "risk": 28.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 0
@@ -32673,9 +32673,9 @@
         ],
         "first_name": "Emanuel",
         "full_name": "Emanuel Wilson",
-        "injury_body_part": "Hamstring",
+        "injury_body_part": null,
         "injury_notes": null,
-        "injury_status": "Questionable",
+        "injury_status": null,
         "is_reserve": false,
         "is_starter": true,
         "is_taxi": false,
@@ -32689,12 +32689,12 @@
         "team": "SEA",
         "value": {
           "confidence": 70.0,
-          "contender": 58.1,
+          "contender": 63.5,
           "liquidity": 83.0,
-          "market": 51.5,
+          "market": 55.5,
           "player_id": "11435",
-          "rebuild": 46.5,
-          "risk": 56.0,
+          "rebuild": 50.5,
+          "risk": 52.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 3
@@ -35430,9 +35430,9 @@
           ],
           "first_name": "Emanuel",
           "full_name": "Emanuel Wilson",
-          "injury_body_part": "Hamstring",
+          "injury_body_part": null,
           "injury_notes": null,
-          "injury_status": "Questionable",
+          "injury_status": null,
           "is_reserve": false,
           "is_starter": true,
           "is_taxi": false,
@@ -35446,12 +35446,12 @@
           "team": "SEA",
           "value": {
             "confidence": 70.0,
-            "contender": 58.1,
+            "contender": 63.5,
             "liquidity": 83.0,
-            "market": 51.5,
+            "market": 55.5,
             "player_id": "11435",
-            "rebuild": 46.5,
-            "risk": 56.0,
+            "rebuild": 50.5,
+            "risk": 52.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 3
@@ -36197,7 +36197,7 @@
       },
       {
         "active": true,
-        "age": 30,
+        "age": 31,
         "age_bucket": "veteran",
         "depth_chart_order": 1,
         "depth_chart_position": "RDT",
@@ -36222,12 +36222,12 @@
         "team": "MIA",
         "value": {
           "confidence": 70.0,
-          "contender": 61.1,
-          "liquidity": 44.9,
-          "market": 54.5,
+          "contender": 58.1,
+          "liquidity": 43.8,
+          "market": 51.5,
           "player_id": "5297",
-          "rebuild": 45.5,
-          "risk": 46.0,
+          "rebuild": 39.5,
+          "risk": 52.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 8
@@ -38504,7 +38504,7 @@
         },
         {
           "active": true,
-          "age": 30,
+          "age": 31,
           "age_bucket": "veteran",
           "depth_chart_order": 1,
           "depth_chart_position": "RDT",
@@ -38529,12 +38529,12 @@
           "team": "MIA",
           "value": {
             "confidence": 70.0,
-            "contender": 61.1,
-            "liquidity": 44.9,
-            "market": 54.5,
+            "contender": 58.1,
+            "liquidity": 43.8,
+            "market": 51.5,
             "player_id": "5297",
-            "rebuild": 45.5,
-            "risk": 46.0,
+            "rebuild": 39.5,
+            "risk": 52.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 8
@@ -41237,7 +41237,7 @@
         "age": 23,
         "age_bucket": "young",
         "depth_chart_order": 4,
-        "depth_chart_position": "RWR",
+        "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
         ],
@@ -44816,7 +44816,7 @@
           "age": 23,
           "age_bucket": "young",
           "depth_chart_order": 4,
-          "depth_chart_position": "RWR",
+          "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
@@ -46166,7 +46166,7 @@
         "active": true,
         "age": 25,
         "age_bucket": "prime",
-        "depth_chart_order": 3,
+        "depth_chart_order": 4,
         "depth_chart_position": "LDE",
         "fantasy_positions": [
           "LB"
@@ -46189,11 +46189,11 @@
         "team": "SF",
         "value": {
           "confidence": 55.0,
-          "contender": 42.6,
+          "contender": 39.6,
           "liquidity": 54.1,
-          "market": 44.0,
+          "market": 41.0,
           "player_id": "13361",
-          "rebuild": 50.0,
+          "rebuild": 47.0,
           "risk": 28.0,
           "source": "heuristic-v0.2"
         },
@@ -48248,7 +48248,7 @@
           "active": true,
           "age": 25,
           "age_bucket": "prime",
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "LDE",
           "fantasy_positions": [
             "LB"
@@ -48271,11 +48271,11 @@
           "team": "SF",
           "value": {
             "confidence": 55.0,
-            "contender": 42.6,
+            "contender": 39.6,
             "liquidity": 54.1,
-            "market": 44.0,
+            "market": 41.0,
             "player_id": "13361",
-            "rebuild": 50.0,
+            "rebuild": 47.0,
             "risk": 28.0,
             "source": "heuristic-v0.2"
           },
