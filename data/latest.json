@@ -17051,7 +17051,7 @@
       "type": "snake"
     }
   ],
-  "generated_at": "2026-09-07T20:36:33.067649+00:00",
+  "generated_at": "2026-09-07T23:32:01.580425+00:00",
   "league": {
     "avatar": "7c15319eacc56bfdeb741f4b006ca693",
     "bracket_id": null,
@@ -17064,9 +17064,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1402423070500622336",
+    "last_message_id": "1402808041585319936",
     "last_message_text_map": null,
-    "last_message_time": 1788726225069,
+    "last_message_time": 1788818009329,
     "last_pinned_message_id": "1398779056215928832",
     "last_read_id": null,
     "league_id": "1354800861066317824",
@@ -17668,7 +17668,6 @@
           "13445",
           "12683",
           "7921",
-          "12718",
           "13405",
           "12541",
           "8183",
@@ -17720,7 +17719,6 @@
           "12541": 0.0,
           "12670": 0.0,
           "12683": 0.0,
-          "12718": 0.0,
           "13293": 0.0,
           "13306": 0.0,
           "13329": 0.0,
@@ -17787,7 +17785,7 @@
           "7016",
           "11705",
           "7659",
-          "7921",
+          "6900",
           "5865",
           "6901"
         ],
@@ -21720,7 +21718,6 @@
         "13445",
         "12683",
         "7921",
-        "12718",
         "13405",
         "12541",
         "8183",
@@ -21754,7 +21751,6 @@
         "11589",
         "12541",
         "13392",
-        "6900",
         "7640"
       ],
       "roster_id": 3,
@@ -21791,13 +21787,13 @@
         "7016",
         "11705",
         "7659",
-        "7921",
+        "6900",
         "5865",
         "6901"
       ],
       "taxi": [
+        "12670",
         "12683",
-        "12718",
         "13293",
         "13306",
         "13329",
@@ -24949,8 +24945,8 @@
       },
       "lineups": {
         "future": {
-          "average": 74.2,
-          "bench_value": 2157.9,
+          "average": 73.9,
+          "bench_value": 2106.9,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
@@ -25103,13 +25099,6 @@
               "slot": "FLEX"
             },
             {
-              "full_name": "Christian Elliss",
-              "player_id": "7921",
-              "position": "LB",
-              "score": 65.5,
-              "slot": "IDP_FLEX"
-            },
-            {
               "full_name": "Odafe Oweh",
               "player_id": "7626",
               "position": "LB",
@@ -25122,13 +25111,20 @@
               "position": "LB",
               "score": 58.8,
               "slot": "IDP_FLEX"
+            },
+            {
+              "full_name": "Caleb Banks",
+              "player_id": "13445",
+              "position": "DL",
+              "score": 58.4,
+              "slot": "IDP_FLEX"
             }
           ],
-          "total": 1780.3
+          "total": 1773.2
         },
         "win_now": {
-          "average": 77.4,
-          "bench_value": 1970.7,
+          "average": 77.0,
+          "bench_value": 1936.1,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -25197,10 +25193,10 @@
               "slot": "DL"
             },
             {
-              "full_name": "Myles Garrett",
-              "player_id": "3973",
+              "full_name": "Jonathan Greenard",
+              "player_id": "6900",
               "position": "DL",
-              "score": 61.1,
+              "score": 64.1,
               "slot": "DL"
             },
             {
@@ -25281,13 +25277,6 @@
               "slot": "FLEX"
             },
             {
-              "full_name": "Christian Elliss",
-              "player_id": "7921",
-              "position": "LB",
-              "score": 73.5,
-              "slot": "IDP_FLEX"
-            },
-            {
               "full_name": "Odafe Oweh",
               "player_id": "7626",
               "position": "LB",
@@ -25300,9 +25289,16 @@
               "position": "DB",
               "score": 65.5,
               "slot": "IDP_FLEX"
+            },
+            {
+              "full_name": "Myles Garrett",
+              "player_id": "3973",
+              "position": "DL",
+              "score": 61.1,
+              "slot": "IDP_FLEX"
             }
           ],
-          "total": 1858.6
+          "total": 1849.2
         }
       },
       "positions": {
@@ -25313,16 +25309,16 @@
           "rebuild_top": 247.5
         },
         "DL": {
-          "contender_top": 256.4,
+          "contender_top": 264.2,
           "count": 10,
-          "market": 511.4,
+          "market": 537.4,
           "rebuild_top": 247.7
         },
         "LB": {
-          "contender_top": 307.3,
+          "contender_top": 301.9,
           "count": 10,
-          "market": 554.4,
-          "rebuild_top": 287.3
+          "market": 534.4,
+          "rebuild_top": 283.3
         },
         "QB": {
           "contender_top": 336.1,
@@ -25344,19 +25340,19 @@
         },
         "WR": {
           "contender_top": 371.1,
-          "count": 16,
-          "market": 971.6,
+          "count": 15,
+          "market": 919.5,
           "rebuild_top": 370.3
         }
       },
       "power_rank": 4,
       "roster_id": 3,
       "scores": {
-        "future": 74.2,
-        "liquidity": 70.7,
-        "market_total": 3691.2,
-        "risk": 31.8,
-        "win_now": 77.4
+        "future": 73.9,
+        "liquidity": 70.3,
+        "market_total": 3645.1,
+        "risk": 31.9,
+        "win_now": 77.0
       },
       "team_name": "Springfield Wildcats",
       "window": "contender"
@@ -25509,7 +25505,7 @@
       },
       "lineups": {
         "future": {
-          "average": 77.7,
+          "average": 77.5,
           "bench_value": 1836.1,
           "filled": 24,
           "metric": "rebuild",
@@ -25586,17 +25582,17 @@
               "slot": "DL"
             },
             {
-              "full_name": "Cedric Gray",
-              "player_id": "11742",
-              "position": "LB",
-              "score": 86.6,
-              "slot": "LB"
-            },
-            {
               "full_name": "David Bailey",
               "player_id": "13363",
               "position": "LB",
               "score": 83.6,
+              "slot": "LB"
+            },
+            {
+              "full_name": "Cedric Gray",
+              "player_id": "11742",
+              "position": "LB",
+              "score": 82.6,
               "slot": "LB"
             },
             {
@@ -25684,10 +25680,10 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1863.9
+          "total": 1859.9
         },
         "win_now": {
-          "average": 77.1,
+          "average": 76.9,
           "bench_value": 1787.1,
           "filled": 24,
           "metric": "contender",
@@ -25764,17 +25760,17 @@
               "slot": "DL"
             },
             {
-              "full_name": "Cedric Gray",
-              "player_id": "11742",
-              "position": "LB",
-              "score": 82.6,
-              "slot": "LB"
-            },
-            {
               "full_name": "David Bailey",
               "player_id": "13363",
               "position": "LB",
               "score": 79.6,
+              "slot": "LB"
+            },
+            {
+              "full_name": "Cedric Gray",
+              "player_id": "11742",
+              "position": "LB",
+              "score": 77.2,
               "slot": "LB"
             },
             {
@@ -25862,7 +25858,7 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1850.6
+          "total": 1845.2
         }
       },
       "positions": {
@@ -25879,10 +25875,10 @@
           "rebuild_top": 243.1
         },
         "LB": {
-          "contender_top": 306.2,
+          "contender_top": 300.8,
           "count": 11,
-          "market": 646.6,
-          "rebuild_top": 302.0
+          "market": 642.6,
+          "rebuild_top": 298.0
         },
         "QB": {
           "contender_top": 341.3,
@@ -25912,11 +25908,11 @@
       "power_rank": 5,
       "roster_id": 1,
       "scores": {
-        "future": 77.7,
+        "future": 77.5,
         "liquidity": 71.0,
-        "market_total": 3472.0,
-        "risk": 31.8,
-        "win_now": 77.1
+        "market_total": 3468.0,
+        "risk": 31.9,
+        "win_now": 76.9
       },
       "team_name": "T’s Golden Browns",
       "window": "contender"
@@ -29521,7 +29517,7 @@
       "lineups": {
         "future": {
           "average": 73.7,
-          "bench_value": 1004.4,
+          "bench_value": 1001.4,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
@@ -29667,10 +29663,10 @@
               "slot": "FLEX"
             },
             {
-              "full_name": "D'Andre Swift",
-              "player_id": "6790",
+              "full_name": "Sean Tucker",
+              "player_id": "9506",
               "position": "RB",
-              "score": 56.5,
+              "score": 55.5,
               "slot": "FLEX"
             },
             {
@@ -29695,10 +29691,10 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1769.3
+          "total": 1768.3
         },
         "win_now": {
-          "average": 74.2,
+          "average": 74.0,
           "bench_value": 1107.2,
           "filled": 24,
           "metric": "contender",
@@ -29827,7 +29823,7 @@
               "full_name": "D'Andre Swift",
               "player_id": "6790",
               "position": "RB",
-              "score": 69.5,
+              "score": 64.1,
               "slot": "FLEX"
             },
             {
@@ -29873,7 +29869,7 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1781.5
+          "total": 1776.1
         }
       },
       "positions": {
@@ -29902,9 +29898,9 @@
           "rebuild_top": 312.2
         },
         "RB": {
-          "contender_top": 297.6,
+          "contender_top": 292.2,
           "count": 10,
-          "market": 519.8,
+          "market": 515.8,
           "rebuild_top": 312.3
         },
         "TE": {
@@ -29925,9 +29921,9 @@
       "scores": {
         "future": 73.7,
         "liquidity": 67.7,
-        "market_total": 2703.7,
+        "market_total": 2699.7,
         "risk": 33.1,
-        "win_now": 74.2
+        "win_now": 74.0
       },
       "team_name": "Big Black Blocks",
       "window": "contender"
@@ -31235,9 +31231,9 @@
           ],
           "first_name": "Cedric",
           "full_name": "Cedric Gray",
-          "injury_body_part": null,
+          "injury_body_part": "Concussion",
           "injury_notes": null,
-          "injury_status": null,
+          "injury_status": "Questionable",
           "is_reserve": false,
           "is_starter": true,
           "is_taxi": false,
@@ -31251,12 +31247,12 @@
           "team": "TEN",
           "value": {
             "confidence": 70.0,
-            "contender": 82.6,
+            "contender": 77.2,
             "liquidity": 56.2,
-            "market": 74.6,
+            "market": 70.6,
             "player_id": "11742",
-            "rebuild": 86.6,
-            "risk": 24.0,
+            "rebuild": 82.6,
+            "risk": 28.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 2
@@ -32763,9 +32759,9 @@
             ],
             "first_name": "Cedric",
             "full_name": "Cedric Gray",
-            "injury_body_part": null,
+            "injury_body_part": "Concussion",
             "injury_notes": null,
-            "injury_status": null,
+            "injury_status": "Questionable",
             "is_reserve": false,
             "is_starter": true,
             "is_taxi": false,
@@ -32779,12 +32775,12 @@
             "team": "TEN",
             "value": {
               "confidence": 70.0,
-              "contender": 82.6,
+              "contender": 77.2,
               "liquidity": 56.2,
-              "market": 74.6,
+              "market": 70.6,
               "player_id": "11742",
-              "rebuild": 86.6,
-              "risk": 24.0,
+              "rebuild": 82.6,
+              "risk": 28.0,
               "source": "heuristic-v0.2"
             },
             "years_exp": 2
@@ -38775,7 +38771,6 @@
         "13445",
         "12683",
         "7921",
-        "12718",
         "13405",
         "12541",
         "8183",
@@ -39227,7 +39222,7 @@
           "injury_status": null,
           "is_reserve": false,
           "is_starter": false,
-          "is_taxi": false,
+          "is_taxi": true,
           "last_name": "Lambert-Smith",
           "normalized_position": "WR",
           "number": 84,
@@ -40191,7 +40186,7 @@
           "injury_notes": null,
           "injury_status": null,
           "is_reserve": false,
-          "is_starter": true,
+          "is_starter": false,
           "is_taxi": false,
           "last_name": "Elliss",
           "normalized_position": "LB",
@@ -40202,53 +40197,16 @@
           "status": "Active",
           "team": "NE",
           "value": {
-            "confidence": 70.0,
-            "contender": 73.5,
+            "confidence": 55.0,
+            "contender": 45.5,
             "liquidity": 52.0,
-            "market": 65.5,
+            "market": 45.5,
             "player_id": "7921",
-            "rebuild": 65.5,
+            "rebuild": 45.5,
             "risk": 30.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 5
-        },
-        {
-          "active": true,
-          "age": 23,
-          "age_bucket": "young",
-          "depth_chart_order": 7,
-          "depth_chart_position": "LWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "first_name": "Konata",
-          "full_name": "Konata Mumpfield",
-          "injury_body_part": null,
-          "injury_notes": null,
-          "injury_status": null,
-          "is_reserve": false,
-          "is_starter": false,
-          "is_taxi": true,
-          "last_name": "Mumpfield",
-          "normalized_position": "WR",
-          "number": 4,
-          "player_id": "12718",
-          "position": "WR",
-          "search_full_name": "konatamumpfield",
-          "status": "Active",
-          "team": "LAR",
-          "value": {
-            "confidence": 55.0,
-            "contender": 52.1,
-            "liquidity": 92.2,
-            "market": 52.1,
-            "player_id": "12718",
-            "rebuild": 64.1,
-            "risk": 24.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 1
         },
         {
           "active": true,
@@ -40450,9 +40408,9 @@
           "full_name": "Jonathan Greenard",
           "injury_body_part": "Pectoral",
           "injury_notes": "Surgery",
-          "injury_status": "PUP",
-          "is_reserve": true,
-          "is_starter": false,
+          "injury_status": "Questionable",
+          "is_reserve": false,
+          "is_starter": true,
           "is_taxi": false,
           "last_name": "Greenard",
           "normalized_position": "DL",
@@ -40463,13 +40421,13 @@
           "status": "Active",
           "team": "PHI",
           "value": {
-            "confidence": 55.0,
-            "contender": 28.0,
+            "confidence": 70.0,
+            "contender": 64.1,
             "liquidity": 45.9,
-            "market": 31.5,
+            "market": 57.5,
             "player_id": "6900",
-            "rebuild": 25.5,
-            "risk": 46.0,
+            "rebuild": 51.5,
+            "risk": 40.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 6
@@ -41521,6 +41479,44 @@
           },
           {
             "active": true,
+            "age": 29,
+            "age_bucket": "veteran",
+            "depth_chart_order": 1,
+            "depth_chart_position": "LOLB",
+            "fantasy_positions": [
+              "DL",
+              "LB"
+            ],
+            "first_name": "Jonathan",
+            "full_name": "Jonathan Greenard",
+            "injury_body_part": "Pectoral",
+            "injury_notes": "Surgery",
+            "injury_status": "Questionable",
+            "is_reserve": false,
+            "is_starter": true,
+            "is_taxi": false,
+            "last_name": "Greenard",
+            "normalized_position": "DL",
+            "number": 52,
+            "player_id": "6900",
+            "position": "DE",
+            "search_full_name": "jonathangreenard",
+            "status": "Active",
+            "team": "PHI",
+            "value": {
+              "confidence": 70.0,
+              "contender": 64.1,
+              "liquidity": 45.9,
+              "market": 57.5,
+              "player_id": "6900",
+              "rebuild": 51.5,
+              "risk": 40.0,
+              "source": "heuristic-v0.2"
+            },
+            "years_exp": 6
+          },
+          {
+            "active": true,
             "age": 30,
             "age_bucket": "veteran",
             "depth_chart_order": 1,
@@ -41778,44 +41774,6 @@
               "source": "heuristic-v0.2"
             },
             "years_exp": 5
-          },
-          {
-            "active": true,
-            "age": 29,
-            "age_bucket": "veteran",
-            "depth_chart_order": 1,
-            "depth_chart_position": "LOLB",
-            "fantasy_positions": [
-              "DL",
-              "LB"
-            ],
-            "first_name": "Jonathan",
-            "full_name": "Jonathan Greenard",
-            "injury_body_part": "Pectoral",
-            "injury_notes": "Surgery",
-            "injury_status": "PUP",
-            "is_reserve": true,
-            "is_starter": false,
-            "is_taxi": false,
-            "last_name": "Greenard",
-            "normalized_position": "DL",
-            "number": 52,
-            "player_id": "6900",
-            "position": "DE",
-            "search_full_name": "jonathangreenard",
-            "status": "Active",
-            "team": "PHI",
-            "value": {
-              "confidence": 55.0,
-              "contender": 28.0,
-              "liquidity": 45.9,
-              "market": 31.5,
-              "player_id": "6900",
-              "rebuild": 25.5,
-              "risk": 46.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 6
           }
         ],
         "LB": [
@@ -41889,43 +41847,6 @@
               "player_id": "7648",
               "rebuild": 71.5,
               "risk": 24.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 5
-          },
-          {
-            "active": true,
-            "age": 27,
-            "age_bucket": "prime",
-            "depth_chart_order": 1,
-            "depth_chart_position": "RILB",
-            "fantasy_positions": [
-              "LB"
-            ],
-            "first_name": "Christian",
-            "full_name": "Christian Elliss",
-            "injury_body_part": null,
-            "injury_notes": null,
-            "injury_status": null,
-            "is_reserve": false,
-            "is_starter": true,
-            "is_taxi": false,
-            "last_name": "Elliss",
-            "normalized_position": "LB",
-            "number": 53,
-            "player_id": "7921",
-            "position": "LB",
-            "search_full_name": "christianelliss",
-            "status": "Active",
-            "team": "NE",
-            "value": {
-              "confidence": 70.0,
-              "contender": 73.5,
-              "liquidity": 52.0,
-              "market": 65.5,
-              "player_id": "7921",
-              "rebuild": 65.5,
-              "risk": 30.0,
               "source": "heuristic-v0.2"
             },
             "years_exp": 5
@@ -42115,6 +42036,43 @@
               "source": "heuristic-v0.2"
             },
             "years_exp": 3
+          },
+          {
+            "active": true,
+            "age": 27,
+            "age_bucket": "prime",
+            "depth_chart_order": 1,
+            "depth_chart_position": "RILB",
+            "fantasy_positions": [
+              "LB"
+            ],
+            "first_name": "Christian",
+            "full_name": "Christian Elliss",
+            "injury_body_part": null,
+            "injury_notes": null,
+            "injury_status": null,
+            "is_reserve": false,
+            "is_starter": false,
+            "is_taxi": false,
+            "last_name": "Elliss",
+            "normalized_position": "LB",
+            "number": 53,
+            "player_id": "7921",
+            "position": "LB",
+            "search_full_name": "christianelliss",
+            "status": "Active",
+            "team": "NE",
+            "value": {
+              "confidence": 55.0,
+              "contender": 45.5,
+              "liquidity": 52.0,
+              "market": 45.5,
+              "player_id": "7921",
+              "rebuild": 45.5,
+              "risk": 30.0,
+              "source": "heuristic-v0.2"
+            },
+            "years_exp": 5
           },
           {
             "active": true,
@@ -43388,43 +43346,6 @@
             "active": true,
             "age": 23,
             "age_bucket": "young",
-            "depth_chart_order": 7,
-            "depth_chart_position": "LWR",
-            "fantasy_positions": [
-              "WR"
-            ],
-            "first_name": "Konata",
-            "full_name": "Konata Mumpfield",
-            "injury_body_part": null,
-            "injury_notes": null,
-            "injury_status": null,
-            "is_reserve": false,
-            "is_starter": false,
-            "is_taxi": true,
-            "last_name": "Mumpfield",
-            "normalized_position": "WR",
-            "number": 4,
-            "player_id": "12718",
-            "position": "WR",
-            "search_full_name": "konatamumpfield",
-            "status": "Active",
-            "team": "LAR",
-            "value": {
-              "confidence": 55.0,
-              "contender": 52.1,
-              "liquidity": 92.2,
-              "market": 52.1,
-              "player_id": "12718",
-              "rebuild": 64.1,
-              "risk": 24.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 1
-          },
-          {
-            "active": true,
-            "age": 23,
-            "age_bucket": "young",
             "depth_chart_order": 4,
             "depth_chart_position": "RWR",
             "fantasy_positions": [
@@ -43511,7 +43432,7 @@
             "injury_status": null,
             "is_reserve": false,
             "is_starter": false,
-            "is_taxi": false,
+            "is_taxi": true,
             "last_name": "Lambert-Smith",
             "normalized_position": "WR",
             "number": 84,
@@ -43651,7 +43572,6 @@
         "11589",
         "12541",
         "13392",
-        "6900",
         "7640"
       ],
       "roster_id": 3,
@@ -43688,13 +43608,13 @@
         "7016",
         "11705",
         "7659",
-        "7921",
+        "6900",
         "5865",
         "6901"
       ],
       "taxi_ids": [
+        "12670",
         "12683",
-        "12718",
         "13293",
         "13306",
         "13329",
@@ -63907,9 +63827,9 @@
           ],
           "first_name": "D'Andre",
           "full_name": "D'Andre Swift",
-          "injury_body_part": null,
-          "injury_notes": null,
-          "injury_status": null,
+          "injury_body_part": "Abdomen",
+          "injury_notes": "Cramps",
+          "injury_status": "Questionable",
           "is_reserve": false,
           "is_starter": true,
           "is_taxi": false,
@@ -63923,12 +63843,12 @@
           "team": "CHI",
           "value": {
             "confidence": 70.0,
-            "contender": 69.5,
+            "contender": 64.1,
             "liquidity": 83.0,
-            "market": 61.5,
+            "market": 57.5,
             "player_id": "6790",
-            "rebuild": 56.5,
-            "risk": 52.0,
+            "rebuild": 52.5,
+            "risk": 56.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 6
@@ -65328,9 +65248,9 @@
             ],
             "first_name": "D'Andre",
             "full_name": "D'Andre Swift",
-            "injury_body_part": null,
-            "injury_notes": null,
-            "injury_status": null,
+            "injury_body_part": "Abdomen",
+            "injury_notes": "Cramps",
+            "injury_status": "Questionable",
             "is_reserve": false,
             "is_starter": true,
             "is_taxi": false,
@@ -65344,12 +65264,12 @@
             "team": "CHI",
             "value": {
               "confidence": 70.0,
-              "contender": 69.5,
+              "contender": 64.1,
               "liquidity": 83.0,
-              "market": 61.5,
+              "market": 57.5,
               "player_id": "6790",
-              "rebuild": 56.5,
-              "risk": 52.0,
+              "rebuild": 52.5,
+              "risk": 56.0,
               "source": "heuristic-v0.2"
             },
             "years_exp": 6
@@ -84051,8 +83971,8 @@
       "seller_roster_id": 12
     },
     {
-      "buyer_name": "Springfield Wildcats",
-      "buyer_roster_id": 3,
+      "buyer_name": "Ostalb Highlanders",
+      "buyer_roster_id": 7,
       "contender_value": 60.5,
       "estimated_fit_score": 75.0,
       "player_id": "3558",
@@ -84064,8 +83984,8 @@
       "seller_roster_id": 4
     },
     {
-      "buyer_name": "Springfield Wildcats",
-      "buyer_roster_id": 3,
+      "buyer_name": "Ostalb Highlanders",
+      "buyer_roster_id": 7,
       "contender_value": 60.5,
       "estimated_fit_score": 75.0,
       "player_id": "3172",
@@ -84077,8 +83997,8 @@
       "seller_roster_id": 5
     },
     {
-      "buyer_name": "Springfield Wildcats",
-      "buyer_roster_id": 3,
+      "buyer_name": "Ostalb Highlanders",
+      "buyer_roster_id": 7,
       "contender_value": 60.5,
       "estimated_fit_score": 75.0,
       "player_id": "2311",
@@ -84090,10 +84010,10 @@
       "seller_roster_id": 12
     },
     {
-      "buyer_name": "Ostalb Highlanders",
-      "buyer_roster_id": 7,
+      "buyer_name": "Springfield Wildcats",
+      "buyer_roster_id": 3,
       "contender_value": 60.5,
-      "estimated_fit_score": 75.0,
+      "estimated_fit_score": 74.9,
       "player_id": "3558",
       "player_name": "Chris Jones",
       "position": "DL",
@@ -84103,10 +84023,10 @@
       "seller_roster_id": 4
     },
     {
-      "buyer_name": "Ostalb Highlanders",
-      "buyer_roster_id": 7,
+      "buyer_name": "Springfield Wildcats",
+      "buyer_roster_id": 3,
       "contender_value": 60.5,
-      "estimated_fit_score": 75.0,
+      "estimated_fit_score": 74.9,
       "player_id": "3172",
       "player_name": "DeForest Buckner",
       "position": "DL",
@@ -84116,10 +84036,10 @@
       "seller_roster_id": 5
     },
     {
-      "buyer_name": "Ostalb Highlanders",
-      "buyer_roster_id": 7,
+      "buyer_name": "Springfield Wildcats",
+      "buyer_roster_id": 3,
       "contender_value": 60.5,
-      "estimated_fit_score": 75.0,
+      "estimated_fit_score": 74.9,
       "player_id": "2311",
       "player_name": "Leonard Williams",
       "position": "DL",
@@ -84376,10 +84296,75 @@
       "seller_roster_id": 8
     },
     {
+      "buyer_name": "The Dawg Side",
+      "buyer_roster_id": 6,
+      "contender_value": 68.5,
+      "estimated_fit_score": 71.4,
+      "player_id": "3214",
+      "player_name": "Hunter Henry",
+      "position": "TE",
+      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
+      "rebuild_value": 48.5,
+      "seller_name": "Lokomotive Bodensee",
+      "seller_roster_id": 2
+    },
+    {
+      "buyer_name": "The Dawg Side",
+      "buyer_roster_id": 6,
+      "contender_value": 68.5,
+      "estimated_fit_score": 71.4,
+      "player_id": "5012",
+      "player_name": "Mark Andrews",
+      "position": "TE",
+      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
+      "rebuild_value": 48.5,
+      "seller_name": "Big Black Blocks",
+      "seller_roster_id": 8
+    },
+    {
+      "buyer_name": "Ostalb Highlanders",
+      "buyer_roster_id": 7,
+      "contender_value": 63.5,
+      "estimated_fit_score": 71.4,
+      "player_id": "2393",
+      "player_name": "Danielle Hunter",
+      "position": "DL",
+      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
+      "rebuild_value": 43.5,
+      "seller_name": "Lokomotive Bodensee",
+      "seller_roster_id": 2
+    },
+    {
+      "buyer_name": "Ostalb Highlanders",
+      "buyer_roster_id": 7,
+      "contender_value": 68.5,
+      "estimated_fit_score": 71.4,
+      "player_id": "3214",
+      "player_name": "Hunter Henry",
+      "position": "TE",
+      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
+      "rebuild_value": 48.5,
+      "seller_name": "Lokomotive Bodensee",
+      "seller_roster_id": 2
+    },
+    {
+      "buyer_name": "Ostalb Highlanders",
+      "buyer_roster_id": 7,
+      "contender_value": 68.5,
+      "estimated_fit_score": 71.4,
+      "player_id": "5012",
+      "player_name": "Mark Andrews",
+      "position": "TE",
+      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
+      "rebuild_value": 48.5,
+      "seller_name": "Big Black Blocks",
+      "seller_roster_id": 8
+    },
+    {
       "buyer_name": "Springfield Wildcats",
       "buyer_roster_id": 3,
       "contender_value": 63.5,
-      "estimated_fit_score": 71.4,
+      "estimated_fit_score": 71.3,
       "player_id": "2393",
       "player_name": "Danielle Hunter",
       "position": "DL",
@@ -84392,7 +84377,7 @@
       "buyer_name": "Springfield Wildcats",
       "buyer_roster_id": 3,
       "contender_value": 68.5,
-      "estimated_fit_score": 71.4,
+      "estimated_fit_score": 71.3,
       "player_id": "3214",
       "player_name": "Hunter Henry",
       "position": "TE",
@@ -84405,7 +84390,7 @@
       "buyer_name": "Springfield Wildcats",
       "buyer_roster_id": 3,
       "contender_value": 63.5,
-      "estimated_fit_score": 71.4,
+      "estimated_fit_score": 71.3,
       "player_id": "4135",
       "player_name": "Trey Hendrickson",
       "position": "DL",
@@ -84418,72 +84403,7 @@
       "buyer_name": "Springfield Wildcats",
       "buyer_roster_id": 3,
       "contender_value": 68.5,
-      "estimated_fit_score": 71.4,
-      "player_id": "5012",
-      "player_name": "Mark Andrews",
-      "position": "TE",
-      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
-      "rebuild_value": 48.5,
-      "seller_name": "Big Black Blocks",
-      "seller_roster_id": 8
-    },
-    {
-      "buyer_name": "The Dawg Side",
-      "buyer_roster_id": 6,
-      "contender_value": 68.5,
-      "estimated_fit_score": 71.4,
-      "player_id": "3214",
-      "player_name": "Hunter Henry",
-      "position": "TE",
-      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
-      "rebuild_value": 48.5,
-      "seller_name": "Lokomotive Bodensee",
-      "seller_roster_id": 2
-    },
-    {
-      "buyer_name": "The Dawg Side",
-      "buyer_roster_id": 6,
-      "contender_value": 68.5,
-      "estimated_fit_score": 71.4,
-      "player_id": "5012",
-      "player_name": "Mark Andrews",
-      "position": "TE",
-      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
-      "rebuild_value": 48.5,
-      "seller_name": "Big Black Blocks",
-      "seller_roster_id": 8
-    },
-    {
-      "buyer_name": "Ostalb Highlanders",
-      "buyer_roster_id": 7,
-      "contender_value": 63.5,
-      "estimated_fit_score": 71.4,
-      "player_id": "2393",
-      "player_name": "Danielle Hunter",
-      "position": "DL",
-      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
-      "rebuild_value": 43.5,
-      "seller_name": "Lokomotive Bodensee",
-      "seller_roster_id": 2
-    },
-    {
-      "buyer_name": "Ostalb Highlanders",
-      "buyer_roster_id": 7,
-      "contender_value": 68.5,
-      "estimated_fit_score": 71.4,
-      "player_id": "3214",
-      "player_name": "Hunter Henry",
-      "position": "TE",
-      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
-      "rebuild_value": 48.5,
-      "seller_name": "Lokomotive Bodensee",
-      "seller_roster_id": 2
-    },
-    {
-      "buyer_name": "Ostalb Highlanders",
-      "buyer_roster_id": 7,
-      "contender_value": 68.5,
-      "estimated_fit_score": 71.4,
+      "estimated_fit_score": 71.3,
       "player_id": "5012",
       "player_name": "Mark Andrews",
       "position": "TE",
@@ -84844,19 +84764,6 @@
       "seller_roster_id": 9
     },
     {
-      "buyer_name": "Springfield Wildcats",
-      "buyer_roster_id": 3,
-      "contender_value": 58.1,
-      "estimated_fit_score": 69.7,
-      "player_id": "5297",
-      "player_name": "Zach Sieler",
-      "position": "DL",
-      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
-      "rebuild_value": 39.5,
-      "seller_name": "Ravensburger Playmakers",
-      "seller_roster_id": 9
-    },
-    {
       "buyer_name": "Ostalb Highlanders",
       "buyer_roster_id": 7,
       "contender_value": 58.1,
@@ -84881,6 +84788,19 @@
       "rebuild_value": 40.5,
       "seller_name": "Steffmeff",
       "seller_roster_id": 11
+    },
+    {
+      "buyer_name": "Springfield Wildcats",
+      "buyer_roster_id": 3,
+      "contender_value": 58.1,
+      "estimated_fit_score": 69.6,
+      "player_id": "5297",
+      "player_name": "Zach Sieler",
+      "position": "DL",
+      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
+      "rebuild_value": 39.5,
+      "seller_name": "Ravensburger Playmakers",
+      "seller_roster_id": 9
     },
     {
       "buyer_name": "Lokomotive Bodensee",
@@ -84950,19 +84870,6 @@
     {
       "buyer_name": "T’s Golden Browns",
       "buyer_roster_id": 1,
-      "contender_value": 66.5,
-      "estimated_fit_score": 67.8,
-      "player_id": "6124",
-      "player_name": "Montez Sweat",
-      "position": "DL",
-      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
-      "rebuild_value": 49.5,
-      "seller_name": "Kindergarten Cop",
-      "seller_roster_id": 10
-    },
-    {
-      "buyer_name": "Springfield Wildcats",
-      "buyer_roster_id": 3,
       "contender_value": 66.5,
       "estimated_fit_score": 67.8,
       "player_id": "6124",
@@ -85056,6 +84963,19 @@
       "buyer_roster_id": 7,
       "contender_value": 66.5,
       "estimated_fit_score": 67.8,
+      "player_id": "6124",
+      "player_name": "Montez Sweat",
+      "position": "DL",
+      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
+      "rebuild_value": 49.5,
+      "seller_name": "Kindergarten Cop",
+      "seller_roster_id": 10
+    },
+    {
+      "buyer_name": "Springfield Wildcats",
+      "buyer_roster_id": 3,
+      "contender_value": 66.5,
+      "estimated_fit_score": 67.7,
       "player_id": "6124",
       "player_name": "Montez Sweat",
       "position": "DL",
@@ -85353,8 +85273,8 @@
       "seller_roster_id": 12
     },
     {
-      "buyer_name": "Springfield Wildcats",
-      "buyer_roster_id": 3,
+      "buyer_name": "Ostalb Highlanders",
+      "buyer_roster_id": 7,
       "contender_value": 60.5,
       "estimated_fit_score": 75.0,
       "player_id": "3558",
@@ -85366,8 +85286,8 @@
       "seller_roster_id": 4
     },
     {
-      "buyer_name": "Springfield Wildcats",
-      "buyer_roster_id": 3,
+      "buyer_name": "Ostalb Highlanders",
+      "buyer_roster_id": 7,
       "contender_value": 60.5,
       "estimated_fit_score": 75.0,
       "player_id": "3172",
@@ -85379,8 +85299,8 @@
       "seller_roster_id": 5
     },
     {
-      "buyer_name": "Springfield Wildcats",
-      "buyer_roster_id": 3,
+      "buyer_name": "Ostalb Highlanders",
+      "buyer_roster_id": 7,
       "contender_value": 60.5,
       "estimated_fit_score": 75.0,
       "player_id": "2311",
@@ -85392,10 +85312,10 @@
       "seller_roster_id": 12
     },
     {
-      "buyer_name": "Ostalb Highlanders",
-      "buyer_roster_id": 7,
+      "buyer_name": "Springfield Wildcats",
+      "buyer_roster_id": 3,
       "contender_value": 60.5,
-      "estimated_fit_score": 75.0,
+      "estimated_fit_score": 74.9,
       "player_id": "3558",
       "player_name": "Chris Jones",
       "position": "DL",
@@ -85405,10 +85325,10 @@
       "seller_roster_id": 4
     },
     {
-      "buyer_name": "Ostalb Highlanders",
-      "buyer_roster_id": 7,
+      "buyer_name": "Springfield Wildcats",
+      "buyer_roster_id": 3,
       "contender_value": 60.5,
-      "estimated_fit_score": 75.0,
+      "estimated_fit_score": 74.9,
       "player_id": "3172",
       "player_name": "DeForest Buckner",
       "position": "DL",
@@ -85418,10 +85338,10 @@
       "seller_roster_id": 5
     },
     {
-      "buyer_name": "Ostalb Highlanders",
-      "buyer_roster_id": 7,
+      "buyer_name": "Springfield Wildcats",
+      "buyer_roster_id": 3,
       "contender_value": 60.5,
-      "estimated_fit_score": 75.0,
+      "estimated_fit_score": 74.9,
       "player_id": "2311",
       "player_name": "Leonard Williams",
       "position": "DL",
@@ -85678,10 +85598,75 @@
       "seller_roster_id": 8
     },
     {
+      "buyer_name": "The Dawg Side",
+      "buyer_roster_id": 6,
+      "contender_value": 68.5,
+      "estimated_fit_score": 71.4,
+      "player_id": "3214",
+      "player_name": "Hunter Henry",
+      "position": "TE",
+      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
+      "rebuild_value": 48.5,
+      "seller_name": "Lokomotive Bodensee",
+      "seller_roster_id": 2
+    },
+    {
+      "buyer_name": "The Dawg Side",
+      "buyer_roster_id": 6,
+      "contender_value": 68.5,
+      "estimated_fit_score": 71.4,
+      "player_id": "5012",
+      "player_name": "Mark Andrews",
+      "position": "TE",
+      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
+      "rebuild_value": 48.5,
+      "seller_name": "Big Black Blocks",
+      "seller_roster_id": 8
+    },
+    {
+      "buyer_name": "Ostalb Highlanders",
+      "buyer_roster_id": 7,
+      "contender_value": 63.5,
+      "estimated_fit_score": 71.4,
+      "player_id": "2393",
+      "player_name": "Danielle Hunter",
+      "position": "DL",
+      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
+      "rebuild_value": 43.5,
+      "seller_name": "Lokomotive Bodensee",
+      "seller_roster_id": 2
+    },
+    {
+      "buyer_name": "Ostalb Highlanders",
+      "buyer_roster_id": 7,
+      "contender_value": 68.5,
+      "estimated_fit_score": 71.4,
+      "player_id": "3214",
+      "player_name": "Hunter Henry",
+      "position": "TE",
+      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
+      "rebuild_value": 48.5,
+      "seller_name": "Lokomotive Bodensee",
+      "seller_roster_id": 2
+    },
+    {
+      "buyer_name": "Ostalb Highlanders",
+      "buyer_roster_id": 7,
+      "contender_value": 68.5,
+      "estimated_fit_score": 71.4,
+      "player_id": "5012",
+      "player_name": "Mark Andrews",
+      "position": "TE",
+      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
+      "rebuild_value": 48.5,
+      "seller_name": "Big Black Blocks",
+      "seller_roster_id": 8
+    },
+    {
       "buyer_name": "Springfield Wildcats",
       "buyer_roster_id": 3,
       "contender_value": 63.5,
-      "estimated_fit_score": 71.4,
+      "estimated_fit_score": 71.3,
       "player_id": "2393",
       "player_name": "Danielle Hunter",
       "position": "DL",
@@ -85694,7 +85679,7 @@
       "buyer_name": "Springfield Wildcats",
       "buyer_roster_id": 3,
       "contender_value": 68.5,
-      "estimated_fit_score": 71.4,
+      "estimated_fit_score": 71.3,
       "player_id": "3214",
       "player_name": "Hunter Henry",
       "position": "TE",
@@ -85707,7 +85692,7 @@
       "buyer_name": "Springfield Wildcats",
       "buyer_roster_id": 3,
       "contender_value": 63.5,
-      "estimated_fit_score": 71.4,
+      "estimated_fit_score": 71.3,
       "player_id": "4135",
       "player_name": "Trey Hendrickson",
       "position": "DL",
@@ -85720,72 +85705,7 @@
       "buyer_name": "Springfield Wildcats",
       "buyer_roster_id": 3,
       "contender_value": 68.5,
-      "estimated_fit_score": 71.4,
-      "player_id": "5012",
-      "player_name": "Mark Andrews",
-      "position": "TE",
-      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
-      "rebuild_value": 48.5,
-      "seller_name": "Big Black Blocks",
-      "seller_roster_id": 8
-    },
-    {
-      "buyer_name": "The Dawg Side",
-      "buyer_roster_id": 6,
-      "contender_value": 68.5,
-      "estimated_fit_score": 71.4,
-      "player_id": "3214",
-      "player_name": "Hunter Henry",
-      "position": "TE",
-      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
-      "rebuild_value": 48.5,
-      "seller_name": "Lokomotive Bodensee",
-      "seller_roster_id": 2
-    },
-    {
-      "buyer_name": "The Dawg Side",
-      "buyer_roster_id": 6,
-      "contender_value": 68.5,
-      "estimated_fit_score": 71.4,
-      "player_id": "5012",
-      "player_name": "Mark Andrews",
-      "position": "TE",
-      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
-      "rebuild_value": 48.5,
-      "seller_name": "Big Black Blocks",
-      "seller_roster_id": 8
-    },
-    {
-      "buyer_name": "Ostalb Highlanders",
-      "buyer_roster_id": 7,
-      "contender_value": 63.5,
-      "estimated_fit_score": 71.4,
-      "player_id": "2393",
-      "player_name": "Danielle Hunter",
-      "position": "DL",
-      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
-      "rebuild_value": 43.5,
-      "seller_name": "Lokomotive Bodensee",
-      "seller_roster_id": 2
-    },
-    {
-      "buyer_name": "Ostalb Highlanders",
-      "buyer_roster_id": 7,
-      "contender_value": 68.5,
-      "estimated_fit_score": 71.4,
-      "player_id": "3214",
-      "player_name": "Hunter Henry",
-      "position": "TE",
-      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
-      "rebuild_value": 48.5,
-      "seller_name": "Lokomotive Bodensee",
-      "seller_roster_id": 2
-    },
-    {
-      "buyer_name": "Ostalb Highlanders",
-      "buyer_roster_id": 7,
-      "contender_value": 68.5,
-      "estimated_fit_score": 71.4,
+      "estimated_fit_score": 71.3,
       "player_id": "5012",
       "player_name": "Mark Andrews",
       "position": "TE",
@@ -86146,19 +86066,6 @@
       "seller_roster_id": 9
     },
     {
-      "buyer_name": "Springfield Wildcats",
-      "buyer_roster_id": 3,
-      "contender_value": 58.1,
-      "estimated_fit_score": 69.7,
-      "player_id": "5297",
-      "player_name": "Zach Sieler",
-      "position": "DL",
-      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
-      "rebuild_value": 39.5,
-      "seller_name": "Ravensburger Playmakers",
-      "seller_roster_id": 9
-    },
-    {
       "buyer_name": "Ostalb Highlanders",
       "buyer_roster_id": 7,
       "contender_value": 58.1,
@@ -86183,6 +86090,19 @@
       "rebuild_value": 40.5,
       "seller_name": "Steffmeff",
       "seller_roster_id": 11
+    },
+    {
+      "buyer_name": "Springfield Wildcats",
+      "buyer_roster_id": 3,
+      "contender_value": 58.1,
+      "estimated_fit_score": 69.6,
+      "player_id": "5297",
+      "player_name": "Zach Sieler",
+      "position": "DL",
+      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
+      "rebuild_value": 39.5,
+      "seller_name": "Ravensburger Playmakers",
+      "seller_roster_id": 9
     },
     {
       "buyer_name": "Lokomotive Bodensee",
@@ -86252,19 +86172,6 @@
     {
       "buyer_name": "T’s Golden Browns",
       "buyer_roster_id": 1,
-      "contender_value": 66.5,
-      "estimated_fit_score": 67.8,
-      "player_id": "6124",
-      "player_name": "Montez Sweat",
-      "position": "DL",
-      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
-      "rebuild_value": 49.5,
-      "seller_name": "Kindergarten Cop",
-      "seller_roster_id": 10
-    },
-    {
-      "buyer_name": "Springfield Wildcats",
-      "buyer_roster_id": 3,
       "contender_value": 66.5,
       "estimated_fit_score": 67.8,
       "player_id": "6124",
@@ -86358,6 +86265,19 @@
       "buyer_roster_id": 7,
       "contender_value": 66.5,
       "estimated_fit_score": 67.8,
+      "player_id": "6124",
+      "player_name": "Montez Sweat",
+      "position": "DL",
+      "reason": "Targets a weak DL group and may fit seller window 'contender'.",
+      "rebuild_value": 49.5,
+      "seller_name": "Kindergarten Cop",
+      "seller_roster_id": 10
+    },
+    {
+      "buyer_name": "Springfield Wildcats",
+      "buyer_roster_id": 3,
+      "contender_value": 66.5,
+      "estimated_fit_score": 67.7,
       "player_id": "6124",
       "player_name": "Montez Sweat",
       "position": "DL",
@@ -87150,6 +87070,29 @@
   ],
   "transactions_by_week": {
     "1": [
+      {
+        "adds": null,
+        "consenter_ids": [
+          3
+        ],
+        "created": 1788818009287,
+        "creator": "1358827897472692224",
+        "draft_picks": [],
+        "drops": {
+          "12718": 3
+        },
+        "leg": 1,
+        "metadata": null,
+        "roster_ids": [
+          3
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1788818009287,
+        "transaction_id": "1402808041409150976",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
       {
         "adds": null,
         "consenter_ids": [
