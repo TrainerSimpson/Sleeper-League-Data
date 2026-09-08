@@ -1441,7 +1441,7 @@
         "active": true,
         "age": 26,
         "age_bucket": "prime",
-        "depth_chart_order": 3,
+        "depth_chart_order": 2,
         "depth_chart_position": "RB",
         "fantasy_positions": [
           "RB"
@@ -1464,11 +1464,11 @@
         "team": "NYG",
         "value": {
           "confidence": 55.0,
-          "contender": 33.6,
+          "contender": 36.6,
           "liquidity": 84.0,
-          "market": 35.0,
+          "market": 38.0,
           "player_id": "11655",
-          "rebuild": 33.0,
+          "rebuild": 36.0,
           "risk": 50.0,
           "source": "heuristic-v0.2"
         },
@@ -1737,7 +1737,7 @@
         "active": true,
         "age": 23,
         "age_bucket": "young",
-        "depth_chart_order": 2,
+        "depth_chart_order": 1,
         "depth_chart_position": "TE",
         "fantasy_positions": [
           "TE"
@@ -1760,11 +1760,11 @@
         "team": "LAR",
         "value": {
           "confidence": 55.0,
-          "contender": 47.5,
+          "contender": 50.5,
           "liquidity": 72.2,
-          "market": 48.9,
+          "market": 51.9,
           "player_id": "12487",
-          "rebuild": 60.9,
+          "rebuild": 63.9,
           "risk": 28.0,
           "source": "heuristic-v0.2"
         },
@@ -3864,7 +3864,7 @@
           "active": true,
           "age": 26,
           "age_bucket": "prime",
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -3887,11 +3887,11 @@
           "team": "NYG",
           "value": {
             "confidence": 55.0,
-            "contender": 33.6,
+            "contender": 36.6,
             "liquidity": 84.0,
-            "market": 35.0,
+            "market": 38.0,
             "player_id": "11655",
-            "rebuild": 33.0,
+            "rebuild": 36.0,
             "risk": 50.0,
             "source": "heuristic-v0.2"
           },
@@ -4088,7 +4088,7 @@
           "active": true,
           "age": 23,
           "age_bucket": "young",
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -4111,11 +4111,11 @@
           "team": "LAR",
           "value": {
             "confidence": 55.0,
-            "contender": 47.5,
+            "contender": 50.5,
             "liquidity": 72.2,
-            "market": 48.9,
+            "market": 51.9,
             "player_id": "12487",
-            "rebuild": 60.9,
+            "rebuild": 63.9,
             "risk": 28.0,
             "source": "heuristic-v0.2"
           },
@@ -4620,7 +4620,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 4,
-      "waiver_position": 8,
+      "waiver_position": 7,
       "wins": 0
     },
     "starter_ids": [
@@ -6116,7 +6116,7 @@
         "is_taxi": false,
         "last_name": "Stribling",
         "normalized_position": "WR",
-        "number": 15,
+        "number": 7,
         "player_id": "13417",
         "position": "WR",
         "search_full_name": "dezhaunstribling",
@@ -8616,7 +8616,7 @@
           "is_taxi": false,
           "last_name": "Stribling",
           "normalized_position": "WR",
-          "number": 15,
+          "number": 7,
           "player_id": "13417",
           "position": "WR",
           "search_full_name": "dezhaunstribling",
@@ -9072,7 +9072,7 @@
         "is_taxi": false,
         "last_name": "Dexter",
         "normalized_position": "DL",
-        "number": 99,
+        "number": 95,
         "player_id": "10899",
         "position": "DL",
         "search_full_name": "gervondexter",
@@ -11751,7 +11751,7 @@
           "is_taxi": false,
           "last_name": "Dexter",
           "normalized_position": "DL",
-          "number": 99,
+          "number": 95,
           "player_id": "10899",
           "position": "DL",
           "search_full_name": "gervondexter",
@@ -13652,7 +13652,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 7,
-      "waiver_position": 11,
+      "waiver_position": 9,
       "wins": 0
     },
     "starter_ids": [
@@ -18067,6 +18067,7 @@
       "13317",
       "12566",
       "8210",
+      "13464",
       "4017",
       "1466",
       "13434",
@@ -18382,6 +18383,43 @@
           "source": "heuristic-v0.2"
         },
         "years_exp": 4
+      },
+      {
+        "active": true,
+        "age": 22,
+        "age_bucket": "young",
+        "depth_chart_order": 2,
+        "depth_chart_position": "NT",
+        "fantasy_positions": [
+          "DL"
+        ],
+        "first_name": "Domonique",
+        "full_name": "Domonique Orange",
+        "injury_body_part": null,
+        "injury_notes": null,
+        "injury_status": null,
+        "is_reserve": false,
+        "is_starter": false,
+        "is_taxi": false,
+        "last_name": "Orange",
+        "normalized_position": "DL",
+        "number": 97,
+        "player_id": "13464",
+        "position": "DT",
+        "search_full_name": "domoniqueorange",
+        "status": "Active",
+        "team": "MIN",
+        "value": {
+          "confidence": 55.0,
+          "contender": 45.2,
+          "liquidity": 53.2,
+          "market": 45.2,
+          "player_id": "13464",
+          "rebuild": 60.2,
+          "risk": 24.0,
+          "source": "heuristic-v0.2"
+        },
+        "years_exp": 0
       },
       {
         "active": true,
@@ -20834,6 +20872,43 @@
         },
         {
           "active": true,
+          "age": 22,
+          "age_bucket": "young",
+          "depth_chart_order": 2,
+          "depth_chart_position": "NT",
+          "fantasy_positions": [
+            "DL"
+          ],
+          "first_name": "Domonique",
+          "full_name": "Domonique Orange",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Orange",
+          "normalized_position": "DL",
+          "number": 97,
+          "player_id": "13464",
+          "position": "DT",
+          "search_full_name": "domoniqueorange",
+          "status": "Active",
+          "team": "MIN",
+          "value": {
+            "confidence": 55.0,
+            "contender": 45.2,
+            "liquidity": 53.2,
+            "market": 45.2,
+            "player_id": "13464",
+            "rebuild": 60.2,
+            "risk": 24.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 0
+        },
+        {
+          "active": true,
           "age": 25,
           "age_bucket": "prime",
           "depth_chart_order": 1,
@@ -22749,7 +22824,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 41,
-      "waiver_position": 10,
+      "waiver_position": 11,
       "wins": 0
     },
     "starter_ids": [
@@ -23050,7 +23125,7 @@
         "active": true,
         "age": 28,
         "age_bucket": "prime",
-        "depth_chart_order": 2,
+        "depth_chart_order": 3,
         "depth_chart_position": "RB",
         "fantasy_positions": [
           "RB"
@@ -23073,11 +23148,11 @@
         "team": "NYG",
         "value": {
           "confidence": 55.0,
-          "contender": 33.5,
+          "contender": 30.5,
           "liquidity": 82.0,
-          "market": 33.5,
+          "market": 30.5,
           "player_id": "7528",
-          "rebuild": 25.5,
+          "rebuild": 22.5,
           "risk": 58.0,
           "source": "heuristic-v0.2"
         },
@@ -24694,7 +24769,7 @@
         "is_taxi": true,
         "last_name": "Jacobs",
         "normalized_position": "LB",
-        "number": 27,
+        "number": 59,
         "player_id": "13915",
         "position": "LB",
         "search_full_name": "khaliljacobs",
@@ -25963,7 +26038,7 @@
           "is_taxi": true,
           "last_name": "Jacobs",
           "normalized_position": "LB",
-          "number": 27,
+          "number": 59,
           "player_id": "13915",
           "position": "LB",
           "search_full_name": "khaliljacobs",
@@ -26618,7 +26693,7 @@
           "active": true,
           "age": 28,
           "age_bucket": "prime",
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -26641,11 +26716,11 @@
           "team": "NYG",
           "value": {
             "confidence": 55.0,
-            "contender": 33.5,
+            "contender": 30.5,
             "liquidity": 82.0,
-            "market": 33.5,
+            "market": 30.5,
             "player_id": "7528",
-            "rebuild": 25.5,
+            "rebuild": 22.5,
             "risk": 58.0,
             "source": "heuristic-v0.2"
           },
@@ -27411,7 +27486,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 18,
-      "waiver_position": 9,
+      "waiver_position": 8,
       "wins": 0
     },
     "starter_ids": [
@@ -29834,9 +29909,9 @@
         ],
         "first_name": "Devontez",
         "full_name": "Devontez Walker",
-        "injury_body_part": null,
+        "injury_body_part": "Undisclosed",
         "injury_notes": null,
-        "injury_status": null,
+        "injury_status": "Questionable",
         "is_reserve": false,
         "is_starter": false,
         "is_taxi": true,
@@ -29850,12 +29925,12 @@
         "team": "BAL",
         "value": {
           "confidence": 55.0,
-          "contender": 59.0,
+          "contender": 53.6,
           "liquidity": 90.1,
-          "market": 59.0,
+          "market": 55.0,
           "player_id": "11629",
-          "rebuild": 65.0,
-          "risk": 24.0,
+          "rebuild": 61.0,
+          "risk": 28.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 2
@@ -32184,9 +32259,9 @@
           ],
           "first_name": "Devontez",
           "full_name": "Devontez Walker",
-          "injury_body_part": null,
+          "injury_body_part": "Undisclosed",
           "injury_notes": null,
-          "injury_status": null,
+          "injury_status": "Questionable",
           "is_reserve": false,
           "is_starter": false,
           "is_taxi": true,
@@ -32200,12 +32275,12 @@
           "team": "BAL",
           "value": {
             "confidence": 55.0,
-            "contender": 59.0,
+            "contender": 53.6,
             "liquidity": 90.1,
-            "market": 59.0,
+            "market": 55.0,
             "player_id": "11629",
-            "rebuild": 65.0,
-            "risk": 24.0,
+            "rebuild": 61.0,
+            "risk": 28.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 2
@@ -32405,7 +32480,7 @@
         "active": true,
         "age": 27,
         "age_bucket": "prime",
-        "depth_chart_order": 1,
+        "depth_chart_order": 2,
         "depth_chart_position": "TE",
         "fantasy_positions": [
           "TE"
@@ -32428,11 +32503,11 @@
         "team": "LAR",
         "value": {
           "confidence": 55.0,
-          "contender": 52.5,
+          "contender": 49.5,
           "liquidity": 68.0,
-          "market": 52.5,
+          "market": 49.5,
           "player_id": "6865",
-          "rebuild": 52.5,
+          "rebuild": 49.5,
           "risk": 24.0,
           "source": "heuristic-v0.2"
         },
@@ -32605,7 +32680,7 @@
         "is_taxi": false,
         "last_name": "Wilson",
         "normalized_position": "RB",
-        "number": 27,
+        "number": 23,
         "player_id": "11435",
         "position": "RB",
         "search_full_name": "emanuelwilson",
@@ -35362,7 +35437,7 @@
           "is_taxi": false,
           "last_name": "Wilson",
           "normalized_position": "RB",
-          "number": 27,
+          "number": 23,
           "player_id": "11435",
           "position": "RB",
           "search_full_name": "emanuelwilson",
@@ -35645,7 +35720,7 @@
           "active": true,
           "age": 27,
           "age_bucket": "prime",
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -35668,11 +35743,11 @@
           "team": "LAR",
           "value": {
             "confidence": 55.0,
-            "contender": 52.5,
+            "contender": 49.5,
             "liquidity": 68.0,
-            "market": 52.5,
+            "market": 49.5,
             "player_id": "6865",
-            "rebuild": 52.5,
+            "rebuild": 49.5,
             "risk": 24.0,
             "source": "heuristic-v0.2"
           },
@@ -36027,6 +36102,7 @@
     "player_ids": [
       "12505",
       "5297",
+      "8364",
       "11575",
       "10916",
       "4971",
@@ -36052,6 +36128,7 @@
       "5332",
       "10898",
       "12573",
+      "8270",
       "12490",
       "12511",
       "7525",
@@ -36064,6 +36141,7 @@
       "10917",
       "4032",
       "11577",
+      "8367",
       "10226",
       "12567",
       "13299",
@@ -36155,6 +36233,43 @@
           "source": "heuristic-v0.2"
         },
         "years_exp": 8
+      },
+      {
+        "active": true,
+        "age": 25,
+        "age_bucket": "prime",
+        "depth_chart_order": 1,
+        "depth_chart_position": "RCB",
+        "fantasy_positions": [
+          "DB"
+        ],
+        "first_name": "Trent",
+        "full_name": "Trent McDuffie",
+        "injury_body_part": null,
+        "injury_notes": null,
+        "injury_status": null,
+        "is_reserve": false,
+        "is_starter": false,
+        "is_taxi": false,
+        "last_name": "McDuffie",
+        "normalized_position": "DB",
+        "number": 22,
+        "player_id": "8364",
+        "position": "DB",
+        "search_full_name": "trentmcduffie",
+        "status": "Active",
+        "team": "LAR",
+        "value": {
+          "confidence": 55.0,
+          "contender": 53.5,
+          "liquidity": 40.1,
+          "market": 53.5,
+          "player_id": "8364",
+          "rebuild": 59.5,
+          "risk": 24.0,
+          "source": "heuristic-v0.2"
+        },
+        "years_exp": 4
       },
       {
         "active": true,
@@ -36291,7 +36406,7 @@
         "position": "WR",
         "search_full_name": "dariusslayton",
         "status": "Active",
-        "team": "NYG",
+        "team": null,
         "value": {
           "confidence": 35.0,
           "contender": 42.5,
@@ -37085,6 +37200,43 @@
       },
       {
         "active": true,
+        "age": 28,
+        "age_bucket": "prime",
+        "depth_chart_order": 1,
+        "depth_chart_position": "RDE",
+        "fantasy_positions": [
+          "DL"
+        ],
+        "first_name": "Devonte",
+        "full_name": "Devonte Wyatt",
+        "injury_body_part": null,
+        "injury_notes": null,
+        "injury_status": null,
+        "is_reserve": false,
+        "is_starter": false,
+        "is_taxi": false,
+        "last_name": "Wyatt",
+        "normalized_position": "DL",
+        "number": 95,
+        "player_id": "8270",
+        "position": "DL",
+        "search_full_name": "devontewyatt",
+        "status": "Active",
+        "team": "GB",
+        "value": {
+          "confidence": 55.0,
+          "contender": 44.5,
+          "liquidity": 47.0,
+          "market": 44.5,
+          "player_id": "8270",
+          "rebuild": 41.5,
+          "risk": 30.0,
+          "source": "heuristic-v0.2"
+        },
+        "years_exp": 4
+      },
+      {
+        "active": true,
         "age": 23,
         "age_bucket": "young",
         "depth_chart_order": 1,
@@ -37527,6 +37679,43 @@
           "source": "heuristic-v0.2"
         },
         "years_exp": 2
+      },
+      {
+        "active": true,
+        "age": 28,
+        "age_bucket": "prime",
+        "depth_chart_order": 1,
+        "depth_chart_position": "ROLB",
+        "fantasy_positions": [
+          "LB"
+        ],
+        "first_name": "D'Marco",
+        "full_name": "D'Marco Jackson",
+        "injury_body_part": null,
+        "injury_notes": null,
+        "injury_status": null,
+        "is_reserve": false,
+        "is_starter": false,
+        "is_taxi": false,
+        "last_name": "Jackson",
+        "normalized_position": "LB",
+        "number": 48,
+        "player_id": "8367",
+        "position": "LB",
+        "search_full_name": "dmarcojackson",
+        "status": "Active",
+        "team": "CHI",
+        "value": {
+          "confidence": 55.0,
+          "contender": 42.5,
+          "liquidity": 51.0,
+          "market": 42.5,
+          "player_id": "8367",
+          "rebuild": 39.5,
+          "risk": 36.0,
+          "source": "heuristic-v0.2"
+        },
+        "years_exp": 4
       },
       {
         "active": true,
@@ -38310,6 +38499,43 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 4
+        },
+        {
+          "active": true,
+          "age": 25,
+          "age_bucket": "prime",
+          "depth_chart_order": 1,
+          "depth_chart_position": "RCB",
+          "fantasy_positions": [
+            "DB"
+          ],
+          "first_name": "Trent",
+          "full_name": "Trent McDuffie",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "McDuffie",
+          "normalized_position": "DB",
+          "number": 22,
+          "player_id": "8364",
+          "position": "DB",
+          "search_full_name": "trentmcduffie",
+          "status": "Active",
+          "team": "LAR",
+          "value": {
+            "confidence": 55.0,
+            "contender": 53.5,
+            "liquidity": 40.1,
+            "market": 53.5,
+            "player_id": "8364",
+            "rebuild": 59.5,
+            "risk": 24.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 4
         }
       ],
       "DL": [
@@ -38609,6 +38835,43 @@
             "player_id": "8343",
             "rebuild": 47.5,
             "risk": 24.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 4
+        },
+        {
+          "active": true,
+          "age": 28,
+          "age_bucket": "prime",
+          "depth_chart_order": 1,
+          "depth_chart_position": "RDE",
+          "fantasy_positions": [
+            "DL"
+          ],
+          "first_name": "Devonte",
+          "full_name": "Devonte Wyatt",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Wyatt",
+          "normalized_position": "DL",
+          "number": 95,
+          "player_id": "8270",
+          "position": "DL",
+          "search_full_name": "devontewyatt",
+          "status": "Active",
+          "team": "GB",
+          "value": {
+            "confidence": 55.0,
+            "contender": 44.5,
+            "liquidity": 47.0,
+            "market": 44.5,
+            "player_id": "8270",
+            "rebuild": 41.5,
+            "risk": 30.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 4
@@ -38986,6 +39249,43 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 6
+        },
+        {
+          "active": true,
+          "age": 28,
+          "age_bucket": "prime",
+          "depth_chart_order": 1,
+          "depth_chart_position": "ROLB",
+          "fantasy_positions": [
+            "LB"
+          ],
+          "first_name": "D'Marco",
+          "full_name": "D'Marco Jackson",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Jackson",
+          "normalized_position": "LB",
+          "number": 48,
+          "player_id": "8367",
+          "position": "LB",
+          "search_full_name": "dmarcojackson",
+          "status": "Active",
+          "team": "CHI",
+          "value": {
+            "confidence": 55.0,
+            "contender": 42.5,
+            "liquidity": 51.0,
+            "market": 42.5,
+            "player_id": "8367",
+            "rebuild": 39.5,
+            "risk": 36.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 4
         },
         {
           "active": true,
@@ -40166,7 +40466,7 @@
           "position": "WR",
           "search_full_name": "dariusslayton",
           "status": "Active",
-          "team": "NYG",
+          "team": null,
           "value": {
             "confidence": 35.0,
             "contender": 42.5,
@@ -40193,8 +40493,8 @@
       "losses": 0,
       "ties": 0,
       "total_moves": 0,
-      "waiver_budget_used": 2,
-      "waiver_position": 7,
+      "waiver_budget_used": 5,
+      "waiver_position": 10,
       "wins": 0
     },
     "starter_ids": [
@@ -40250,6 +40550,7 @@
       "13298",
       "11656",
       "13289",
+      "12673",
       "10880",
       "9502",
       "12654",
@@ -40286,7 +40587,6 @@
       "7083",
       "11638",
       "13272",
-      "13474",
       "13330",
       "12518",
       "4892",
@@ -40601,6 +40901,43 @@
           "source": "heuristic-v0.2"
         },
         "years_exp": 0
+      },
+      {
+        "active": true,
+        "age": 23,
+        "age_bucket": "young",
+        "depth_chart_order": 1,
+        "depth_chart_position": "SS",
+        "fantasy_positions": [
+          "DB"
+        ],
+        "first_name": "Dante",
+        "full_name": "Dante Trader",
+        "injury_body_part": null,
+        "injury_notes": null,
+        "injury_status": null,
+        "is_reserve": false,
+        "is_starter": false,
+        "is_taxi": false,
+        "last_name": "Trader",
+        "normalized_position": "DB",
+        "number": 11,
+        "player_id": "12673",
+        "position": "DB",
+        "search_full_name": "dantetrader",
+        "status": "Active",
+        "team": "MIA",
+        "value": {
+          "confidence": 55.0,
+          "contender": 48.1,
+          "liquidity": 42.2,
+          "market": 48.1,
+          "player_id": "12673",
+          "rebuild": 60.1,
+          "risk": 24.0,
+          "source": "heuristic-v0.2"
+        },
+        "years_exp": 1
       },
       {
         "active": true,
@@ -41941,43 +42278,6 @@
       },
       {
         "active": true,
-        "age": 23,
-        "age_bucket": "young",
-        "depth_chart_order": 2,
-        "depth_chart_position": "FS",
-        "fantasy_positions": [
-          "DB"
-        ],
-        "first_name": "Jalen",
-        "full_name": "Jalen Huskey",
-        "injury_body_part": null,
-        "injury_notes": null,
-        "injury_status": null,
-        "is_reserve": false,
-        "is_starter": false,
-        "is_taxi": false,
-        "last_name": "Huskey",
-        "normalized_position": "DB",
-        "number": 22,
-        "player_id": "13474",
-        "position": "DB",
-        "search_full_name": "jalenhuskey",
-        "status": "Active",
-        "team": "JAX",
-        "value": {
-          "confidence": 55.0,
-          "contender": 43.6,
-          "liquidity": 42.2,
-          "market": 43.6,
-          "player_id": "13474",
-          "rebuild": 55.6,
-          "risk": 24.0,
-          "source": "heuristic-v0.2"
-        },
-        "years_exp": 0
-      },
-      {
-        "active": true,
         "age": 21,
         "age_bucket": "young",
         "depth_chart_order": 2,
@@ -42135,9 +42435,9 @@
         ],
         "first_name": "Chamarri",
         "full_name": "Chamarri Conner",
-        "injury_body_part": null,
+        "injury_body_part": "Knee",
         "injury_notes": null,
-        "injury_status": null,
+        "injury_status": "Questionable",
         "is_reserve": false,
         "is_starter": true,
         "is_taxi": false,
@@ -42151,12 +42451,12 @@
         "team": "KC",
         "value": {
           "confidence": 70.0,
-          "contender": 71.5,
+          "contender": 66.1,
           "liquidity": 39.0,
-          "market": 63.5,
+          "market": 59.5,
           "player_id": "10949",
-          "rebuild": 66.5,
-          "risk": 24.0,
+          "rebuild": 62.5,
+          "risk": 28.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 3
@@ -42695,9 +42995,9 @@
           ],
           "first_name": "Chamarri",
           "full_name": "Chamarri Conner",
-          "injury_body_part": null,
+          "injury_body_part": "Knee",
           "injury_notes": null,
-          "injury_status": null,
+          "injury_status": "Questionable",
           "is_reserve": false,
           "is_starter": true,
           "is_taxi": false,
@@ -42711,12 +43011,12 @@
           "team": "KC",
           "value": {
             "confidence": 70.0,
-            "contender": 71.5,
+            "contender": 66.1,
             "liquidity": 39.0,
-            "market": 63.5,
+            "market": 59.5,
             "player_id": "10949",
-            "rebuild": 66.5,
-            "risk": 24.0,
+            "rebuild": 62.5,
+            "risk": 28.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 3
@@ -42762,38 +43062,38 @@
           "active": true,
           "age": 23,
           "age_bucket": "young",
-          "depth_chart_order": 2,
-          "depth_chart_position": "FS",
+          "depth_chart_order": 1,
+          "depth_chart_position": "SS",
           "fantasy_positions": [
             "DB"
           ],
-          "first_name": "Jalen",
-          "full_name": "Jalen Huskey",
+          "first_name": "Dante",
+          "full_name": "Dante Trader",
           "injury_body_part": null,
           "injury_notes": null,
           "injury_status": null,
           "is_reserve": false,
           "is_starter": false,
           "is_taxi": false,
-          "last_name": "Huskey",
+          "last_name": "Trader",
           "normalized_position": "DB",
-          "number": 22,
-          "player_id": "13474",
+          "number": 11,
+          "player_id": "12673",
           "position": "DB",
-          "search_full_name": "jalenhuskey",
+          "search_full_name": "dantetrader",
           "status": "Active",
-          "team": "JAX",
+          "team": "MIA",
           "value": {
             "confidence": 55.0,
-            "contender": 43.6,
+            "contender": 48.1,
             "liquidity": 42.2,
-            "market": 43.6,
-            "player_id": "13474",
-            "rebuild": 55.6,
+            "market": 48.1,
+            "player_id": "12673",
+            "rebuild": 60.1,
             "risk": 24.0,
             "source": "heuristic-v0.2"
           },
-          "years_exp": 0
+          "years_exp": 1
         },
         {
           "active": true,
@@ -45401,7 +45701,7 @@
         "is_taxi": false,
         "last_name": "Moore",
         "normalized_position": "DL",
-        "number": 9,
+        "number": 8,
         "player_id": "13458",
         "position": "DE",
         "search_full_name": "derrickmoore",
@@ -46109,7 +46409,7 @@
         "is_taxi": true,
         "last_name": "Height",
         "normalized_position": "LB",
-        "number": 58,
+        "number": 94,
         "player_id": "13361",
         "position": "LB",
         "search_full_name": "romelloheight",
@@ -47633,7 +47933,7 @@
           "is_taxi": false,
           "last_name": "Moore",
           "normalized_position": "DL",
-          "number": 9,
+          "number": 8,
           "player_id": "13458",
           "position": "DE",
           "search_full_name": "derrickmoore",
@@ -48192,7 +48492,7 @@
           "is_taxi": true,
           "last_name": "Height",
           "normalized_position": "LB",
-          "number": 58,
+          "number": 94,
           "player_id": "13361",
           "position": "LB",
           "search_full_name": "romelloheight",
@@ -49752,7 +50052,7 @@
         "active": true,
         "age": 24,
         "age_bucket": "young",
-        "depth_chart_order": 3,
+        "depth_chart_order": 2,
         "depth_chart_position": "TE",
         "fantasy_positions": [
           "TE"
@@ -49775,11 +50075,11 @@
         "team": "BAL",
         "value": {
           "confidence": 55.0,
-          "contender": 49.6,
+          "contender": 52.6,
           "liquidity": 71.2,
-          "market": 49.6,
+          "market": 52.6,
           "player_id": "13324",
-          "rebuild": 58.6,
+          "rebuild": 61.6,
           "risk": 24.0,
           "source": "heuristic-v0.2"
         },
@@ -53356,7 +53656,7 @@
           "active": true,
           "age": 24,
           "age_bucket": "young",
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -53379,11 +53679,11 @@
           "team": "BAL",
           "value": {
             "confidence": 55.0,
-            "contender": 49.6,
+            "contender": 52.6,
             "liquidity": 71.2,
-            "market": 49.6,
+            "market": 52.6,
             "player_id": "13324",
-            "rebuild": 58.6,
+            "rebuild": 61.6,
             "risk": 24.0,
             "source": "heuristic-v0.2"
           },
