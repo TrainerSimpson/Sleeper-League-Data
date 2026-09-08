@@ -17051,7 +17051,7 @@
       "type": "snake"
     }
   ],
-  "generated_at": "2026-09-08T04:43:17.194263+00:00",
+  "generated_at": "2026-09-08T09:45:22.402661+00:00",
   "league": {
     "avatar": "7c15319eacc56bfdeb741f4b006ca693",
     "bracket_id": null,
@@ -17059,14 +17059,14 @@
     "company_id": null,
     "draft_id": "1354800862865661952",
     "group_id": null,
-    "last_author_avatar": null,
-    "last_author_display_name": "sys",
-    "last_author_id": "166666666666666666",
-    "last_author_is_bot": true,
+    "last_author_avatar": "e588068794a9b6132c0207c925b1cf5d",
+    "last_author_display_name": "ThommyFootball",
+    "last_author_id": "469758658293526528",
+    "last_author_is_bot": false,
     "last_message_attachment": null,
-    "last_message_id": "1402808041585319936",
+    "last_message_id": "1402933178980638720",
     "last_message_text_map": null,
-    "last_message_time": 1788818009329,
+    "last_message_time": 1788847844409,
     "last_pinned_message_id": "1398779056215928832",
     "last_read_id": null,
     "league_id": "1354800861066317824",
@@ -18321,10 +18321,10 @@
           "12517",
           "8132",
           "13296",
-          "10235",
+          "13305",
           "8289",
           "13340",
-          "13341",
+          "11760",
           "12578",
           "13388",
           "13375",
@@ -18333,7 +18333,7 @@
           "8333",
           "6119",
           "12530",
-          "11760"
+          "13341"
         ],
         "starters_points": [
           0.0,
@@ -22152,10 +22152,10 @@
         "12517",
         "8132",
         "13296",
-        "10235",
+        "13305",
         "8289",
         "13340",
-        "13341",
+        "11760",
         "12578",
         "13388",
         "13375",
@@ -22164,7 +22164,7 @@
         "8333",
         "6119",
         "12530",
-        "11760"
+        "13341"
       ],
       "taxi": [
         "13335",
@@ -23209,8 +23209,8 @@
       },
       "lineups": {
         "future": {
-          "average": 82.8,
-          "bench_value": 1951.8,
+          "average": 83.5,
+          "bench_value": 1935.9,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
@@ -23328,24 +23328,24 @@
               "slot": "DB"
             },
             {
+              "full_name": "Mike Washington",
+              "player_id": "13305",
+              "position": "RB",
+              "score": 93.0,
+              "slot": "SUPER_FLEX"
+            },
+            {
               "full_name": "Denzel Boston",
               "player_id": "13346",
               "position": "WR",
               "score": 90.4,
-              "slot": "SUPER_FLEX"
+              "slot": "FLEX"
             },
             {
               "full_name": "Trey McBride",
               "player_id": "8130",
               "position": "TE",
               "score": 85.5,
-              "slot": "FLEX"
-            },
-            {
-              "full_name": "Mike Washington",
-              "player_id": "13305",
-              "position": "RB",
-              "score": 73.0,
               "slot": "FLEX"
             },
             {
@@ -23356,10 +23356,10 @@
               "slot": "FLEX"
             },
             {
-              "full_name": "Roschon Johnson",
-              "player_id": "10235",
-              "position": "RB",
-              "score": 71.5,
+              "full_name": "Barion Brown",
+              "player_id": "13533",
+              "position": "WR",
+              "score": 67.4,
               "slot": "FLEX"
             },
             {
@@ -23384,11 +23384,11 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1987.9
+          "total": 2003.8
         },
         "win_now": {
-          "average": 80.2,
-          "bench_value": 1670.8,
+          "average": 80.8,
+          "bench_value": 1655.3,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -23408,17 +23408,17 @@
               "slot": "TE"
             },
             {
+              "full_name": "Mike Washington",
+              "player_id": "13305",
+              "position": "RB",
+              "score": 89.0,
+              "slot": "RB"
+            },
+            {
               "full_name": "Dylan Sampson",
               "player_id": "12469",
               "position": "RB",
               "score": 88.1,
-              "slot": "RB"
-            },
-            {
-              "full_name": "Ashton Jeanty",
-              "player_id": "12527",
-              "position": "RB",
-              "score": 86.9,
               "slot": "RB"
             },
             {
@@ -23506,11 +23506,18 @@
               "slot": "DB"
             },
             {
+              "full_name": "Ashton Jeanty",
+              "player_id": "12527",
+              "position": "RB",
+              "score": 86.9,
+              "slot": "SUPER_FLEX"
+            },
+            {
               "full_name": "Denzel Boston",
               "player_id": "13346",
               "position": "WR",
               "score": 83.4,
-              "slot": "SUPER_FLEX"
+              "slot": "FLEX"
             },
             {
               "full_name": "Colston Loveland",
@@ -23524,13 +23531,6 @@
               "player_id": "8111",
               "position": "TE",
               "score": 80.5,
-              "slot": "FLEX"
-            },
-            {
-              "full_name": "Roschon Johnson",
-              "player_id": "10235",
-              "position": "RB",
-              "score": 73.5,
               "slot": "FLEX"
             },
             {
@@ -23562,7 +23562,7 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1923.8
+          "total": 1939.3
         }
       },
       "positions": {
@@ -23591,10 +23591,10 @@
           "rebuild_top": 311.8
         },
         "RB": {
-          "contender_top": 320.0,
+          "contender_top": 335.5,
           "count": 8,
           "market": 481.4,
-          "rebuild_top": 337.9
+          "rebuild_top": 347.9
         },
         "TE": {
           "contender_top": 300.9,
@@ -23612,11 +23612,11 @@
       "power_rank": 1,
       "roster_id": 6,
       "scores": {
-        "future": 82.8,
+        "future": 83.5,
         "liquidity": 70.8,
         "market_total": 3450.2,
         "risk": 28.9,
-        "win_now": 80.2
+        "win_now": 80.8
       },
       "team_name": "The Dawg Side",
       "window": "contender"
@@ -44858,7 +44858,7 @@
           "is_taxi": false,
           "last_name": "Blue",
           "normalized_position": "RB",
-          "number": 23,
+          "number": 30,
           "player_id": "12457",
           "position": "RB",
           "search_full_name": "jaydonblue",
@@ -47352,7 +47352,7 @@
             "is_taxi": false,
             "last_name": "Blue",
             "normalized_position": "RB",
-            "number": 23,
+            "number": 30,
             "player_id": "12457",
             "position": "RB",
             "search_full_name": "jaydonblue",
@@ -52955,7 +52955,7 @@
           "injury_notes": null,
           "injury_status": null,
           "is_reserve": false,
-          "is_starter": true,
+          "is_starter": false,
           "is_taxi": false,
           "last_name": "Johnson",
           "normalized_position": "RB",
@@ -52966,12 +52966,12 @@
           "status": "Active",
           "team": "CHI",
           "value": {
-            "confidence": 70.0,
-            "contender": 73.5,
+            "confidence": 55.0,
+            "contender": 45.5,
             "liquidity": 85.1,
-            "market": 65.5,
+            "market": 45.5,
             "player_id": "10235",
-            "rebuild": 71.5,
+            "rebuild": 51.5,
             "risk": 40.0,
             "source": "heuristic-v0.2"
           },
@@ -53214,7 +53214,7 @@
           "injury_notes": null,
           "injury_status": null,
           "is_reserve": false,
-          "is_starter": false,
+          "is_starter": true,
           "is_taxi": false,
           "last_name": "Washington",
           "normalized_position": "RB",
@@ -53225,12 +53225,12 @@
           "status": "Active",
           "team": "LV",
           "value": {
-            "confidence": 55.0,
-            "contender": 61.0,
+            "confidence": 70.0,
+            "contender": 89.0,
             "liquidity": 87.2,
-            "market": 61.0,
+            "market": 81.0,
             "player_id": "13305",
-            "rebuild": 73.0,
+            "rebuild": 93.0,
             "risk": 34.0,
             "source": "heuristic-v0.2"
           },
@@ -56362,40 +56362,40 @@
           },
           {
             "active": true,
-            "age": 25,
-            "age_bucket": "prime",
-            "depth_chart_order": 3,
+            "age": 23,
+            "age_bucket": "young",
+            "depth_chart_order": 2,
             "depth_chart_position": "RB",
             "fantasy_positions": [
               "RB"
             ],
-            "first_name": "Roschon",
-            "full_name": "Roschon Johnson",
+            "first_name": "Mike",
+            "full_name": "Mike Washington",
             "injury_body_part": null,
             "injury_notes": null,
             "injury_status": null,
             "is_reserve": false,
             "is_starter": true,
             "is_taxi": false,
-            "last_name": "Johnson",
+            "last_name": "Washington",
             "normalized_position": "RB",
-            "number": 23,
-            "player_id": "10235",
+            "number": 30,
+            "player_id": "13305",
             "position": "RB",
-            "search_full_name": "roschonjohnson",
+            "search_full_name": "mikewashington",
             "status": "Active",
-            "team": "CHI",
+            "team": "LV",
             "value": {
               "confidence": 70.0,
-              "contender": 73.5,
-              "liquidity": 85.1,
-              "market": 65.5,
-              "player_id": "10235",
-              "rebuild": 71.5,
-              "risk": 40.0,
+              "contender": 89.0,
+              "liquidity": 87.2,
+              "market": 81.0,
+              "player_id": "13305",
+              "rebuild": 93.0,
+              "risk": 34.0,
               "source": "heuristic-v0.2"
             },
-            "years_exp": 3
+            "years_exp": 0
           },
           {
             "active": true,
@@ -56433,43 +56433,6 @@
               "source": "heuristic-v0.2"
             },
             "years_exp": 4
-          },
-          {
-            "active": true,
-            "age": 23,
-            "age_bucket": "young",
-            "depth_chart_order": 2,
-            "depth_chart_position": "RB",
-            "fantasy_positions": [
-              "RB"
-            ],
-            "first_name": "Mike",
-            "full_name": "Mike Washington",
-            "injury_body_part": null,
-            "injury_notes": null,
-            "injury_status": null,
-            "is_reserve": false,
-            "is_starter": false,
-            "is_taxi": false,
-            "last_name": "Washington",
-            "normalized_position": "RB",
-            "number": 30,
-            "player_id": "13305",
-            "position": "RB",
-            "search_full_name": "mikewashington",
-            "status": "Active",
-            "team": "LV",
-            "value": {
-              "confidence": 55.0,
-              "contender": 61.0,
-              "liquidity": 87.2,
-              "market": 61.0,
-              "player_id": "13305",
-              "rebuild": 73.0,
-              "risk": 34.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 0
           },
           {
             "active": true,
@@ -56540,6 +56503,43 @@
               "market": 48.5,
               "player_id": "11237",
               "rebuild": 54.5,
+              "risk": 40.0,
+              "source": "heuristic-v0.2"
+            },
+            "years_exp": 3
+          },
+          {
+            "active": true,
+            "age": 25,
+            "age_bucket": "prime",
+            "depth_chart_order": 3,
+            "depth_chart_position": "RB",
+            "fantasy_positions": [
+              "RB"
+            ],
+            "first_name": "Roschon",
+            "full_name": "Roschon Johnson",
+            "injury_body_part": null,
+            "injury_notes": null,
+            "injury_status": null,
+            "is_reserve": false,
+            "is_starter": false,
+            "is_taxi": false,
+            "last_name": "Johnson",
+            "normalized_position": "RB",
+            "number": 23,
+            "player_id": "10235",
+            "position": "RB",
+            "search_full_name": "roschonjohnson",
+            "status": "Active",
+            "team": "CHI",
+            "value": {
+              "confidence": 55.0,
+              "contender": 45.5,
+              "liquidity": 85.1,
+              "market": 45.5,
+              "player_id": "10235",
+              "rebuild": 51.5,
               "risk": 40.0,
               "source": "heuristic-v0.2"
             },
@@ -57357,10 +57357,10 @@
         "12517",
         "8132",
         "13296",
-        "10235",
+        "13305",
         "8289",
         "13340",
-        "13341",
+        "11760",
         "12578",
         "13388",
         "13375",
@@ -57369,7 +57369,7 @@
         "8333",
         "6119",
         "12530",
-        "11760"
+        "13341"
       ],
       "taxi_ids": [
         "13335",

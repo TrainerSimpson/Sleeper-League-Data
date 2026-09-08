@@ -308,8 +308,8 @@
     },
     "lineups": {
       "future": {
-        "average": 82.8,
-        "bench_value": 1951.8,
+        "average": 83.5,
+        "bench_value": 1935.9,
         "filled": 24,
         "metric": "rebuild",
         "required": 24,
@@ -427,24 +427,24 @@
             "slot": "DB"
           },
           {
+            "full_name": "Mike Washington",
+            "player_id": "13305",
+            "position": "RB",
+            "score": 93.0,
+            "slot": "SUPER_FLEX"
+          },
+          {
             "full_name": "Denzel Boston",
             "player_id": "13346",
             "position": "WR",
             "score": 90.4,
-            "slot": "SUPER_FLEX"
+            "slot": "FLEX"
           },
           {
             "full_name": "Trey McBride",
             "player_id": "8130",
             "position": "TE",
             "score": 85.5,
-            "slot": "FLEX"
-          },
-          {
-            "full_name": "Mike Washington",
-            "player_id": "13305",
-            "position": "RB",
-            "score": 73.0,
             "slot": "FLEX"
           },
           {
@@ -455,10 +455,10 @@
             "slot": "FLEX"
           },
           {
-            "full_name": "Roschon Johnson",
-            "player_id": "10235",
-            "position": "RB",
-            "score": 71.5,
+            "full_name": "Barion Brown",
+            "player_id": "13533",
+            "position": "WR",
+            "score": 67.4,
             "slot": "FLEX"
           },
           {
@@ -483,11 +483,11 @@
             "slot": "IDP_FLEX"
           }
         ],
-        "total": 1987.9
+        "total": 2003.8
       },
       "win_now": {
-        "average": 80.2,
-        "bench_value": 1670.8,
+        "average": 80.8,
+        "bench_value": 1655.3,
         "filled": 24,
         "metric": "contender",
         "required": 24,
@@ -507,17 +507,17 @@
             "slot": "TE"
           },
           {
+            "full_name": "Mike Washington",
+            "player_id": "13305",
+            "position": "RB",
+            "score": 89.0,
+            "slot": "RB"
+          },
+          {
             "full_name": "Dylan Sampson",
             "player_id": "12469",
             "position": "RB",
             "score": 88.1,
-            "slot": "RB"
-          },
-          {
-            "full_name": "Ashton Jeanty",
-            "player_id": "12527",
-            "position": "RB",
-            "score": 86.9,
             "slot": "RB"
           },
           {
@@ -605,11 +605,18 @@
             "slot": "DB"
           },
           {
+            "full_name": "Ashton Jeanty",
+            "player_id": "12527",
+            "position": "RB",
+            "score": 86.9,
+            "slot": "SUPER_FLEX"
+          },
+          {
             "full_name": "Denzel Boston",
             "player_id": "13346",
             "position": "WR",
             "score": 83.4,
-            "slot": "SUPER_FLEX"
+            "slot": "FLEX"
           },
           {
             "full_name": "Colston Loveland",
@@ -623,13 +630,6 @@
             "player_id": "8111",
             "position": "TE",
             "score": 80.5,
-            "slot": "FLEX"
-          },
-          {
-            "full_name": "Roschon Johnson",
-            "player_id": "10235",
-            "position": "RB",
-            "score": 73.5,
             "slot": "FLEX"
           },
           {
@@ -661,7 +661,7 @@
             "slot": "IDP_FLEX"
           }
         ],
-        "total": 1923.8
+        "total": 1939.3
       }
     },
     "positions": {
@@ -690,10 +690,10 @@
         "rebuild_top": 311.8
       },
       "RB": {
-        "contender_top": 320.0,
+        "contender_top": 335.5,
         "count": 8,
         "market": 481.4,
-        "rebuild_top": 337.9
+        "rebuild_top": 347.9
       },
       "TE": {
         "contender_top": 300.9,
@@ -711,11 +711,11 @@
     "power_rank": 1,
     "roster_id": 6,
     "scores": {
-      "future": 82.8,
+      "future": 83.5,
       "liquidity": 70.8,
       "market_total": 3450.2,
       "risk": 28.9,
-      "win_now": 80.2
+      "win_now": 80.8
     },
     "team_name": "The Dawg Side",
     "window": "contender"
