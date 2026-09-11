@@ -256,7 +256,7 @@
         "active": true,
         "age": 23,
         "age_bucket": "young",
-        "depth_chart_order": 2,
+        "depth_chart_order": 4,
         "depth_chart_position": "TE",
         "fantasy_positions": [
           "TE"
@@ -279,11 +279,11 @@
         "team": "LV",
         "value": {
           "confidence": 55.0,
-          "contender": 40.9,
+          "contender": 34.9,
           "liquidity": 72.2,
-          "market": 44.4,
+          "market": 38.4,
           "player_id": "11604",
-          "rebuild": 56.4,
+          "rebuild": 50.4,
           "risk": 34.0,
           "source": "heuristic-v0.2"
         },
@@ -1302,9 +1302,9 @@
         "full_name": "Cedric Gray",
         "injury_body_part": "Concussion",
         "injury_notes": null,
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "is_reserve": false,
-        "is_starter": true,
+        "is_starter": false,
         "is_taxi": false,
         "last_name": "Gray",
         "normalized_position": "LB",
@@ -1315,13 +1315,13 @@
         "status": "Active",
         "team": "TEN",
         "value": {
-          "confidence": 70.0,
-          "contender": 77.2,
+          "confidence": 55.0,
+          "contender": 41.1,
           "liquidity": 56.2,
-          "market": 70.6,
+          "market": 44.6,
           "player_id": "11742",
-          "rebuild": 82.6,
-          "risk": 28.0,
+          "rebuild": 56.6,
+          "risk": 34.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 2
@@ -1934,7 +1934,7 @@
         "injury_notes": null,
         "injury_status": null,
         "is_reserve": false,
-        "is_starter": false,
+        "is_starter": true,
         "is_taxi": false,
         "last_name": "Chenal",
         "normalized_position": "LB",
@@ -1945,12 +1945,12 @@
         "status": "Active",
         "team": "WAS",
         "value": {
-          "confidence": 55.0,
-          "contender": 55.5,
+          "confidence": 70.0,
+          "contender": 83.5,
           "liquidity": 54.1,
-          "market": 55.5,
+          "market": 75.5,
           "player_id": "8362",
-          "rebuild": 61.5,
+          "rebuild": 81.5,
           "risk": 24.0,
           "source": "heuristic-v0.2"
         },
@@ -2824,43 +2824,6 @@
           "depth_chart_order": 1,
           "depth_chart_position": "LOLB",
           "fantasy_positions": [
-            "LB"
-          ],
-          "first_name": "Cedric",
-          "full_name": "Cedric Gray",
-          "injury_body_part": "Concussion",
-          "injury_notes": null,
-          "injury_status": "Questionable",
-          "is_reserve": false,
-          "is_starter": true,
-          "is_taxi": false,
-          "last_name": "Gray",
-          "normalized_position": "LB",
-          "number": 33,
-          "player_id": "11742",
-          "position": "LB",
-          "search_full_name": "cedricgray",
-          "status": "Active",
-          "team": "TEN",
-          "value": {
-            "confidence": 70.0,
-            "contender": 77.2,
-            "liquidity": 56.2,
-            "market": 70.6,
-            "player_id": "11742",
-            "rebuild": 82.6,
-            "risk": 28.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 2
-        },
-        {
-          "active": true,
-          "age": 23,
-          "age_bucket": "young",
-          "depth_chart_order": 1,
-          "depth_chart_position": "LOLB",
-          "fantasy_positions": [
             "DL",
             "LB"
           ],
@@ -2891,6 +2854,43 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 0
+        },
+        {
+          "active": true,
+          "age": 25,
+          "age_bucket": "prime",
+          "depth_chart_order": 2,
+          "depth_chart_position": "RILB",
+          "fantasy_positions": [
+            "LB"
+          ],
+          "first_name": "Leo",
+          "full_name": "Leo Chenal",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": true,
+          "is_taxi": false,
+          "last_name": "Chenal",
+          "normalized_position": "LB",
+          "number": 54,
+          "player_id": "8362",
+          "position": "LB",
+          "search_full_name": "leochenal",
+          "status": "Active",
+          "team": "WAS",
+          "value": {
+            "confidence": 70.0,
+            "contender": 83.5,
+            "liquidity": 54.1,
+            "market": 75.5,
+            "player_id": "8362",
+            "rebuild": 81.5,
+            "risk": 24.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 4
         },
         {
           "active": true,
@@ -3119,6 +3119,43 @@
           "active": true,
           "age": 23,
           "age_bucket": "young",
+          "depth_chart_order": 1,
+          "depth_chart_position": "LOLB",
+          "fantasy_positions": [
+            "LB"
+          ],
+          "first_name": "Cedric",
+          "full_name": "Cedric Gray",
+          "injury_body_part": "Concussion",
+          "injury_notes": null,
+          "injury_status": "Out",
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Gray",
+          "normalized_position": "LB",
+          "number": 33,
+          "player_id": "11742",
+          "position": "LB",
+          "search_full_name": "cedricgray",
+          "status": "Active",
+          "team": "TEN",
+          "value": {
+            "confidence": 55.0,
+            "contender": 41.1,
+            "liquidity": 56.2,
+            "market": 44.6,
+            "player_id": "11742",
+            "rebuild": 56.6,
+            "risk": 34.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 2
+        },
+        {
+          "active": true,
+          "age": 23,
+          "age_bucket": "young",
           "depth_chart_order": 2,
           "depth_chart_position": "LILB",
           "fantasy_positions": [
@@ -3189,43 +3226,6 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 3
-        },
-        {
-          "active": true,
-          "age": 25,
-          "age_bucket": "prime",
-          "depth_chart_order": 2,
-          "depth_chart_position": "RILB",
-          "fantasy_positions": [
-            "LB"
-          ],
-          "first_name": "Leo",
-          "full_name": "Leo Chenal",
-          "injury_body_part": null,
-          "injury_notes": null,
-          "injury_status": null,
-          "is_reserve": false,
-          "is_starter": false,
-          "is_taxi": false,
-          "last_name": "Chenal",
-          "normalized_position": "LB",
-          "number": 54,
-          "player_id": "8362",
-          "position": "LB",
-          "search_full_name": "leochenal",
-          "status": "Active",
-          "team": "WAS",
-          "value": {
-            "confidence": 55.0,
-            "contender": 55.5,
-            "liquidity": 54.1,
-            "market": 55.5,
-            "player_id": "8362",
-            "rebuild": 61.5,
-            "risk": 24.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 4
         }
       ],
       "QB": [
@@ -4051,7 +4051,7 @@
           "active": true,
           "age": 23,
           "age_bucket": "young",
-          "depth_chart_order": 2,
+          "depth_chart_order": 4,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -4074,11 +4074,11 @@
           "team": "LV",
           "value": {
             "confidence": 55.0,
-            "contender": 40.9,
+            "contender": 34.9,
             "liquidity": 72.2,
-            "market": 44.4,
+            "market": 38.4,
             "player_id": "11604",
-            "rebuild": 56.4,
+            "rebuild": 50.4,
             "risk": 34.0,
             "source": "heuristic-v0.2"
           },
@@ -4620,7 +4620,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 4,
-      "waiver_position": 7,
+      "waiver_position": 6,
       "wins": 0
     },
     "starter_ids": [
@@ -4629,17 +4629,17 @@
       "12481",
       "4039",
       "9754",
-      "13294",
+      "12514",
       "12487",
       "9756",
-      "12514",
+      "13294",
       "9500",
       "11632",
       "12522",
       "5816",
       "7113",
       "13363",
-      "11742",
+      "8362",
       "5960",
       "1052",
       "6888",
@@ -8759,7 +8759,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 11,
-      "waiver_position": 2,
+      "waiver_position": 1,
       "wins": 0
     },
     "starter_ids": [
@@ -9510,9 +9510,9 @@
         "first_name": "Joseph",
         "full_name": "Joseph Ossai",
         "injury_body_part": "Foot",
-        "injury_notes": null,
-        "injury_status": "Questionable",
-        "is_reserve": false,
+        "injury_notes": "Plantar Fasciitis",
+        "injury_status": "Out",
+        "is_reserve": true,
         "is_starter": false,
         "is_taxi": false,
         "last_name": "Ossai",
@@ -9525,12 +9525,12 @@
         "team": "NYJ",
         "value": {
           "confidence": 55.0,
-          "contender": 52.1,
+          "contender": 44.0,
           "liquidity": 49.0,
-          "market": 53.5,
+          "market": 47.5,
           "player_id": "7678",
-          "rebuild": 56.5,
-          "risk": 28.0,
+          "rebuild": 50.5,
+          "risk": 34.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 5
@@ -11706,9 +11706,9 @@
           "first_name": "Joseph",
           "full_name": "Joseph Ossai",
           "injury_body_part": "Foot",
-          "injury_notes": null,
-          "injury_status": "Questionable",
-          "is_reserve": false,
+          "injury_notes": "Plantar Fasciitis",
+          "injury_status": "Out",
+          "is_reserve": true,
           "is_starter": false,
           "is_taxi": false,
           "last_name": "Ossai",
@@ -11721,12 +11721,12 @@
           "team": "NYJ",
           "value": {
             "confidence": 55.0,
-            "contender": 52.1,
+            "contender": 44.0,
             "liquidity": 49.0,
-            "market": 53.5,
+            "market": 47.5,
             "player_id": "7678",
-            "rebuild": 56.5,
-            "risk": 28.0,
+            "rebuild": 50.5,
+            "risk": 34.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 5
@@ -13566,7 +13566,8 @@
       "11589",
       "12541",
       "13392",
-      "7640"
+      "7640",
+      "7678"
     ],
     "roster_id": 3,
     "settings": {
@@ -13577,7 +13578,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 7,
-      "waiver_position": 9,
+      "waiver_position": 8,
       "wins": 0
     },
     "starter_ids": [
@@ -17937,7 +17938,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 9,
-      "waiver_position": 3,
+      "waiver_position": 2,
       "wins": 0
     },
     "starter_ids": [
@@ -22825,7 +22826,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 41,
-      "waiver_position": 11,
+      "waiver_position": 10,
       "wins": 0
     },
     "starter_ids": [
@@ -27487,7 +27488,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 18,
-      "waiver_position": 8,
+      "waiver_position": 7,
       "wins": 0
     },
     "starter_ids": [
@@ -32379,7 +32380,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 2,
-      "waiver_position": 5,
+      "waiver_position": 4,
       "wins": 0
     },
     "starter_ids": [
@@ -32428,7 +32429,6 @@
     "owner_id": "1368351367726403584",
     "player_ids": [
       "6865",
-      "6065",
       "13384",
       "5850",
       "4191",
@@ -32469,6 +32469,7 @@
       "13373",
       "6790",
       "8363",
+      "6025",
       "7049",
       "13385",
       "11557",
@@ -32513,43 +32514,6 @@
           "source": "heuristic-v0.2"
         },
         "years_exp": 6
-      },
-      {
-        "active": true,
-        "age": 29,
-        "age_bucket": "veteran",
-        "depth_chart_order": 1,
-        "depth_chart_position": "MLB",
-        "fantasy_positions": [
-          "LB"
-        ],
-        "first_name": "Cody",
-        "full_name": "Cody Barton",
-        "injury_body_part": null,
-        "injury_notes": null,
-        "injury_status": null,
-        "is_reserve": false,
-        "is_starter": true,
-        "is_taxi": false,
-        "last_name": "Barton",
-        "normalized_position": "LB",
-        "number": 50,
-        "player_id": "6065",
-        "position": "LB",
-        "search_full_name": "codybarton",
-        "status": "Active",
-        "team": "TEN",
-        "value": {
-          "confidence": 70.0,
-          "contender": 67.5,
-          "liquidity": 49.9,
-          "market": 59.5,
-          "player_id": "6065",
-          "rebuild": 53.5,
-          "risk": 42.0,
-          "source": "heuristic-v0.2"
-        },
-        "years_exp": 7
       },
       {
         "active": true,
@@ -34039,6 +34003,43 @@
         "active": true,
         "age": 29,
         "age_bucket": "veteran",
+        "depth_chart_order": 1,
+        "depth_chart_position": "LCB",
+        "fantasy_positions": [
+          "DB"
+        ],
+        "first_name": "Mike",
+        "full_name": "Mike Jackson",
+        "injury_body_part": null,
+        "injury_notes": null,
+        "injury_status": null,
+        "is_reserve": false,
+        "is_starter": false,
+        "is_taxi": false,
+        "last_name": "Jackson",
+        "normalized_position": "DB",
+        "number": 2,
+        "player_id": "6025",
+        "position": "CB",
+        "search_full_name": "mikejackson",
+        "status": "Active",
+        "team": "CAR",
+        "value": {
+          "confidence": 55.0,
+          "contender": 34.5,
+          "liquidity": 35.9,
+          "market": 34.5,
+          "player_id": "6025",
+          "rebuild": 28.5,
+          "risk": 42.0,
+          "source": "heuristic-v0.2"
+        },
+        "years_exp": 7
+      },
+      {
+        "active": true,
+        "age": 29,
+        "age_bucket": "veteran",
         "depth_chart_order": 3,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
@@ -34481,6 +34482,43 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 0
+        },
+        {
+          "active": true,
+          "age": 29,
+          "age_bucket": "veteran",
+          "depth_chart_order": 1,
+          "depth_chart_position": "LCB",
+          "fantasy_positions": [
+            "DB"
+          ],
+          "first_name": "Mike",
+          "full_name": "Mike Jackson",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Jackson",
+          "normalized_position": "DB",
+          "number": 2,
+          "player_id": "6025",
+          "position": "CB",
+          "search_full_name": "mikejackson",
+          "status": "Active",
+          "team": "CAR",
+          "value": {
+            "confidence": 55.0,
+            "contender": 34.5,
+            "liquidity": 35.9,
+            "market": 34.5,
+            "player_id": "6025",
+            "rebuild": 28.5,
+            "risk": 42.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 7
         }
       ],
       "DL": [
@@ -34820,43 +34858,6 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 4
-        },
-        {
-          "active": true,
-          "age": 29,
-          "age_bucket": "veteran",
-          "depth_chart_order": 1,
-          "depth_chart_position": "MLB",
-          "fantasy_positions": [
-            "LB"
-          ],
-          "first_name": "Cody",
-          "full_name": "Cody Barton",
-          "injury_body_part": null,
-          "injury_notes": null,
-          "injury_status": null,
-          "is_reserve": false,
-          "is_starter": true,
-          "is_taxi": false,
-          "last_name": "Barton",
-          "normalized_position": "LB",
-          "number": 50,
-          "player_id": "6065",
-          "position": "LB",
-          "search_full_name": "codybarton",
-          "status": "Active",
-          "team": "TEN",
-          "value": {
-            "confidence": 70.0,
-            "contender": 67.5,
-            "liquidity": 49.9,
-            "market": 59.5,
-            "player_id": "6065",
-            "rebuild": 53.5,
-            "risk": 42.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 7
         },
         {
           "active": true,
@@ -36063,8 +36064,8 @@
       "losses": 0,
       "ties": 0,
       "total_moves": 0,
-      "waiver_budget_used": 0,
-      "waiver_position": 1,
+      "waiver_budget_used": 3,
+      "waiver_position": 12,
       "wins": 0
     },
     "starter_ids": [
@@ -36090,7 +36091,7 @@
       "5017",
       "7136",
       "13385",
-      "6065",
+      "0",
       "11017"
     ],
     "taxi_ids": [],
@@ -40495,7 +40496,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 5,
-      "waiver_position": 10,
+      "waiver_position": 9,
       "wins": 0
     },
     "starter_ids": [
@@ -45317,7 +45318,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 12,
+      "waiver_position": 11,
       "wins": 0
     },
     "starter_ids": [
@@ -49832,7 +49833,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 5,
-      "waiver_position": 4,
+      "waiver_position": 3,
       "wins": 0
     },
     "starter_ids": [
@@ -51397,8 +51398,8 @@
         "first_name": "D'Angelo",
         "full_name": "D'Angelo Ponds",
         "injury_body_part": "Calf",
-        "injury_notes": null,
-        "injury_status": "Questionable",
+        "injury_notes": "Strain",
+        "injury_status": "Doubtful",
         "is_reserve": false,
         "is_starter": false,
         "is_taxi": true,
@@ -52288,8 +52289,8 @@
           "first_name": "D'Angelo",
           "full_name": "D'Angelo Ponds",
           "injury_body_part": "Calf",
-          "injury_notes": null,
-          "injury_status": "Questionable",
+          "injury_notes": "Strain",
+          "injury_status": "Doubtful",
           "is_reserve": false,
           "is_starter": false,
           "is_taxi": true,
@@ -54338,7 +54339,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 10,
-      "waiver_position": 6,
+      "waiver_position": 5,
       "wins": 0
     },
     "starter_ids": [
