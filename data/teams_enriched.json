@@ -266,7 +266,7 @@
         "injury_body_part": "Knee - Meniscus",
         "injury_notes": "Surgery",
         "injury_status": "Out",
-        "is_reserve": false,
+        "is_reserve": true,
         "is_starter": false,
         "is_taxi": false,
         "last_name": "Bowers",
@@ -1441,7 +1441,7 @@
         "active": true,
         "age": 26,
         "age_bucket": "prime",
-        "depth_chart_order": 3,
+        "depth_chart_order": 2,
         "depth_chart_position": "RB",
         "fantasy_positions": [
           "RB"
@@ -1464,11 +1464,11 @@
         "team": "NYG",
         "value": {
           "confidence": 55.0,
-          "contender": 39.0,
+          "contender": 42.0,
           "liquidity": 84.0,
-          "market": 39.0,
+          "market": 42.0,
           "player_id": "11655",
-          "rebuild": 37.0,
+          "rebuild": 40.0,
           "risk": 46.0,
           "source": "heuristic-v0.2"
         },
@@ -3864,7 +3864,7 @@
           "active": true,
           "age": 26,
           "age_bucket": "prime",
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -3887,11 +3887,11 @@
           "team": "NYG",
           "value": {
             "confidence": 55.0,
-            "contender": 39.0,
+            "contender": 42.0,
             "liquidity": 84.0,
-            "market": 39.0,
+            "market": 42.0,
             "player_id": "11655",
-            "rebuild": 37.0,
+            "rebuild": 40.0,
             "risk": 46.0,
             "source": "heuristic-v0.2"
           },
@@ -4061,7 +4061,7 @@
           "injury_body_part": "Knee - Meniscus",
           "injury_notes": "Surgery",
           "injury_status": "Out",
-          "is_reserve": false,
+          "is_reserve": true,
           "is_starter": false,
           "is_taxi": false,
           "last_name": "Bowers",
@@ -4607,6 +4607,7 @@
       ]
     },
     "reserve_ids": [
+      "11604",
       "12484",
       "12585",
       "5071"
@@ -8860,6 +8861,7 @@
       "13423",
       "8180",
       "11589",
+      "4574",
       "11620",
       "11571",
       "7626",
@@ -9909,7 +9911,7 @@
         "active": true,
         "age": 27,
         "age_bucket": "prime",
-        "depth_chart_order": 3,
+        "depth_chart_order": 2,
         "depth_chart_position": "RB",
         "fantasy_positions": [
           "RB"
@@ -9932,11 +9934,11 @@
         "team": "DAL",
         "value": {
           "confidence": 55.0,
-          "contender": 35.5,
+          "contender": 38.5,
           "liquidity": 83.0,
-          "market": 35.5,
+          "market": 38.5,
           "player_id": "11199",
-          "rebuild": 30.5,
+          "rebuild": 33.5,
           "risk": 52.0,
           "source": "heuristic-v0.2"
         },
@@ -11018,6 +11020,43 @@
           "source": "heuristic-v0.2"
         },
         "years_exp": 2
+      },
+      {
+        "active": true,
+        "age": 32,
+        "age_bucket": "veteran",
+        "depth_chart_order": 1,
+        "depth_chart_position": "QB",
+        "fantasy_positions": [
+          "QB"
+        ],
+        "first_name": "Cooper",
+        "full_name": "Cooper Rush",
+        "injury_body_part": null,
+        "injury_notes": null,
+        "injury_status": null,
+        "is_reserve": false,
+        "is_starter": false,
+        "is_taxi": false,
+        "last_name": "Rush",
+        "normalized_position": "QB",
+        "number": 13,
+        "player_id": "4574",
+        "position": "QB",
+        "search_full_name": "cooperrush",
+        "status": "Active",
+        "team": "ATL",
+        "value": {
+          "confidence": 55.0,
+          "contender": 63.1,
+          "liquidity": 72.8,
+          "market": 63.1,
+          "player_id": "4574",
+          "rebuild": 48.1,
+          "risk": 36.0,
+          "source": "heuristic-v0.2"
+        },
+        "years_exp": 9
       },
       {
         "active": true,
@@ -12444,6 +12483,43 @@
         },
         {
           "active": true,
+          "age": 32,
+          "age_bucket": "veteran",
+          "depth_chart_order": 1,
+          "depth_chart_position": "QB",
+          "fantasy_positions": [
+            "QB"
+          ],
+          "first_name": "Cooper",
+          "full_name": "Cooper Rush",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Rush",
+          "normalized_position": "QB",
+          "number": 13,
+          "player_id": "4574",
+          "position": "QB",
+          "search_full_name": "cooperrush",
+          "status": "Active",
+          "team": "ATL",
+          "value": {
+            "confidence": 55.0,
+            "contender": 63.1,
+            "liquidity": 72.8,
+            "market": 63.1,
+            "player_id": "4574",
+            "rebuild": 48.1,
+            "risk": 36.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 9
+        },
+        {
+          "active": true,
           "age": 33,
           "age_bucket": "veteran",
           "depth_chart_order": 1,
@@ -12855,7 +12931,7 @@
           "active": true,
           "age": 27,
           "age_bucket": "prime",
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -12878,11 +12954,11 @@
           "team": "DAL",
           "value": {
             "confidence": 55.0,
-            "contender": 35.5,
+            "contender": 38.5,
             "liquidity": 83.0,
-            "market": 35.5,
+            "market": 38.5,
             "player_id": "11199",
-            "rebuild": 30.5,
+            "rebuild": 33.5,
             "risk": 52.0,
             "source": "heuristic-v0.2"
           },
@@ -13577,8 +13653,8 @@
       "losses": 0,
       "ties": 0,
       "total_moves": 0,
-      "waiver_budget_used": 7,
-      "waiver_position": 8,
+      "waiver_budget_used": 8,
+      "waiver_position": 12,
       "wins": 0
     },
     "starter_ids": [
@@ -13632,11 +13708,11 @@
       "9758",
       "5341",
       "13390",
-      "13365",
       "5036",
       "13368",
       "13364",
       "6815",
+      "6302",
       "13395",
       "11626",
       "8150",
@@ -13909,43 +13985,6 @@
       },
       {
         "active": true,
-        "age": 21,
-        "age_bucket": "young",
-        "depth_chart_order": 2,
-        "depth_chart_position": "LOLB",
-        "fantasy_positions": [
-          "LB"
-        ],
-        "first_name": "Anthony",
-        "full_name": "Anthony Hill",
-        "injury_body_part": null,
-        "injury_notes": null,
-        "injury_status": null,
-        "is_reserve": false,
-        "is_starter": true,
-        "is_taxi": false,
-        "last_name": "Hill",
-        "normalized_position": "LB",
-        "number": 53,
-        "player_id": "13365",
-        "position": "LB",
-        "search_full_name": "anthonyhill",
-        "status": "Active",
-        "team": "TEN",
-        "value": {
-          "confidence": 70.0,
-          "contender": 74.2,
-          "liquidity": 58.3,
-          "market": 66.2,
-          "player_id": "13365",
-          "rebuild": 84.2,
-          "risk": 24.0,
-          "source": "heuristic-v0.2"
-        },
-        "years_exp": 0
-      },
-      {
-        "active": true,
         "age": 29,
         "age_bucket": "veteran",
         "depth_chart_order": 1,
@@ -14091,6 +14130,43 @@
           "source": "heuristic-v0.2"
         },
         "years_exp": 6
+      },
+      {
+        "active": true,
+        "age": 31,
+        "age_bucket": "veteran",
+        "depth_chart_order": 1,
+        "depth_chart_position": "LILB",
+        "fantasy_positions": [
+          "LB"
+        ],
+        "first_name": "Kaden",
+        "full_name": "Kaden Elliss",
+        "injury_body_part": null,
+        "injury_notes": null,
+        "injury_status": null,
+        "is_reserve": false,
+        "is_starter": true,
+        "is_taxi": false,
+        "last_name": "Elliss",
+        "normalized_position": "LB",
+        "number": 55,
+        "player_id": "6302",
+        "position": "LB",
+        "search_full_name": "kadenelliss",
+        "status": "Active",
+        "team": "NO",
+        "value": {
+          "confidence": 70.0,
+          "contender": 61.5,
+          "liquidity": 47.8,
+          "market": 53.5,
+          "player_id": "6302",
+          "rebuild": 41.5,
+          "risk": 54.0,
+          "source": "heuristic-v0.2"
+        },
+        "years_exp": 7
       },
       {
         "active": true,
@@ -14329,7 +14405,7 @@
         "injury_notes": null,
         "injury_status": null,
         "is_reserve": false,
-        "is_starter": true,
+        "is_starter": false,
         "is_taxi": false,
         "last_name": "Simpson",
         "normalized_position": "LB",
@@ -14340,12 +14416,12 @@
         "status": "Active",
         "team": "BAL",
         "value": {
-          "confidence": 70.0,
-          "contender": 83.5,
+          "confidence": 55.0,
+          "contender": 55.5,
           "liquidity": 54.1,
-          "market": 75.5,
+          "market": 55.5,
           "player_id": "10935",
-          "rebuild": 81.5,
+          "rebuild": 61.5,
           "risk": 24.0,
           "source": "heuristic-v0.2"
         },
@@ -16658,80 +16734,6 @@
       "LB": [
         {
           "active": true,
-          "age": 21,
-          "age_bucket": "young",
-          "depth_chart_order": 2,
-          "depth_chart_position": "LOLB",
-          "fantasy_positions": [
-            "LB"
-          ],
-          "first_name": "Anthony",
-          "full_name": "Anthony Hill",
-          "injury_body_part": null,
-          "injury_notes": null,
-          "injury_status": null,
-          "is_reserve": false,
-          "is_starter": true,
-          "is_taxi": false,
-          "last_name": "Hill",
-          "normalized_position": "LB",
-          "number": 53,
-          "player_id": "13365",
-          "position": "LB",
-          "search_full_name": "anthonyhill",
-          "status": "Active",
-          "team": "TEN",
-          "value": {
-            "confidence": 70.0,
-            "contender": 74.2,
-            "liquidity": 58.3,
-            "market": 66.2,
-            "player_id": "13365",
-            "rebuild": 84.2,
-            "risk": 24.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 0
-        },
-        {
-          "active": true,
-          "age": 25,
-          "age_bucket": "prime",
-          "depth_chart_order": 2,
-          "depth_chart_position": "LILB",
-          "fantasy_positions": [
-            "LB"
-          ],
-          "first_name": "Trenton",
-          "full_name": "Trenton Simpson",
-          "injury_body_part": null,
-          "injury_notes": null,
-          "injury_status": null,
-          "is_reserve": false,
-          "is_starter": true,
-          "is_taxi": false,
-          "last_name": "Simpson",
-          "normalized_position": "LB",
-          "number": 32,
-          "player_id": "10935",
-          "position": "LB",
-          "search_full_name": "trentonsimpson",
-          "status": "Active",
-          "team": "BAL",
-          "value": {
-            "confidence": 70.0,
-            "contender": 83.5,
-            "liquidity": 54.1,
-            "market": 75.5,
-            "player_id": "10935",
-            "rebuild": 81.5,
-            "risk": 24.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 3
-        },
-        {
-          "active": true,
           "age": 27,
           "age_bucket": "prime",
           "depth_chart_order": 1,
@@ -16807,6 +16809,43 @@
         },
         {
           "active": true,
+          "age": 31,
+          "age_bucket": "veteran",
+          "depth_chart_order": 1,
+          "depth_chart_position": "LILB",
+          "fantasy_positions": [
+            "LB"
+          ],
+          "first_name": "Kaden",
+          "full_name": "Kaden Elliss",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": true,
+          "is_taxi": false,
+          "last_name": "Elliss",
+          "normalized_position": "LB",
+          "number": 55,
+          "player_id": "6302",
+          "position": "LB",
+          "search_full_name": "kadenelliss",
+          "status": "Active",
+          "team": "NO",
+          "value": {
+            "confidence": 70.0,
+            "contender": 61.5,
+            "liquidity": 47.8,
+            "market": 53.5,
+            "player_id": "6302",
+            "rebuild": 41.5,
+            "risk": 54.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 7
+        },
+        {
+          "active": true,
           "age": 23,
           "age_bucket": "young",
           "depth_chart_order": 2,
@@ -16841,6 +16880,43 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 1
+        },
+        {
+          "active": true,
+          "age": 25,
+          "age_bucket": "prime",
+          "depth_chart_order": 2,
+          "depth_chart_position": "LILB",
+          "fantasy_positions": [
+            "LB"
+          ],
+          "first_name": "Trenton",
+          "full_name": "Trenton Simpson",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Simpson",
+          "normalized_position": "LB",
+          "number": 32,
+          "player_id": "10935",
+          "position": "LB",
+          "search_full_name": "trentonsimpson",
+          "status": "Active",
+          "team": "BAL",
+          "value": {
+            "confidence": 55.0,
+            "contender": 55.5,
+            "liquidity": 54.1,
+            "market": 55.5,
+            "player_id": "10935",
+            "rebuild": 61.5,
+            "risk": 24.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 3
         },
         {
           "active": true,
@@ -17958,14 +18034,14 @@
       "3558",
       "7696",
       "6815",
-      "10935",
+      "6302",
       "7726",
       "8392",
       "10927",
       "5341",
       "6784",
       "5841",
-      "13365"
+      "0"
     ],
     "taxi_ids": [
       "12470",
@@ -22826,7 +22902,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 41,
-      "waiver_position": 10,
+      "waiver_position": 9,
       "wins": 0
     },
     "starter_ids": [
@@ -23127,7 +23203,7 @@
         "active": true,
         "age": 28,
         "age_bucket": "prime",
-        "depth_chart_order": 2,
+        "depth_chart_order": 3,
         "depth_chart_position": "RB",
         "fantasy_positions": [
           "RB"
@@ -23150,11 +23226,11 @@
         "team": "NYG",
         "value": {
           "confidence": 55.0,
-          "contender": 33.5,
+          "contender": 30.5,
           "liquidity": 82.0,
-          "market": 33.5,
+          "market": 30.5,
           "player_id": "7528",
-          "rebuild": 25.5,
+          "rebuild": 22.5,
           "risk": 58.0,
           "source": "heuristic-v0.2"
         },
@@ -26695,7 +26771,7 @@
           "active": true,
           "age": 28,
           "age_bucket": "prime",
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -26718,11 +26794,11 @@
           "team": "NYG",
           "value": {
             "confidence": 55.0,
-            "contender": 33.5,
+            "contender": 30.5,
             "liquidity": 82.0,
-            "market": 33.5,
+            "market": 30.5,
             "player_id": "7528",
-            "rebuild": 25.5,
+            "rebuild": 22.5,
             "risk": 58.0,
             "source": "heuristic-v0.2"
           },
@@ -36065,7 +36141,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 3,
-      "waiver_position": 12,
+      "waiver_position": 11,
       "wins": 0
     },
     "starter_ids": [
@@ -40496,7 +40572,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 5,
-      "waiver_position": 9,
+      "waiver_position": 8,
       "wins": 0
     },
     "starter_ids": [
@@ -40557,6 +40633,7 @@
       "9502",
       "12654",
       "9482",
+      "13365",
       "8680",
       "12544",
       "7811",
@@ -40565,7 +40642,6 @@
       "13288",
       "6794",
       "12521",
-      "6302",
       "12574",
       "10980",
       "12497",
@@ -40983,7 +41059,7 @@
         "active": true,
         "age": 26,
         "age_bucket": "prime",
-        "depth_chart_order": 6,
+        "depth_chart_order": 5,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
@@ -41089,6 +41165,43 @@
           "source": "heuristic-v0.2"
         },
         "years_exp": 3
+      },
+      {
+        "active": true,
+        "age": 21,
+        "age_bucket": "young",
+        "depth_chart_order": 2,
+        "depth_chart_position": "LOLB",
+        "fantasy_positions": [
+          "LB"
+        ],
+        "first_name": "Anthony",
+        "full_name": "Anthony Hill",
+        "injury_body_part": null,
+        "injury_notes": null,
+        "injury_status": null,
+        "is_reserve": false,
+        "is_starter": true,
+        "is_taxi": false,
+        "last_name": "Hill",
+        "normalized_position": "LB",
+        "number": 53,
+        "player_id": "13365",
+        "position": "LB",
+        "search_full_name": "anthonyhill",
+        "status": "Active",
+        "team": "TEN",
+        "value": {
+          "confidence": 70.0,
+          "contender": 74.2,
+          "liquidity": 58.3,
+          "market": 66.2,
+          "player_id": "13365",
+          "rebuild": 84.2,
+          "risk": 24.0,
+          "source": "heuristic-v0.2"
+        },
+        "years_exp": 0
       },
       {
         "active": true,
@@ -41386,43 +41499,6 @@
           "source": "heuristic-v0.2"
         },
         "years_exp": 1
-      },
-      {
-        "active": true,
-        "age": 31,
-        "age_bucket": "veteran",
-        "depth_chart_order": 1,
-        "depth_chart_position": "LILB",
-        "fantasy_positions": [
-          "LB"
-        ],
-        "first_name": "Kaden",
-        "full_name": "Kaden Elliss",
-        "injury_body_part": null,
-        "injury_notes": null,
-        "injury_status": null,
-        "is_reserve": false,
-        "is_starter": true,
-        "is_taxi": false,
-        "last_name": "Elliss",
-        "normalized_position": "LB",
-        "number": 55,
-        "player_id": "6302",
-        "position": "LB",
-        "search_full_name": "kadenelliss",
-        "status": "Active",
-        "team": "NO",
-        "value": {
-          "confidence": 70.0,
-          "contender": 61.5,
-          "liquidity": 47.8,
-          "market": 53.5,
-          "player_id": "6302",
-          "rebuild": 41.5,
-          "risk": 54.0,
-          "source": "heuristic-v0.2"
-        },
-        "years_exp": 7
       },
       {
         "active": true,
@@ -43592,6 +43668,43 @@
           "active": true,
           "age": 21,
           "age_bucket": "young",
+          "depth_chart_order": 2,
+          "depth_chart_position": "LOLB",
+          "fantasy_positions": [
+            "LB"
+          ],
+          "first_name": "Anthony",
+          "full_name": "Anthony Hill",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": true,
+          "is_taxi": false,
+          "last_name": "Hill",
+          "normalized_position": "LB",
+          "number": 53,
+          "player_id": "13365",
+          "position": "LB",
+          "search_full_name": "anthonyhill",
+          "status": "Active",
+          "team": "TEN",
+          "value": {
+            "confidence": 70.0,
+            "contender": 74.2,
+            "liquidity": 58.3,
+            "market": 66.2,
+            "player_id": "13365",
+            "rebuild": 84.2,
+            "risk": 24.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 0
+        },
+        {
+          "active": true,
+          "age": 21,
+          "age_bucket": "young",
           "depth_chart_order": 1,
           "depth_chart_position": "LILB",
           "fantasy_positions": [
@@ -43736,43 +43849,6 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 8
-        },
-        {
-          "active": true,
-          "age": 31,
-          "age_bucket": "veteran",
-          "depth_chart_order": 1,
-          "depth_chart_position": "LILB",
-          "fantasy_positions": [
-            "LB"
-          ],
-          "first_name": "Kaden",
-          "full_name": "Kaden Elliss",
-          "injury_body_part": null,
-          "injury_notes": null,
-          "injury_status": null,
-          "is_reserve": false,
-          "is_starter": true,
-          "is_taxi": false,
-          "last_name": "Elliss",
-          "normalized_position": "LB",
-          "number": 55,
-          "player_id": "6302",
-          "position": "LB",
-          "search_full_name": "kadenelliss",
-          "status": "Active",
-          "team": "NO",
-          "value": {
-            "confidence": 70.0,
-            "contender": 61.5,
-            "liquidity": 47.8,
-            "market": 53.5,
-            "player_id": "6302",
-            "rebuild": 41.5,
-            "risk": 54.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 7
         },
         {
           "active": true,
@@ -45230,7 +45306,7 @@
           "active": true,
           "age": 26,
           "age_bucket": "prime",
-          "depth_chart_order": 6,
+          "depth_chart_order": 5,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -45318,7 +45394,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 11,
+      "waiver_position": 10,
       "wins": 0
     },
     "starter_ids": [
@@ -45337,7 +45413,7 @@
       "10892",
       "12574",
       "11667",
-      "6302",
+      "13365",
       "5041",
       "10880",
       "12588",
