@@ -1,7 +1,10 @@
 [
   {
     "display_name": "ThommyFootball",
-    "metadata": {},
+    "metadata": {
+      "record": "L",
+      "streak": "1L"
+    },
     "owner_id": "469758658293526528",
     "player_ids": [
       "13294",
@@ -4690,9 +4693,13 @@
     "roster_id": 1,
     "settings": {
       "division": 1,
-      "fpts": 0,
-      "fpts_decimal": 0,
-      "losses": 0,
+      "fpts": 227,
+      "fpts_against": 320,
+      "fpts_against_decimal": 17,
+      "fpts_decimal": 28,
+      "losses": 1,
+      "ppts": 276,
+      "ppts_decimal": 3,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 4,
@@ -4741,7 +4748,10 @@
   },
   {
     "display_name": "FabLasso",
-    "metadata": {},
+    "metadata": {
+      "record": "L",
+      "streak": "1L"
+    },
     "owner_id": "1358816352504147968",
     "player_ids": [
       "13381",
@@ -8829,9 +8839,13 @@
     "roster_id": 2,
     "settings": {
       "division": 2,
-      "fpts": 0,
-      "fpts_decimal": 0,
-      "losses": 0,
+      "fpts": 244,
+      "fpts_against": 298,
+      "fpts_against_decimal": 86,
+      "fpts_decimal": 76,
+      "losses": 1,
+      "ppts": 288,
+      "ppts_decimal": 86,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 11,
@@ -8875,7 +8889,10 @@
   },
   {
     "display_name": "TrainerSimpson",
-    "metadata": {},
+    "metadata": {
+      "record": "L",
+      "streak": "1L"
+    },
     "owner_id": "1358827897472692224",
     "player_ids": [
       "7588",
@@ -9664,7 +9681,7 @@
         "injury_notes": null,
         "injury_status": null,
         "is_reserve": false,
-        "is_starter": false,
+        "is_starter": true,
         "is_taxi": false,
         "last_name": "Jones",
         "normalized_position": "DL",
@@ -9675,12 +9692,12 @@
         "status": "Active",
         "team": "NE",
         "value": {
-          "confidence": 55.0,
-          "contender": 41.5,
+          "confidence": 70.0,
+          "contender": 69.5,
           "liquidity": 45.9,
-          "market": 41.5,
+          "market": 61.5,
           "player_id": "5865",
-          "rebuild": 35.5,
+          "rebuild": 55.5,
           "risk": 36.0,
           "source": "heuristic-v0.2"
         },
@@ -10852,7 +10869,7 @@
         "injury_notes": "Surgery",
         "injury_status": "Out",
         "is_reserve": false,
-        "is_starter": true,
+        "is_starter": false,
         "is_taxi": false,
         "last_name": "Garrett",
         "normalized_position": "DL",
@@ -10863,12 +10880,12 @@
         "status": "Inactive",
         "team": "LAR",
         "value": {
-          "confidence": 70.0,
-          "contender": 36.8,
+          "confidence": 55.0,
+          "contender": 8.8,
           "liquidity": 44.9,
-          "market": 36.5,
+          "market": 16.5,
           "player_id": "3973",
-          "rebuild": 27.5,
+          "rebuild": 7.5,
           "risk": 64.0,
           "source": "heuristic-v0.2"
         },
@@ -11553,6 +11570,43 @@
           "age": 29,
           "age_bucket": "veteran",
           "depth_chart_order": 1,
+          "depth_chart_position": "LOLB",
+          "fantasy_positions": [
+            "DL"
+          ],
+          "first_name": "Dre'Mont",
+          "full_name": "Dre'Mont Jones",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": true,
+          "is_taxi": false,
+          "last_name": "Jones",
+          "normalized_position": "DL",
+          "number": 5,
+          "player_id": "5865",
+          "position": "DE",
+          "search_full_name": "dremontjones",
+          "status": "Active",
+          "team": "NE",
+          "value": {
+            "confidence": 70.0,
+            "contender": 69.5,
+            "liquidity": 45.9,
+            "market": 61.5,
+            "player_id": "5865",
+            "rebuild": 55.5,
+            "risk": 36.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 7
+        },
+        {
+          "active": true,
+          "age": 29,
+          "age_bucket": "veteran",
+          "depth_chart_order": 1,
           "depth_chart_position": "LDT",
           "fantasy_positions": [
             "DL"
@@ -11584,43 +11638,6 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 7
-        },
-        {
-          "active": true,
-          "age": 30,
-          "age_bucket": "veteran",
-          "depth_chart_order": 1,
-          "depth_chart_position": "ROLB",
-          "fantasy_positions": [
-            "DL"
-          ],
-          "first_name": "Myles",
-          "full_name": "Myles Garrett",
-          "injury_body_part": "Knee",
-          "injury_notes": "Surgery",
-          "injury_status": "Out",
-          "is_reserve": false,
-          "is_starter": true,
-          "is_taxi": false,
-          "last_name": "Garrett",
-          "normalized_position": "DL",
-          "number": 95,
-          "player_id": "3973",
-          "position": "DE",
-          "search_full_name": "mylesgarrett",
-          "status": "Inactive",
-          "team": "LAR",
-          "value": {
-            "confidence": 70.0,
-            "contender": 36.8,
-            "liquidity": 44.9,
-            "market": 36.5,
-            "player_id": "3973",
-            "rebuild": 27.5,
-            "risk": 64.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 9
         },
         {
           "active": true,
@@ -11852,43 +11869,6 @@
           "depth_chart_order": 1,
           "depth_chart_position": "LOLB",
           "fantasy_positions": [
-            "DL"
-          ],
-          "first_name": "Dre'Mont",
-          "full_name": "Dre'Mont Jones",
-          "injury_body_part": null,
-          "injury_notes": null,
-          "injury_status": null,
-          "is_reserve": false,
-          "is_starter": false,
-          "is_taxi": false,
-          "last_name": "Jones",
-          "normalized_position": "DL",
-          "number": 5,
-          "player_id": "5865",
-          "position": "DE",
-          "search_full_name": "dremontjones",
-          "status": "Active",
-          "team": "NE",
-          "value": {
-            "confidence": 55.0,
-            "contender": 41.5,
-            "liquidity": 45.9,
-            "market": 41.5,
-            "player_id": "5865",
-            "rebuild": 35.5,
-            "risk": 36.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 7
-        },
-        {
-          "active": true,
-          "age": 29,
-          "age_bucket": "veteran",
-          "depth_chart_order": 1,
-          "depth_chart_position": "LOLB",
-          "fantasy_positions": [
             "DL",
             "LB"
           ],
@@ -11919,6 +11899,43 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 6
+        },
+        {
+          "active": true,
+          "age": 30,
+          "age_bucket": "veteran",
+          "depth_chart_order": 1,
+          "depth_chart_position": "ROLB",
+          "fantasy_positions": [
+            "DL"
+          ],
+          "first_name": "Myles",
+          "full_name": "Myles Garrett",
+          "injury_body_part": "Knee",
+          "injury_notes": "Surgery",
+          "injury_status": "Out",
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Garrett",
+          "normalized_position": "DL",
+          "number": 95,
+          "player_id": "3973",
+          "position": "DE",
+          "search_full_name": "mylesgarrett",
+          "status": "Inactive",
+          "team": "LAR",
+          "value": {
+            "confidence": 55.0,
+            "contender": 8.8,
+            "liquidity": 44.9,
+            "market": 16.5,
+            "player_id": "3973",
+            "rebuild": 7.5,
+            "risk": 64.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 9
         }
       ],
       "LB": [
@@ -13723,9 +13740,13 @@
     "roster_id": 3,
     "settings": {
       "division": 3,
-      "fpts": 0,
-      "fpts_decimal": 0,
-      "losses": 0,
+      "fpts": 285,
+      "fpts_against": 290,
+      "fpts_against_decimal": 12,
+      "fpts_decimal": 71,
+      "losses": 1,
+      "ppts": 314,
+      "ppts_decimal": 66,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 8,
@@ -13746,7 +13767,7 @@
       "7567",
       "8183",
       "7626",
-      "3973",
+      "5865",
       "6125",
       "11687",
       "7648",
@@ -13774,7 +13795,10 @@
   },
   {
     "display_name": "boonstorm",
-    "metadata": {},
+    "metadata": {
+      "record": "W",
+      "streak": "1W"
+    },
     "owner_id": "1359103179693789184",
     "player_ids": [
       "5846",
@@ -18083,14 +18107,18 @@
     "roster_id": 4,
     "settings": {
       "division": 4,
-      "fpts": 0,
-      "fpts_decimal": 0,
+      "fpts": 290,
+      "fpts_against": 285,
+      "fpts_against_decimal": 71,
+      "fpts_decimal": 12,
       "losses": 0,
+      "ppts": 332,
+      "ppts_decimal": 47,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 9,
       "waiver_position": 2,
-      "wins": 0
+      "wins": 1
     },
     "starter_ids": [
       "6770",
@@ -18134,7 +18162,10 @@
   },
   {
     "display_name": "Lonskiy",
-    "metadata": {},
+    "metadata": {
+      "record": "L",
+      "streak": "1L"
+    },
     "owner_id": "963572049115508736",
     "player_ids": [
       "2227",
@@ -22973,9 +23004,13 @@
     "roster_id": 5,
     "settings": {
       "division": 1,
-      "fpts": 0,
-      "fpts_decimal": 0,
-      "losses": 0,
+      "fpts": 192,
+      "fpts_against": 253,
+      "fpts_against_decimal": 25,
+      "fpts_decimal": 35,
+      "losses": 1,
+      "ppts": 278,
+      "ppts_decimal": 90,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 41,
@@ -23024,7 +23059,10 @@
   },
   {
     "display_name": "Grishnakk",
-    "metadata": {},
+    "metadata": {
+      "record": "L",
+      "streak": "1L"
+    },
     "owner_id": "1360360778602930176",
     "player_ids": [
       "13333",
@@ -27560,9 +27598,13 @@
     "roster_id": 6,
     "settings": {
       "division": 2,
-      "fpts": 0,
-      "fpts_decimal": 0,
-      "losses": 0,
+      "fpts": 293,
+      "fpts_against": 303,
+      "fpts_against_decimal": 17,
+      "fpts_decimal": 79,
+      "losses": 1,
+      "ppts": 341,
+      "ppts_decimal": 34,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 18,
@@ -27610,7 +27652,10 @@
   },
   {
     "display_name": "Praetorianer21",
-    "metadata": {},
+    "metadata": {
+      "record": "W",
+      "streak": "1W"
+    },
     "owner_id": "1368348765890560000",
     "player_ids": [
       "11564",
@@ -32451,14 +32496,18 @@
     "roster_id": 7,
     "settings": {
       "division": 3,
-      "fpts": 0,
-      "fpts_decimal": 0,
+      "fpts": 320,
+      "fpts_against": 227,
+      "fpts_against_decimal": 28,
+      "fpts_decimal": 17,
       "losses": 0,
+      "ppts": 347,
+      "ppts_decimal": 25,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 2,
       "waiver_position": 4,
-      "wins": 0
+      "wins": 1
     },
     "starter_ids": [
       "11564",
@@ -32502,7 +32551,10 @@
   },
   {
     "display_name": "DrSiggiLove",
-    "metadata": {},
+    "metadata": {
+      "record": "W",
+      "streak": "1W"
+    },
     "owner_id": "1368351367726403584",
     "player_ids": [
       "6865",
@@ -34163,7 +34215,7 @@
         "full_name": "Mansoor Delane",
         "injury_body_part": "Shoulder",
         "injury_notes": null,
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "is_reserve": false,
         "is_starter": true,
         "is_taxi": false,
@@ -34177,12 +34229,12 @@
         "team": "KC",
         "value": {
           "confidence": 70.0,
-          "contender": 68.0,
+          "contender": 59.9,
           "liquidity": 43.2,
-          "market": 61.4,
+          "market": 55.4,
           "player_id": "13385",
-          "rebuild": 76.4,
-          "risk": 28.0,
+          "rebuild": 70.4,
+          "risk": 34.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 0
@@ -34351,7 +34403,7 @@
           "full_name": "Mansoor Delane",
           "injury_body_part": "Shoulder",
           "injury_notes": null,
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "is_reserve": false,
           "is_starter": true,
           "is_taxi": false,
@@ -34365,12 +34417,12 @@
           "team": "KC",
           "value": {
             "confidence": 70.0,
-            "contender": 68.0,
+            "contender": 59.9,
             "liquidity": 43.2,
-            "market": 61.4,
+            "market": 55.4,
             "player_id": "13385",
-            "rebuild": 76.4,
-            "risk": 28.0,
+            "rebuild": 70.4,
+            "risk": 34.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 0
@@ -36136,14 +36188,18 @@
     "roster_id": 8,
     "settings": {
       "division": 4,
-      "fpts": 0,
-      "fpts_decimal": 0,
+      "fpts": 253,
+      "fpts_against": 192,
+      "fpts_against_decimal": 35,
+      "fpts_decimal": 25,
       "losses": 0,
+      "ppts": 287,
+      "ppts_decimal": 90,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 3,
       "waiver_position": 8,
-      "wins": 0
+      "wins": 1
     },
     "starter_ids": [
       "4984",
@@ -36176,7 +36232,10 @@
   },
   {
     "display_name": "Alex1790",
-    "metadata": {},
+    "metadata": {
+      "record": "W",
+      "streak": "1W"
+    },
     "owner_id": "1368391950998212608",
     "player_ids": [
       "12505",
@@ -40567,14 +40626,18 @@
     "roster_id": 9,
     "settings": {
       "division": 1,
-      "fpts": 0,
-      "fpts_decimal": 0,
+      "fpts": 303,
+      "fpts_against": 293,
+      "fpts_against_decimal": 79,
+      "fpts_decimal": 17,
       "losses": 0,
+      "ppts": 399,
+      "ppts_decimal": 97,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 5,
       "waiver_position": 7,
-      "wins": 0
+      "wins": 1
     },
     "starter_ids": [
       "6904",
@@ -40618,7 +40681,10 @@
   },
   {
     "display_name": "kleinerlouis",
-    "metadata": {},
+    "metadata": {
+      "record": "W",
+      "streak": "1W"
+    },
     "owner_id": "587198224066977792",
     "player_ids": [
       "12501",
@@ -45614,14 +45680,18 @@
     "roster_id": 10,
     "settings": {
       "division": 2,
-      "fpts": 0,
-      "fpts_decimal": 0,
+      "fpts": 363,
+      "fpts_against": 362,
+      "fpts_against_decimal": 81,
+      "fpts_decimal": 50,
       "losses": 0,
+      "ppts": 427,
+      "ppts_decimal": 51,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
       "waiver_position": 11,
-      "wins": 0
+      "wins": 1
     },
     "starter_ids": [
       "4881",
@@ -45665,7 +45735,10 @@
   },
   {
     "display_name": "Steffmeff",
-    "metadata": {},
+    "metadata": {
+      "record": "W",
+      "streak": "1W"
+    },
     "owner_id": "569327836233949184",
     "player_ids": [
       "12646",
@@ -50129,14 +50202,18 @@
     "roster_id": 11,
     "settings": {
       "division": 3,
-      "fpts": 0,
-      "fpts_decimal": 0,
+      "fpts": 298,
+      "fpts_against": 244,
+      "fpts_against_decimal": 76,
+      "fpts_decimal": 86,
       "losses": 0,
+      "ppts": 377,
+      "ppts_decimal": 23,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 5,
       "waiver_position": 3,
-      "wins": 0
+      "wins": 1
     },
     "starter_ids": [
       "3163",
@@ -50180,7 +50257,10 @@
   },
   {
     "display_name": "MahomesBVB",
-    "metadata": {},
+    "metadata": {
+      "record": "L",
+      "streak": "1L"
+    },
     "owner_id": "826853983791460352",
     "player_ids": [
       "5843",
@@ -54635,9 +54715,13 @@
     "roster_id": 12,
     "settings": {
       "division": 4,
-      "fpts": 0,
-      "fpts_decimal": 0,
-      "losses": 0,
+      "fpts": 362,
+      "fpts_against": 363,
+      "fpts_against_decimal": 50,
+      "fpts_decimal": 81,
+      "losses": 1,
+      "ppts": 399,
+      "ppts_decimal": 30,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 10,
