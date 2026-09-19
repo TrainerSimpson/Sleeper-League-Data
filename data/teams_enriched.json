@@ -23874,7 +23874,7 @@
         "active": true,
         "age": 22,
         "age_bucket": "young",
-        "depth_chart_order": 11,
+        "depth_chart_order": 6,
         "depth_chart_position": "LWR",
         "fantasy_positions": [
           "WR"
@@ -27298,7 +27298,7 @@
           "active": true,
           "age": 22,
           "age_bucket": "young",
-          "depth_chart_order": 11,
+          "depth_chart_order": 6,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -28322,7 +28322,7 @@
       },
       {
         "active": true,
-        "age": 29,
+        "age": 30,
         "age_bucket": "veteran",
         "depth_chart_order": 1,
         "depth_chart_position": "LILB",
@@ -28347,12 +28347,12 @@
         "team": "WAS",
         "value": {
           "confidence": 55.0,
-          "contender": 26.0,
-          "liquidity": 49.9,
-          "market": 29.5,
+          "contender": 23.0,
+          "liquidity": 48.9,
+          "market": 26.5,
           "player_id": "5580",
-          "rebuild": 23.5,
-          "risk": 52.0,
+          "rebuild": 17.5,
+          "risk": 58.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 8
@@ -29993,7 +29993,7 @@
         "active": true,
         "age": 23,
         "age_bucket": "young",
-        "depth_chart_order": 6,
+        "depth_chart_order": 5,
         "depth_chart_position": "RB",
         "fantasy_positions": [
           "RB"
@@ -31000,7 +31000,7 @@
         },
         {
           "active": true,
-          "age": 29,
+          "age": 30,
           "age_bucket": "veteran",
           "depth_chart_order": 1,
           "depth_chart_position": "LILB",
@@ -31025,12 +31025,12 @@
           "team": "WAS",
           "value": {
             "confidence": 55.0,
-            "contender": 26.0,
-            "liquidity": 49.9,
-            "market": 29.5,
+            "contender": 23.0,
+            "liquidity": 48.9,
+            "market": 26.5,
             "player_id": "5580",
-            "rebuild": 23.5,
-            "risk": 52.0,
+            "rebuild": 17.5,
+            "risk": 58.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 8
@@ -31451,7 +31451,7 @@
           "active": true,
           "age": 23,
           "age_bucket": "young",
-          "depth_chart_order": 6,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -46958,7 +46958,7 @@
       },
       {
         "active": true,
-        "age": 21,
+        "age": 22,
         "age_bucket": "young",
         "depth_chart_order": 3,
         "depth_chart_position": "LOLB",
@@ -46983,11 +46983,11 @@
         "team": "BUF",
         "value": {
           "confidence": 55.0,
-          "contender": 41.0,
-          "liquidity": 54.3,
-          "market": 41.0,
+          "contender": 42.2,
+          "liquidity": 53.2,
+          "market": 42.2,
           "player_id": "13455",
-          "rebuild": 59.0,
+          "rebuild": 57.2,
           "risk": 24.0,
           "source": "heuristic-v0.2"
         },
@@ -48074,43 +48074,6 @@
         },
         {
           "active": true,
-          "age": 21,
-          "age_bucket": "young",
-          "depth_chart_order": 3,
-          "depth_chart_position": "LOLB",
-          "fantasy_positions": [
-            "DL"
-          ],
-          "first_name": "TJ",
-          "full_name": "TJ Parker",
-          "injury_body_part": null,
-          "injury_notes": null,
-          "injury_status": null,
-          "is_reserve": false,
-          "is_starter": false,
-          "is_taxi": true,
-          "last_name": "Parker",
-          "normalized_position": "DL",
-          "number": 99,
-          "player_id": "13455",
-          "position": "DE",
-          "search_full_name": "tjparker",
-          "status": "Active",
-          "team": "BUF",
-          "value": {
-            "confidence": 55.0,
-            "contender": 41.0,
-            "liquidity": 54.3,
-            "market": 41.0,
-            "player_id": "13455",
-            "rebuild": 59.0,
-            "risk": 24.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 0
-        },
-        {
-          "active": true,
           "age": 22,
           "age_bucket": "young",
           "depth_chart_order": null,
@@ -48146,6 +48109,43 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 1
+        },
+        {
+          "active": true,
+          "age": 22,
+          "age_bucket": "young",
+          "depth_chart_order": 3,
+          "depth_chart_position": "LOLB",
+          "fantasy_positions": [
+            "DL"
+          ],
+          "first_name": "TJ",
+          "full_name": "TJ Parker",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": true,
+          "last_name": "Parker",
+          "normalized_position": "DL",
+          "number": 99,
+          "player_id": "13455",
+          "position": "DE",
+          "search_full_name": "tjparker",
+          "status": "Active",
+          "team": "BUF",
+          "value": {
+            "confidence": 55.0,
+            "contender": 42.2,
+            "liquidity": 53.2,
+            "market": 42.2,
+            "player_id": "13455",
+            "rebuild": 57.2,
+            "risk": 24.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 0
         },
         {
           "active": true,
