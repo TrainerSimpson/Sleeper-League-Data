@@ -2,8 +2,8 @@
   {
     "display_name": "ThommyFootball",
     "metadata": {
-      "record": "L",
-      "streak": "1L"
+      "record": "LL",
+      "streak": "2L"
     },
     "owner_id": "469758658293526528",
     "player_ids": [
@@ -813,7 +813,7 @@
       },
       {
         "active": true,
-        "age": 26,
+        "age": 27,
         "age_bucket": "prime",
         "depth_chart_order": 4,
         "depth_chart_position": "RWR",
@@ -838,12 +838,12 @@
         "team": "BUF",
         "value": {
           "confidence": 55.0,
-          "contender": 50.5,
-          "liquidity": 89.0,
-          "market": 50.5,
+          "contender": 47.5,
+          "liquidity": 88.0,
+          "market": 47.5,
           "player_id": "7670",
-          "rebuild": 53.5,
-          "risk": 24.0,
+          "rebuild": 47.5,
+          "risk": 30.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 5
@@ -1341,9 +1341,9 @@
         ],
         "first_name": "Malik",
         "full_name": "Malik Nabers",
-        "injury_body_part": null,
+        "injury_body_part": "Shoulder",
         "injury_notes": null,
-        "injury_status": null,
+        "injury_status": "Questionable",
         "is_reserve": false,
         "is_starter": true,
         "is_taxi": false,
@@ -1357,12 +1357,12 @@
         "team": "NYG",
         "value": {
           "confidence": 70.0,
-          "contender": 93.6,
+          "contender": 88.2,
           "liquidity": 92.2,
-          "market": 85.6,
+          "market": 81.6,
           "player_id": "11632",
-          "rebuild": 97.6,
-          "risk": 24.0,
+          "rebuild": 93.6,
+          "risk": 28.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 2
@@ -4287,9 +4287,9 @@
           ],
           "first_name": "Malik",
           "full_name": "Malik Nabers",
-          "injury_body_part": null,
+          "injury_body_part": "Shoulder",
           "injury_notes": null,
-          "injury_status": null,
+          "injury_status": "Questionable",
           "is_reserve": false,
           "is_starter": true,
           "is_taxi": false,
@@ -4303,12 +4303,12 @@
           "team": "NYG",
           "value": {
             "confidence": 70.0,
-            "contender": 93.6,
+            "contender": 88.2,
             "liquidity": 92.2,
-            "market": 85.6,
+            "market": 81.6,
             "player_id": "11632",
-            "rebuild": 97.6,
-            "risk": 24.0,
+            "rebuild": 93.6,
+            "risk": 28.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 2
@@ -4465,43 +4465,6 @@
           "active": true,
           "age": 26,
           "age_bucket": "prime",
-          "depth_chart_order": 4,
-          "depth_chart_position": "RWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "first_name": "Joshua",
-          "full_name": "Joshua Palmer",
-          "injury_body_part": null,
-          "injury_notes": null,
-          "injury_status": null,
-          "is_reserve": false,
-          "is_starter": false,
-          "is_taxi": false,
-          "last_name": "Palmer",
-          "normalized_position": "WR",
-          "number": 5,
-          "player_id": "7670",
-          "position": "WR",
-          "search_full_name": "joshuapalmer",
-          "status": "Active",
-          "team": "BUF",
-          "value": {
-            "confidence": 55.0,
-            "contender": 50.5,
-            "liquidity": 89.0,
-            "market": 50.5,
-            "player_id": "7670",
-            "rebuild": 53.5,
-            "risk": 24.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 5
-        },
-        {
-          "active": true,
-          "age": 26,
-          "age_bucket": "prime",
           "depth_chart_order": 3,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
@@ -4534,6 +4497,43 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 4
+        },
+        {
+          "active": true,
+          "age": 27,
+          "age_bucket": "prime",
+          "depth_chart_order": 4,
+          "depth_chart_position": "RWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "first_name": "Joshua",
+          "full_name": "Joshua Palmer",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Palmer",
+          "normalized_position": "WR",
+          "number": 5,
+          "player_id": "7670",
+          "position": "WR",
+          "search_full_name": "joshuapalmer",
+          "status": "Active",
+          "team": "BUF",
+          "value": {
+            "confidence": 55.0,
+            "contender": 47.5,
+            "liquidity": 88.0,
+            "market": 47.5,
+            "player_id": "7670",
+            "rebuild": 47.5,
+            "risk": 30.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 5
         },
         {
           "active": true,
@@ -4619,13 +4619,13 @@
     "roster_id": 1,
     "settings": {
       "division": 1,
-      "fpts": 227,
-      "fpts_against": 321,
-      "fpts_against_decimal": 42,
-      "fpts_decimal": 28,
-      "losses": 1,
-      "ppts": 276,
-      "ppts_decimal": 3,
+      "fpts": 430,
+      "fpts_against": 542,
+      "fpts_against_decimal": 13,
+      "fpts_decimal": 23,
+      "losses": 2,
+      "ppts": 572,
+      "ppts_decimal": 5,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 15,
@@ -4675,8 +4675,8 @@
   {
     "display_name": "FabLasso",
     "metadata": {
-      "record": "L",
-      "streak": "1L"
+      "record": "LL",
+      "streak": "2L"
     },
     "owner_id": "1358816352504147968",
     "player_ids": [
@@ -5936,9 +5936,9 @@
         ],
         "first_name": "Jaxson",
         "full_name": "Jaxson Dart",
-        "injury_body_part": null,
+        "injury_body_part": "Knee",
         "injury_notes": null,
-        "injury_status": null,
+        "injury_status": "Out",
         "is_reserve": false,
         "is_starter": true,
         "is_taxi": false,
@@ -5952,12 +5952,12 @@
         "team": "NYG",
         "value": {
           "confidence": 70.0,
-          "contender": 93.3,
+          "contender": 79.8,
           "liquidity": 82.2,
-          "market": 85.3,
+          "market": 75.3,
           "player_id": "12508",
-          "rebuild": 97.3,
-          "risk": 24.0,
+          "rebuild": 87.3,
+          "risk": 34.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 1
@@ -7876,9 +7876,9 @@
           ],
           "first_name": "Jaxson",
           "full_name": "Jaxson Dart",
-          "injury_body_part": null,
+          "injury_body_part": "Knee",
           "injury_notes": null,
-          "injury_status": null,
+          "injury_status": "Out",
           "is_reserve": false,
           "is_starter": true,
           "is_taxi": false,
@@ -7892,12 +7892,12 @@
           "team": "NYG",
           "value": {
             "confidence": 70.0,
-            "contender": 93.3,
+            "contender": 79.8,
             "liquidity": 82.2,
-            "market": 85.3,
+            "market": 75.3,
             "player_id": "12508",
-            "rebuild": 97.3,
-            "risk": 24.0,
+            "rebuild": 87.3,
+            "risk": 34.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 1
@@ -8767,13 +8767,13 @@
     "roster_id": 2,
     "settings": {
       "division": 2,
-      "fpts": 245,
-      "fpts_against": 298,
-      "fpts_against_decimal": 86,
-      "fpts_decimal": 51,
-      "losses": 1,
-      "ppts": 289,
-      "ppts_decimal": 61,
+      "fpts": 474,
+      "fpts_against": 594,
+      "fpts_against_decimal": 65,
+      "fpts_decimal": 80,
+      "losses": 2,
+      "ppts": 613,
+      "ppts_decimal": 98,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 11,
@@ -8818,8 +8818,8 @@
   {
     "display_name": "TrainerSimpson",
     "metadata": {
-      "record": "L",
-      "streak": "1L"
+      "record": "LL",
+      "streak": "2L"
     },
     "owner_id": "1358827897472692224",
     "player_ids": [
@@ -10861,7 +10861,7 @@
         "active": true,
         "age": 25,
         "age_bucket": "prime",
-        "depth_chart_order": 1,
+        "depth_chart_order": 6,
         "depth_chart_position": "RWR",
         "fantasy_positions": [
           "WR"
@@ -10884,11 +10884,11 @@
         "team": "LAR",
         "value": {
           "confidence": 70.0,
-          "contender": 84.0,
+          "contender": 72.0,
           "liquidity": 90.1,
-          "market": 79.5,
+          "market": 67.5,
           "player_id": "9493",
-          "rebuild": 85.5,
+          "rebuild": 73.5,
           "risk": 34.0,
           "source": "heuristic-v0.2"
         },
@@ -13219,7 +13219,7 @@
           "active": true,
           "age": 25,
           "age_bucket": "prime",
-          "depth_chart_order": 1,
+          "depth_chart_order": 6,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -13242,11 +13242,11 @@
           "team": "LAR",
           "value": {
             "confidence": 70.0,
-            "contender": 84.0,
+            "contender": 72.0,
             "liquidity": 90.1,
-            "market": 79.5,
+            "market": 67.5,
             "player_id": "9493",
-            "rebuild": 85.5,
+            "rebuild": 73.5,
             "risk": 34.0,
             "source": "heuristic-v0.2"
           },
@@ -13748,13 +13748,13 @@
     "roster_id": 3,
     "settings": {
       "division": 3,
-      "fpts": 285,
-      "fpts_against": 290,
-      "fpts_against_decimal": 87,
-      "fpts_decimal": 71,
-      "losses": 1,
-      "ppts": 314,
-      "ppts_decimal": 66,
+      "fpts": 588,
+      "fpts_against": 652,
+      "fpts_against_decimal": 25,
+      "fpts_decimal": 36,
+      "losses": 2,
+      "ppts": 668,
+      "ppts_decimal": 34,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 40,
@@ -13803,8 +13803,8 @@
   {
     "display_name": "boonstorm",
     "metadata": {
-      "record": "W",
-      "streak": "1W"
+      "record": "WW",
+      "streak": "2W"
     },
     "owner_id": "1359103179693789184",
     "player_ids": [
@@ -18114,18 +18114,18 @@
     "roster_id": 4,
     "settings": {
       "division": 4,
-      "fpts": 290,
-      "fpts_against": 285,
-      "fpts_against_decimal": 71,
-      "fpts_decimal": 87,
+      "fpts": 511,
+      "fpts_against": 488,
+      "fpts_against_decimal": 66,
+      "fpts_decimal": 58,
       "losses": 0,
-      "ppts": 333,
-      "ppts_decimal": 22,
+      "ppts": 627,
+      "ppts_decimal": 3,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 9,
       "waiver_position": 2,
-      "wins": 1
+      "wins": 2
     },
     "starter_ids": [
       "6770",
@@ -18170,8 +18170,8 @@
   {
     "display_name": "Lonskiy",
     "metadata": {
-      "record": "L",
-      "streak": "1L"
+      "record": "LL",
+      "streak": "2L"
     },
     "owner_id": "963572049115508736",
     "player_ids": [
@@ -23011,13 +23011,13 @@
     "roster_id": 5,
     "settings": {
       "division": 1,
-      "fpts": 192,
-      "fpts_against": 253,
-      "fpts_against_decimal": 25,
-      "fpts_decimal": 35,
-      "losses": 1,
-      "ppts": 278,
-      "ppts_decimal": 15,
+      "fpts": 440,
+      "fpts_against": 515,
+      "fpts_against_decimal": 19,
+      "fpts_decimal": 89,
+      "losses": 2,
+      "ppts": 546,
+      "ppts_decimal": 14,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 41,
@@ -23067,8 +23067,8 @@
   {
     "display_name": "Grishnakk",
     "metadata": {
-      "record": "L",
-      "streak": "1L"
+      "record": "LW",
+      "streak": "1W"
     },
     "owner_id": "1360360778602930176",
     "player_ids": [
@@ -24360,7 +24360,7 @@
       },
       {
         "active": true,
-        "age": 22,
+        "age": 23,
         "age_bucket": "young",
         "depth_chart_order": 9,
         "depth_chart_position": null,
@@ -24385,11 +24385,11 @@
         "team": "CAR",
         "value": {
           "confidence": 55.0,
-          "contender": 19.7,
-          "liquidity": 93.2,
-          "market": 27.4,
+          "contender": 20.9,
+          "liquidity": 92.2,
+          "market": 28.6,
           "player_id": "13353",
-          "rebuild": 42.4,
+          "rebuild": 40.6,
           "risk": 46.0,
           "source": "heuristic-v0.2"
         },
@@ -27341,43 +27341,6 @@
           "active": true,
           "age": 22,
           "age_bucket": "young",
-          "depth_chart_order": 9,
-          "depth_chart_position": null,
-          "fantasy_positions": [
-            "WR"
-          ],
-          "first_name": "Chris",
-          "full_name": "Chris Brazzell",
-          "injury_body_part": "Knee",
-          "injury_notes": null,
-          "injury_status": "IR",
-          "is_reserve": true,
-          "is_starter": false,
-          "is_taxi": false,
-          "last_name": "Brazzell",
-          "normalized_position": "WR",
-          "number": 19,
-          "player_id": "13353",
-          "position": "WR",
-          "search_full_name": "chrisbrazzell",
-          "status": "Inactive",
-          "team": "CAR",
-          "value": {
-            "confidence": 55.0,
-            "contender": 19.7,
-            "liquidity": 93.2,
-            "market": 27.4,
-            "player_id": "13353",
-            "rebuild": 42.4,
-            "risk": 46.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 0
-        },
-        {
-          "active": true,
-          "age": 22,
-          "age_bucket": "young",
           "depth_chart_order": 3,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
@@ -27406,6 +27369,43 @@
             "market": 33.4,
             "player_id": "13281",
             "rebuild": 48.4,
+            "risk": 46.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 0
+        },
+        {
+          "active": true,
+          "age": 23,
+          "age_bucket": "young",
+          "depth_chart_order": 9,
+          "depth_chart_position": null,
+          "fantasy_positions": [
+            "WR"
+          ],
+          "first_name": "Chris",
+          "full_name": "Chris Brazzell",
+          "injury_body_part": "Knee",
+          "injury_notes": null,
+          "injury_status": "IR",
+          "is_reserve": true,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Brazzell",
+          "normalized_position": "WR",
+          "number": 19,
+          "player_id": "13353",
+          "position": "WR",
+          "search_full_name": "chrisbrazzell",
+          "status": "Inactive",
+          "team": "CAR",
+          "value": {
+            "confidence": 55.0,
+            "contender": 20.9,
+            "liquidity": 92.2,
+            "market": 28.6,
+            "player_id": "13353",
+            "rebuild": 40.6,
             "risk": 46.0,
             "source": "heuristic-v0.2"
           },
@@ -27681,18 +27681,18 @@
     "roster_id": 6,
     "settings": {
       "division": 2,
-      "fpts": 293,
-      "fpts_against": 304,
-      "fpts_against_decimal": 92,
-      "fpts_decimal": 79,
+      "fpts": 559,
+      "fpts_against": 565,
+      "fpts_against_decimal": 78,
+      "fpts_decimal": 7,
       "losses": 1,
-      "ppts": 341,
-      "ppts_decimal": 34,
+      "ppts": 644,
+      "ppts_decimal": 42,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 35,
       "waiver_position": 6,
-      "wins": 0
+      "wins": 1
     },
     "starter_ids": [
       "9228",
@@ -27736,8 +27736,8 @@
   {
     "display_name": "Praetorianer21",
     "metadata": {
-      "record": "W",
-      "streak": "1W"
+      "record": "WW",
+      "streak": "2W"
     },
     "owner_id": "1368348765890560000",
     "player_ids": [
@@ -32731,18 +32731,18 @@
     "roster_id": 7,
     "settings": {
       "division": 3,
-      "fpts": 321,
-      "fpts_against": 227,
-      "fpts_against_decimal": 28,
-      "fpts_decimal": 42,
+      "fpts": 583,
+      "fpts_against": 475,
+      "fpts_against_decimal": 82,
+      "fpts_decimal": 36,
       "losses": 0,
-      "ppts": 348,
-      "ppts_decimal": 50,
+      "ppts": 630,
+      "ppts_decimal": 64,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 5,
       "waiver_position": 10,
-      "wins": 1
+      "wins": 2
     },
     "starter_ids": [
       "11564",
@@ -32787,8 +32787,8 @@
   {
     "display_name": "DrSiggiLove",
     "metadata": {
-      "record": "W",
-      "streak": "1W"
+      "record": "WW",
+      "streak": "2W"
     },
     "owner_id": "1368351367726403584",
     "player_ids": [
@@ -34145,7 +34145,7 @@
         "active": true,
         "age": 33,
         "age_bucket": "veteran",
-        "depth_chart_order": 2,
+        "depth_chart_order": 1,
         "depth_chart_position": "LWR",
         "fantasy_positions": [
           "WR"
@@ -34168,11 +34168,11 @@
         "team": "LAR",
         "value": {
           "confidence": 70.0,
-          "contender": 63.5,
+          "contender": 66.5,
           "liquidity": 81.7,
-          "market": 55.5,
+          "market": 58.5,
           "player_id": "2133",
-          "rebuild": 37.5,
+          "rebuild": 40.5,
           "risk": 66.0,
           "source": "heuristic-v0.2"
         },
@@ -36200,7 +36200,7 @@
           "active": true,
           "age": 33,
           "age_bucket": "veteran",
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -36223,11 +36223,11 @@
           "team": "LAR",
           "value": {
             "confidence": 70.0,
-            "contender": 63.5,
+            "contender": 66.5,
             "liquidity": 81.7,
-            "market": 55.5,
+            "market": 58.5,
             "player_id": "2133",
-            "rebuild": 37.5,
+            "rebuild": 40.5,
             "risk": 66.0,
             "source": "heuristic-v0.2"
           },
@@ -36350,18 +36350,18 @@
     "roster_id": 8,
     "settings": {
       "division": 4,
-      "fpts": 253,
-      "fpts_against": 192,
-      "fpts_against_decimal": 35,
-      "fpts_decimal": 25,
+      "fpts": 549,
+      "fpts_against": 421,
+      "fpts_against_decimal": 64,
+      "fpts_decimal": 4,
       "losses": 0,
-      "ppts": 287,
-      "ppts_decimal": 90,
+      "ppts": 618,
+      "ppts_decimal": 39,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 3,
       "waiver_position": 4,
-      "wins": 1
+      "wins": 2
     },
     "starter_ids": [
       "4984",
@@ -36395,8 +36395,8 @@
   {
     "display_name": "Alex1790",
     "metadata": {
-      "record": "W",
-      "streak": "1W"
+      "record": "WL",
+      "streak": "1L"
     },
     "owner_id": "1368391950998212608",
     "player_ids": [
@@ -36706,7 +36706,7 @@
         "position": "WR",
         "search_full_name": "dariusslayton",
         "status": "Active",
-        "team": null,
+        "team": "IND",
         "value": {
           "confidence": 35.0,
           "contender": 42.5,
@@ -40766,7 +40766,7 @@
           "position": "WR",
           "search_full_name": "dariusslayton",
           "status": "Active",
-          "team": null,
+          "team": "IND",
           "value": {
             "confidence": 35.0,
             "contender": 42.5,
@@ -40788,13 +40788,13 @@
     "roster_id": 9,
     "settings": {
       "division": 1,
-      "fpts": 304,
-      "fpts_against": 293,
-      "fpts_against_decimal": 79,
-      "fpts_decimal": 92,
-      "losses": 0,
-      "ppts": 401,
-      "ppts_decimal": 72,
+      "fpts": 598,
+      "fpts_against": 629,
+      "fpts_against_decimal": 59,
+      "fpts_decimal": 99,
+      "losses": 1,
+      "ppts": 753,
+      "ppts_decimal": 98,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 5,
@@ -40844,8 +40844,8 @@
   {
     "display_name": "kleinerlouis",
     "metadata": {
-      "record": "L",
-      "streak": "1L"
+      "record": "LW",
+      "streak": "1W"
     },
     "owner_id": "587198224066977792",
     "player_ids": [
@@ -45542,18 +45542,18 @@
     "roster_id": 10,
     "settings": {
       "division": 2,
-      "fpts": 362,
-      "fpts_against": 362,
-      "fpts_against_decimal": 81,
-      "fpts_decimal": 75,
+      "fpts": 724,
+      "fpts_against": 665,
+      "fpts_against_decimal": 46,
+      "fpts_decimal": 13,
       "losses": 1,
-      "ppts": 427,
-      "ppts_decimal": 51,
+      "ppts": 821,
+      "ppts_decimal": 49,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 15,
       "waiver_position": 12,
-      "wins": 0
+      "wins": 1
     },
     "starter_ids": [
       "4881",
@@ -45598,8 +45598,8 @@
   {
     "display_name": "Steffmeff",
     "metadata": {
-      "record": "W",
-      "streak": "1W"
+      "record": "WW",
+      "streak": "2W"
     },
     "owner_id": "569327836233949184",
     "player_ids": [
@@ -46160,9 +46160,9 @@
         ],
         "first_name": "Brian",
         "full_name": "Brian Burns",
-        "injury_body_part": null,
+        "injury_body_part": "Ankle",
         "injury_notes": null,
-        "injury_status": null,
+        "injury_status": "Questionable",
         "is_reserve": false,
         "is_starter": true,
         "is_taxi": false,
@@ -46176,12 +46176,12 @@
         "team": "NYG",
         "value": {
           "confidence": 70.0,
-          "contender": 72.5,
+          "contender": 67.1,
           "liquidity": 47.0,
-          "market": 64.5,
+          "market": 60.5,
           "player_id": "5862",
-          "rebuild": 61.5,
-          "risk": 30.0,
+          "rebuild": 57.5,
+          "risk": 34.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 7
@@ -48204,9 +48204,9 @@
           ],
           "first_name": "Brian",
           "full_name": "Brian Burns",
-          "injury_body_part": null,
+          "injury_body_part": "Ankle",
           "injury_notes": null,
-          "injury_status": null,
+          "injury_status": "Questionable",
           "is_reserve": false,
           "is_starter": true,
           "is_taxi": false,
@@ -48220,12 +48220,12 @@
           "team": "NYG",
           "value": {
             "confidence": 70.0,
-            "contender": 72.5,
+            "contender": 67.1,
             "liquidity": 47.0,
-            "market": 64.5,
+            "market": 60.5,
             "player_id": "5862",
-            "rebuild": 61.5,
-            "risk": 30.0,
+            "rebuild": 57.5,
+            "risk": 34.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 7
@@ -50216,18 +50216,18 @@
     "roster_id": 11,
     "settings": {
       "division": 3,
-      "fpts": 298,
-      "fpts_against": 245,
-      "fpts_against_decimal": 51,
-      "fpts_decimal": 86,
+      "fpts": 634,
+      "fpts_against": 539,
+      "fpts_against_decimal": 58,
+      "fpts_decimal": 66,
       "losses": 0,
-      "ppts": 377,
-      "ppts_decimal": 23,
+      "ppts": 775,
+      "ppts_decimal": 46,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 44,
       "waiver_position": 8,
-      "wins": 1
+      "wins": 2
     },
     "starter_ids": [
       "3163",
@@ -50272,8 +50272,8 @@
   {
     "display_name": "MahomesBVB",
     "metadata": {
-      "record": "W",
-      "streak": "1W"
+      "record": "WL",
+      "streak": "1L"
     },
     "owner_id": "826853983791460352",
     "player_ids": [
@@ -52267,7 +52267,7 @@
         "active": true,
         "age": 24,
         "age_bucket": "young",
-        "depth_chart_order": 7,
+        "depth_chart_order": 9,
         "depth_chart_position": "LWR",
         "fantasy_positions": [
           "WR"
@@ -52302,7 +52302,7 @@
       },
       {
         "active": true,
-        "age": 31,
+        "age": 32,
         "age_bucket": "veteran",
         "depth_chart_order": 1,
         "depth_chart_position": "RILB",
@@ -52327,12 +52327,12 @@
         "team": "TB",
         "value": {
           "confidence": 70.0,
-          "contender": 61.5,
-          "liquidity": 47.8,
-          "market": 53.5,
+          "contender": 58.5,
+          "liquidity": 46.8,
+          "market": 50.5,
           "player_id": "4118",
-          "rebuild": 41.5,
-          "risk": 54.0,
+          "rebuild": 35.5,
+          "risk": 60.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 9
@@ -53419,7 +53419,7 @@
         },
         {
           "active": true,
-          "age": 31,
+          "age": 32,
           "age_bucket": "veteran",
           "depth_chart_order": 1,
           "depth_chart_position": "RILB",
@@ -53444,12 +53444,12 @@
           "team": "TB",
           "value": {
             "confidence": 70.0,
-            "contender": 61.5,
-            "liquidity": 47.8,
-            "market": 53.5,
+            "contender": 58.5,
+            "liquidity": 46.8,
+            "market": 50.5,
             "player_id": "4118",
-            "rebuild": 41.5,
-            "risk": 54.0,
+            "rebuild": 35.5,
+            "risk": 60.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 9
@@ -54614,7 +54614,7 @@
           "active": true,
           "age": 24,
           "age_bucket": "young",
-          "depth_chart_order": 7,
+          "depth_chart_order": 9,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -54729,13 +54729,13 @@
     "roster_id": 12,
     "settings": {
       "division": 4,
-      "fpts": 362,
-      "fpts_against": 362,
-      "fpts_against_decimal": 75,
-      "fpts_decimal": 81,
-      "losses": 0,
-      "ppts": 399,
-      "ppts_decimal": 30,
+      "fpts": 623,
+      "fpts_against": 628,
+      "fpts_against_decimal": 3,
+      "fpts_decimal": 67,
+      "losses": 1,
+      "ppts": 727,
+      "ppts_decimal": 36,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 14,
