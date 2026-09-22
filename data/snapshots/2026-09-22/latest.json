@@ -17051,7 +17051,7 @@
       "type": "snake"
     }
   ],
-  "generated_at": "2026-09-22T18:57:14.468860+00:00",
+  "generated_at": "2026-09-22T22:13:38.976116+00:00",
   "league": {
     "avatar": "7c15319eacc56bfdeb741f4b006ca693",
     "bracket_id": null,
@@ -22298,7 +22298,7 @@
         "starters": [
           "6770",
           "8150",
-          "12489",
+          "0",
           "12536",
           "11631",
           "5846",
@@ -22318,7 +22318,7 @@
           "10927",
           "5341",
           "6784",
-          "5841",
+          "5944",
           "10935"
         ],
         "starters_points": [
@@ -22489,12 +22489,12 @@
           "3294",
           "9511",
           "7594",
-          "11628",
+          "13298",
           "11610",
           "13279",
           "12506",
-          "13298",
-          "11630",
+          "11628",
+          "12502",
           "11370",
           "8676",
           "421",
@@ -23569,17 +23569,17 @@
         "roster_id": 11,
         "starters": [
           "3163",
-          "3198",
+          "5892",
           "9509",
           "7564",
           "12526",
           "5872",
           "8110",
           "13287",
-          "5892",
+          "3198",
           "13286",
           "6786",
-          "3161",
+          "5849",
           "7635",
           "11669",
           "5862",
@@ -26269,7 +26269,11 @@
         "9504"
       ],
       "reserve": [
-        "5030"
+        "12489",
+        "4033",
+        "5030",
+        "5841",
+        "7569"
       ],
       "roster_id": 4,
       "settings": {
@@ -26290,7 +26294,7 @@
       "starters": [
         "6770",
         "8150",
-        "12489",
+        "0",
         "12536",
         "11631",
         "5846",
@@ -26310,7 +26314,7 @@
         "10927",
         "5341",
         "6784",
-        "5841",
+        "5944",
         "10935"
       ],
       "taxi": [
@@ -26432,12 +26436,12 @@
         "3294",
         "9511",
         "7594",
-        "11628",
+        "13298",
         "11610",
         "13279",
         "12506",
-        "13298",
-        "11630",
+        "11628",
+        "12502",
         "11370",
         "8676",
         "421",
@@ -27187,8 +27191,8 @@
         "6786"
       ],
       "reserve": [
+        "11842",
         "12568",
-        "5849",
         "6818",
         "6819"
       ],
@@ -27210,17 +27214,17 @@
       },
       "starters": [
         "3163",
-        "3198",
+        "5892",
         "9509",
         "7564",
         "12526",
         "5872",
         "8110",
         "13287",
-        "5892",
+        "3198",
         "13286",
         "6786",
-        "3161",
+        "5849",
         "7635",
         "11669",
         "5862",
@@ -28307,8 +28311,8 @@
       },
       "lineups": {
         "future": {
-          "average": 78.8,
-          "bench_value": 1806.4,
+          "average": 78.7,
+          "bench_value": 1807.8,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
@@ -28433,10 +28437,10 @@
               "slot": "SUPER_FLEX"
             },
             {
-              "full_name": "Roman Wilson",
-              "player_id": "11630",
-              "position": "WR",
-              "score": 88.0,
+              "full_name": "Gunnar Helm",
+              "player_id": "12502",
+              "position": "TE",
+              "score": 86.1,
               "slot": "FLEX"
             },
             {
@@ -28454,10 +28458,10 @@
               "slot": "FLEX"
             },
             {
-              "full_name": "Rashid Shaheed",
-              "player_id": "8676",
+              "full_name": "Roman Wilson",
+              "player_id": "11630",
               "position": "WR",
-              "score": 67.5,
+              "score": 68.0,
               "slot": "FLEX"
             },
             {
@@ -28482,11 +28486,11 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1890.7
+          "total": 1889.3
         },
         "win_now": {
-          "average": 78.6,
-          "bench_value": 1576.3,
+          "average": 78.5,
+          "bench_value": 1579.0,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -28499,10 +28503,10 @@
               "slot": "QB"
             },
             {
-              "full_name": "Harold Fannin",
-              "player_id": "12506",
+              "full_name": "Gunnar Helm",
+              "player_id": "12502",
               "position": "TE",
-              "score": 82.7,
+              "score": 85.1,
               "slot": "TE"
             },
             {
@@ -28534,10 +28538,10 @@
               "slot": "WR"
             },
             {
-              "full_name": "Roman Wilson",
-              "player_id": "11630",
+              "full_name": "Carnell Tate",
+              "player_id": "13279",
               "position": "WR",
-              "score": 90.0,
+              "score": 88.2,
               "slot": "WR"
             },
             {
@@ -28604,17 +28608,17 @@
               "slot": "DB"
             },
             {
-              "full_name": "Carnell Tate",
-              "player_id": "13279",
-              "position": "WR",
-              "score": 88.2,
-              "slot": "SUPER_FLEX"
-            },
-            {
               "full_name": "KC Concepcion",
               "player_id": "13298",
               "position": "WR",
               "score": 85.2,
+              "slot": "SUPER_FLEX"
+            },
+            {
+              "full_name": "Harold Fannin",
+              "player_id": "12506",
+              "position": "TE",
+              "score": 82.7,
               "slot": "FLEX"
             },
             {
@@ -28632,10 +28636,10 @@
               "slot": "FLEX"
             },
             {
-              "full_name": "Demond Claiborne",
-              "player_id": "13347",
-              "position": "RB",
-              "score": 59.8,
+              "full_name": "Roman Wilson",
+              "player_id": "11630",
+              "position": "WR",
+              "score": 62.0,
               "slot": "FLEX"
             },
             {
@@ -28660,7 +28664,7 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1886.1
+          "total": 1883.4
         }
       },
       "positions": {
@@ -28695,26 +28699,26 @@
           "rebuild_top": 275.3
         },
         "TE": {
-          "contender_top": 239.6,
+          "contender_top": 267.6,
           "count": 10,
-          "market": 467.5,
-          "rebuild_top": 279.6
+          "market": 487.5,
+          "rebuild_top": 299.6
         },
         "WR": {
-          "contender_top": 366.0,
+          "contender_top": 361.2,
           "count": 16,
-          "market": 895.7,
+          "market": 875.7,
           "rebuild_top": 380.2
         }
       },
       "power_rank": 2,
       "roster_id": 5,
       "scores": {
-        "future": 78.8,
-        "liquidity": 69.8,
+        "future": 78.7,
+        "liquidity": 69.7,
         "market_total": 3359.1,
         "risk": 31.6,
-        "win_now": 78.6
+        "win_now": 78.5
       },
       "team_name": null,
       "window": "contender"
@@ -31702,17 +31706,17 @@
       },
       "lineups": {
         "future": {
-          "average": 73.4,
-          "bench_value": 1568.3,
+          "average": 73.7,
+          "bench_value": 1567.7,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
           "slots": [
             {
-              "full_name": "Jared Goff",
-              "player_id": "3163",
+              "full_name": "Kyler Murray",
+              "player_id": "5849",
               "position": "QB",
-              "score": 72.9,
+              "score": 79.5,
               "slot": "QB"
             },
             {
@@ -31877,11 +31881,11 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1762.6
+          "total": 1769.2
         },
         "win_now": {
-          "average": 76.3,
-          "bench_value": 1550.9,
+          "average": 76.5,
+          "bench_value": 1555.3,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -31999,10 +32003,10 @@
               "slot": "DB"
             },
             {
-              "full_name": "Carson Wentz",
-              "player_id": "3161",
+              "full_name": "Kyler Murray",
+              "player_id": "5849",
               "position": "QB",
-              "score": 86.3,
+              "score": 90.0,
               "slot": "SUPER_FLEX"
             },
             {
@@ -32055,7 +32059,7 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1832.0
+          "total": 1835.7
         }
       },
       "positions": {
@@ -32078,15 +32082,15 @@
           "rebuild_top": 293.6
         },
         "QB": {
-          "contender_top": 314.8,
+          "contender_top": 318.5,
           "count": 6,
           "market": 409.4,
-          "rebuild_top": 259.2
+          "rebuild_top": 267.0
         },
         "RB": {
           "contender_top": 319.0,
           "count": 9,
-          "market": 444.2,
+          "market": 450.2,
           "rebuild_top": 322.7
         },
         "TE": {
@@ -32105,11 +32109,11 @@
       "power_rank": 8,
       "roster_id": 11,
       "scores": {
-        "future": 73.4,
+        "future": 73.7,
         "liquidity": 67.2,
-        "market_total": 3250.4,
+        "market_total": 3256.4,
         "risk": 34.5,
-        "win_now": 76.3
+        "win_now": 76.5
       },
       "team_name": null,
       "window": "contender"
@@ -32298,7 +32302,7 @@
       "lineups": {
         "future": {
           "average": 72.7,
-          "bench_value": 1604.4,
+          "bench_value": 1584.4,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
@@ -32475,8 +32479,8 @@
           "total": 1744.0
         },
         "win_now": {
-          "average": 75.9,
-          "bench_value": 1445.1,
+          "average": 75.8,
+          "bench_value": 1417.6,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -32643,14 +32647,14 @@
               "slot": "IDP_FLEX"
             },
             {
-              "full_name": "Ed Oliver",
-              "player_id": "5841",
-              "position": "DL",
-              "score": 59.0,
+              "full_name": "Bobby Okereke",
+              "player_id": "5944",
+              "position": "LB",
+              "score": 58.5,
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1820.6
+          "total": 1820.1
         }
       },
       "positions": {
@@ -32663,13 +32667,13 @@
         "DL": {
           "contender_top": 281.0,
           "count": 10,
-          "market": 508.7,
+          "market": 488.7,
           "rebuild_top": 252.5
         },
         "LB": {
           "contender_top": 286.0,
           "count": 8,
-          "market": 375.6,
+          "market": 395.6,
           "rebuild_top": 242.0
         },
         "QB": {
@@ -32679,10 +32683,10 @@
           "rebuild_top": 313.7
         },
         "RB": {
-          "contender_top": 274.5,
+          "contender_top": 270.8,
           "count": 7,
-          "market": 382.3,
-          "rebuild_top": 276.8
+          "market": 362.3,
+          "rebuild_top": 266.8
         },
         "TE": {
           "contender_top": 202.3,
@@ -32701,10 +32705,10 @@
       "roster_id": 4,
       "scores": {
         "future": 72.7,
-        "liquidity": 65.3,
-        "market_total": 3123.4,
+        "liquidity": 65.1,
+        "market_total": 3103.4,
         "risk": 32.1,
-        "win_now": 75.9
+        "win_now": 75.8
       },
       "team_name": "Dirty's Devils",
       "window": "contender"
@@ -36303,7 +36307,7 @@
           "active": true,
           "age": 23,
           "age_bucket": "young",
-          "depth_chart_order": 7,
+          "depth_chart_order": 6,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -38506,7 +38510,7 @@
             "active": true,
             "age": 23,
             "age_bucket": "young",
-            "depth_chart_order": 7,
+            "depth_chart_order": 6,
             "depth_chart_position": "TE",
             "fantasy_positions": [
               "TE"
@@ -48331,7 +48335,7 @@
           "injury_body_part": "Knee",
           "injury_notes": null,
           "injury_status": "Out",
-          "is_reserve": false,
+          "is_reserve": true,
           "is_starter": false,
           "is_taxi": false,
           "last_name": "Njoku",
@@ -49814,8 +49818,8 @@
           "injury_body_part": "Hamstring",
           "injury_notes": null,
           "injury_status": "Out",
-          "is_reserve": false,
-          "is_starter": true,
+          "is_reserve": true,
+          "is_starter": false,
           "is_taxi": false,
           "last_name": "Harvey",
           "normalized_position": "RB",
@@ -49826,12 +49830,12 @@
           "status": "Active",
           "team": "DEN",
           "value": {
-            "confidence": 70.0,
-            "contender": 60.0,
+            "confidence": 55.0,
+            "contender": 32.0,
             "liquidity": 85.1,
-            "market": 55.5,
+            "market": 35.5,
             "player_id": "12489",
-            "rebuild": 61.5,
+            "rebuild": 41.5,
             "risk": 50.0,
             "source": "heuristic-v0.2"
           },
@@ -49889,7 +49893,7 @@
           "injury_notes": null,
           "injury_status": null,
           "is_reserve": false,
-          "is_starter": false,
+          "is_starter": true,
           "is_taxi": false,
           "last_name": "Okereke",
           "normalized_position": "LB",
@@ -49900,12 +49904,12 @@
           "status": "Active",
           "team": "CAR",
           "value": {
-            "confidence": 55.0,
-            "contender": 30.5,
+            "confidence": 70.0,
+            "contender": 58.5,
             "liquidity": 48.9,
-            "market": 30.5,
+            "market": 50.5,
             "player_id": "5944",
-            "rebuild": 21.5,
+            "rebuild": 41.5,
             "risk": 48.0,
             "source": "heuristic-v0.2"
           },
@@ -49925,7 +49929,7 @@
           "injury_body_part": "Hamstring",
           "injury_notes": "Strain",
           "injury_status": "Out",
-          "is_reserve": false,
+          "is_reserve": true,
           "is_starter": false,
           "is_taxi": false,
           "last_name": "Collins",
@@ -50295,8 +50299,8 @@
           "injury_body_part": "Hip",
           "injury_notes": null,
           "injury_status": "Out",
-          "is_reserve": false,
-          "is_starter": true,
+          "is_reserve": true,
+          "is_starter": false,
           "is_taxi": false,
           "last_name": "Oliver",
           "normalized_position": "DL",
@@ -50307,12 +50311,12 @@
           "status": "Active",
           "team": "BUF",
           "value": {
-            "confidence": 70.0,
-            "contender": 59.0,
+            "confidence": 55.0,
+            "contender": 31.0,
             "liquidity": 47.0,
-            "market": 54.5,
+            "market": 34.5,
             "player_id": "5841",
-            "rebuild": 51.5,
+            "rebuild": 31.5,
             "risk": 40.0,
             "source": "heuristic-v0.2"
           },
@@ -50962,43 +50966,6 @@
             "fantasy_positions": [
               "DL"
             ],
-            "first_name": "Ed",
-            "full_name": "Ed Oliver",
-            "injury_body_part": "Hip",
-            "injury_notes": null,
-            "injury_status": "Out",
-            "is_reserve": false,
-            "is_starter": true,
-            "is_taxi": false,
-            "last_name": "Oliver",
-            "normalized_position": "DL",
-            "number": 91,
-            "player_id": "5841",
-            "position": "DT",
-            "search_full_name": "edoliver",
-            "status": "Active",
-            "team": "BUF",
-            "value": {
-              "confidence": 70.0,
-              "contender": 59.0,
-              "liquidity": 47.0,
-              "market": 54.5,
-              "player_id": "5841",
-              "rebuild": 51.5,
-              "risk": 40.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 7
-          },
-          {
-            "active": true,
-            "age": 28,
-            "age_bucket": "prime",
-            "depth_chart_order": 1,
-            "depth_chart_position": "RDE",
-            "fantasy_positions": [
-              "DL"
-            ],
             "first_name": "Quinnen",
             "full_name": "Quinnen Williams",
             "injury_body_part": null,
@@ -51248,6 +51215,43 @@
               "source": "heuristic-v0.2"
             },
             "years_exp": 0
+          },
+          {
+            "active": true,
+            "age": 28,
+            "age_bucket": "prime",
+            "depth_chart_order": 1,
+            "depth_chart_position": "RDE",
+            "fantasy_positions": [
+              "DL"
+            ],
+            "first_name": "Ed",
+            "full_name": "Ed Oliver",
+            "injury_body_part": "Hip",
+            "injury_notes": null,
+            "injury_status": "Out",
+            "is_reserve": true,
+            "is_starter": false,
+            "is_taxi": false,
+            "last_name": "Oliver",
+            "normalized_position": "DL",
+            "number": 91,
+            "player_id": "5841",
+            "position": "DT",
+            "search_full_name": "edoliver",
+            "status": "Active",
+            "team": "BUF",
+            "value": {
+              "confidence": 55.0,
+              "contender": 31.0,
+              "liquidity": 47.0,
+              "market": 34.5,
+              "player_id": "5841",
+              "rebuild": 31.5,
+              "risk": 40.0,
+              "source": "heuristic-v0.2"
+            },
+            "years_exp": 7
           }
         ],
         "LB": [
@@ -51365,6 +51369,43 @@
           },
           {
             "active": true,
+            "age": 30,
+            "age_bucket": "veteran",
+            "depth_chart_order": 3,
+            "depth_chart_position": "LILB",
+            "fantasy_positions": [
+              "LB"
+            ],
+            "first_name": "Bobby",
+            "full_name": "Bobby Okereke",
+            "injury_body_part": null,
+            "injury_notes": null,
+            "injury_status": null,
+            "is_reserve": false,
+            "is_starter": true,
+            "is_taxi": false,
+            "last_name": "Okereke",
+            "normalized_position": "LB",
+            "number": 58,
+            "player_id": "5944",
+            "position": "LB",
+            "search_full_name": "bobbyokereke",
+            "status": "Active",
+            "team": "CAR",
+            "value": {
+              "confidence": 70.0,
+              "contender": 58.5,
+              "liquidity": 48.9,
+              "market": 50.5,
+              "player_id": "5944",
+              "rebuild": 41.5,
+              "risk": 48.0,
+              "source": "heuristic-v0.2"
+            },
+            "years_exp": 7
+          },
+          {
+            "active": true,
             "age": 31,
             "age_bucket": "veteran",
             "depth_chart_order": 1,
@@ -51436,43 +51477,6 @@
               "source": "heuristic-v0.2"
             },
             "years_exp": 1
-          },
-          {
-            "active": true,
-            "age": 30,
-            "age_bucket": "veteran",
-            "depth_chart_order": 3,
-            "depth_chart_position": "LILB",
-            "fantasy_positions": [
-              "LB"
-            ],
-            "first_name": "Bobby",
-            "full_name": "Bobby Okereke",
-            "injury_body_part": null,
-            "injury_notes": null,
-            "injury_status": null,
-            "is_reserve": false,
-            "is_starter": false,
-            "is_taxi": false,
-            "last_name": "Okereke",
-            "normalized_position": "LB",
-            "number": 58,
-            "player_id": "5944",
-            "position": "LB",
-            "search_full_name": "bobbyokereke",
-            "status": "Active",
-            "team": "CAR",
-            "value": {
-              "confidence": 55.0,
-              "contender": 30.5,
-              "liquidity": 48.9,
-              "market": 30.5,
-              "player_id": "5944",
-              "rebuild": 21.5,
-              "risk": 48.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 7
           },
           {
             "active": true,
@@ -51777,43 +51781,6 @@
           },
           {
             "active": true,
-            "age": 25,
-            "age_bucket": "prime",
-            "depth_chart_order": 2,
-            "depth_chart_position": "RB",
-            "fantasy_positions": [
-              "RB"
-            ],
-            "first_name": "RJ",
-            "full_name": "RJ Harvey",
-            "injury_body_part": "Hamstring",
-            "injury_notes": null,
-            "injury_status": "Out",
-            "is_reserve": false,
-            "is_starter": true,
-            "is_taxi": false,
-            "last_name": "Harvey",
-            "normalized_position": "RB",
-            "number": 12,
-            "player_id": "12489",
-            "position": "RB",
-            "search_full_name": "rjharvey",
-            "status": "Active",
-            "team": "DEN",
-            "value": {
-              "confidence": 70.0,
-              "contender": 60.0,
-              "liquidity": 85.1,
-              "market": 55.5,
-              "player_id": "12489",
-              "rebuild": 61.5,
-              "risk": 50.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 1
-          },
-          {
-            "active": true,
             "age": 26,
             "age_bucket": "prime",
             "depth_chart_order": 1,
@@ -51919,6 +51886,43 @@
               "player_id": "12457",
               "rebuild": 71.3,
               "risk": 34.0,
+              "source": "heuristic-v0.2"
+            },
+            "years_exp": 1
+          },
+          {
+            "active": true,
+            "age": 25,
+            "age_bucket": "prime",
+            "depth_chart_order": 2,
+            "depth_chart_position": "RB",
+            "fantasy_positions": [
+              "RB"
+            ],
+            "first_name": "RJ",
+            "full_name": "RJ Harvey",
+            "injury_body_part": "Hamstring",
+            "injury_notes": null,
+            "injury_status": "Out",
+            "is_reserve": true,
+            "is_starter": false,
+            "is_taxi": false,
+            "last_name": "Harvey",
+            "normalized_position": "RB",
+            "number": 12,
+            "player_id": "12489",
+            "position": "RB",
+            "search_full_name": "rjharvey",
+            "status": "Active",
+            "team": "DEN",
+            "value": {
+              "confidence": 55.0,
+              "contender": 32.0,
+              "liquidity": 85.1,
+              "market": 35.5,
+              "player_id": "12489",
+              "rebuild": 41.5,
+              "risk": 50.0,
               "source": "heuristic-v0.2"
             },
             "years_exp": 1
@@ -52124,7 +52128,7 @@
             "injury_body_part": "Knee",
             "injury_notes": null,
             "injury_status": "Out",
-            "is_reserve": false,
+            "is_reserve": true,
             "is_starter": false,
             "is_taxi": false,
             "last_name": "Njoku",
@@ -52459,7 +52463,7 @@
             "injury_body_part": "Hamstring",
             "injury_notes": "Strain",
             "injury_status": "Out",
-            "is_reserve": false,
+            "is_reserve": true,
             "is_starter": false,
             "is_taxi": false,
             "last_name": "Collins",
@@ -52522,7 +52526,11 @@
         ]
       },
       "reserve_ids": [
-        "5030"
+        "12489",
+        "4033",
+        "5030",
+        "5841",
+        "7569"
       ],
       "roster_id": 4,
       "settings": {
@@ -52543,7 +52551,7 @@
       "starter_ids": [
         "6770",
         "8150",
-        "12489",
+        "0",
         "12536",
         "11631",
         "5846",
@@ -52563,7 +52571,7 @@
         "10927",
         "5341",
         "6784",
-        "5841",
+        "5944",
         "10935"
       ],
       "taxi_ids": [
@@ -53631,7 +53639,7 @@
           "injury_notes": null,
           "injury_status": null,
           "is_reserve": false,
-          "is_starter": false,
+          "is_starter": true,
           "is_taxi": false,
           "last_name": "Helm",
           "normalized_position": "TE",
@@ -53642,12 +53650,12 @@
           "status": "Active",
           "team": "TEN",
           "value": {
-            "confidence": 55.0,
-            "contender": 57.1,
+            "confidence": 70.0,
+            "contender": 85.1,
             "liquidity": 71.2,
-            "market": 57.1,
+            "market": 77.1,
             "player_id": "12502",
-            "rebuild": 66.1,
+            "rebuild": 86.1,
             "risk": 24.0,
             "source": "heuristic-v0.2"
           },
@@ -54371,7 +54379,7 @@
           "injury_notes": null,
           "injury_status": null,
           "is_reserve": false,
-          "is_starter": true,
+          "is_starter": false,
           "is_taxi": false,
           "last_name": "Wilson",
           "normalized_position": "WR",
@@ -54382,12 +54390,12 @@
           "status": "Active",
           "team": "PIT",
           "value": {
-            "confidence": 70.0,
-            "contender": 90.0,
+            "confidence": 55.0,
+            "contender": 62.0,
             "liquidity": 90.1,
-            "market": 82.0,
+            "market": 62.0,
             "player_id": "11630",
-            "rebuild": 88.0,
+            "rebuild": 68.0,
             "risk": 24.0,
             "source": "heuristic-v0.2"
           },
@@ -56484,6 +56492,43 @@
           },
           {
             "active": true,
+            "age": 24,
+            "age_bucket": "young",
+            "depth_chart_order": 1,
+            "depth_chart_position": "TE",
+            "fantasy_positions": [
+              "TE"
+            ],
+            "first_name": "Gunnar",
+            "full_name": "Gunnar Helm",
+            "injury_body_part": null,
+            "injury_notes": null,
+            "injury_status": null,
+            "is_reserve": false,
+            "is_starter": true,
+            "is_taxi": false,
+            "last_name": "Helm",
+            "normalized_position": "TE",
+            "number": 84,
+            "player_id": "12502",
+            "position": "TE",
+            "search_full_name": "gunnarhelm",
+            "status": "Active",
+            "team": "TEN",
+            "value": {
+              "confidence": 70.0,
+              "contender": 85.1,
+              "liquidity": 71.2,
+              "market": 77.1,
+              "player_id": "12502",
+              "rebuild": 86.1,
+              "risk": 24.0,
+              "source": "heuristic-v0.2"
+            },
+            "years_exp": 1
+          },
+          {
+            "active": true,
             "age": 22,
             "age_bucket": "young",
             "depth_chart_order": 4,
@@ -56592,43 +56637,6 @@
               "source": "heuristic-v0.2"
             },
             "years_exp": 0
-          },
-          {
-            "active": true,
-            "age": 24,
-            "age_bucket": "young",
-            "depth_chart_order": 1,
-            "depth_chart_position": "TE",
-            "fantasy_positions": [
-              "TE"
-            ],
-            "first_name": "Gunnar",
-            "full_name": "Gunnar Helm",
-            "injury_body_part": null,
-            "injury_notes": null,
-            "injury_status": null,
-            "is_reserve": false,
-            "is_starter": false,
-            "is_taxi": false,
-            "last_name": "Helm",
-            "normalized_position": "TE",
-            "number": 84,
-            "player_id": "12502",
-            "position": "TE",
-            "search_full_name": "gunnarhelm",
-            "status": "Active",
-            "team": "TEN",
-            "value": {
-              "confidence": 55.0,
-              "contender": 57.1,
-              "liquidity": 71.2,
-              "market": 57.1,
-              "player_id": "12502",
-              "rebuild": 66.1,
-              "risk": 24.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 1
           },
           {
             "active": true,
@@ -56960,43 +56968,6 @@
               "market": 88.0,
               "player_id": "11610",
               "rebuild": 94.0,
-              "risk": 24.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 2
-          },
-          {
-            "active": true,
-            "age": 25,
-            "age_bucket": "prime",
-            "depth_chart_order": 3,
-            "depth_chart_position": "SWR",
-            "fantasy_positions": [
-              "WR"
-            ],
-            "first_name": "Roman",
-            "full_name": "Roman Wilson",
-            "injury_body_part": null,
-            "injury_notes": null,
-            "injury_status": null,
-            "is_reserve": false,
-            "is_starter": true,
-            "is_taxi": false,
-            "last_name": "Wilson",
-            "normalized_position": "WR",
-            "number": 14,
-            "player_id": "11630",
-            "position": "WR",
-            "search_full_name": "romanwilson",
-            "status": "Active",
-            "team": "PIT",
-            "value": {
-              "confidence": 70.0,
-              "contender": 90.0,
-              "liquidity": 90.1,
-              "market": 82.0,
-              "player_id": "11630",
-              "rebuild": 88.0,
               "risk": 24.0,
               "source": "heuristic-v0.2"
             },
@@ -57337,6 +57308,43 @@
           },
           {
             "active": true,
+            "age": 25,
+            "age_bucket": "prime",
+            "depth_chart_order": 3,
+            "depth_chart_position": "SWR",
+            "fantasy_positions": [
+              "WR"
+            ],
+            "first_name": "Roman",
+            "full_name": "Roman Wilson",
+            "injury_body_part": null,
+            "injury_notes": null,
+            "injury_status": null,
+            "is_reserve": false,
+            "is_starter": false,
+            "is_taxi": false,
+            "last_name": "Wilson",
+            "normalized_position": "WR",
+            "number": 14,
+            "player_id": "11630",
+            "position": "WR",
+            "search_full_name": "romanwilson",
+            "status": "Active",
+            "team": "PIT",
+            "value": {
+              "confidence": 55.0,
+              "contender": 62.0,
+              "liquidity": 90.1,
+              "market": 62.0,
+              "player_id": "11630",
+              "rebuild": 68.0,
+              "risk": 24.0,
+              "source": "heuristic-v0.2"
+            },
+            "years_exp": 2
+          },
+          {
+            "active": true,
             "age": 26,
             "age_bucket": "prime",
             "depth_chart_order": 9,
@@ -57441,12 +57449,12 @@
         "3294",
         "9511",
         "7594",
-        "11628",
+        "13298",
         "11610",
         "13279",
         "12506",
-        "13298",
-        "11630",
+        "11628",
+        "12502",
         "11370",
         "8676",
         "421",
@@ -80205,8 +80213,8 @@
           "injury_body_part": "Concussion",
           "injury_notes": null,
           "injury_status": "Out",
-          "is_reserve": true,
-          "is_starter": false,
+          "is_reserve": false,
+          "is_starter": true,
           "is_taxi": false,
           "last_name": "Murray",
           "normalized_position": "QB",
@@ -80217,12 +80225,12 @@
           "status": "Active",
           "team": "MIN",
           "value": {
-            "confidence": 55.0,
-            "contender": 62.0,
+            "confidence": 70.0,
+            "contender": 90.0,
             "liquidity": 75.9,
-            "market": 65.5,
+            "market": 85.5,
             "player_id": "5849",
-            "rebuild": 59.5,
+            "rebuild": 79.5,
             "risk": 34.0,
             "source": "heuristic-v0.2"
           },
@@ -80316,7 +80324,7 @@
           "injury_body_part": "Coach's Decision",
           "injury_notes": null,
           "injury_status": "Out",
-          "is_reserve": false,
+          "is_reserve": true,
           "is_starter": false,
           "is_taxi": false,
           "last_name": "Bethune",
@@ -80615,7 +80623,7 @@
           "injury_notes": null,
           "injury_status": null,
           "is_reserve": false,
-          "is_starter": true,
+          "is_starter": false,
           "is_taxi": false,
           "last_name": "Wentz",
           "normalized_position": "QB",
@@ -80626,12 +80634,12 @@
           "status": "Active",
           "team": "MIN",
           "value": {
-            "confidence": 70.0,
-            "contender": 86.3,
+            "confidence": 55.0,
+            "contender": 58.3,
             "liquidity": 71.7,
-            "market": 78.3,
+            "market": 58.3,
             "player_id": "3161",
-            "rebuild": 60.3,
+            "rebuild": 40.3,
             "risk": 42.0,
             "source": "heuristic-v0.2"
           },
@@ -81504,7 +81512,7 @@
           "full_name": "Rico Dowdle",
           "injury_body_part": "Toe",
           "injury_notes": null,
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "is_reserve": false,
           "is_starter": false,
           "is_taxi": false,
@@ -81518,12 +81526,12 @@
           "team": "PIT",
           "value": {
             "confidence": 55.0,
-            "contender": 20.0,
+            "contender": 28.1,
             "liquidity": 82.0,
-            "market": 23.5,
+            "market": 29.5,
             "player_id": "7021",
-            "rebuild": 15.5,
-            "risk": 68.0,
+            "rebuild": 21.5,
+            "risk": 62.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 6
@@ -83329,7 +83337,7 @@
             "injury_body_part": "Coach's Decision",
             "injury_notes": null,
             "injury_status": "Out",
-            "is_reserve": false,
+            "is_reserve": true,
             "is_starter": false,
             "is_taxi": false,
             "last_name": "Bethune",
@@ -83431,6 +83439,43 @@
         "QB": [
           {
             "active": true,
+            "age": 29,
+            "age_bucket": "veteran",
+            "depth_chart_order": 1,
+            "depth_chart_position": "QB",
+            "fantasy_positions": [
+              "QB"
+            ],
+            "first_name": "Kyler",
+            "full_name": "Kyler Murray",
+            "injury_body_part": "Concussion",
+            "injury_notes": null,
+            "injury_status": "Out",
+            "is_reserve": false,
+            "is_starter": true,
+            "is_taxi": false,
+            "last_name": "Murray",
+            "normalized_position": "QB",
+            "number": 1,
+            "player_id": "5849",
+            "position": "QB",
+            "search_full_name": "kylermurray",
+            "status": "Active",
+            "team": "MIN",
+            "value": {
+              "confidence": 70.0,
+              "contender": 90.0,
+              "liquidity": 75.9,
+              "market": 85.5,
+              "player_id": "5849",
+              "rebuild": 79.5,
+              "risk": 34.0,
+              "source": "heuristic-v0.2"
+            },
+            "years_exp": 7
+          },
+          {
+            "active": true,
             "age": 31,
             "age_bucket": "veteran",
             "depth_chart_order": 1,
@@ -83462,43 +83507,6 @@
               "player_id": "3163",
               "rebuild": 72.9,
               "risk": 30.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 10
-          },
-          {
-            "active": true,
-            "age": 33,
-            "age_bucket": "veteran",
-            "depth_chart_order": 2,
-            "depth_chart_position": "QB",
-            "fantasy_positions": [
-              "QB"
-            ],
-            "first_name": "Carson",
-            "full_name": "Carson Wentz",
-            "injury_body_part": null,
-            "injury_notes": null,
-            "injury_status": null,
-            "is_reserve": false,
-            "is_starter": true,
-            "is_taxi": false,
-            "last_name": "Wentz",
-            "normalized_position": "QB",
-            "number": 11,
-            "player_id": "3161",
-            "position": "QB",
-            "search_full_name": "carsonwentz",
-            "status": "Active",
-            "team": "MIN",
-            "value": {
-              "confidence": 70.0,
-              "contender": 86.3,
-              "liquidity": 71.7,
-              "market": 78.3,
-              "player_id": "3161",
-              "rebuild": 60.3,
-              "risk": 42.0,
               "source": "heuristic-v0.2"
             },
             "years_exp": 10
@@ -83542,43 +83550,6 @@
           },
           {
             "active": true,
-            "age": 29,
-            "age_bucket": "veteran",
-            "depth_chart_order": 1,
-            "depth_chart_position": "QB",
-            "fantasy_positions": [
-              "QB"
-            ],
-            "first_name": "Kyler",
-            "full_name": "Kyler Murray",
-            "injury_body_part": "Concussion",
-            "injury_notes": null,
-            "injury_status": "Out",
-            "is_reserve": true,
-            "is_starter": false,
-            "is_taxi": false,
-            "last_name": "Murray",
-            "normalized_position": "QB",
-            "number": 1,
-            "player_id": "5849",
-            "position": "QB",
-            "search_full_name": "kylermurray",
-            "status": "Active",
-            "team": "MIN",
-            "value": {
-              "confidence": 55.0,
-              "contender": 62.0,
-              "liquidity": 75.9,
-              "market": 65.5,
-              "player_id": "5849",
-              "rebuild": 59.5,
-              "risk": 34.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 7
-          },
-          {
-            "active": true,
             "age": 32,
             "age_bucket": "veteran",
             "depth_chart_order": 1,
@@ -83613,6 +83584,43 @@
               "source": "heuristic-v0.2"
             },
             "years_exp": 11
+          },
+          {
+            "active": true,
+            "age": 33,
+            "age_bucket": "veteran",
+            "depth_chart_order": 2,
+            "depth_chart_position": "QB",
+            "fantasy_positions": [
+              "QB"
+            ],
+            "first_name": "Carson",
+            "full_name": "Carson Wentz",
+            "injury_body_part": null,
+            "injury_notes": null,
+            "injury_status": null,
+            "is_reserve": false,
+            "is_starter": false,
+            "is_taxi": false,
+            "last_name": "Wentz",
+            "normalized_position": "QB",
+            "number": 11,
+            "player_id": "3161",
+            "position": "QB",
+            "search_full_name": "carsonwentz",
+            "status": "Active",
+            "team": "MIN",
+            "value": {
+              "confidence": 55.0,
+              "contender": 58.3,
+              "liquidity": 71.7,
+              "market": 58.3,
+              "player_id": "3161",
+              "rebuild": 40.3,
+              "risk": 42.0,
+              "source": "heuristic-v0.2"
+            },
+            "years_exp": 10
           },
           {
             "active": true,
@@ -83925,7 +83933,7 @@
             "full_name": "Rico Dowdle",
             "injury_body_part": "Toe",
             "injury_notes": null,
-            "injury_status": "Out",
+            "injury_status": "Questionable",
             "is_reserve": false,
             "is_starter": false,
             "is_taxi": false,
@@ -83939,12 +83947,12 @@
             "team": "PIT",
             "value": {
               "confidence": 55.0,
-              "contender": 20.0,
+              "contender": 28.1,
               "liquidity": 82.0,
-              "market": 23.5,
+              "market": 29.5,
               "player_id": "7021",
-              "rebuild": 15.5,
-              "risk": 68.0,
+              "rebuild": 21.5,
+              "risk": 62.0,
               "source": "heuristic-v0.2"
             },
             "years_exp": 6
@@ -84622,8 +84630,8 @@
         ]
       },
       "reserve_ids": [
+        "11842",
         "12568",
-        "5849",
         "6818",
         "6819"
       ],
@@ -84645,17 +84653,17 @@
       },
       "starter_ids": [
         "3163",
-        "3198",
+        "5892",
         "9509",
         "7564",
         "12526",
         "5872",
         "8110",
         "13287",
-        "5892",
+        "3198",
         "13286",
         "6786",
-        "3161",
+        "5849",
         "7635",
         "11669",
         "5862",
@@ -90296,6 +90304,19 @@
     {
       "buyer_name": "The Dawg Side",
       "buyer_roster_id": 6,
+      "contender_value": 58.5,
+      "estimated_fit_score": 67.6,
+      "player_id": "5944",
+      "player_name": "Bobby Okereke",
+      "position": "LB",
+      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
+      "rebuild_value": 41.5,
+      "seller_name": "Dirty's Devils",
+      "seller_roster_id": 4
+    },
+    {
+      "buyer_name": "The Dawg Side",
+      "buyer_roster_id": 6,
       "contender_value": 64.5,
       "estimated_fit_score": 67.6,
       "player_id": "5726",
@@ -90387,6 +90408,19 @@
     {
       "buyer_name": "Ravensburger Playmakers",
       "buyer_roster_id": 9,
+      "contender_value": 58.5,
+      "estimated_fit_score": 67.3,
+      "player_id": "5944",
+      "player_name": "Bobby Okereke",
+      "position": "LB",
+      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
+      "rebuild_value": 41.5,
+      "seller_name": "Dirty's Devils",
+      "seller_roster_id": 4
+    },
+    {
+      "buyer_name": "Ravensburger Playmakers",
+      "buyer_roster_id": 9,
       "contender_value": 64.5,
       "estimated_fit_score": 67.3,
       "player_id": "6214",
@@ -90467,32 +90501,6 @@
       "buyer_roster_id": 12,
       "contender_value": 71.5,
       "estimated_fit_score": 67.1,
-      "player_id": "5001",
-      "player_name": "Dalton Schultz",
-      "position": "TE",
-      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
-      "rebuild_value": 54.5,
-      "seller_name": "Springfield Wildcats",
-      "seller_roster_id": 3
-    },
-    {
-      "buyer_name": "Dirty's Devils",
-      "buyer_roster_id": 4,
-      "contender_value": 59.5,
-      "estimated_fit_score": 66.9,
-      "player_id": "4071",
-      "player_name": "Marlon Humphrey",
-      "position": "DB",
-      "reason": "Targets a weak DB group and may fit seller window 'contender'.",
-      "rebuild_value": 42.5,
-      "seller_name": "T’s Golden Browns",
-      "seller_roster_id": 1
-    },
-    {
-      "buyer_name": "Dirty's Devils",
-      "buyer_roster_id": 4,
-      "contender_value": 71.5,
-      "estimated_fit_score": 66.9,
       "player_id": "5001",
       "player_name": "Dalton Schultz",
       "position": "TE",
@@ -91598,6 +91606,19 @@
     {
       "buyer_name": "The Dawg Side",
       "buyer_roster_id": 6,
+      "contender_value": 58.5,
+      "estimated_fit_score": 67.6,
+      "player_id": "5944",
+      "player_name": "Bobby Okereke",
+      "position": "LB",
+      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
+      "rebuild_value": 41.5,
+      "seller_name": "Dirty's Devils",
+      "seller_roster_id": 4
+    },
+    {
+      "buyer_name": "The Dawg Side",
+      "buyer_roster_id": 6,
       "contender_value": 64.5,
       "estimated_fit_score": 67.6,
       "player_id": "5726",
@@ -91689,6 +91710,19 @@
     {
       "buyer_name": "Ravensburger Playmakers",
       "buyer_roster_id": 9,
+      "contender_value": 58.5,
+      "estimated_fit_score": 67.3,
+      "player_id": "5944",
+      "player_name": "Bobby Okereke",
+      "position": "LB",
+      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
+      "rebuild_value": 41.5,
+      "seller_name": "Dirty's Devils",
+      "seller_roster_id": 4
+    },
+    {
+      "buyer_name": "Ravensburger Playmakers",
+      "buyer_roster_id": 9,
       "contender_value": 64.5,
       "estimated_fit_score": 67.3,
       "player_id": "6214",
@@ -91769,32 +91803,6 @@
       "buyer_roster_id": 12,
       "contender_value": 71.5,
       "estimated_fit_score": 67.1,
-      "player_id": "5001",
-      "player_name": "Dalton Schultz",
-      "position": "TE",
-      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
-      "rebuild_value": 54.5,
-      "seller_name": "Springfield Wildcats",
-      "seller_roster_id": 3
-    },
-    {
-      "buyer_name": "Dirty's Devils",
-      "buyer_roster_id": 4,
-      "contender_value": 59.5,
-      "estimated_fit_score": 66.9,
-      "player_id": "4071",
-      "player_name": "Marlon Humphrey",
-      "position": "DB",
-      "reason": "Targets a weak DB group and may fit seller window 'contender'.",
-      "rebuild_value": 42.5,
-      "seller_name": "T’s Golden Browns",
-      "seller_roster_id": 1
-    },
-    {
-      "buyer_name": "Dirty's Devils",
-      "buyer_roster_id": 4,
-      "contender_value": 71.5,
-      "estimated_fit_score": 66.9,
       "player_id": "5001",
       "player_name": "Dalton Schultz",
       "position": "TE",
