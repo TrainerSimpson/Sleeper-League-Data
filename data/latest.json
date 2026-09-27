@@ -17051,7 +17051,7 @@
       "type": "snake"
     }
   ],
-  "generated_at": "2026-09-27T08:15:42.883636+00:00",
+  "generated_at": "2026-09-27T14:04:44.753232+00:00",
   "league": {
     "avatar": "7c15319eacc56bfdeb741f4b006ca693",
     "bracket_id": null,
@@ -23207,13 +23207,13 @@
         "roster_id": 9,
         "starters": [
           "6904",
-          "9508",
+          "7543",
           "12490",
           "7547",
           "7525",
           "5927",
           "10236",
-          "7543",
+          "11783",
           "8134",
           "7600",
           "9486",
@@ -26963,13 +26963,13 @@
       },
       "starters": [
         "6904",
-        "9508",
+        "7543",
         "12490",
         "7547",
         "7525",
         "5927",
         "10236",
-        "7543",
+        "11783",
         "8134",
         "7600",
         "9486",
@@ -30593,8 +30593,8 @@
       },
       "lineups": {
         "future": {
-          "average": 74.0,
-          "bench_value": 1570.7,
+          "average": 74.2,
+          "bench_value": 1566.2,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
@@ -30726,17 +30726,17 @@
               "slot": "FLEX"
             },
             {
+              "full_name": "Ryan Flournoy",
+              "player_id": "11783",
+              "position": "WR",
+              "score": 75.0,
+              "slot": "FLEX"
+            },
+            {
               "full_name": "Pat Freiermuth",
               "player_id": "7600",
               "position": "TE",
               "score": 72.5,
-              "slot": "FLEX"
-            },
-            {
-              "full_name": "Tyjae Spears",
-              "player_id": "9508",
-              "position": "RB",
-              "score": 70.5,
               "slot": "FLEX"
             },
             {
@@ -30768,11 +30768,11 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1777.2
+          "total": 1781.7
         },
         "win_now": {
-          "average": 77.3,
-          "bench_value": 1602.8,
+          "average": 77.7,
+          "bench_value": 1593.9,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -30799,10 +30799,10 @@
               "slot": "RB"
             },
             {
-              "full_name": "Tyjae Spears",
-              "player_id": "9508",
+              "full_name": "Travis Etienne",
+              "player_id": "7543",
               "position": "RB",
-              "score": 71.1,
+              "score": 69.5,
               "slot": "RB"
             },
             {
@@ -30911,17 +30911,17 @@
               "slot": "FLEX"
             },
             {
+              "full_name": "Ryan Flournoy",
+              "player_id": "11783",
+              "position": "WR",
+              "score": 80.0,
+              "slot": "FLEX"
+            },
+            {
               "full_name": "Terry McLaurin",
               "player_id": "5927",
               "position": "WR",
               "score": 72.5,
-              "slot": "FLEX"
-            },
-            {
-              "full_name": "Travis Etienne",
-              "player_id": "7543",
-              "position": "RB",
-              "score": 69.5,
               "slot": "FLEX"
             },
             {
@@ -30946,7 +30946,7 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1855.3
+          "total": 1864.2
         }
       },
       "positions": {
@@ -30975,10 +30975,10 @@
           "rebuild_top": 327.9
         },
         "RB": {
-          "contender_top": 296.9,
+          "contender_top": 275.8,
           "count": 8,
-          "market": 452.8,
-          "rebuild_top": 303.8
+          "market": 432.8,
+          "rebuild_top": 289.8
         },
         "TE": {
           "contender_top": 274.3,
@@ -30989,18 +30989,18 @@
         "WR": {
           "contender_top": 351.0,
           "count": 14,
-          "market": 764.8,
+          "market": 784.8,
           "rebuild_top": 331.0
         }
       },
       "power_rank": 6,
       "roster_id": 9,
       "scores": {
-        "future": 74.0,
+        "future": 74.2,
         "liquidity": 67.7,
         "market_total": 3299.9,
-        "risk": 32.4,
-        "win_now": 77.3
+        "risk": 32.3,
+        "win_now": 77.7
       },
       "team_name": "Ravensburger Playmakers",
       "window": "contender"
@@ -71471,7 +71471,7 @@
           "injury_notes": null,
           "injury_status": null,
           "is_reserve": false,
-          "is_starter": false,
+          "is_starter": true,
           "is_taxi": false,
           "last_name": "Flournoy",
           "normalized_position": "WR",
@@ -71482,12 +71482,12 @@
           "status": "Active",
           "team": "DAL",
           "value": {
-            "confidence": 55.0,
-            "contender": 52.0,
+            "confidence": 70.0,
+            "contender": 80.0,
             "liquidity": 89.0,
-            "market": 52.0,
+            "market": 72.0,
             "player_id": "11783",
-            "rebuild": 55.0,
+            "rebuild": 75.0,
             "risk": 24.0,
             "source": "heuristic-v0.2"
           },
@@ -71767,7 +71767,7 @@
           "injury_notes": "Soreness",
           "injury_status": "Questionable",
           "is_reserve": false,
-          "is_starter": true,
+          "is_starter": false,
           "is_taxi": false,
           "last_name": "Spears",
           "normalized_position": "RB",
@@ -71778,12 +71778,12 @@
           "status": "Active",
           "team": "TEN",
           "value": {
-            "confidence": 70.0,
-            "contender": 71.1,
+            "confidence": 55.0,
+            "contender": 43.1,
             "liquidity": 85.1,
-            "market": 64.5,
+            "market": 44.5,
             "player_id": "9508",
-            "rebuild": 70.5,
+            "rebuild": 50.5,
             "risk": 44.0,
             "source": "heuristic-v0.2"
           },
@@ -74551,43 +74551,6 @@
           },
           {
             "active": true,
-            "age": 25,
-            "age_bucket": "prime",
-            "depth_chart_order": 2,
-            "depth_chart_position": "RB",
-            "fantasy_positions": [
-              "RB"
-            ],
-            "first_name": "Tyjae",
-            "full_name": "Tyjae Spears",
-            "injury_body_part": "Undisclosed",
-            "injury_notes": "Soreness",
-            "injury_status": "Questionable",
-            "is_reserve": false,
-            "is_starter": true,
-            "is_taxi": false,
-            "last_name": "Spears",
-            "normalized_position": "RB",
-            "number": 2,
-            "player_id": "9508",
-            "position": "RB",
-            "search_full_name": "tyjaespears",
-            "status": "Active",
-            "team": "TEN",
-            "value": {
-              "confidence": 70.0,
-              "contender": 71.1,
-              "liquidity": 85.1,
-              "market": 64.5,
-              "player_id": "9508",
-              "rebuild": 70.5,
-              "risk": 44.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 3
-          },
-          {
-            "active": true,
             "age": 27,
             "age_bucket": "prime",
             "depth_chart_order": 1,
@@ -74733,6 +74696,43 @@
               "source": "heuristic-v0.2"
             },
             "years_exp": 2
+          },
+          {
+            "active": true,
+            "age": 25,
+            "age_bucket": "prime",
+            "depth_chart_order": 2,
+            "depth_chart_position": "RB",
+            "fantasy_positions": [
+              "RB"
+            ],
+            "first_name": "Tyjae",
+            "full_name": "Tyjae Spears",
+            "injury_body_part": "Undisclosed",
+            "injury_notes": "Soreness",
+            "injury_status": "Questionable",
+            "is_reserve": false,
+            "is_starter": false,
+            "is_taxi": false,
+            "last_name": "Spears",
+            "normalized_position": "RB",
+            "number": 2,
+            "player_id": "9508",
+            "position": "RB",
+            "search_full_name": "tyjaespears",
+            "status": "Active",
+            "team": "TEN",
+            "value": {
+              "confidence": 55.0,
+              "contender": 43.1,
+              "liquidity": 85.1,
+              "market": 44.5,
+              "player_id": "9508",
+              "rebuild": 50.5,
+              "risk": 44.0,
+              "source": "heuristic-v0.2"
+            },
+            "years_exp": 3
           },
           {
             "active": true,
@@ -75110,6 +75110,43 @@
           },
           {
             "active": true,
+            "age": 26,
+            "age_bucket": "prime",
+            "depth_chart_order": 3,
+            "depth_chart_position": "SWR",
+            "fantasy_positions": [
+              "WR"
+            ],
+            "first_name": "Ryan",
+            "full_name": "Ryan Flournoy",
+            "injury_body_part": null,
+            "injury_notes": null,
+            "injury_status": null,
+            "is_reserve": false,
+            "is_starter": true,
+            "is_taxi": false,
+            "last_name": "Flournoy",
+            "normalized_position": "WR",
+            "number": 19,
+            "player_id": "11783",
+            "position": "WR",
+            "search_full_name": "ryanflournoy",
+            "status": "Active",
+            "team": "DAL",
+            "value": {
+              "confidence": 70.0,
+              "contender": 80.0,
+              "liquidity": 89.0,
+              "market": 72.0,
+              "player_id": "11783",
+              "rebuild": 75.0,
+              "risk": 24.0,
+              "source": "heuristic-v0.2"
+            },
+            "years_exp": 2
+          },
+          {
+            "active": true,
             "age": 27,
             "age_bucket": "prime",
             "depth_chart_order": 1,
@@ -75369,43 +75406,6 @@
           },
           {
             "active": true,
-            "age": 26,
-            "age_bucket": "prime",
-            "depth_chart_order": 3,
-            "depth_chart_position": "SWR",
-            "fantasy_positions": [
-              "WR"
-            ],
-            "first_name": "Ryan",
-            "full_name": "Ryan Flournoy",
-            "injury_body_part": null,
-            "injury_notes": null,
-            "injury_status": null,
-            "is_reserve": false,
-            "is_starter": false,
-            "is_taxi": false,
-            "last_name": "Flournoy",
-            "normalized_position": "WR",
-            "number": 19,
-            "player_id": "11783",
-            "position": "WR",
-            "search_full_name": "ryanflournoy",
-            "status": "Active",
-            "team": "DAL",
-            "value": {
-              "confidence": 55.0,
-              "contender": 52.0,
-              "liquidity": 89.0,
-              "market": 52.0,
-              "player_id": "11783",
-              "rebuild": 55.0,
-              "risk": 24.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 2
-          },
-          {
-            "active": true,
             "age": 27,
             "age_bucket": "prime",
             "depth_chart_order": 3,
@@ -75542,13 +75542,13 @@
       },
       "starter_ids": [
         "6904",
-        "9508",
+        "7543",
         "12490",
         "7547",
         "7525",
         "5927",
         "10236",
-        "7543",
+        "11783",
         "8134",
         "7600",
         "9486",
