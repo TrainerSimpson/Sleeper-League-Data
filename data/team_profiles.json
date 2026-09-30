@@ -925,7 +925,7 @@
     "lineups": {
       "future": {
         "average": 78.7,
-        "bench_value": 1828.4,
+        "bench_value": 1825.4,
         "filled": 24,
         "metric": "rebuild",
         "required": 24,
@@ -1103,7 +1103,7 @@
       },
       "win_now": {
         "average": 78.4,
-        "bench_value": 1615.0,
+        "bench_value": 1612.0,
         "filled": 24,
         "metric": "contender",
         "required": 24,
@@ -1314,7 +1314,7 @@
       "TE": {
         "contender_top": 267.6,
         "count": 10,
-        "market": 483.5,
+        "market": 480.5,
         "rebuild_top": 299.6
       },
       "WR": {
@@ -1329,7 +1329,7 @@
     "scores": {
       "future": 78.7,
       "liquidity": 69.8,
-      "market_total": 3386.3,
+      "market_total": 3383.3,
       "risk": 31.5,
       "win_now": 78.4
     },
@@ -1484,17 +1484,17 @@
     },
     "lineups": {
       "future": {
-        "average": 78.2,
-        "bench_value": 1686.4,
+        "average": 78.1,
+        "bench_value": 1688.8,
         "filled": 24,
         "metric": "rebuild",
         "required": 24,
         "slots": [
           {
-            "full_name": "Cam Ward",
-            "player_id": "12522",
+            "full_name": "Jordan Love",
+            "player_id": "6804",
             "position": "QB",
-            "score": 95.5,
+            "score": 93.1,
             "slot": "QB"
           },
           {
@@ -1561,6 +1561,13 @@
             "slot": "DL"
           },
           {
+            "full_name": "Cedric Gray",
+            "player_id": "11742",
+            "position": "LB",
+            "score": 86.6,
+            "slot": "LB"
+          },
+          {
             "full_name": "David Bailey",
             "player_id": "13363",
             "position": "LB",
@@ -1572,13 +1579,6 @@
             "player_id": "10940",
             "position": "LB",
             "score": 83.3,
-            "slot": "LB"
-          },
-          {
-            "full_name": "Demetrius Knight",
-            "player_id": "12617",
-            "position": "LB",
-            "score": 68.5,
             "slot": "LB"
           },
           {
@@ -1610,13 +1610,6 @@
             "slot": "SUPER_FLEX"
           },
           {
-            "full_name": "Quentin Johnston",
-            "player_id": "9754",
-            "position": "WR",
-            "score": 92.5,
-            "slot": "FLEX"
-          },
-          {
             "full_name": "Makai Lemon",
             "player_id": "13294",
             "position": "WR",
@@ -1638,10 +1631,17 @@
             "slot": "FLEX"
           },
           {
-            "full_name": "Cedric Gray",
-            "player_id": "11742",
+            "full_name": "Quentin Johnston",
+            "player_id": "9754",
+            "position": "WR",
+            "score": 72.5,
+            "slot": "FLEX"
+          },
+          {
+            "full_name": "Demetrius Knight",
+            "player_id": "12617",
             "position": "LB",
-            "score": 66.6,
+            "score": 68.5,
             "slot": "IDP_FLEX"
           },
           {
@@ -1659,11 +1659,11 @@
             "slot": "IDP_FLEX"
           }
         ],
-        "total": 1876.7
+        "total": 1874.3
       },
       "win_now": {
-        "average": 78.0,
-        "bench_value": 1648.2,
+        "average": 77.7,
+        "bench_value": 1652.1,
         "filled": 24,
         "metric": "contender",
         "required": 24,
@@ -1704,17 +1704,17 @@
             "slot": "WR"
           },
           {
-            "full_name": "Quentin Johnston",
-            "player_id": "9754",
-            "position": "WR",
-            "score": 94.5,
-            "slot": "WR"
-          },
-          {
             "full_name": "Malik Nabers",
             "player_id": "11632",
             "position": "WR",
             "score": 93.6,
+            "slot": "WR"
+          },
+          {
+            "full_name": "Jordan Addison",
+            "player_id": "9756",
+            "position": "WR",
+            "score": 93.3,
             "slot": "WR"
           },
           {
@@ -1739,6 +1739,13 @@
             "slot": "DL"
           },
           {
+            "full_name": "Cedric Gray",
+            "player_id": "11742",
+            "position": "LB",
+            "score": 82.6,
+            "slot": "LB"
+          },
+          {
             "full_name": "Nick Herbig",
             "player_id": "10940",
             "position": "LB",
@@ -1750,13 +1757,6 @@
             "player_id": "13363",
             "position": "LB",
             "score": 79.6,
-            "slot": "LB"
-          },
-          {
-            "full_name": "Demetrius Knight",
-            "player_id": "12617",
-            "position": "LB",
-            "score": 73.5,
             "slot": "LB"
           },
           {
@@ -1781,18 +1781,11 @@
             "slot": "DB"
           },
           {
-            "full_name": "Cam Ward",
-            "player_id": "12522",
+            "full_name": "Daniel Jones",
+            "player_id": "5870",
             "position": "QB",
-            "score": 94.5,
+            "score": 100.0,
             "slot": "SUPER_FLEX"
-          },
-          {
-            "full_name": "Jordan Addison",
-            "player_id": "9756",
-            "position": "WR",
-            "score": 93.3,
-            "slot": "FLEX"
           },
           {
             "full_name": "Emeka Egbuka",
@@ -1816,6 +1809,20 @@
             "slot": "FLEX"
           },
           {
+            "full_name": "Quentin Johnston",
+            "player_id": "9754",
+            "position": "WR",
+            "score": 66.5,
+            "slot": "FLEX"
+          },
+          {
+            "full_name": "Demetrius Knight",
+            "player_id": "12617",
+            "position": "LB",
+            "score": 73.5,
+            "slot": "IDP_FLEX"
+          },
+          {
             "full_name": "Mack Wilson",
             "player_id": "6131",
             "position": "LB",
@@ -1828,16 +1835,9 @@
             "position": "LB",
             "score": 70.5,
             "slot": "IDP_FLEX"
-          },
-          {
-            "full_name": "Alex Highsmith",
-            "player_id": "7113",
-            "position": "LB",
-            "score": 67.5,
-            "slot": "IDP_FLEX"
           }
         ],
-        "total": 1871.9
+        "total": 1864.5
       }
     },
     "positions": {
@@ -1854,13 +1854,13 @@
         "rebuild_top": 247.1
       },
       "LB": {
-        "contender_top": 305.9,
+        "contender_top": 318.0,
         "count": 12,
         "market": 679.1,
-        "rebuild_top": 302.0
+        "rebuild_top": 322.0
       },
       "QB": {
-        "contender_top": 338.9,
+        "contender_top": 335.4,
         "count": 6,
         "market": 438.8,
         "rebuild_top": 330.0
@@ -1868,7 +1868,7 @@
       "RB": {
         "contender_top": 291.6,
         "count": 14,
-        "market": 687.6,
+        "market": 707.6,
         "rebuild_top": 326.6
       },
       "TE": {
@@ -1878,20 +1878,20 @@
         "rebuild_top": 286.5
       },
       "WR": {
-        "contender_top": 378.9,
+        "contender_top": 376.5,
         "count": 11,
-        "market": 705.5,
+        "market": 685.5,
         "rebuild_top": 383.5
       }
     },
     "power_rank": 3,
     "roster_id": 1,
     "scores": {
-      "future": 78.2,
-      "liquidity": 70.6,
+      "future": 78.1,
+      "liquidity": 70.5,
       "market_total": 3379.6,
-      "risk": 33.3,
-      "win_now": 78.0
+      "risk": 33.5,
+      "win_now": 77.7
     },
     "team_name": "T’s Golden Browns",
     "window": "contender"
@@ -2066,7 +2066,7 @@
     "lineups": {
       "future": {
         "average": 78.7,
-        "bench_value": 1776.9,
+        "bench_value": 1762.9,
         "filled": 24,
         "metric": "rebuild",
         "required": 24,
@@ -2244,7 +2244,7 @@
       },
       "win_now": {
         "average": 77.6,
-        "bench_value": 1670.2,
+        "bench_value": 1656.2,
         "filled": 24,
         "metric": "contender",
         "required": 24,
@@ -2455,13 +2455,13 @@
       "TE": {
         "contender_top": 304.9,
         "count": 6,
-        "market": 354.3,
+        "market": 346.3,
         "rebuild_top": 325.3
       },
       "WR": {
         "contender_top": 345.4,
         "count": 12,
-        "market": 633.7,
+        "market": 627.7,
         "rebuild_top": 340.0
       }
     },
@@ -2470,8 +2470,8 @@
     "scores": {
       "future": 78.7,
       "liquidity": 65.5,
-      "market_total": 3414.6,
-      "risk": 31.8,
+      "market_total": 3400.6,
+      "risk": 31.7,
       "win_now": 77.6
     },
     "team_name": "Kindergarten Cop",
@@ -3206,7 +3206,7 @@
     },
     "lineups": {
       "future": {
-        "average": 74.6,
+        "average": 74.5,
         "bench_value": 1473.8,
         "filled": 24,
         "metric": "rebuild",
@@ -3360,13 +3360,6 @@
             "slot": "FLEX"
           },
           {
-            "full_name": "Kool-Aid McKinstry",
-            "player_id": "11675",
-            "position": "DB",
-            "score": 61.6,
-            "slot": "IDP_FLEX"
-          },
-          {
             "full_name": "Calen Bullock",
             "player_id": "11710",
             "position": "DB",
@@ -3379,13 +3372,20 @@
             "position": "DL",
             "score": 60.2,
             "slot": "IDP_FLEX"
+          },
+          {
+            "full_name": "Kool-Aid McKinstry",
+            "player_id": "11675",
+            "position": "DB",
+            "score": 59.8,
+            "slot": "IDP_FLEX"
           }
         ],
-        "total": 1789.4
+        "total": 1787.6
       },
       "win_now": {
         "average": 77.3,
-        "bench_value": 1489.7,
+        "bench_value": 1490.9,
         "filled": 24,
         "metric": "contender",
         "required": 24,
@@ -3566,7 +3566,7 @@
       "DB": {
         "contender_top": 291.9,
         "count": 11,
-        "market": 541.4,
+        "market": 542.6,
         "rebuild_top": 288.0
       },
       "DL": {
@@ -3609,9 +3609,9 @@
     "power_rank": 6,
     "roster_id": 12,
     "scores": {
-      "future": 74.6,
+      "future": 74.5,
       "liquidity": 66.0,
-      "market_total": 3181.2,
+      "market_total": 3182.4,
       "risk": 33.3,
       "win_now": 77.3
     },
@@ -3781,7 +3781,7 @@
     "lineups": {
       "future": {
         "average": 73.3,
-        "bench_value": 1997.9,
+        "bench_value": 2000.8,
         "filled": 24,
         "metric": "rebuild",
         "required": 24,
@@ -3927,10 +3927,10 @@
             "slot": "FLEX"
           },
           {
-            "full_name": "Puka Nacua",
-            "player_id": "9493",
+            "full_name": "Malik Benson",
+            "player_id": "13329",
             "position": "WR",
-            "score": 65.5,
+            "score": 65.6,
             "slot": "FLEX"
           },
           {
@@ -3955,11 +3955,11 @@
             "slot": "IDP_FLEX"
           }
         ],
-        "total": 1759.4
+        "total": 1759.5
       },
       "win_now": {
         "average": 77.1,
-        "bench_value": 1831.3,
+        "bench_value": 1834.3,
         "filled": 24,
         "metric": "contender",
         "required": 24,
@@ -4176,7 +4176,7 @@
       "WR": {
         "contender_top": 364.3,
         "count": 15,
-        "market": 873.9,
+        "market": 876.9,
         "rebuild_top": 353.3
       }
     },
@@ -4185,7 +4185,7 @@
     "scores": {
       "future": 73.3,
       "liquidity": 69.6,
-      "market_total": 3573.3,
+      "market_total": 3576.3,
       "risk": 32.8,
       "win_now": 77.1
     },
@@ -4320,7 +4320,7 @@
     "lineups": {
       "future": {
         "average": 74.0,
-        "bench_value": 1450.0,
+        "bench_value": 1432.0,
         "filled": 24,
         "metric": "rebuild",
         "required": 24,
@@ -4498,7 +4498,7 @@
       },
       "win_now": {
         "average": 76.9,
-        "bench_value": 1413.1,
+        "bench_value": 1393.9,
         "filled": 24,
         "metric": "contender",
         "required": 24,
@@ -4685,13 +4685,13 @@
       "DL": {
         "contender_top": 247.8,
         "count": 7,
-        "market": 321.6,
+        "market": 309.6,
         "rebuild_top": 266.9
       },
       "LB": {
         "contender_top": 307.6,
         "count": 15,
-        "market": 782.2,
+        "market": 779.2,
         "rebuild_top": 293.6
       },
       "QB": {
@@ -4723,9 +4723,9 @@
     "roster_id": 11,
     "scores": {
       "future": 74.0,
-      "liquidity": 67.8,
-      "market_total": 3141.0,
-      "risk": 33.9,
+      "liquidity": 67.9,
+      "market_total": 3126.0,
+      "risk": 34.0,
       "win_now": 76.9
     },
     "team_name": null,
@@ -5908,580 +5908,6 @@
     "window": "contender"
   },
   {
-    "display_name": "DrSiggiLove",
-    "draft_capital": {
-      "future_firsts": 3,
-      "future_seconds": 3,
-      "inventory": {
-        "picks": [
-          {
-            "is_own_pick": false,
-            "original_roster_id": 12,
-            "owner_roster_id": 8,
-            "round": 20,
-            "season": 2026
-          },
-          {
-            "is_own_pick": false,
-            "original_roster_id": 12,
-            "owner_roster_id": 8,
-            "round": 29,
-            "season": 2026
-          },
-          {
-            "is_own_pick": true,
-            "original_roster_id": 8,
-            "owner_roster_id": 8,
-            "round": 1,
-            "season": 2027
-          },
-          {
-            "is_own_pick": true,
-            "original_roster_id": 8,
-            "owner_roster_id": 8,
-            "round": 2,
-            "season": 2027
-          },
-          {
-            "is_own_pick": true,
-            "original_roster_id": 8,
-            "owner_roster_id": 8,
-            "round": 3,
-            "season": 2027
-          },
-          {
-            "is_own_pick": false,
-            "original_roster_id": 12,
-            "owner_roster_id": 8,
-            "round": 3,
-            "season": 2027
-          },
-          {
-            "is_own_pick": true,
-            "original_roster_id": 8,
-            "owner_roster_id": 8,
-            "round": 4,
-            "season": 2027
-          },
-          {
-            "is_own_pick": true,
-            "original_roster_id": 8,
-            "owner_roster_id": 8,
-            "round": 5,
-            "season": 2027
-          },
-          {
-            "is_own_pick": true,
-            "original_roster_id": 8,
-            "owner_roster_id": 8,
-            "round": 1,
-            "season": 2028
-          },
-          {
-            "is_own_pick": true,
-            "original_roster_id": 8,
-            "owner_roster_id": 8,
-            "round": 2,
-            "season": 2028
-          },
-          {
-            "is_own_pick": true,
-            "original_roster_id": 8,
-            "owner_roster_id": 8,
-            "round": 3,
-            "season": 2028
-          },
-          {
-            "is_own_pick": true,
-            "original_roster_id": 8,
-            "owner_roster_id": 8,
-            "round": 4,
-            "season": 2028
-          },
-          {
-            "is_own_pick": true,
-            "original_roster_id": 8,
-            "owner_roster_id": 8,
-            "round": 5,
-            "season": 2028
-          },
-          {
-            "is_own_pick": true,
-            "original_roster_id": 8,
-            "owner_roster_id": 8,
-            "round": 1,
-            "season": 2029
-          },
-          {
-            "is_own_pick": true,
-            "original_roster_id": 8,
-            "owner_roster_id": 8,
-            "round": 2,
-            "season": 2029
-          },
-          {
-            "is_own_pick": true,
-            "original_roster_id": 8,
-            "owner_roster_id": 8,
-            "round": 3,
-            "season": 2029
-          },
-          {
-            "is_own_pick": true,
-            "original_roster_id": 8,
-            "owner_roster_id": 8,
-            "round": 4,
-            "season": 2029
-          },
-          {
-            "is_own_pick": true,
-            "original_roster_id": 8,
-            "owner_roster_id": 8,
-            "round": 5,
-            "season": 2029
-          }
-        ],
-        "roster_id": 8,
-        "summary": {
-          "2027": {
-            "1": 1,
-            "2": 1,
-            "3": 2,
-            "4": 1,
-            "5": 1
-          },
-          "2028": {
-            "1": 1,
-            "2": 1,
-            "3": 1,
-            "4": 1,
-            "5": 1
-          },
-          "2029": {
-            "1": 1,
-            "2": 1,
-            "3": 1,
-            "4": 1,
-            "5": 1
-          }
-        }
-      }
-    },
-    "lineups": {
-      "future": {
-        "average": 72.3,
-        "bench_value": 1001.6,
-        "filled": 24,
-        "metric": "rebuild",
-        "required": 24,
-        "slots": [
-          {
-            "full_name": "Josh Allen",
-            "player_id": "4984",
-            "position": "QB",
-            "score": 73.7,
-            "slot": "QB"
-          },
-          {
-            "full_name": "Colby Parkinson",
-            "player_id": "6865",
-            "position": "TE",
-            "score": 45.5,
-            "slot": "TE"
-          },
-          {
-            "full_name": "Omarion Hampton",
-            "player_id": "12507",
-            "position": "RB",
-            "score": 97.5,
-            "slot": "RB"
-          },
-          {
-            "full_name": "Emmett Johnson",
-            "player_id": "13337",
-            "position": "RB",
-            "score": 74.8,
-            "slot": "RB"
-          },
-          {
-            "full_name": "Luther Burden",
-            "player_id": "12519",
-            "position": "WR",
-            "score": 94.9,
-            "slot": "WR"
-          },
-          {
-            "full_name": "George Pickens",
-            "player_id": "8137",
-            "position": "WR",
-            "score": 92.5,
-            "slot": "WR"
-          },
-          {
-            "full_name": "Jaylen Waddle",
-            "player_id": "7526",
-            "position": "WR",
-            "score": 76.5,
-            "slot": "WR"
-          },
-          {
-            "full_name": "Jalen Carter",
-            "player_id": "10888",
-            "position": "DL",
-            "score": 82.3,
-            "slot": "DL"
-          },
-          {
-            "full_name": "Greg Rousseau",
-            "player_id": "7627",
-            "position": "DL",
-            "score": 80.5,
-            "slot": "DL"
-          },
-          {
-            "full_name": "Levi Drake Rodriguez",
-            "player_id": "11819",
-            "position": "DL",
-            "score": 59.0,
-            "slot": "DL"
-          },
-          {
-            "full_name": "Arvell Reese",
-            "player_id": "13377",
-            "position": "LB",
-            "score": 87.2,
-            "slot": "LB"
-          },
-          {
-            "full_name": "Quay Walker",
-            "player_id": "8266",
-            "position": "LB",
-            "score": 71.5,
-            "slot": "LB"
-          },
-          {
-            "full_name": "Jamien Sherwood",
-            "player_id": "7841",
-            "position": "LB",
-            "score": 71.5,
-            "slot": "LB"
-          },
-          {
-            "full_name": "Nate Wiggins",
-            "player_id": "11656",
-            "position": "DB",
-            "score": 81.6,
-            "slot": "DB"
-          },
-          {
-            "full_name": "AJ Haulcy",
-            "player_id": "13384",
-            "position": "DB",
-            "score": 80.4,
-            "slot": "DB"
-          },
-          {
-            "full_name": "Kam Curl",
-            "player_id": "7136",
-            "position": "DB",
-            "score": 60.5,
-            "slot": "DB"
-          },
-          {
-            "full_name": "Jacory Croskey-Merritt",
-            "player_id": "12533",
-            "position": "RB",
-            "score": 74.5,
-            "slot": "SUPER_FLEX"
-          },
-          {
-            "full_name": "Jarquez Hunter",
-            "player_id": "11569",
-            "position": "RB",
-            "score": 69.5,
-            "slot": "FLEX"
-          },
-          {
-            "full_name": "Chimere Dike",
-            "player_id": "12540",
-            "position": "WR",
-            "score": 62.3,
-            "slot": "FLEX"
-          },
-          {
-            "full_name": "Sean Tucker",
-            "player_id": "9506",
-            "position": "RB",
-            "score": 59.5,
-            "slot": "FLEX"
-          },
-          {
-            "full_name": "D'Andre Swift",
-            "player_id": "6790",
-            "position": "RB",
-            "score": 56.5,
-            "slot": "FLEX"
-          },
-          {
-            "full_name": "Dee Winters",
-            "player_id": "11017",
-            "position": "LB",
-            "score": 64.5,
-            "slot": "IDP_FLEX"
-          },
-          {
-            "full_name": "Mansoor Delane",
-            "player_id": "13385",
-            "position": "DB",
-            "score": 60.4,
-            "slot": "IDP_FLEX"
-          },
-          {
-            "full_name": "Avieon Terrell",
-            "player_id": "13389",
-            "position": "DB",
-            "score": 59.2,
-            "slot": "IDP_FLEX"
-          }
-        ],
-        "total": 1736.3
-      },
-      "win_now": {
-        "average": 75.0,
-        "bench_value": 1004.9,
-        "filled": 24,
-        "metric": "contender",
-        "required": 24,
-        "slots": [
-          {
-            "full_name": "Jameis Winston",
-            "player_id": "2306",
-            "position": "QB",
-            "score": 91.1,
-            "slot": "QB"
-          },
-          {
-            "full_name": "Mark Andrews",
-            "player_id": "5012",
-            "position": "TE",
-            "score": 63.1,
-            "slot": "TE"
-          },
-          {
-            "full_name": "Omarion Hampton",
-            "player_id": "12507",
-            "position": "RB",
-            "score": 93.5,
-            "slot": "RB"
-          },
-          {
-            "full_name": "Jacory Croskey-Merritt",
-            "player_id": "12533",
-            "position": "RB",
-            "score": 76.5,
-            "slot": "RB"
-          },
-          {
-            "full_name": "George Pickens",
-            "player_id": "8137",
-            "position": "WR",
-            "score": 94.5,
-            "slot": "WR"
-          },
-          {
-            "full_name": "Luther Burden",
-            "player_id": "12519",
-            "position": "WR",
-            "score": 87.9,
-            "slot": "WR"
-          },
-          {
-            "full_name": "Jaylen Waddle",
-            "player_id": "7526",
-            "position": "WR",
-            "score": 84.5,
-            "slot": "WR"
-          },
-          {
-            "full_name": "Greg Rousseau",
-            "player_id": "7627",
-            "position": "DL",
-            "score": 85.5,
-            "slot": "DL"
-          },
-          {
-            "full_name": "Jalen Carter",
-            "player_id": "10888",
-            "position": "DL",
-            "score": 84.3,
-            "slot": "DL"
-          },
-          {
-            "full_name": "Carl Granderson",
-            "player_id": "5912",
-            "position": "DL",
-            "score": 64.1,
-            "slot": "DL"
-          },
-          {
-            "full_name": "Arvell Reese",
-            "player_id": "13377",
-            "position": "LB",
-            "score": 77.2,
-            "slot": "LB"
-          },
-          {
-            "full_name": "Quay Walker",
-            "player_id": "8266",
-            "position": "LB",
-            "score": 76.5,
-            "slot": "LB"
-          },
-          {
-            "full_name": "Jamien Sherwood",
-            "player_id": "7841",
-            "position": "LB",
-            "score": 76.5,
-            "slot": "LB"
-          },
-          {
-            "full_name": "Nate Wiggins",
-            "player_id": "11656",
-            "position": "DB",
-            "score": 77.6,
-            "slot": "DB"
-          },
-          {
-            "full_name": "AJ Haulcy",
-            "player_id": "13384",
-            "position": "DB",
-            "score": 73.4,
-            "slot": "DB"
-          },
-          {
-            "full_name": "Kam Curl",
-            "player_id": "7136",
-            "position": "DB",
-            "score": 68.5,
-            "slot": "DB"
-          },
-          {
-            "full_name": "Josh Allen",
-            "player_id": "4984",
-            "position": "QB",
-            "score": 89.3,
-            "slot": "SUPER_FLEX"
-          },
-          {
-            "full_name": "D'Andre Swift",
-            "player_id": "6790",
-            "position": "RB",
-            "score": 69.5,
-            "slot": "FLEX"
-          },
-          {
-            "full_name": "Davante Adams",
-            "player_id": "2133",
-            "position": "WR",
-            "score": 63.5,
-            "slot": "FLEX"
-          },
-          {
-            "full_name": "Keenan Allen",
-            "player_id": "1479",
-            "position": "WR",
-            "score": 60.5,
-            "slot": "FLEX"
-          },
-          {
-            "full_name": "Emmett Johnson",
-            "player_id": "13337",
-            "position": "RB",
-            "score": 59.8,
-            "slot": "FLEX"
-          },
-          {
-            "full_name": "Jessie Bates",
-            "player_id": "5017",
-            "position": "DB",
-            "score": 62.5,
-            "slot": "IDP_FLEX"
-          },
-          {
-            "full_name": "Andrew Van Ginkel",
-            "player_id": "6183",
-            "position": "LB",
-            "score": 61.5,
-            "slot": "IDP_FLEX"
-          },
-          {
-            "full_name": "Dee Winters",
-            "player_id": "11017",
-            "position": "LB",
-            "score": 58.5,
-            "slot": "IDP_FLEX"
-          }
-        ],
-        "total": 1799.8
-      }
-    },
-    "positions": {
-      "DB": {
-        "contender_top": 282.0,
-        "count": 7,
-        "market": 387.1,
-        "rebuild_top": 282.9
-      },
-      "DL": {
-        "contender_top": 289.9,
-        "count": 6,
-        "market": 345.9,
-        "rebuild_top": 277.2
-      },
-      "LB": {
-        "contender_top": 291.7,
-        "count": 7,
-        "market": 409.2,
-        "rebuild_top": 294.7
-      },
-      "QB": {
-        "contender_top": 302.1,
-        "count": 6,
-        "market": 391.2,
-        "rebuild_top": 278.5
-      },
-      "RB": {
-        "contender_top": 299.3,
-        "count": 10,
-        "market": 490.8,
-        "rebuild_top": 316.3
-      },
-      "TE": {
-        "contender_top": 121.0,
-        "count": 3,
-        "market": 123.5,
-        "rebuild_top": 111.5
-      },
-      "WR": {
-        "contender_top": 330.4,
-        "count": 8,
-        "market": 490.2,
-        "rebuild_top": 326.2
-      }
-    },
-    "power_rank": 11,
-    "roster_id": 8,
-    "scores": {
-      "future": 72.3,
-      "liquidity": 67.5,
-      "market_total": 2637.9,
-      "risk": 34.0,
-      "win_now": 75.0
-    },
-    "team_name": "Big Black Blocks",
-    "window": "contender"
-  },
-  {
     "display_name": "Praetorianer21",
     "draft_capital": {
       "future_firsts": 3,
@@ -6616,7 +6042,7 @@
     "lineups": {
       "future": {
         "average": 70.6,
-        "bench_value": 1918.2,
+        "bench_value": 1922.2,
         "filled": 24,
         "metric": "rebuild",
         "required": 24,
@@ -6794,7 +6220,7 @@
       },
       "win_now": {
         "average": 74.8,
-        "bench_value": 1736.5,
+        "bench_value": 1741.9,
         "filled": 24,
         "metric": "contender",
         "required": 24,
@@ -6999,7 +6425,7 @@
       "RB": {
         "contender_top": 281.0,
         "count": 14,
-        "market": 616.8,
+        "market": 620.8,
         "rebuild_top": 285.5
       },
       "TE": {
@@ -7015,16 +6441,590 @@
         "rebuild_top": 310.7
       }
     },
-    "power_rank": 12,
+    "power_rank": 11,
     "roster_id": 7,
     "scores": {
       "future": 70.6,
       "liquidity": 71.0,
-      "market_total": 3416.8,
-      "risk": 34.6,
+      "market_total": 3420.8,
+      "risk": 34.5,
       "win_now": 74.8
     },
     "team_name": "Ostalb Highlanders",
+    "window": "contender"
+  },
+  {
+    "display_name": "DrSiggiLove",
+    "draft_capital": {
+      "future_firsts": 3,
+      "future_seconds": 3,
+      "inventory": {
+        "picks": [
+          {
+            "is_own_pick": false,
+            "original_roster_id": 12,
+            "owner_roster_id": 8,
+            "round": 20,
+            "season": 2026
+          },
+          {
+            "is_own_pick": false,
+            "original_roster_id": 12,
+            "owner_roster_id": 8,
+            "round": 29,
+            "season": 2026
+          },
+          {
+            "is_own_pick": true,
+            "original_roster_id": 8,
+            "owner_roster_id": 8,
+            "round": 1,
+            "season": 2027
+          },
+          {
+            "is_own_pick": true,
+            "original_roster_id": 8,
+            "owner_roster_id": 8,
+            "round": 2,
+            "season": 2027
+          },
+          {
+            "is_own_pick": true,
+            "original_roster_id": 8,
+            "owner_roster_id": 8,
+            "round": 3,
+            "season": 2027
+          },
+          {
+            "is_own_pick": false,
+            "original_roster_id": 12,
+            "owner_roster_id": 8,
+            "round": 3,
+            "season": 2027
+          },
+          {
+            "is_own_pick": true,
+            "original_roster_id": 8,
+            "owner_roster_id": 8,
+            "round": 4,
+            "season": 2027
+          },
+          {
+            "is_own_pick": true,
+            "original_roster_id": 8,
+            "owner_roster_id": 8,
+            "round": 5,
+            "season": 2027
+          },
+          {
+            "is_own_pick": true,
+            "original_roster_id": 8,
+            "owner_roster_id": 8,
+            "round": 1,
+            "season": 2028
+          },
+          {
+            "is_own_pick": true,
+            "original_roster_id": 8,
+            "owner_roster_id": 8,
+            "round": 2,
+            "season": 2028
+          },
+          {
+            "is_own_pick": true,
+            "original_roster_id": 8,
+            "owner_roster_id": 8,
+            "round": 3,
+            "season": 2028
+          },
+          {
+            "is_own_pick": true,
+            "original_roster_id": 8,
+            "owner_roster_id": 8,
+            "round": 4,
+            "season": 2028
+          },
+          {
+            "is_own_pick": true,
+            "original_roster_id": 8,
+            "owner_roster_id": 8,
+            "round": 5,
+            "season": 2028
+          },
+          {
+            "is_own_pick": true,
+            "original_roster_id": 8,
+            "owner_roster_id": 8,
+            "round": 1,
+            "season": 2029
+          },
+          {
+            "is_own_pick": true,
+            "original_roster_id": 8,
+            "owner_roster_id": 8,
+            "round": 2,
+            "season": 2029
+          },
+          {
+            "is_own_pick": true,
+            "original_roster_id": 8,
+            "owner_roster_id": 8,
+            "round": 3,
+            "season": 2029
+          },
+          {
+            "is_own_pick": true,
+            "original_roster_id": 8,
+            "owner_roster_id": 8,
+            "round": 4,
+            "season": 2029
+          },
+          {
+            "is_own_pick": true,
+            "original_roster_id": 8,
+            "owner_roster_id": 8,
+            "round": 5,
+            "season": 2029
+          }
+        ],
+        "roster_id": 8,
+        "summary": {
+          "2027": {
+            "1": 1,
+            "2": 1,
+            "3": 2,
+            "4": 1,
+            "5": 1
+          },
+          "2028": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 1,
+            "5": 1
+          },
+          "2029": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 1,
+            "5": 1
+          }
+        }
+      }
+    },
+    "lineups": {
+      "future": {
+        "average": 72.2,
+        "bench_value": 1001.6,
+        "filled": 24,
+        "metric": "rebuild",
+        "required": 24,
+        "slots": [
+          {
+            "full_name": "Josh Allen",
+            "player_id": "4984",
+            "position": "QB",
+            "score": 73.7,
+            "slot": "QB"
+          },
+          {
+            "full_name": "Colby Parkinson",
+            "player_id": "6865",
+            "position": "TE",
+            "score": 45.5,
+            "slot": "TE"
+          },
+          {
+            "full_name": "Omarion Hampton",
+            "player_id": "12507",
+            "position": "RB",
+            "score": 97.5,
+            "slot": "RB"
+          },
+          {
+            "full_name": "Emmett Johnson",
+            "player_id": "13337",
+            "position": "RB",
+            "score": 74.8,
+            "slot": "RB"
+          },
+          {
+            "full_name": "Luther Burden",
+            "player_id": "12519",
+            "position": "WR",
+            "score": 94.9,
+            "slot": "WR"
+          },
+          {
+            "full_name": "George Pickens",
+            "player_id": "8137",
+            "position": "WR",
+            "score": 92.5,
+            "slot": "WR"
+          },
+          {
+            "full_name": "Jaylen Waddle",
+            "player_id": "7526",
+            "position": "WR",
+            "score": 72.5,
+            "slot": "WR"
+          },
+          {
+            "full_name": "Jalen Carter",
+            "player_id": "10888",
+            "position": "DL",
+            "score": 82.3,
+            "slot": "DL"
+          },
+          {
+            "full_name": "Greg Rousseau",
+            "player_id": "7627",
+            "position": "DL",
+            "score": 80.5,
+            "slot": "DL"
+          },
+          {
+            "full_name": "Levi Drake Rodriguez",
+            "player_id": "11819",
+            "position": "DL",
+            "score": 59.0,
+            "slot": "DL"
+          },
+          {
+            "full_name": "Arvell Reese",
+            "player_id": "13377",
+            "position": "LB",
+            "score": 87.2,
+            "slot": "LB"
+          },
+          {
+            "full_name": "Quay Walker",
+            "player_id": "8266",
+            "position": "LB",
+            "score": 71.5,
+            "slot": "LB"
+          },
+          {
+            "full_name": "Jamien Sherwood",
+            "player_id": "7841",
+            "position": "LB",
+            "score": 71.5,
+            "slot": "LB"
+          },
+          {
+            "full_name": "Nate Wiggins",
+            "player_id": "11656",
+            "position": "DB",
+            "score": 81.6,
+            "slot": "DB"
+          },
+          {
+            "full_name": "AJ Haulcy",
+            "player_id": "13384",
+            "position": "DB",
+            "score": 80.4,
+            "slot": "DB"
+          },
+          {
+            "full_name": "Kam Curl",
+            "player_id": "7136",
+            "position": "DB",
+            "score": 60.5,
+            "slot": "DB"
+          },
+          {
+            "full_name": "Jacory Croskey-Merritt",
+            "player_id": "12533",
+            "position": "RB",
+            "score": 74.5,
+            "slot": "SUPER_FLEX"
+          },
+          {
+            "full_name": "Jarquez Hunter",
+            "player_id": "11569",
+            "position": "RB",
+            "score": 69.5,
+            "slot": "FLEX"
+          },
+          {
+            "full_name": "Chimere Dike",
+            "player_id": "12540",
+            "position": "WR",
+            "score": 62.3,
+            "slot": "FLEX"
+          },
+          {
+            "full_name": "Sean Tucker",
+            "player_id": "9506",
+            "position": "RB",
+            "score": 59.5,
+            "slot": "FLEX"
+          },
+          {
+            "full_name": "D'Andre Swift",
+            "player_id": "6790",
+            "position": "RB",
+            "score": 56.5,
+            "slot": "FLEX"
+          },
+          {
+            "full_name": "Dee Winters",
+            "player_id": "11017",
+            "position": "LB",
+            "score": 64.5,
+            "slot": "IDP_FLEX"
+          },
+          {
+            "full_name": "Mansoor Delane",
+            "player_id": "13385",
+            "position": "DB",
+            "score": 60.4,
+            "slot": "IDP_FLEX"
+          },
+          {
+            "full_name": "Avieon Terrell",
+            "player_id": "13389",
+            "position": "DB",
+            "score": 59.2,
+            "slot": "IDP_FLEX"
+          }
+        ],
+        "total": 1732.3
+      },
+      "win_now": {
+        "average": 74.8,
+        "bench_value": 1004.9,
+        "filled": 24,
+        "metric": "contender",
+        "required": 24,
+        "slots": [
+          {
+            "full_name": "Jameis Winston",
+            "player_id": "2306",
+            "position": "QB",
+            "score": 91.1,
+            "slot": "QB"
+          },
+          {
+            "full_name": "Mark Andrews",
+            "player_id": "5012",
+            "position": "TE",
+            "score": 63.1,
+            "slot": "TE"
+          },
+          {
+            "full_name": "Omarion Hampton",
+            "player_id": "12507",
+            "position": "RB",
+            "score": 93.5,
+            "slot": "RB"
+          },
+          {
+            "full_name": "Jacory Croskey-Merritt",
+            "player_id": "12533",
+            "position": "RB",
+            "score": 76.5,
+            "slot": "RB"
+          },
+          {
+            "full_name": "George Pickens",
+            "player_id": "8137",
+            "position": "WR",
+            "score": 94.5,
+            "slot": "WR"
+          },
+          {
+            "full_name": "Luther Burden",
+            "player_id": "12519",
+            "position": "WR",
+            "score": 87.9,
+            "slot": "WR"
+          },
+          {
+            "full_name": "Jaylen Waddle",
+            "player_id": "7526",
+            "position": "WR",
+            "score": 79.1,
+            "slot": "WR"
+          },
+          {
+            "full_name": "Greg Rousseau",
+            "player_id": "7627",
+            "position": "DL",
+            "score": 85.5,
+            "slot": "DL"
+          },
+          {
+            "full_name": "Jalen Carter",
+            "player_id": "10888",
+            "position": "DL",
+            "score": 84.3,
+            "slot": "DL"
+          },
+          {
+            "full_name": "Carl Granderson",
+            "player_id": "5912",
+            "position": "DL",
+            "score": 64.1,
+            "slot": "DL"
+          },
+          {
+            "full_name": "Arvell Reese",
+            "player_id": "13377",
+            "position": "LB",
+            "score": 77.2,
+            "slot": "LB"
+          },
+          {
+            "full_name": "Quay Walker",
+            "player_id": "8266",
+            "position": "LB",
+            "score": 76.5,
+            "slot": "LB"
+          },
+          {
+            "full_name": "Jamien Sherwood",
+            "player_id": "7841",
+            "position": "LB",
+            "score": 76.5,
+            "slot": "LB"
+          },
+          {
+            "full_name": "Nate Wiggins",
+            "player_id": "11656",
+            "position": "DB",
+            "score": 77.6,
+            "slot": "DB"
+          },
+          {
+            "full_name": "AJ Haulcy",
+            "player_id": "13384",
+            "position": "DB",
+            "score": 73.4,
+            "slot": "DB"
+          },
+          {
+            "full_name": "Kam Curl",
+            "player_id": "7136",
+            "position": "DB",
+            "score": 68.5,
+            "slot": "DB"
+          },
+          {
+            "full_name": "Josh Allen",
+            "player_id": "4984",
+            "position": "QB",
+            "score": 89.3,
+            "slot": "SUPER_FLEX"
+          },
+          {
+            "full_name": "D'Andre Swift",
+            "player_id": "6790",
+            "position": "RB",
+            "score": 69.5,
+            "slot": "FLEX"
+          },
+          {
+            "full_name": "Davante Adams",
+            "player_id": "2133",
+            "position": "WR",
+            "score": 63.5,
+            "slot": "FLEX"
+          },
+          {
+            "full_name": "Keenan Allen",
+            "player_id": "1479",
+            "position": "WR",
+            "score": 60.5,
+            "slot": "FLEX"
+          },
+          {
+            "full_name": "Emmett Johnson",
+            "player_id": "13337",
+            "position": "RB",
+            "score": 59.8,
+            "slot": "FLEX"
+          },
+          {
+            "full_name": "Jessie Bates",
+            "player_id": "5017",
+            "position": "DB",
+            "score": 62.5,
+            "slot": "IDP_FLEX"
+          },
+          {
+            "full_name": "Andrew Van Ginkel",
+            "player_id": "6183",
+            "position": "LB",
+            "score": 61.5,
+            "slot": "IDP_FLEX"
+          },
+          {
+            "full_name": "Dee Winters",
+            "player_id": "11017",
+            "position": "LB",
+            "score": 58.5,
+            "slot": "IDP_FLEX"
+          }
+        ],
+        "total": 1794.4
+      }
+    },
+    "positions": {
+      "DB": {
+        "contender_top": 282.0,
+        "count": 7,
+        "market": 387.1,
+        "rebuild_top": 282.9
+      },
+      "DL": {
+        "contender_top": 289.9,
+        "count": 6,
+        "market": 345.9,
+        "rebuild_top": 277.2
+      },
+      "LB": {
+        "contender_top": 291.7,
+        "count": 7,
+        "market": 409.2,
+        "rebuild_top": 294.7
+      },
+      "QB": {
+        "contender_top": 302.1,
+        "count": 6,
+        "market": 391.2,
+        "rebuild_top": 278.5
+      },
+      "RB": {
+        "contender_top": 299.3,
+        "count": 10,
+        "market": 490.8,
+        "rebuild_top": 316.3
+      },
+      "TE": {
+        "contender_top": 121.0,
+        "count": 3,
+        "market": 123.5,
+        "rebuild_top": 111.5
+      },
+      "WR": {
+        "contender_top": 325.0,
+        "count": 8,
+        "market": 486.2,
+        "rebuild_top": 322.2
+      }
+    },
+    "power_rank": 12,
+    "roster_id": 8,
+    "scores": {
+      "future": 72.2,
+      "liquidity": 67.4,
+      "market_total": 2633.9,
+      "risk": 34.1,
+      "win_now": 74.8
+    },
+    "team_name": "Big Black Blocks",
     "window": "contender"
   }
 ]
