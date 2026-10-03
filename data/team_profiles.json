@@ -882,8 +882,8 @@
     },
     "lineups": {
       "future": {
-        "average": 76.2,
-        "bench_value": 1859.2,
+        "average": 75.5,
+        "bench_value": 1874.2,
         "filled": 24,
         "metric": "rebuild",
         "required": 24,
@@ -906,7 +906,7 @@
             "full_name": "Ollie Gordon",
             "player_id": "12495",
             "position": "RB",
-            "score": 99.3,
+            "score": 96.3,
             "slot": "RB"
           },
           {
@@ -980,13 +980,6 @@
             "slot": "LB"
           },
           {
-            "full_name": "Dante Trader",
-            "player_id": "12673",
-            "position": "DB",
-            "score": 80.1,
-            "slot": "DB"
-          },
-          {
             "full_name": "Marques Sigle",
             "player_id": "12668",
             "position": "DB",
@@ -998,6 +991,13 @@
             "player_id": "11705",
             "position": "DB",
             "score": 78.0,
+            "slot": "DB"
+          },
+          {
+            "full_name": "Tre'von Moehrig",
+            "player_id": "7659",
+            "position": "DB",
+            "score": 60.5,
             "slot": "DB"
           },
           {
@@ -1043,25 +1043,25 @@
             "slot": "IDP_FLEX"
           },
           {
+            "full_name": "Dante Trader",
+            "player_id": "12673",
+            "position": "DB",
+            "score": 60.1,
+            "slot": "IDP_FLEX"
+          },
+          {
             "full_name": "Caleb Banks",
             "player_id": "13445",
             "position": "DL",
             "score": 58.4,
             "slot": "IDP_FLEX"
-          },
-          {
-            "full_name": "Jeffery Simmons",
-            "player_id": "6125",
-            "position": "DL",
-            "score": 55.5,
-            "slot": "IDP_FLEX"
           }
         ],
-        "total": 1829.3
+        "total": 1811.3
       },
       "win_now": {
-        "average": 80.1,
-        "bench_value": 1706.7,
+        "average": 79.6,
+        "bench_value": 1714.3,
         "filled": 24,
         "metric": "contender",
         "required": 24,
@@ -1084,7 +1084,7 @@
             "full_name": "Ollie Gordon",
             "player_id": "12495",
             "position": "RB",
-            "score": 92.3,
+            "score": 89.3,
             "slot": "RB"
           },
           {
@@ -1172,10 +1172,10 @@
             "slot": "DB"
           },
           {
-            "full_name": "Dante Trader",
-            "player_id": "12673",
+            "full_name": "Tre'von Moehrig",
+            "player_id": "7659",
             "position": "DB",
-            "score": 76.1,
+            "score": 68.5,
             "slot": "DB"
           },
           {
@@ -1235,15 +1235,15 @@
             "slot": "IDP_FLEX"
           }
         ],
-        "total": 1921.3
+        "total": 1910.7
       }
     },
     "positions": {
       "DB": {
-        "contender_top": 298.9,
+        "contender_top": 291.3,
         "count": 7,
         "market": 407.2,
-        "rebuild_top": 290.9
+        "rebuild_top": 276.9
       },
       "DL": {
         "contender_top": 271.4,
@@ -1258,16 +1258,16 @@
         "rebuild_top": 279.3
       },
       "QB": {
-        "contender_top": 329.4,
+        "contender_top": 332.4,
         "count": 9,
         "market": 591.2,
-        "rebuild_top": 310.9
+        "rebuild_top": 313.9
       },
       "RB": {
-        "contender_top": 271.8,
+        "contender_top": 268.8,
         "count": 10,
-        "market": 446.8,
-        "rebuild_top": 287.8
+        "market": 443.8,
+        "rebuild_top": 284.8
       },
       "TE": {
         "contender_top": 285.8,
@@ -1285,11 +1285,11 @@
     "power_rank": 2,
     "roster_id": 3,
     "scores": {
-      "future": 76.2,
+      "future": 75.5,
       "liquidity": 69.7,
-      "market_total": 3516.5,
+      "market_total": 3513.5,
       "risk": 32.4,
-      "win_now": 80.1
+      "win_now": 79.6
     },
     "team_name": "Springfield Wildcats",
     "window": "contender"
@@ -2639,8 +2639,8 @@
     },
     "lineups": {
       "future": {
-        "average": 79.2,
-        "bench_value": 1781.4,
+        "average": 79.6,
+        "bench_value": 1849.6,
         "filled": 24,
         "metric": "rebuild",
         "required": 24,
@@ -2772,6 +2772,13 @@
             "slot": "FLEX"
           },
           {
+            "full_name": "CJ Donaldson",
+            "player_id": "13277",
+            "position": "RB",
+            "score": 71.8,
+            "slot": "FLEX"
+          },
+          {
             "full_name": "LeQuint Allen",
             "player_id": "12544",
             "position": "RB",
@@ -2783,13 +2790,6 @@
             "player_id": "12497",
             "position": "WR",
             "score": 67.1,
-            "slot": "FLEX"
-          },
-          {
-            "full_name": "Elijah Arroyo",
-            "player_id": "12521",
-            "position": "TE",
-            "score": 64.9,
             "slot": "FLEX"
           },
           {
@@ -2807,18 +2807,18 @@
             "slot": "IDP_FLEX"
           },
           {
-            "full_name": "Donovan Ezeiruaku",
-            "player_id": "12556",
-            "position": "DL",
-            "score": 62.9,
+            "full_name": "Kendal Daniels",
+            "player_id": "13482",
+            "position": "LB",
+            "score": 63.6,
             "slot": "IDP_FLEX"
           }
         ],
-        "total": 1901.7
+        "total": 1909.3
       },
       "win_now": {
         "average": 77.4,
-        "bench_value": 1703.6,
+        "bench_value": 1765.8,
         "filled": 24,
         "metric": "contender",
         "required": 24,
@@ -3011,7 +3011,7 @@
       "LB": {
         "contender_top": 322.8,
         "count": 15,
-        "market": 827.4,
+        "market": 831.4,
         "rebuild_top": 329.8
       },
       "QB": {
@@ -3022,9 +3022,9 @@
       },
       "RB": {
         "contender_top": 276.3,
-        "count": 8,
-        "market": 375.6,
-        "rebuild_top": 293.1
+        "count": 9,
+        "market": 432.4,
+        "rebuild_top": 308.4
       },
       "TE": {
         "contender_top": 299.5,
@@ -3042,9 +3042,9 @@
     "power_rank": 5,
     "roster_id": 10,
     "scores": {
-      "future": 79.2,
-      "liquidity": 65.3,
-      "market_total": 3439.1,
+      "future": 79.6,
+      "liquidity": 65.6,
+      "market_total": 3499.9,
       "risk": 31.6,
       "win_now": 77.4
     },
@@ -4320,7 +4320,7 @@
     "lineups": {
       "future": {
         "average": 73.9,
-        "bench_value": 1494.2,
+        "bench_value": 1497.2,
         "filled": 24,
         "metric": "rebuild",
         "required": 24,
@@ -4498,7 +4498,7 @@
       },
       "win_now": {
         "average": 76.6,
-        "bench_value": 1479.4,
+        "bench_value": 1482.4,
         "filled": 24,
         "metric": "contender",
         "required": 24,
@@ -4703,7 +4703,7 @@
       "RB": {
         "contender_top": 278.1,
         "count": 9,
-        "market": 375.2,
+        "market": 378.2,
         "rebuild_top": 284.7
       },
       "TE": {
@@ -4724,8 +4724,8 @@
     "scores": {
       "future": 73.9,
       "liquidity": 67.3,
-      "market_total": 3187.5,
-      "risk": 33.3,
+      "market_total": 3190.5,
+      "risk": 33.4,
       "win_now": 76.6
     },
     "team_name": null,
@@ -4894,7 +4894,7 @@
     "lineups": {
       "future": {
         "average": 73.0,
-        "bench_value": 1066.6,
+        "bench_value": 1060.6,
         "filled": 24,
         "metric": "rebuild",
         "required": 24,
@@ -5072,7 +5072,7 @@
       },
       "win_now": {
         "average": 76.5,
-        "bench_value": 1061.2,
+        "bench_value": 1053.1,
         "filled": 24,
         "metric": "contender",
         "required": 24,
@@ -5289,7 +5289,7 @@
       "WR": {
         "contender_top": 345.4,
         "count": 8,
-        "market": 492.2,
+        "market": 486.2,
         "rebuild_top": 329.2
       }
     },
@@ -5298,7 +5298,7 @@
     "scores": {
       "future": 73.0,
       "liquidity": 67.0,
-      "market_total": 2726.9,
+      "market_total": 2720.9,
       "risk": 33.1,
       "win_now": 76.5
     },
@@ -6615,7 +6615,7 @@
     },
     "lineups": {
       "future": {
-        "average": 71.1,
+        "average": 71.3,
         "bench_value": 1954.9,
         "filled": 24,
         "metric": "rebuild",
@@ -6737,7 +6737,7 @@
             "full_name": "Jaylen Wright",
             "player_id": "11643",
             "position": "RB",
-            "score": 76.0,
+            "score": 79.0,
             "slot": "SUPER_FLEX"
           },
           {
@@ -6790,10 +6790,10 @@
             "slot": "IDP_FLEX"
           }
         ],
-        "total": 1707.1
+        "total": 1710.1
       },
       "win_now": {
-        "average": 75.0,
+        "average": 75.2,
         "bench_value": 1801.8,
         "filled": 24,
         "metric": "contender",
@@ -6943,7 +6943,7 @@
             "full_name": "Jaylen Wright",
             "player_id": "11643",
             "position": "RB",
-            "score": 64.0,
+            "score": 67.0,
             "slot": "FLEX"
           },
           {
@@ -6968,7 +6968,7 @@
             "slot": "IDP_FLEX"
           }
         ],
-        "total": 1801.0
+        "total": 1804.0
       }
     },
     "positions": {
@@ -6999,8 +6999,8 @@
       "RB": {
         "contender_top": 309.0,
         "count": 14,
-        "market": 665.8,
-        "rebuild_top": 315.5
+        "market": 668.8,
+        "rebuild_top": 318.5
       },
       "TE": {
         "contender_top": 231.5,
@@ -7018,11 +7018,11 @@
     "power_rank": 12,
     "roster_id": 7,
     "scores": {
-      "future": 71.1,
+      "future": 71.3,
       "liquidity": 71.0,
-      "market_total": 3468.0,
+      "market_total": 3471.0,
       "risk": 33.7,
-      "win_now": 75.0
+      "win_now": 75.2
     },
     "team_name": "Ostalb Highlanders",
     "window": "contender"
