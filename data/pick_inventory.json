@@ -549,6 +549,13 @@
       },
       {
         "is_own_pick": false,
+        "original_roster_id": 6,
+        "owner_roster_id": 4,
+        "round": 3,
+        "season": 2028
+      },
+      {
+        "is_own_pick": false,
         "original_roster_id": 1,
         "owner_roster_id": 4,
         "round": 4,
@@ -616,7 +623,7 @@
       "2028": {
         "1": 1,
         "2": 1,
-        "3": 0,
+        "3": 1,
         "4": 2,
         "5": 1
       },
@@ -1048,13 +1055,6 @@
         "is_own_pick": true,
         "original_roster_id": 6,
         "owner_roster_id": 6,
-        "round": 3,
-        "season": 2028
-      },
-      {
-        "is_own_pick": true,
-        "original_roster_id": 6,
-        "owner_roster_id": 6,
         "round": 4,
         "season": 2028
       },
@@ -1113,7 +1113,7 @@
       "2028": {
         "1": 1,
         "2": 1,
-        "3": 1,
+        "3": 0,
         "4": 1,
         "5": 1
       },
