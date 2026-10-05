@@ -17051,7 +17051,7 @@
       "type": "snake"
     }
   ],
-  "generated_at": "2026-10-05T07:07:18.580479+00:00",
+  "generated_at": "2026-10-05T16:05:43.254921+00:00",
   "league": {
     "avatar": "7c15319eacc56bfdeb741f4b006ca693",
     "bracket_id": null,
@@ -17064,9 +17064,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1412505156943175680",
+    "last_message_id": "1412733766740221952",
     "last_message_text_map": null,
-    "last_message_time": 1791129981793,
+    "last_message_time": 1791184486617,
     "last_pinned_message_id": "1398779056215928832",
     "last_read_id": null,
     "league_id": "1354800861066317824",
@@ -25249,7 +25249,7 @@
           "7136",
           "13384",
           "5893",
-          "5912"
+          "13389"
         ],
         "starters_points": [
           18.52,
@@ -28340,9 +28340,9 @@
         "7610",
         "7640",
         "7659",
+        "13377",
         "12495",
         "10933",
-        "10213",
         "3973",
         "9479",
         "8349",
@@ -28395,7 +28395,7 @@
         "5001",
         "8172",
         "9997",
-        "10213",
+        "0",
         "3257",
         "7649",
         "10944",
@@ -29008,9 +29008,9 @@
         "1479",
         "2306",
         "7627",
-        "13377",
         "10888",
         "12533",
+        "10213",
         "13387",
         "8266",
         "12540",
@@ -29076,13 +29076,13 @@
         "6183",
         "7841",
         "8266",
-        "13377",
+        "0",
         "5017",
         "11656",
         "7136",
         "13384",
         "5893",
-        "5912"
+        "13389"
       ],
       "taxi": null
     },
@@ -30510,8 +30510,8 @@
       },
       "lineups": {
         "future": {
-          "average": 75.5,
-          "bench_value": 1871.0,
+          "average": 74.7,
+          "bench_value": 1862.0,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
@@ -30545,13 +30545,6 @@
               "slot": "RB"
             },
             {
-              "full_name": "Tre Tucker",
-              "player_id": "10213",
-              "position": "WR",
-              "score": 95.5,
-              "slot": "WR"
-            },
-            {
               "full_name": "Puka Nacua",
               "player_id": "9493",
               "position": "WR",
@@ -30563,6 +30556,13 @@
               "player_id": "11620",
               "position": "WR",
               "score": 92.8,
+              "slot": "WR"
+            },
+            {
+              "full_name": "Zay Flowers",
+              "player_id": "9997",
+              "position": "WR",
+              "score": 82.5,
               "slot": "WR"
             },
             {
@@ -30601,10 +30601,10 @@
               "slot": "LB"
             },
             {
-              "full_name": "Terrel Bernard",
-              "player_id": "8311",
+              "full_name": "Arvell Reese",
+              "player_id": "13377",
               "position": "LB",
-              "score": 65.5,
+              "score": 67.2,
               "slot": "LB"
             },
             {
@@ -30629,18 +30629,11 @@
               "slot": "DB"
             },
             {
-              "full_name": "Zay Flowers",
-              "player_id": "9997",
-              "position": "WR",
-              "score": 82.5,
-              "slot": "SUPER_FLEX"
-            },
-            {
               "full_name": "Romeo Doubs",
               "player_id": "8121",
               "position": "WR",
               "score": 82.5,
-              "slot": "FLEX"
+              "slot": "SUPER_FLEX"
             },
             {
               "full_name": "Keon Coleman",
@@ -30664,6 +30657,20 @@
               "slot": "FLEX"
             },
             {
+              "full_name": "Javonte Williams",
+              "player_id": "7588",
+              "position": "RB",
+              "score": 64.5,
+              "slot": "FLEX"
+            },
+            {
+              "full_name": "Terrel Bernard",
+              "player_id": "8311",
+              "position": "LB",
+              "score": 65.5,
+              "slot": "IDP_FLEX"
+            },
+            {
               "full_name": "Christian Elliss",
               "player_id": "7921",
               "position": "LB",
@@ -30676,20 +30683,13 @@
               "position": "DL",
               "score": 58.4,
               "slot": "IDP_FLEX"
-            },
-            {
-              "full_name": "Jeffery Simmons",
-              "player_id": "6125",
-              "position": "DL",
-              "score": 55.5,
-              "slot": "IDP_FLEX"
             }
           ],
-          "total": 1812.5
+          "total": 1793.2
         },
         "win_now": {
-          "average": 79.8,
-          "bench_value": 1707.4,
+          "average": 78.2,
+          "bench_value": 1697.0,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -30723,13 +30723,6 @@
               "slot": "RB"
             },
             {
-              "full_name": "Tre Tucker",
-              "player_id": "10213",
-              "position": "WR",
-              "score": 97.5,
-              "slot": "WR"
-            },
-            {
               "full_name": "Puka Nacua",
               "player_id": "9493",
               "position": "WR",
@@ -30741,6 +30734,13 @@
               "player_id": "11620",
               "position": "WR",
               "score": 91.8,
+              "slot": "WR"
+            },
+            {
+              "full_name": "Zay Flowers",
+              "player_id": "9997",
+              "position": "WR",
+              "score": 87.5,
               "slot": "WR"
             },
             {
@@ -30814,13 +30814,6 @@
               "slot": "SUPER_FLEX"
             },
             {
-              "full_name": "Zay Flowers",
-              "player_id": "9997",
-              "position": "WR",
-              "score": 87.5,
-              "slot": "FLEX"
-            },
-            {
               "full_name": "Romeo Doubs",
               "player_id": "8121",
               "position": "WR",
@@ -30839,6 +30832,13 @@
               "player_id": "4217",
               "position": "TE",
               "score": 65.5,
+              "slot": "FLEX"
+            },
+            {
+              "full_name": "Keon Coleman",
+              "player_id": "11637",
+              "position": "WR",
+              "score": 59.6,
               "slot": "FLEX"
             },
             {
@@ -30863,7 +30863,7 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1914.9
+          "total": 1877.0
         }
       },
       "positions": {
@@ -30881,9 +30881,9 @@
         },
         "LB": {
           "contender_top": 301.9,
-          "count": 9,
-          "market": 462.6,
-          "rebuild_top": 283.3
+          "count": 10,
+          "market": 511.8,
+          "rebuild_top": 285.0
         },
         "QB": {
           "contender_top": 332.4,
@@ -30904,20 +30904,20 @@
           "rebuild_top": 246.8
         },
         "WR": {
-          "contender_top": 374.3,
-          "count": 15,
-          "market": 882.9,
-          "rebuild_top": 366.3
+          "contender_top": 364.3,
+          "count": 14,
+          "market": 793.4,
+          "rebuild_top": 353.3
         }
       },
       "power_rank": 2,
       "roster_id": 3,
       "scores": {
-        "future": 75.5,
-        "liquidity": 69.8,
-        "market_total": 3511.5,
-        "risk": 32.4,
-        "win_now": 79.8
+        "future": 74.7,
+        "liquidity": 69.1,
+        "market_total": 3471.2,
+        "risk": 32.5,
+        "win_now": 78.2
       },
       "team_name": "Springfield Wildcats",
       "window": "contender"
@@ -34577,8 +34577,8 @@
       },
       "lineups": {
         "future": {
-          "average": 73.0,
-          "bench_value": 1035.1,
+          "average": 73.3,
+          "bench_value": 1015.4,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
@@ -34654,13 +34654,6 @@
               "slot": "DL"
             },
             {
-              "full_name": "Arvell Reese",
-              "player_id": "13377",
-              "position": "LB",
-              "score": 87.2,
-              "slot": "LB"
-            },
-            {
               "full_name": "Quay Walker",
               "player_id": "8266",
               "position": "LB",
@@ -34672,6 +34665,13 @@
               "player_id": "7841",
               "position": "LB",
               "score": 71.5,
+              "slot": "LB"
+            },
+            {
+              "full_name": "Dee Winters",
+              "player_id": "11017",
+              "position": "LB",
+              "score": 64.5,
               "slot": "LB"
             },
             {
@@ -34689,18 +34689,25 @@
               "slot": "DB"
             },
             {
-              "full_name": "Kam Curl",
-              "player_id": "7136",
+              "full_name": "Avieon Terrell",
+              "player_id": "13389",
               "position": "DB",
-              "score": 60.5,
+              "score": 79.2,
               "slot": "DB"
+            },
+            {
+              "full_name": "Tre Tucker",
+              "player_id": "10213",
+              "position": "WR",
+              "score": 75.5,
+              "slot": "SUPER_FLEX"
             },
             {
               "full_name": "Jacory Croskey-Merritt",
               "player_id": "12533",
               "position": "RB",
               "score": 74.5,
-              "slot": "SUPER_FLEX"
+              "slot": "FLEX"
             },
             {
               "full_name": "Jarquez Hunter",
@@ -34724,17 +34731,10 @@
               "slot": "FLEX"
             },
             {
-              "full_name": "Sean Tucker",
-              "player_id": "9506",
-              "position": "RB",
-              "score": 59.5,
-              "slot": "FLEX"
-            },
-            {
-              "full_name": "Dee Winters",
-              "player_id": "11017",
-              "position": "LB",
-              "score": 64.5,
+              "full_name": "Kam Curl",
+              "player_id": "7136",
+              "position": "DB",
+              "score": 60.5,
               "slot": "IDP_FLEX"
             },
             {
@@ -34752,11 +34752,11 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1752.3
+          "total": 1760.3
         },
         "win_now": {
-          "average": 76.1,
-          "bench_value": 1027.0,
+          "average": 76.2,
+          "bench_value": 1017.6,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -34832,13 +34832,6 @@
               "slot": "DL"
             },
             {
-              "full_name": "Arvell Reese",
-              "player_id": "13377",
-              "position": "LB",
-              "score": 77.2,
-              "slot": "LB"
-            },
-            {
               "full_name": "Quay Walker",
               "player_id": "8266",
               "position": "LB",
@@ -34850,6 +34843,13 @@
               "player_id": "7841",
               "position": "LB",
               "score": 76.5,
+              "slot": "LB"
+            },
+            {
+              "full_name": "Andrew Van Ginkel",
+              "player_id": "6183",
+              "position": "LB",
+              "score": 61.5,
               "slot": "LB"
             },
             {
@@ -34867,10 +34867,10 @@
               "slot": "DB"
             },
             {
-              "full_name": "Kam Curl",
-              "player_id": "7136",
+              "full_name": "Avieon Terrell",
+              "player_id": "13389",
               "position": "DB",
-              "score": 68.5,
+              "score": 69.2,
               "slot": "DB"
             },
             {
@@ -34888,6 +34888,13 @@
               "slot": "FLEX"
             },
             {
+              "full_name": "Tre Tucker",
+              "player_id": "10213",
+              "position": "WR",
+              "score": 69.5,
+              "slot": "FLEX"
+            },
+            {
               "full_name": "D'Andre Swift",
               "player_id": "6790",
               "position": "RB",
@@ -34902,11 +34909,11 @@
               "slot": "FLEX"
             },
             {
-              "full_name": "Emmett Johnson",
-              "player_id": "13337",
-              "position": "RB",
-              "score": 59.8,
-              "slot": "FLEX"
+              "full_name": "Kam Curl",
+              "player_id": "7136",
+              "position": "DB",
+              "score": 68.5,
+              "slot": "IDP_FLEX"
             },
             {
               "full_name": "C.J. Gardner-Johnson",
@@ -34921,36 +34928,29 @@
               "position": "DB",
               "score": 62.5,
               "slot": "IDP_FLEX"
-            },
-            {
-              "full_name": "Andrew Van Ginkel",
-              "player_id": "6183",
-              "position": "LB",
-              "score": 61.5,
-              "slot": "IDP_FLEX"
             }
           ],
-          "total": 1827.5
+          "total": 1829.2
         }
       },
       "positions": {
         "DB": {
-          "contender_top": 285.0,
+          "contender_top": 288.7,
           "count": 9,
-          "market": 441.1,
-          "rebuild_top": 282.9
+          "market": 461.1,
+          "rebuild_top": 301.7
         },
         "DL": {
-          "contender_top": 281.8,
+          "contender_top": 271.0,
           "count": 6,
-          "market": 349.9,
+          "market": 329.9,
           "rebuild_top": 282.0
         },
         "LB": {
-          "contender_top": 291.7,
-          "count": 7,
-          "market": 409.2,
-          "rebuild_top": 294.7
+          "contender_top": 273.0,
+          "count": 6,
+          "market": 340.0,
+          "rebuild_top": 256.0
         },
         "QB": {
           "contender_top": 314.1,
@@ -34972,19 +34972,19 @@
         },
         "WR": {
           "contender_top": 345.4,
-          "count": 8,
-          "market": 477.2,
-          "rebuild_top": 329.2
+          "count": 9,
+          "market": 546.7,
+          "rebuild_top": 342.4
         }
       },
       "power_rank": 9,
       "roster_id": 8,
       "scores": {
-        "future": 73.0,
-        "liquidity": 66.9,
-        "market_total": 2691.9,
-        "risk": 33.2,
-        "win_now": 76.1
+        "future": 73.3,
+        "liquidity": 67.7,
+        "market_total": 2692.2,
+        "risk": 33.0,
+        "win_now": 76.2
       },
       "team_name": "Big Black Blocks",
       "window": "contender"
@@ -45758,9 +45758,9 @@
         "7610",
         "7640",
         "7659",
+        "13377",
         "12495",
         "10933",
-        "10213",
         "3973",
         "9479",
         "8349",
@@ -47486,6 +47486,44 @@
         },
         {
           "active": true,
+          "age": 21,
+          "age_bucket": "young",
+          "depth_chart_order": 1,
+          "depth_chart_position": "LILB",
+          "fantasy_positions": [
+            "DL",
+            "LB"
+          ],
+          "first_name": "Arvell",
+          "full_name": "Arvell Reese",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Reese",
+          "normalized_position": "LB",
+          "number": 52,
+          "player_id": "13377",
+          "position": "LB",
+          "search_full_name": "arvellreese",
+          "status": "Active",
+          "team": "NYG",
+          "value": {
+            "confidence": 55.0,
+            "contender": 49.2,
+            "liquidity": 58.3,
+            "market": 49.2,
+            "player_id": "13377",
+            "rebuild": 67.2,
+            "risk": 24.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 0
+        },
+        {
+          "active": true,
           "age": 22,
           "age_bucket": "young",
           "depth_chart_order": 2,
@@ -47554,43 +47592,6 @@
             "player_id": "10933",
             "rebuild": 41.5,
             "risk": 34.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 3
-        },
-        {
-          "active": true,
-          "age": 25,
-          "age_bucket": "prime",
-          "depth_chart_order": 1,
-          "depth_chart_position": "LWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "first_name": "Tre",
-          "full_name": "Tre Tucker",
-          "injury_body_part": null,
-          "injury_notes": null,
-          "injury_status": null,
-          "is_reserve": false,
-          "is_starter": true,
-          "is_taxi": false,
-          "last_name": "Tucker",
-          "normalized_position": "WR",
-          "number": 1,
-          "player_id": "10213",
-          "position": "WR",
-          "search_full_name": "tretucker",
-          "status": "Active",
-          "team": "LV",
-          "value": {
-            "confidence": 70.0,
-            "contender": 97.5,
-            "liquidity": 90.1,
-            "market": 89.5,
-            "player_id": "10213",
-            "rebuild": 95.5,
-            "risk": 24.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 3
@@ -48905,6 +48906,44 @@
           },
           {
             "active": true,
+            "age": 21,
+            "age_bucket": "young",
+            "depth_chart_order": 1,
+            "depth_chart_position": "LILB",
+            "fantasy_positions": [
+              "DL",
+              "LB"
+            ],
+            "first_name": "Arvell",
+            "full_name": "Arvell Reese",
+            "injury_body_part": null,
+            "injury_notes": null,
+            "injury_status": null,
+            "is_reserve": false,
+            "is_starter": false,
+            "is_taxi": false,
+            "last_name": "Reese",
+            "normalized_position": "LB",
+            "number": 52,
+            "player_id": "13377",
+            "position": "LB",
+            "search_full_name": "arvellreese",
+            "status": "Active",
+            "team": "NYG",
+            "value": {
+              "confidence": 55.0,
+              "contender": 49.2,
+              "liquidity": 58.3,
+              "market": 49.2,
+              "player_id": "13377",
+              "rebuild": 67.2,
+              "risk": 24.0,
+              "source": "heuristic-v0.2"
+            },
+            "years_exp": 0
+          },
+          {
+            "active": true,
             "age": 24,
             "age_bucket": "young",
             "depth_chart_order": 2,
@@ -50062,43 +50101,6 @@
           },
           {
             "active": true,
-            "age": 25,
-            "age_bucket": "prime",
-            "depth_chart_order": 1,
-            "depth_chart_position": "LWR",
-            "fantasy_positions": [
-              "WR"
-            ],
-            "first_name": "Tre",
-            "full_name": "Tre Tucker",
-            "injury_body_part": null,
-            "injury_notes": null,
-            "injury_status": null,
-            "is_reserve": false,
-            "is_starter": true,
-            "is_taxi": false,
-            "last_name": "Tucker",
-            "normalized_position": "WR",
-            "number": 1,
-            "player_id": "10213",
-            "position": "WR",
-            "search_full_name": "tretucker",
-            "status": "Active",
-            "team": "LV",
-            "value": {
-              "confidence": 70.0,
-              "contender": 97.5,
-              "liquidity": 90.1,
-              "market": 89.5,
-              "player_id": "10213",
-              "rebuild": 95.5,
-              "risk": 24.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 3
-          },
-          {
-            "active": true,
             "age": 26,
             "age_bucket": "prime",
             "depth_chart_order": 1,
@@ -50579,7 +50581,7 @@
         "5001",
         "8172",
         "9997",
-        "10213",
+        "0",
         "3257",
         "7649",
         "10944",
@@ -70000,9 +70002,9 @@
         "1479",
         "2306",
         "7627",
-        "13377",
         "10888",
         "12533",
+        "10213",
         "13387",
         "8266",
         "12540",
@@ -70811,44 +70813,6 @@
         },
         {
           "active": true,
-          "age": 21,
-          "age_bucket": "young",
-          "depth_chart_order": 1,
-          "depth_chart_position": "LILB",
-          "fantasy_positions": [
-            "DL",
-            "LB"
-          ],
-          "first_name": "Arvell",
-          "full_name": "Arvell Reese",
-          "injury_body_part": null,
-          "injury_notes": null,
-          "injury_status": null,
-          "is_reserve": false,
-          "is_starter": true,
-          "is_taxi": false,
-          "last_name": "Reese",
-          "normalized_position": "LB",
-          "number": 52,
-          "player_id": "13377",
-          "position": "LB",
-          "search_full_name": "arvellreese",
-          "status": "Active",
-          "team": "NYG",
-          "value": {
-            "confidence": 70.0,
-            "contender": 77.2,
-            "liquidity": 58.3,
-            "market": 69.2,
-            "player_id": "13377",
-            "rebuild": 87.2,
-            "risk": 24.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 0
-        },
-        {
-          "active": true,
           "age": 25,
           "age_bucket": "prime",
           "depth_chart_order": 1,
@@ -70920,6 +70884,43 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 1
+        },
+        {
+          "active": true,
+          "age": 25,
+          "age_bucket": "prime",
+          "depth_chart_order": 1,
+          "depth_chart_position": "LWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "first_name": "Tre",
+          "full_name": "Tre Tucker",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Tucker",
+          "normalized_position": "WR",
+          "number": 1,
+          "player_id": "10213",
+          "position": "WR",
+          "search_full_name": "tretucker",
+          "status": "Active",
+          "team": "LV",
+          "value": {
+            "confidence": 55.0,
+            "contender": 69.5,
+            "liquidity": 90.1,
+            "market": 69.5,
+            "player_id": "10213",
+            "rebuild": 75.5,
+            "risk": 24.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 3
         },
         {
           "active": true,
@@ -71048,7 +71049,7 @@
           "injury_notes": null,
           "injury_status": "Out",
           "is_reserve": false,
-          "is_starter": true,
+          "is_starter": false,
           "is_taxi": false,
           "last_name": "Granderson",
           "normalized_position": "DL",
@@ -71059,12 +71060,12 @@
           "status": "Active",
           "team": "NO",
           "value": {
-            "confidence": 70.0,
-            "contender": 56.0,
+            "confidence": 55.0,
+            "contender": 28.0,
             "liquidity": 45.9,
-            "market": 51.5,
+            "market": 31.5,
             "player_id": "5912",
-            "rebuild": 45.5,
+            "rebuild": 25.5,
             "risk": 46.0,
             "source": "heuristic-v0.2"
           },
@@ -71085,7 +71086,7 @@
           "injury_notes": null,
           "injury_status": null,
           "is_reserve": false,
-          "is_starter": false,
+          "is_starter": true,
           "is_taxi": false,
           "last_name": "Terrell",
           "normalized_position": "DB",
@@ -71096,12 +71097,12 @@
           "status": "Active",
           "team": "ATL",
           "value": {
-            "confidence": 55.0,
-            "contender": 41.2,
+            "confidence": 70.0,
+            "contender": 69.2,
             "liquidity": 44.3,
-            "market": 41.2,
+            "market": 61.2,
             "player_id": "13389",
-            "rebuild": 59.2,
+            "rebuild": 79.2,
             "risk": 24.0,
             "source": "heuristic-v0.2"
           },
@@ -71853,6 +71854,43 @@
         "DB": [
           {
             "active": true,
+            "age": 21,
+            "age_bucket": "young",
+            "depth_chart_order": 2,
+            "depth_chart_position": "LCB",
+            "fantasy_positions": [
+              "DB"
+            ],
+            "first_name": "Avieon",
+            "full_name": "Avieon Terrell",
+            "injury_body_part": null,
+            "injury_notes": null,
+            "injury_status": null,
+            "is_reserve": false,
+            "is_starter": true,
+            "is_taxi": false,
+            "last_name": "Terrell",
+            "normalized_position": "DB",
+            "number": 12,
+            "player_id": "13389",
+            "position": "DB",
+            "search_full_name": "avieonterrell",
+            "status": "Active",
+            "team": "ATL",
+            "value": {
+              "confidence": 70.0,
+              "contender": 69.2,
+              "liquidity": 44.3,
+              "market": 61.2,
+              "player_id": "13389",
+              "rebuild": 79.2,
+              "risk": 24.0,
+              "source": "heuristic-v0.2"
+            },
+            "years_exp": 0
+          },
+          {
+            "active": true,
             "age": 22,
             "age_bucket": "young",
             "depth_chart_order": 1,
@@ -72035,43 +72073,6 @@
               "source": "heuristic-v0.2"
             },
             "years_exp": 8
-          },
-          {
-            "active": true,
-            "age": 21,
-            "age_bucket": "young",
-            "depth_chart_order": 2,
-            "depth_chart_position": "LCB",
-            "fantasy_positions": [
-              "DB"
-            ],
-            "first_name": "Avieon",
-            "full_name": "Avieon Terrell",
-            "injury_body_part": null,
-            "injury_notes": null,
-            "injury_status": null,
-            "is_reserve": false,
-            "is_starter": false,
-            "is_taxi": false,
-            "last_name": "Terrell",
-            "normalized_position": "DB",
-            "number": 12,
-            "player_id": "13389",
-            "position": "DB",
-            "search_full_name": "avieonterrell",
-            "status": "Active",
-            "team": "ATL",
-            "value": {
-              "confidence": 55.0,
-              "contender": 41.2,
-              "liquidity": 44.3,
-              "market": 41.2,
-              "player_id": "13389",
-              "rebuild": 59.2,
-              "risk": 24.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 0
           },
           {
             "active": true,
@@ -72263,44 +72264,6 @@
           },
           {
             "active": true,
-            "age": 29,
-            "age_bucket": "veteran",
-            "depth_chart_order": 1,
-            "depth_chart_position": "LOLB",
-            "fantasy_positions": [
-              "DL",
-              "LB"
-            ],
-            "first_name": "Carl",
-            "full_name": "Carl Granderson",
-            "injury_body_part": "Ankle",
-            "injury_notes": null,
-            "injury_status": "Out",
-            "is_reserve": false,
-            "is_starter": true,
-            "is_taxi": false,
-            "last_name": "Granderson",
-            "normalized_position": "DL",
-            "number": 96,
-            "player_id": "5912",
-            "position": "DE",
-            "search_full_name": "carlgranderson",
-            "status": "Active",
-            "team": "NO",
-            "value": {
-              "confidence": 70.0,
-              "contender": 56.0,
-              "liquidity": 45.9,
-              "market": 51.5,
-              "player_id": "5912",
-              "rebuild": 45.5,
-              "risk": 46.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 7
-          },
-          {
-            "active": true,
             "age": 22,
             "age_bucket": "young",
             "depth_chart_order": 2,
@@ -72409,47 +72372,47 @@
               "source": "heuristic-v0.2"
             },
             "years_exp": 3
-          }
-        ],
-        "LB": [
+          },
           {
             "active": true,
-            "age": 21,
-            "age_bucket": "young",
+            "age": 29,
+            "age_bucket": "veteran",
             "depth_chart_order": 1,
-            "depth_chart_position": "LILB",
+            "depth_chart_position": "LOLB",
             "fantasy_positions": [
               "DL",
               "LB"
             ],
-            "first_name": "Arvell",
-            "full_name": "Arvell Reese",
-            "injury_body_part": null,
+            "first_name": "Carl",
+            "full_name": "Carl Granderson",
+            "injury_body_part": "Ankle",
             "injury_notes": null,
-            "injury_status": null,
+            "injury_status": "Out",
             "is_reserve": false,
-            "is_starter": true,
+            "is_starter": false,
             "is_taxi": false,
-            "last_name": "Reese",
-            "normalized_position": "LB",
-            "number": 52,
-            "player_id": "13377",
-            "position": "LB",
-            "search_full_name": "arvellreese",
+            "last_name": "Granderson",
+            "normalized_position": "DL",
+            "number": 96,
+            "player_id": "5912",
+            "position": "DE",
+            "search_full_name": "carlgranderson",
             "status": "Active",
-            "team": "NYG",
+            "team": "NO",
             "value": {
-              "confidence": 70.0,
-              "contender": 77.2,
-              "liquidity": 58.3,
-              "market": 69.2,
-              "player_id": "13377",
-              "rebuild": 87.2,
-              "risk": 24.0,
+              "confidence": 55.0,
+              "contender": 28.0,
+              "liquidity": 45.9,
+              "market": 31.5,
+              "player_id": "5912",
+              "rebuild": 25.5,
+              "risk": 46.0,
               "source": "heuristic-v0.2"
             },
-            "years_exp": 0
-          },
+            "years_exp": 7
+          }
+        ],
+        "LB": [
           {
             "active": true,
             "age": 26,
@@ -73609,6 +73572,43 @@
           },
           {
             "active": true,
+            "age": 25,
+            "age_bucket": "prime",
+            "depth_chart_order": 1,
+            "depth_chart_position": "LWR",
+            "fantasy_positions": [
+              "WR"
+            ],
+            "first_name": "Tre",
+            "full_name": "Tre Tucker",
+            "injury_body_part": null,
+            "injury_notes": null,
+            "injury_status": null,
+            "is_reserve": false,
+            "is_starter": false,
+            "is_taxi": false,
+            "last_name": "Tucker",
+            "normalized_position": "WR",
+            "number": 1,
+            "player_id": "10213",
+            "position": "WR",
+            "search_full_name": "tretucker",
+            "status": "Active",
+            "team": "LV",
+            "value": {
+              "confidence": 55.0,
+              "contender": 69.5,
+              "liquidity": 90.1,
+              "market": 69.5,
+              "player_id": "10213",
+              "rebuild": 75.5,
+              "risk": 24.0,
+              "source": "heuristic-v0.2"
+            },
+            "years_exp": 3
+          },
+          {
+            "active": true,
             "age": 28,
             "age_bucket": "prime",
             "depth_chart_order": 10,
@@ -73722,13 +73722,13 @@
         "6183",
         "7841",
         "8266",
-        "13377",
+        "0",
         "5017",
         "11656",
         "7136",
         "13384",
         "5893",
-        "5912"
+        "13389"
       ],
       "taxi_ids": [],
       "team_name": "Big Black Blocks"
@@ -92630,7 +92630,7 @@
       "buyer_name": "Springfield Wildcats",
       "buyer_roster_id": 3,
       "contender_value": 60.5,
-      "estimated_fit_score": 74.8,
+      "estimated_fit_score": 74.7,
       "player_id": "3558",
       "player_name": "Chris Jones",
       "position": "DL",
@@ -92682,7 +92682,7 @@
       "buyer_name": "Big Black Blocks",
       "buyer_roster_id": 8,
       "contender_value": 65.5,
-      "estimated_fit_score": 74.4,
+      "estimated_fit_score": 74.5,
       "player_id": "4217",
       "player_name": "George Kittle",
       "position": "TE",
@@ -92695,7 +92695,7 @@
       "buyer_name": "Big Black Blocks",
       "buyer_roster_id": 8,
       "contender_value": 60.5,
-      "estimated_fit_score": 74.4,
+      "estimated_fit_score": 74.5,
       "player_id": "3558",
       "player_name": "Chris Jones",
       "position": "DL",
@@ -92825,7 +92825,7 @@
       "buyer_name": "Springfield Wildcats",
       "buyer_roster_id": 3,
       "contender_value": 55.1,
-      "estimated_fit_score": 73.1,
+      "estimated_fit_score": 73.0,
       "player_id": "2311",
       "player_name": "Leonard Williams",
       "position": "DL",
@@ -92838,7 +92838,7 @@
       "buyer_name": "Big Black Blocks",
       "buyer_roster_id": 8,
       "contender_value": 55.1,
-      "estimated_fit_score": 72.7,
+      "estimated_fit_score": 72.8,
       "player_id": "2311",
       "player_name": "Leonard Williams",
       "position": "DL",
@@ -93007,7 +93007,7 @@
       "buyer_name": "Springfield Wildcats",
       "buyer_roster_id": 3,
       "contender_value": 63.5,
-      "estimated_fit_score": 71.2,
+      "estimated_fit_score": 71.1,
       "player_id": "2393",
       "player_name": "Danielle Hunter",
       "position": "DL",
@@ -93072,7 +93072,7 @@
       "buyer_name": "Big Black Blocks",
       "buyer_roster_id": 8,
       "contender_value": 63.5,
-      "estimated_fit_score": 70.8,
+      "estimated_fit_score": 70.9,
       "player_id": "2393",
       "player_name": "Danielle Hunter",
       "position": "DL",
@@ -93085,7 +93085,7 @@
       "buyer_name": "Big Black Blocks",
       "buyer_roster_id": 8,
       "contender_value": 68.5,
-      "estimated_fit_score": 70.8,
+      "estimated_fit_score": 70.9,
       "player_id": "3214",
       "player_name": "Hunter Henry",
       "position": "TE",
@@ -93098,7 +93098,7 @@
       "buyer_name": "Big Black Blocks",
       "buyer_roster_id": 8,
       "contender_value": 68.5,
-      "estimated_fit_score": 70.8,
+      "estimated_fit_score": 70.9,
       "player_id": "4993",
       "player_name": "Mike Gesicki",
       "position": "TE",
@@ -93316,10 +93316,23 @@
       "seller_roster_id": 12
     },
     {
+      "buyer_name": "Kindergarten Cop",
+      "buyer_roster_id": 10,
+      "contender_value": 77.6,
+      "estimated_fit_score": 70.0,
+      "player_id": "2307",
+      "player_name": "Marcus Mariota",
+      "position": "QB",
+      "reason": "Targets a weak QB group and may fit seller window 'contender'.",
+      "rebuild_value": 58.1,
+      "seller_name": "Steffmeff",
+      "seller_roster_id": 11
+    },
+    {
       "buyer_name": "Springfield Wildcats",
       "buyer_roster_id": 3,
       "contender_value": 59.5,
-      "estimated_fit_score": 70.0,
+      "estimated_fit_score": 69.9,
       "player_id": "5892",
       "player_name": "David Montgomery",
       "position": "RB",
@@ -93332,7 +93345,7 @@
       "buyer_name": "Springfield Wildcats",
       "buyer_roster_id": 3,
       "contender_value": 59.5,
-      "estimated_fit_score": 70.0,
+      "estimated_fit_score": 69.9,
       "player_id": "5967",
       "player_name": "Tony Pollard",
       "position": "RB",
@@ -93340,19 +93353,6 @@
       "rebuild_value": 40.5,
       "seller_name": "The Infinite Rebuild",
       "seller_roster_id": 12
-    },
-    {
-      "buyer_name": "Kindergarten Cop",
-      "buyer_roster_id": 10,
-      "contender_value": 77.6,
-      "estimated_fit_score": 70.0,
-      "player_id": "2307",
-      "player_name": "Marcus Mariota",
-      "position": "QB",
-      "reason": "Targets a weak QB group and may fit seller window 'contender'.",
-      "rebuild_value": 58.1,
-      "seller_name": "Steffmeff",
-      "seller_roster_id": 11
     },
     {
       "buyer_name": "Lonskiy",
@@ -93605,7 +93605,7 @@
       "buyer_name": "Big Black Blocks",
       "buyer_roster_id": 8,
       "contender_value": 71.5,
-      "estimated_fit_score": 67.2,
+      "estimated_fit_score": 67.3,
       "player_id": "5001",
       "player_name": "Dalton Schultz",
       "position": "TE",
@@ -93618,7 +93618,7 @@
       "buyer_name": "Big Black Blocks",
       "buyer_roster_id": 8,
       "contender_value": 71.5,
-      "estimated_fit_score": 67.2,
+      "estimated_fit_score": 67.3,
       "player_id": "7002",
       "player_name": "Juwan Johnson",
       "position": "TE",
@@ -93787,7 +93787,7 @@
       "buyer_name": "Springfield Wildcats",
       "buyer_roster_id": 3,
       "contender_value": 64.5,
-      "estimated_fit_score": 66.4,
+      "estimated_fit_score": 66.3,
       "player_id": "7611",
       "player_name": "Rhamondre Stevenson",
       "position": "RB",
@@ -93932,7 +93932,7 @@
       "buyer_name": "Springfield Wildcats",
       "buyer_roster_id": 3,
       "contender_value": 60.5,
-      "estimated_fit_score": 74.8,
+      "estimated_fit_score": 74.7,
       "player_id": "3558",
       "player_name": "Chris Jones",
       "position": "DL",
@@ -93984,7 +93984,7 @@
       "buyer_name": "Big Black Blocks",
       "buyer_roster_id": 8,
       "contender_value": 65.5,
-      "estimated_fit_score": 74.4,
+      "estimated_fit_score": 74.5,
       "player_id": "4217",
       "player_name": "George Kittle",
       "position": "TE",
@@ -93997,7 +93997,7 @@
       "buyer_name": "Big Black Blocks",
       "buyer_roster_id": 8,
       "contender_value": 60.5,
-      "estimated_fit_score": 74.4,
+      "estimated_fit_score": 74.5,
       "player_id": "3558",
       "player_name": "Chris Jones",
       "position": "DL",
@@ -94127,7 +94127,7 @@
       "buyer_name": "Springfield Wildcats",
       "buyer_roster_id": 3,
       "contender_value": 55.1,
-      "estimated_fit_score": 73.1,
+      "estimated_fit_score": 73.0,
       "player_id": "2311",
       "player_name": "Leonard Williams",
       "position": "DL",
@@ -94140,7 +94140,7 @@
       "buyer_name": "Big Black Blocks",
       "buyer_roster_id": 8,
       "contender_value": 55.1,
-      "estimated_fit_score": 72.7,
+      "estimated_fit_score": 72.8,
       "player_id": "2311",
       "player_name": "Leonard Williams",
       "position": "DL",
@@ -94309,7 +94309,7 @@
       "buyer_name": "Springfield Wildcats",
       "buyer_roster_id": 3,
       "contender_value": 63.5,
-      "estimated_fit_score": 71.2,
+      "estimated_fit_score": 71.1,
       "player_id": "2393",
       "player_name": "Danielle Hunter",
       "position": "DL",
@@ -94374,7 +94374,7 @@
       "buyer_name": "Big Black Blocks",
       "buyer_roster_id": 8,
       "contender_value": 63.5,
-      "estimated_fit_score": 70.8,
+      "estimated_fit_score": 70.9,
       "player_id": "2393",
       "player_name": "Danielle Hunter",
       "position": "DL",
@@ -94387,7 +94387,7 @@
       "buyer_name": "Big Black Blocks",
       "buyer_roster_id": 8,
       "contender_value": 68.5,
-      "estimated_fit_score": 70.8,
+      "estimated_fit_score": 70.9,
       "player_id": "3214",
       "player_name": "Hunter Henry",
       "position": "TE",
@@ -94400,7 +94400,7 @@
       "buyer_name": "Big Black Blocks",
       "buyer_roster_id": 8,
       "contender_value": 68.5,
-      "estimated_fit_score": 70.8,
+      "estimated_fit_score": 70.9,
       "player_id": "4993",
       "player_name": "Mike Gesicki",
       "position": "TE",
@@ -94618,10 +94618,23 @@
       "seller_roster_id": 12
     },
     {
+      "buyer_name": "Kindergarten Cop",
+      "buyer_roster_id": 10,
+      "contender_value": 77.6,
+      "estimated_fit_score": 70.0,
+      "player_id": "2307",
+      "player_name": "Marcus Mariota",
+      "position": "QB",
+      "reason": "Targets a weak QB group and may fit seller window 'contender'.",
+      "rebuild_value": 58.1,
+      "seller_name": "Steffmeff",
+      "seller_roster_id": 11
+    },
+    {
       "buyer_name": "Springfield Wildcats",
       "buyer_roster_id": 3,
       "contender_value": 59.5,
-      "estimated_fit_score": 70.0,
+      "estimated_fit_score": 69.9,
       "player_id": "5892",
       "player_name": "David Montgomery",
       "position": "RB",
@@ -94634,7 +94647,7 @@
       "buyer_name": "Springfield Wildcats",
       "buyer_roster_id": 3,
       "contender_value": 59.5,
-      "estimated_fit_score": 70.0,
+      "estimated_fit_score": 69.9,
       "player_id": "5967",
       "player_name": "Tony Pollard",
       "position": "RB",
@@ -94642,19 +94655,6 @@
       "rebuild_value": 40.5,
       "seller_name": "The Infinite Rebuild",
       "seller_roster_id": 12
-    },
-    {
-      "buyer_name": "Kindergarten Cop",
-      "buyer_roster_id": 10,
-      "contender_value": 77.6,
-      "estimated_fit_score": 70.0,
-      "player_id": "2307",
-      "player_name": "Marcus Mariota",
-      "position": "QB",
-      "reason": "Targets a weak QB group and may fit seller window 'contender'.",
-      "rebuild_value": 58.1,
-      "seller_name": "Steffmeff",
-      "seller_roster_id": 11
     },
     {
       "buyer_name": "Lonskiy",
@@ -94907,7 +94907,7 @@
       "buyer_name": "Big Black Blocks",
       "buyer_roster_id": 8,
       "contender_value": 71.5,
-      "estimated_fit_score": 67.2,
+      "estimated_fit_score": 67.3,
       "player_id": "5001",
       "player_name": "Dalton Schultz",
       "position": "TE",
@@ -94920,7 +94920,7 @@
       "buyer_name": "Big Black Blocks",
       "buyer_roster_id": 8,
       "contender_value": 71.5,
-      "estimated_fit_score": 67.2,
+      "estimated_fit_score": 67.3,
       "player_id": "7002",
       "player_name": "Juwan Johnson",
       "position": "TE",
@@ -95089,7 +95089,7 @@
       "buyer_name": "Springfield Wildcats",
       "buyer_roster_id": 3,
       "contender_value": 64.5,
-      "estimated_fit_score": 66.4,
+      "estimated_fit_score": 66.3,
       "player_id": "7611",
       "player_name": "Rhamondre Stevenson",
       "position": "RB",
@@ -102926,6 +102926,35 @@
         "status_updated": 1790179535557,
         "transaction_id": "1407766985135202304",
         "type": "waiver",
+        "waiver_budget": []
+      },
+      {
+        "adds": {
+          "10213": 8,
+          "13377": 3
+        },
+        "consenter_ids": [
+          3,
+          8
+        ],
+        "created": 1789973668165,
+        "creator": "1368351367726403584",
+        "draft_picks": [],
+        "drops": {
+          "10213": 3,
+          "13377": 8
+        },
+        "leg": 2,
+        "metadata": null,
+        "roster_ids": [
+          3,
+          8
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1791184486597,
+        "transaction_id": "1407655226063822848",
+        "type": "trade",
         "waiver_budget": []
       },
       {
