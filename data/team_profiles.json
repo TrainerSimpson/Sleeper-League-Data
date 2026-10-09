@@ -302,7 +302,7 @@
     "lineups": {
       "future": {
         "average": 81.7,
-        "bench_value": 2021.1,
+        "bench_value": 2021.8,
         "filled": 24,
         "metric": "rebuild",
         "required": 24,
@@ -350,8 +350,8 @@
             "slot": "WR"
           },
           {
-            "full_name": "Tre' Harris",
-            "player_id": "12509",
+            "full_name": "Darius Cooper",
+            "player_id": "13150",
             "position": "WR",
             "score": 88.3,
             "slot": "WR"
@@ -406,13 +406,6 @@
             "slot": "DB"
           },
           {
-            "full_name": "Chris Johnson",
-            "player_id": "13370",
-            "position": "DB",
-            "score": 82.2,
-            "slot": "DB"
-          },
-          {
             "full_name": "Dillon Thieneman",
             "player_id": "13371",
             "position": "DB",
@@ -420,11 +413,25 @@
             "slot": "DB"
           },
           {
+            "full_name": "Malik Muhammad",
+            "player_id": "13489",
+            "position": "DB",
+            "score": 77.4,
+            "slot": "DB"
+          },
+          {
+            "full_name": "Tre' Harris",
+            "player_id": "12509",
+            "position": "WR",
+            "score": 88.3,
+            "slot": "SUPER_FLEX"
+          },
+          {
             "full_name": "Trey McBride",
             "player_id": "8130",
             "position": "TE",
             "score": 85.5,
-            "slot": "SUPER_FLEX"
+            "slot": "FLEX"
           },
           {
             "full_name": "Mike Washington",
@@ -448,20 +455,6 @@
             "slot": "FLEX"
           },
           {
-            "full_name": "Isaiah Williams",
-            "player_id": "11608",
-            "position": "WR",
-            "score": 71.0,
-            "slot": "FLEX"
-          },
-          {
-            "full_name": "Malik Muhammad",
-            "player_id": "13489",
-            "position": "DB",
-            "score": 77.4,
-            "slot": "IDP_FLEX"
-          },
-          {
             "full_name": "Travis Hunter",
             "player_id": "12530",
             "position": "DB",
@@ -474,13 +467,20 @@
             "position": "LB",
             "score": 65.4,
             "slot": "IDP_FLEX"
+          },
+          {
+            "full_name": "CJ Allen",
+            "player_id": "13388",
+            "position": "LB",
+            "score": 64.2,
+            "slot": "IDP_FLEX"
           }
         ],
-        "total": 1961.2
+        "total": 1960.5
       },
       "win_now": {
-        "average": 79.2,
-        "bench_value": 1712.4,
+        "average": 79.7,
+        "bench_value": 1699.8,
         "filled": 24,
         "metric": "contender",
         "required": 24,
@@ -528,8 +528,8 @@
             "slot": "WR"
           },
           {
-            "full_name": "Tre' Harris",
-            "player_id": "12509",
+            "full_name": "Darius Cooper",
+            "player_id": "13150",
             "position": "WR",
             "score": 87.3,
             "slot": "WR"
@@ -591,18 +591,25 @@
             "slot": "DB"
           },
           {
-            "full_name": "Chris Johnson",
-            "player_id": "13370",
+            "full_name": "Malik Muhammad",
+            "player_id": "13489",
             "position": "DB",
-            "score": 72.2,
+            "score": 70.4,
             "slot": "DB"
+          },
+          {
+            "full_name": "Tre' Harris",
+            "player_id": "12509",
+            "position": "WR",
+            "score": 87.3,
+            "slot": "SUPER_FLEX"
           },
           {
             "full_name": "Colston Loveland",
             "player_id": "12517",
             "position": "TE",
             "score": 82.7,
-            "slot": "SUPER_FLEX"
+            "slot": "FLEX"
           },
           {
             "full_name": "Cade Otton",
@@ -626,20 +633,6 @@
             "slot": "FLEX"
           },
           {
-            "full_name": "Isaiah Williams",
-            "player_id": "11608",
-            "position": "WR",
-            "score": 65.0,
-            "slot": "FLEX"
-          },
-          {
-            "full_name": "Malik Muhammad",
-            "player_id": "13489",
-            "position": "DB",
-            "score": 70.4,
-            "slot": "IDP_FLEX"
-          },
-          {
             "full_name": "Alontae Taylor",
             "player_id": "8333",
             "position": "DB",
@@ -652,17 +645,24 @@
             "position": "DB",
             "score": 64.1,
             "slot": "IDP_FLEX"
+          },
+          {
+            "full_name": "Keisean Nixon",
+            "player_id": "6333",
+            "position": "DB",
+            "score": 62.5,
+            "slot": "IDP_FLEX"
           }
         ],
-        "total": 1900.0
+        "total": 1912.6
       }
     },
     "positions": {
       "DB": {
-        "contender_top": 288.2,
+        "contender_top": 284.5,
         "count": 9,
-        "market": 513.5,
-        "rebuild_top": 322.2
+        "market": 493.5,
+        "rebuild_top": 308.1
       },
       "DL": {
         "contender_top": 290.9,
@@ -695,20 +695,20 @@
         "rebuild_top": 309.3
       },
       "WR": {
-        "contender_top": 351.2,
+        "contender_top": 361.5,
         "count": 17,
-        "market": 944.0,
-        "rebuild_top": 352.2
+        "market": 964.0,
+        "rebuild_top": 368.5
       }
     },
     "power_rank": 1,
     "roster_id": 6,
     "scores": {
       "future": 81.7,
-      "liquidity": 69.9,
+      "liquidity": 70.1,
       "market_total": 3470.8,
       "risk": 28.5,
-      "win_now": 79.2
+      "win_now": 79.7
     },
     "team_name": "The Dawg Side",
     "window": "contender"
@@ -2654,7 +2654,7 @@
     "lineups": {
       "future": {
         "average": 78.7,
-        "bench_value": 1955.4,
+        "bench_value": 1952.4,
         "filled": 24,
         "metric": "rebuild",
         "required": 24,
@@ -2832,7 +2832,7 @@
       },
       "win_now": {
         "average": 77.3,
-        "bench_value": 1762.4,
+        "bench_value": 1759.4,
         "filled": 24,
         "metric": "contender",
         "required": 24,
@@ -3037,7 +3037,7 @@
       "RB": {
         "contender_top": 251.1,
         "count": 8,
-        "market": 353.5,
+        "market": 350.5,
         "rebuild_top": 264.5
       },
       "TE": {
@@ -3058,7 +3058,7 @@
     "scores": {
       "future": 78.7,
       "liquidity": 69.0,
-      "market_total": 3500.9,
+      "market_total": 3497.9,
       "risk": 31.2,
       "win_now": 77.3
     },
@@ -3228,7 +3228,7 @@
     "lineups": {
       "future": {
         "average": 73.1,
-        "bench_value": 1961.0,
+        "bench_value": 1955.0,
         "filled": 24,
         "metric": "rebuild",
         "required": 24,
@@ -3406,7 +3406,7 @@
       },
       "win_now": {
         "average": 76.7,
-        "bench_value": 1764.7,
+        "bench_value": 1756.6,
         "filled": 24,
         "metric": "contender",
         "required": 24,
@@ -3611,7 +3611,7 @@
       "RB": {
         "contender_top": 302.8,
         "count": 10,
-        "market": 506.8,
+        "market": 500.8,
         "rebuild_top": 298.8
       },
       "TE": {
@@ -3632,7 +3632,7 @@
     "scores": {
       "future": 73.1,
       "liquidity": 69.3,
-      "market_total": 3503.8,
+      "market_total": 3497.8,
       "risk": 32.6,
       "win_now": 76.7
     },
@@ -4362,7 +4362,7 @@
     "lineups": {
       "future": {
         "average": 72.6,
-        "bench_value": 1080.6,
+        "bench_value": 1077.6,
         "filled": 24,
         "metric": "rebuild",
         "required": 24,
@@ -4540,7 +4540,7 @@
       },
       "win_now": {
         "average": 76.7,
-        "bench_value": 1067.3,
+        "bench_value": 1064.3,
         "filled": 24,
         "metric": "contender",
         "required": 24,
@@ -4745,7 +4745,7 @@
       "RB": {
         "contender_top": 286.9,
         "count": 10,
-        "market": 485.8,
+        "market": 482.8,
         "rebuild_top": 301.3
       },
       "TE": {
@@ -4766,7 +4766,7 @@
     "scores": {
       "future": 72.6,
       "liquidity": 66.8,
-      "market_total": 2738.7,
+      "market_total": 2735.7,
       "risk": 32.8,
       "win_now": 76.7
     },
@@ -6616,7 +6616,7 @@
     "lineups": {
       "future": {
         "average": 70.8,
-        "bench_value": 2036.7,
+        "bench_value": 2030.7,
         "filled": 24,
         "metric": "rebuild",
         "required": 24,
@@ -6794,7 +6794,7 @@
       },
       "win_now": {
         "average": 74.4,
-        "bench_value": 1857.5,
+        "bench_value": 1849.4,
         "filled": 24,
         "metric": "contender",
         "required": 24,
@@ -7011,7 +7011,7 @@
       "WR": {
         "contender_top": 308.3,
         "count": 17,
-        "market": 986.5,
+        "market": 980.5,
         "rebuild_top": 289.7
       }
     },
@@ -7020,8 +7020,8 @@
     "scores": {
       "future": 70.8,
       "liquidity": 71.7,
-      "market_total": 3522.9,
-      "risk": 34.1,
+      "market_total": 3516.9,
+      "risk": 34.2,
       "win_now": 74.4
     },
     "team_name": "Ostalb Highlanders",

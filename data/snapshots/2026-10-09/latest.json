@@ -17051,7 +17051,7 @@
       "type": "snake"
     }
   ],
-  "generated_at": "2026-10-09T09:12:36.602395+00:00",
+  "generated_at": "2026-10-09T16:16:57.107284+00:00",
   "league": {
     "avatar": "7c15319eacc56bfdeb741f4b006ca693",
     "bracket_id": null,
@@ -17220,7 +17220,7 @@
       "daily_waivers_base": 4,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 8,
+      "daily_waivers_last_ran": 9,
       "disable_adds": 0,
       "disable_trades": 0,
       "divisions": 0,
@@ -27087,7 +27087,7 @@
           "9229",
           "12527",
           "12534",
-          "12530",
+          "13150",
           "8112",
           "13346",
           "8130",
@@ -27107,7 +27107,7 @@
           "8333",
           "6333",
           "13489",
-          "13370"
+          "12530"
         ],
         "starters_points": [
           0.0,
@@ -31013,7 +31013,7 @@
         "9229",
         "12527",
         "12534",
-        "12530",
+        "13150",
         "8112",
         "13346",
         "8130",
@@ -31033,7 +31033,7 @@
         "8333",
         "6333",
         "13489",
-        "13370"
+        "12530"
       ],
       "taxi": [
         "13335",
@@ -32143,7 +32143,7 @@
       "lineups": {
         "future": {
           "average": 81.7,
-          "bench_value": 2021.1,
+          "bench_value": 2021.8,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
@@ -32191,8 +32191,8 @@
               "slot": "WR"
             },
             {
-              "full_name": "Tre' Harris",
-              "player_id": "12509",
+              "full_name": "Darius Cooper",
+              "player_id": "13150",
               "position": "WR",
               "score": 88.3,
               "slot": "WR"
@@ -32247,13 +32247,6 @@
               "slot": "DB"
             },
             {
-              "full_name": "Chris Johnson",
-              "player_id": "13370",
-              "position": "DB",
-              "score": 82.2,
-              "slot": "DB"
-            },
-            {
               "full_name": "Dillon Thieneman",
               "player_id": "13371",
               "position": "DB",
@@ -32261,11 +32254,25 @@
               "slot": "DB"
             },
             {
+              "full_name": "Malik Muhammad",
+              "player_id": "13489",
+              "position": "DB",
+              "score": 77.4,
+              "slot": "DB"
+            },
+            {
+              "full_name": "Tre' Harris",
+              "player_id": "12509",
+              "position": "WR",
+              "score": 88.3,
+              "slot": "SUPER_FLEX"
+            },
+            {
               "full_name": "Trey McBride",
               "player_id": "8130",
               "position": "TE",
               "score": 85.5,
-              "slot": "SUPER_FLEX"
+              "slot": "FLEX"
             },
             {
               "full_name": "Mike Washington",
@@ -32289,20 +32296,6 @@
               "slot": "FLEX"
             },
             {
-              "full_name": "Isaiah Williams",
-              "player_id": "11608",
-              "position": "WR",
-              "score": 71.0,
-              "slot": "FLEX"
-            },
-            {
-              "full_name": "Malik Muhammad",
-              "player_id": "13489",
-              "position": "DB",
-              "score": 77.4,
-              "slot": "IDP_FLEX"
-            },
-            {
               "full_name": "Travis Hunter",
               "player_id": "12530",
               "position": "DB",
@@ -32315,13 +32308,20 @@
               "position": "LB",
               "score": 65.4,
               "slot": "IDP_FLEX"
+            },
+            {
+              "full_name": "CJ Allen",
+              "player_id": "13388",
+              "position": "LB",
+              "score": 64.2,
+              "slot": "IDP_FLEX"
             }
           ],
-          "total": 1961.2
+          "total": 1960.5
         },
         "win_now": {
-          "average": 79.2,
-          "bench_value": 1712.4,
+          "average": 79.7,
+          "bench_value": 1699.8,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -32369,8 +32369,8 @@
               "slot": "WR"
             },
             {
-              "full_name": "Tre' Harris",
-              "player_id": "12509",
+              "full_name": "Darius Cooper",
+              "player_id": "13150",
               "position": "WR",
               "score": 87.3,
               "slot": "WR"
@@ -32432,18 +32432,25 @@
               "slot": "DB"
             },
             {
-              "full_name": "Chris Johnson",
-              "player_id": "13370",
+              "full_name": "Malik Muhammad",
+              "player_id": "13489",
               "position": "DB",
-              "score": 72.2,
+              "score": 70.4,
               "slot": "DB"
+            },
+            {
+              "full_name": "Tre' Harris",
+              "player_id": "12509",
+              "position": "WR",
+              "score": 87.3,
+              "slot": "SUPER_FLEX"
             },
             {
               "full_name": "Colston Loveland",
               "player_id": "12517",
               "position": "TE",
               "score": 82.7,
-              "slot": "SUPER_FLEX"
+              "slot": "FLEX"
             },
             {
               "full_name": "Cade Otton",
@@ -32467,20 +32474,6 @@
               "slot": "FLEX"
             },
             {
-              "full_name": "Isaiah Williams",
-              "player_id": "11608",
-              "position": "WR",
-              "score": 65.0,
-              "slot": "FLEX"
-            },
-            {
-              "full_name": "Malik Muhammad",
-              "player_id": "13489",
-              "position": "DB",
-              "score": 70.4,
-              "slot": "IDP_FLEX"
-            },
-            {
               "full_name": "Alontae Taylor",
               "player_id": "8333",
               "position": "DB",
@@ -32493,17 +32486,24 @@
               "position": "DB",
               "score": 64.1,
               "slot": "IDP_FLEX"
+            },
+            {
+              "full_name": "Keisean Nixon",
+              "player_id": "6333",
+              "position": "DB",
+              "score": 62.5,
+              "slot": "IDP_FLEX"
             }
           ],
-          "total": 1900.0
+          "total": 1912.6
         }
       },
       "positions": {
         "DB": {
-          "contender_top": 288.2,
+          "contender_top": 284.5,
           "count": 9,
-          "market": 513.5,
-          "rebuild_top": 322.2
+          "market": 493.5,
+          "rebuild_top": 308.1
         },
         "DL": {
           "contender_top": 290.9,
@@ -32536,20 +32536,20 @@
           "rebuild_top": 309.3
         },
         "WR": {
-          "contender_top": 351.2,
+          "contender_top": 361.5,
           "count": 17,
-          "market": 944.0,
-          "rebuild_top": 352.2
+          "market": 964.0,
+          "rebuild_top": 368.5
         }
       },
       "power_rank": 1,
       "roster_id": 6,
       "scores": {
         "future": 81.7,
-        "liquidity": 69.9,
+        "liquidity": 70.1,
         "market_total": 3470.8,
         "risk": 28.5,
-        "win_now": 79.2
+        "win_now": 79.7
       },
       "team_name": "The Dawg Side",
       "window": "contender"
@@ -34495,7 +34495,7 @@
       "lineups": {
         "future": {
           "average": 78.7,
-          "bench_value": 1955.4,
+          "bench_value": 1952.4,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
@@ -34673,7 +34673,7 @@
         },
         "win_now": {
           "average": 77.3,
-          "bench_value": 1762.4,
+          "bench_value": 1759.4,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -34878,7 +34878,7 @@
         "RB": {
           "contender_top": 251.1,
           "count": 8,
-          "market": 353.5,
+          "market": 350.5,
           "rebuild_top": 264.5
         },
         "TE": {
@@ -34899,7 +34899,7 @@
       "scores": {
         "future": 78.7,
         "liquidity": 69.0,
-        "market_total": 3500.9,
+        "market_total": 3497.9,
         "risk": 31.2,
         "win_now": 77.3
       },
@@ -35069,7 +35069,7 @@
       "lineups": {
         "future": {
           "average": 73.1,
-          "bench_value": 1961.0,
+          "bench_value": 1955.0,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
@@ -35247,7 +35247,7 @@
         },
         "win_now": {
           "average": 76.7,
-          "bench_value": 1764.7,
+          "bench_value": 1756.6,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -35452,7 +35452,7 @@
         "RB": {
           "contender_top": 302.8,
           "count": 10,
-          "market": 506.8,
+          "market": 500.8,
           "rebuild_top": 298.8
         },
         "TE": {
@@ -35473,7 +35473,7 @@
       "scores": {
         "future": 73.1,
         "liquidity": 69.3,
-        "market_total": 3503.8,
+        "market_total": 3497.8,
         "risk": 32.6,
         "win_now": 76.7
       },
@@ -36203,7 +36203,7 @@
       "lineups": {
         "future": {
           "average": 72.6,
-          "bench_value": 1080.6,
+          "bench_value": 1077.6,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
@@ -36381,7 +36381,7 @@
         },
         "win_now": {
           "average": 76.7,
-          "bench_value": 1067.3,
+          "bench_value": 1064.3,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -36586,7 +36586,7 @@
         "RB": {
           "contender_top": 286.9,
           "count": 10,
-          "market": 485.8,
+          "market": 482.8,
           "rebuild_top": 301.3
         },
         "TE": {
@@ -36607,7 +36607,7 @@
       "scores": {
         "future": 72.6,
         "liquidity": 66.8,
-        "market_total": 2738.7,
+        "market_total": 2735.7,
         "risk": 32.8,
         "win_now": 76.7
       },
@@ -38457,7 +38457,7 @@
       "lineups": {
         "future": {
           "average": 70.8,
-          "bench_value": 2036.7,
+          "bench_value": 2030.7,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
@@ -38635,7 +38635,7 @@
         },
         "win_now": {
           "average": 74.4,
-          "bench_value": 1857.5,
+          "bench_value": 1849.4,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -38852,7 +38852,7 @@
         "WR": {
           "contender_top": 308.3,
           "count": 17,
-          "market": 986.5,
+          "market": 980.5,
           "rebuild_top": 289.7
         }
       },
@@ -38861,8 +38861,8 @@
       "scores": {
         "future": 70.8,
         "liquidity": 71.7,
-        "market_total": 3522.9,
-        "risk": 34.1,
+        "market_total": 3516.9,
+        "risk": 34.2,
         "win_now": 74.4
       },
       "team_name": "Ostalb Highlanders",
@@ -48154,7 +48154,7 @@
           "full_name": "Breece Hall",
           "injury_body_part": "Quadriceps",
           "injury_notes": null,
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "is_reserve": false,
           "is_starter": false,
           "is_taxi": false,
@@ -48168,12 +48168,12 @@
           "team": "NYJ",
           "value": {
             "confidence": 55.0,
-            "contender": 40.1,
+            "contender": 32.0,
             "liquidity": 85.1,
-            "market": 41.5,
+            "market": 35.5,
             "player_id": "8155",
-            "rebuild": 47.5,
-            "risk": 44.0,
+            "rebuild": 41.5,
+            "risk": 50.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 4
@@ -49499,7 +49499,7 @@
           "position": "RB",
           "search_full_name": "kaytronallen",
           "status": "Active",
-          "team": "WAS",
+          "team": null,
           "value": {
             "confidence": 35.0,
             "contender": 56.0,
@@ -52040,7 +52040,7 @@
             "position": "RB",
             "search_full_name": "kaytronallen",
             "status": "Active",
-            "team": "WAS",
+            "team": null,
             "value": {
               "confidence": 35.0,
               "contender": 56.0,
@@ -52103,7 +52103,7 @@
             "full_name": "Breece Hall",
             "injury_body_part": "Quadriceps",
             "injury_notes": null,
-            "injury_status": "Doubtful",
+            "injury_status": "Out",
             "is_reserve": false,
             "is_starter": false,
             "is_taxi": false,
@@ -52117,12 +52117,12 @@
             "team": "NYJ",
             "value": {
               "confidence": 55.0,
-              "contender": 40.1,
+              "contender": 32.0,
               "liquidity": 85.1,
-              "market": 41.5,
+              "market": 35.5,
               "player_id": "8155",
-              "rebuild": 47.5,
-              "risk": 44.0,
+              "rebuild": 41.5,
+              "risk": 50.0,
               "source": "heuristic-v0.2"
             },
             "years_exp": 4
@@ -59946,7 +59946,7 @@
           "active": true,
           "age": 26,
           "age_bucket": "prime",
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -59969,11 +59969,11 @@
           "team": "GB",
           "value": {
             "confidence": 55.0,
-            "contender": 35.1,
+            "contender": 32.1,
             "liquidity": 84.0,
-            "market": 36.5,
+            "market": 33.5,
             "player_id": "11370",
-            "rebuild": 34.5,
+            "rebuild": 31.5,
             "risk": 50.0,
             "source": "heuristic-v0.2"
           },
@@ -61514,7 +61514,7 @@
             "active": true,
             "age": 26,
             "age_bucket": "prime",
-            "depth_chart_order": 3,
+            "depth_chart_order": 4,
             "depth_chart_position": "RB",
             "fantasy_positions": [
               "RB"
@@ -61537,11 +61537,11 @@
             "team": "GB",
             "value": {
               "confidence": 55.0,
-              "contender": 35.1,
+              "contender": 32.1,
               "liquidity": 84.0,
-              "market": 36.5,
+              "market": 33.5,
               "player_id": "11370",
-              "rebuild": 34.5,
+              "rebuild": 31.5,
               "risk": 50.0,
               "source": "heuristic-v0.2"
             },
@@ -63483,7 +63483,7 @@
           "injury_notes": null,
           "injury_status": null,
           "is_reserve": false,
-          "is_starter": false,
+          "is_starter": true,
           "is_taxi": false,
           "last_name": "Cooper",
           "normalized_position": "WR",
@@ -63494,12 +63494,12 @@
           "status": "Active",
           "team": "PHI",
           "value": {
-            "confidence": 55.0,
-            "contender": 59.3,
+            "confidence": 70.0,
+            "contender": 87.3,
             "liquidity": 91.2,
-            "market": 59.3,
+            "market": 79.3,
             "player_id": "13150",
-            "rebuild": 68.3,
+            "rebuild": 88.3,
             "risk": 24.0,
             "source": "heuristic-v0.2"
           },
@@ -64113,7 +64113,7 @@
           "injury_notes": null,
           "injury_status": null,
           "is_reserve": false,
-          "is_starter": true,
+          "is_starter": false,
           "is_taxi": false,
           "last_name": "Johnson",
           "normalized_position": "DB",
@@ -64124,12 +64124,12 @@
           "status": "Active",
           "team": "MIA",
           "value": {
-            "confidence": 70.0,
-            "contender": 72.2,
+            "confidence": 55.0,
+            "contender": 44.2,
             "liquidity": 44.3,
-            "market": 64.2,
+            "market": 44.2,
             "player_id": "13370",
-            "rebuild": 82.2,
+            "rebuild": 62.2,
             "risk": 24.0,
             "source": "heuristic-v0.2"
           },
@@ -65103,43 +65103,6 @@
           },
           {
             "active": true,
-            "age": 21,
-            "age_bucket": "young",
-            "depth_chart_order": 1,
-            "depth_chart_position": "NB",
-            "fantasy_positions": [
-              "DB"
-            ],
-            "first_name": "Chris",
-            "full_name": "Chris Johnson",
-            "injury_body_part": null,
-            "injury_notes": null,
-            "injury_status": null,
-            "is_reserve": false,
-            "is_starter": true,
-            "is_taxi": false,
-            "last_name": "Johnson",
-            "normalized_position": "DB",
-            "number": 3,
-            "player_id": "13370",
-            "position": "DB",
-            "search_full_name": "chrisjohnson",
-            "status": "Active",
-            "team": "MIA",
-            "value": {
-              "confidence": 70.0,
-              "contender": 72.2,
-              "liquidity": 44.3,
-              "market": 64.2,
-              "player_id": "13370",
-              "rebuild": 82.2,
-              "risk": 24.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 0
-          },
-          {
-            "active": true,
             "age": 22,
             "age_bucket": "young",
             "depth_chart_order": 1,
@@ -65323,6 +65286,43 @@
               "source": "heuristic-v0.2"
             },
             "years_exp": 7
+          },
+          {
+            "active": true,
+            "age": 21,
+            "age_bucket": "young",
+            "depth_chart_order": 1,
+            "depth_chart_position": "NB",
+            "fantasy_positions": [
+              "DB"
+            ],
+            "first_name": "Chris",
+            "full_name": "Chris Johnson",
+            "injury_body_part": null,
+            "injury_notes": null,
+            "injury_status": null,
+            "is_reserve": false,
+            "is_starter": false,
+            "is_taxi": false,
+            "last_name": "Johnson",
+            "normalized_position": "DB",
+            "number": 3,
+            "player_id": "13370",
+            "position": "DB",
+            "search_full_name": "chrisjohnson",
+            "status": "Active",
+            "team": "MIA",
+            "value": {
+              "confidence": 55.0,
+              "contender": 44.2,
+              "liquidity": 44.3,
+              "market": 44.2,
+              "player_id": "13370",
+              "rebuild": 62.2,
+              "risk": 24.0,
+              "source": "heuristic-v0.2"
+            },
+            "years_exp": 0
           },
           {
             "active": true,
@@ -66790,6 +66790,43 @@
             "fantasy_positions": [
               "WR"
             ],
+            "first_name": "Darius",
+            "full_name": "Darius Cooper",
+            "injury_body_part": null,
+            "injury_notes": null,
+            "injury_status": null,
+            "is_reserve": false,
+            "is_starter": true,
+            "is_taxi": false,
+            "last_name": "Cooper",
+            "normalized_position": "WR",
+            "number": 80,
+            "player_id": "13150",
+            "position": "WR",
+            "search_full_name": "dariuscooper",
+            "status": "Active",
+            "team": "PHI",
+            "value": {
+              "confidence": 70.0,
+              "contender": 87.3,
+              "liquidity": 91.2,
+              "market": 79.3,
+              "player_id": "13150",
+              "rebuild": 88.3,
+              "risk": 24.0,
+              "source": "heuristic-v0.2"
+            },
+            "years_exp": 1
+          },
+          {
+            "active": true,
+            "age": 24,
+            "age_bucket": "young",
+            "depth_chart_order": 3,
+            "depth_chart_position": "RWR",
+            "fantasy_positions": [
+              "WR"
+            ],
             "first_name": "Tre'",
             "full_name": "Tre' Harris",
             "injury_body_part": null,
@@ -67118,43 +67155,6 @@
             "active": true,
             "age": 24,
             "age_bucket": "young",
-            "depth_chart_order": 3,
-            "depth_chart_position": "RWR",
-            "fantasy_positions": [
-              "WR"
-            ],
-            "first_name": "Darius",
-            "full_name": "Darius Cooper",
-            "injury_body_part": null,
-            "injury_notes": null,
-            "injury_status": null,
-            "is_reserve": false,
-            "is_starter": false,
-            "is_taxi": false,
-            "last_name": "Cooper",
-            "normalized_position": "WR",
-            "number": 80,
-            "player_id": "13150",
-            "position": "WR",
-            "search_full_name": "dariuscooper",
-            "status": "Active",
-            "team": "PHI",
-            "value": {
-              "confidence": 55.0,
-              "contender": 59.3,
-              "liquidity": 91.2,
-              "market": 59.3,
-              "player_id": "13150",
-              "rebuild": 68.3,
-              "risk": 24.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 1
-          },
-          {
-            "active": true,
-            "age": 24,
-            "age_bucket": "young",
             "depth_chart_order": 7,
             "depth_chart_position": "SWR",
             "fantasy_positions": [
@@ -67402,7 +67402,7 @@
         "9229",
         "12527",
         "12534",
-        "12530",
+        "13150",
         "8112",
         "13346",
         "8130",
@@ -67422,7 +67422,7 @@
         "8333",
         "6333",
         "13489",
-        "13370"
+        "12530"
       ],
       "taxi_ids": [
         "13335",
@@ -67896,7 +67896,7 @@
           "full_name": "Adonai Mitchell",
           "injury_body_part": "Finger",
           "injury_notes": null,
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "is_reserve": false,
           "is_starter": false,
           "is_taxi": false,
@@ -67910,12 +67910,12 @@
           "team": "NYJ",
           "value": {
             "confidence": 55.0,
-            "contender": 55.4,
+            "contender": 47.3,
             "liquidity": 91.2,
-            "market": 56.8,
+            "market": 50.8,
             "player_id": "11625",
-            "rebuild": 65.8,
-            "risk": 28.0,
+            "rebuild": 59.8,
+            "risk": 34.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 2
@@ -72098,7 +72098,7 @@
             "full_name": "Adonai Mitchell",
             "injury_body_part": "Finger",
             "injury_notes": null,
-            "injury_status": "Doubtful",
+            "injury_status": "Out",
             "is_reserve": false,
             "is_starter": false,
             "is_taxi": false,
@@ -72112,12 +72112,12 @@
             "team": "NYJ",
             "value": {
               "confidence": 55.0,
-              "contender": 55.4,
+              "contender": 47.3,
               "liquidity": 91.2,
-              "market": 56.8,
+              "market": 50.8,
               "player_id": "11625",
-              "rebuild": 65.8,
-              "risk": 28.0,
+              "rebuild": 59.8,
+              "risk": 34.0,
               "source": "heuristic-v0.2"
             },
             "years_exp": 2
@@ -72660,7 +72660,7 @@
           "active": true,
           "age": 28,
           "age_bucket": "prime",
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -72683,11 +72683,11 @@
           "team": "GB",
           "value": {
             "confidence": 55.0,
-            "contender": 27.5,
+            "contender": 24.5,
             "liquidity": 82.0,
-            "market": 27.5,
+            "market": 24.5,
             "player_id": "5850",
-            "rebuild": 19.5,
+            "rebuild": 16.5,
             "risk": 58.0,
             "source": "heuristic-v0.2"
           },
@@ -75713,7 +75713,7 @@
             "active": true,
             "age": 28,
             "age_bucket": "prime",
-            "depth_chart_order": 4,
+            "depth_chart_order": 5,
             "depth_chart_position": "RB",
             "fantasy_positions": [
               "RB"
@@ -75736,11 +75736,11 @@
             "team": "GB",
             "value": {
               "confidence": 55.0,
-              "contender": 27.5,
+              "contender": 24.5,
               "liquidity": 82.0,
-              "market": 27.5,
+              "market": 24.5,
               "player_id": "5850",
-              "rebuild": 19.5,
+              "rebuild": 16.5,
               "risk": 58.0,
               "source": "heuristic-v0.2"
             },
@@ -95408,7 +95408,7 @@
       "buyer_name": "The Dawg Side",
       "buyer_roster_id": 6,
       "contender_value": 63.5,
-      "estimated_fit_score": 71.2,
+      "estimated_fit_score": 71.3,
       "player_id": "2393",
       "player_name": "Danielle Hunter",
       "position": "DL",
@@ -95876,7 +95876,7 @@
       "buyer_name": "The Dawg Side",
       "buyer_roster_id": 6,
       "contender_value": 59.5,
-      "estimated_fit_score": 67.6,
+      "estimated_fit_score": 67.7,
       "player_id": "5341",
       "player_name": "Taron Johnson",
       "position": "DB",
@@ -95889,7 +95889,7 @@
       "buyer_name": "The Dawg Side",
       "buyer_roster_id": 6,
       "contender_value": 59.5,
-      "estimated_fit_score": 67.6,
+      "estimated_fit_score": 67.7,
       "player_id": "4081",
       "player_name": "Budda Baker",
       "position": "DB",
@@ -96710,7 +96710,7 @@
       "buyer_name": "The Dawg Side",
       "buyer_roster_id": 6,
       "contender_value": 63.5,
-      "estimated_fit_score": 71.2,
+      "estimated_fit_score": 71.3,
       "player_id": "2393",
       "player_name": "Danielle Hunter",
       "position": "DL",
@@ -97178,7 +97178,7 @@
       "buyer_name": "The Dawg Side",
       "buyer_roster_id": 6,
       "contender_value": 59.5,
-      "estimated_fit_score": 67.6,
+      "estimated_fit_score": 67.7,
       "player_id": "5341",
       "player_name": "Taron Johnson",
       "position": "DB",
@@ -97191,7 +97191,7 @@
       "buyer_name": "The Dawg Side",
       "buyer_roster_id": 6,
       "contender_value": 59.5,
-      "estimated_fit_score": 67.6,
+      "estimated_fit_score": 67.7,
       "player_id": "4081",
       "player_name": "Budda Baker",
       "position": "DB",
