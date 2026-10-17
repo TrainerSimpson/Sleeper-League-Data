@@ -456,7 +456,7 @@
         "full_name": "Nick Bosa",
         "injury_body_part": "Calf",
         "injury_notes": "Strain",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "is_reserve": false,
         "is_starter": true,
         "is_taxi": false,
@@ -470,12 +470,12 @@
         "team": "SF",
         "value": {
           "confidence": 70.0,
-          "contender": 67.1,
+          "contender": 59.0,
           "liquidity": 47.0,
-          "market": 60.5,
+          "market": 54.5,
           "player_id": "5816",
-          "rebuild": 57.5,
-          "risk": 34.0,
+          "rebuild": 51.5,
+          "risk": 40.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 7
@@ -2797,7 +2797,7 @@
           "full_name": "Nick Bosa",
           "injury_body_part": "Calf",
           "injury_notes": "Strain",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "is_reserve": false,
           "is_starter": true,
           "is_taxi": false,
@@ -2811,12 +2811,12 @@
           "team": "SF",
           "value": {
             "confidence": 70.0,
-            "contender": 67.1,
+            "contender": 59.0,
             "liquidity": 47.0,
-            "market": 60.5,
+            "market": 54.5,
             "player_id": "5816",
-            "rebuild": 57.5,
-            "risk": 34.0,
+            "rebuild": 51.5,
+            "risk": 40.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 7
@@ -5091,7 +5091,7 @@
         "full_name": "Skyy Moore",
         "injury_body_part": "Ankle",
         "injury_notes": null,
-        "injury_status": "Out",
+        "injury_status": "IR",
         "is_reserve": false,
         "is_starter": false,
         "is_taxi": false,
@@ -6610,9 +6610,9 @@
         ],
         "first_name": "Treylon",
         "full_name": "Treylon Burks",
-        "injury_body_part": "Shoulder",
+        "injury_body_part": null,
         "injury_notes": null,
-        "injury_status": "Questionable",
+        "injury_status": null,
         "is_reserve": false,
         "is_starter": false,
         "is_taxi": false,
@@ -6626,12 +6626,12 @@
         "team": "WAS",
         "value": {
           "confidence": 55.0,
-          "contender": 45.1,
+          "contender": 50.5,
           "liquidity": 89.0,
-          "market": 46.5,
+          "market": 50.5,
           "player_id": "8135",
-          "rebuild": 49.5,
-          "risk": 28.0,
+          "rebuild": 53.5,
+          "risk": 24.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 4
@@ -9076,7 +9076,7 @@
           "full_name": "Skyy Moore",
           "injury_body_part": "Ankle",
           "injury_notes": null,
-          "injury_status": "Out",
+          "injury_status": "IR",
           "is_reserve": false,
           "is_starter": false,
           "is_taxi": false,
@@ -9111,9 +9111,9 @@
           ],
           "first_name": "Treylon",
           "full_name": "Treylon Burks",
-          "injury_body_part": "Shoulder",
+          "injury_body_part": null,
           "injury_notes": null,
-          "injury_status": "Questionable",
+          "injury_status": null,
           "is_reserve": false,
           "is_starter": false,
           "is_taxi": false,
@@ -9127,12 +9127,12 @@
           "team": "WAS",
           "value": {
             "confidence": 55.0,
-            "contender": 45.1,
+            "contender": 50.5,
             "liquidity": 89.0,
-            "market": 46.5,
+            "market": 50.5,
             "player_id": "8135",
-            "rebuild": 49.5,
-            "risk": 28.0,
+            "rebuild": 53.5,
+            "risk": 24.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 4
@@ -9691,7 +9691,7 @@
         "full_name": "KeAndre Lambert-Smith",
         "injury_body_part": "Hamstring",
         "injury_notes": null,
-        "injury_status": "IR",
+        "injury_status": "Questionable",
         "is_reserve": false,
         "is_starter": false,
         "is_taxi": false,
@@ -9705,12 +9705,12 @@
         "team": "LAC",
         "value": {
           "confidence": 55.0,
-          "contender": 24.8,
+          "contender": 32.9,
           "liquidity": 90.1,
-          "market": 32.5,
+          "market": 38.5,
           "player_id": "12670",
-          "rebuild": 38.5,
-          "risk": 46.0,
+          "rebuild": 44.5,
+          "risk": 40.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 1
@@ -9951,7 +9951,7 @@
         "full_name": "Ja'Kobi Lane",
         "injury_body_part": "Wrist",
         "injury_notes": "Surgery",
-        "injury_status": "IR",
+        "injury_status": "Questionable",
         "is_reserve": false,
         "is_starter": false,
         "is_taxi": true,
@@ -9961,16 +9961,16 @@
         "player_id": "13293",
         "position": "WR",
         "search_full_name": "jakobilane",
-        "status": "Inactive",
+        "status": "Active",
         "team": "BAL",
         "value": {
           "confidence": 55.0,
-          "contender": 19.7,
+          "contender": 44.0,
           "liquidity": 93.2,
-          "market": 27.4,
+          "market": 45.4,
           "player_id": "13293",
-          "rebuild": 42.4,
-          "risk": 46.0,
+          "rebuild": 60.4,
+          "risk": 28.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 0
@@ -9988,7 +9988,7 @@
         "full_name": "Marques Sigle",
         "injury_body_part": "Ankle",
         "injury_notes": null,
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "is_reserve": false,
         "is_starter": false,
         "is_taxi": false,
@@ -10002,12 +10002,12 @@
         "team": "SF",
         "value": {
           "confidence": 55.0,
-          "contender": 43.9,
+          "contender": 35.8,
           "liquidity": 41.1,
-          "market": 45.3,
+          "market": 39.3,
           "player_id": "12668",
-          "rebuild": 54.3,
-          "risk": 28.0,
+          "rebuild": 48.3,
+          "risk": 34.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 1
@@ -10312,8 +10312,8 @@
         "active": true,
         "age": 27,
         "age_bucket": "prime",
-        "depth_chart_order": 1,
-        "depth_chart_position": "RDE",
+        "depth_chart_order": null,
+        "depth_chart_position": "DL",
         "fantasy_positions": [
           "DL"
         ],
@@ -10334,12 +10334,12 @@
         "status": "Inactive",
         "team": "CHI",
         "value": {
-          "confidence": 55.0,
-          "contender": 17.8,
+          "confidence": 35.0,
+          "contender": 9.8,
           "liquidity": 48.0,
-          "market": 25.5,
+          "market": 17.5,
           "player_id": "7649",
-          "rebuild": 25.5,
+          "rebuild": 17.5,
           "risk": 46.0,
           "source": "heuristic-v0.2"
         },
@@ -11352,7 +11352,7 @@
         "active": true,
         "age": 31,
         "age_bucket": "veteran",
-        "depth_chart_order": 3,
+        "depth_chart_order": 2,
         "depth_chart_position": "RB",
         "fantasy_positions": [
           "RB"
@@ -11375,11 +11375,11 @@
         "team": "WAS",
         "value": {
           "confidence": 55.0,
-          "contender": 15.5,
+          "contender": 18.5,
           "liquidity": 78.8,
-          "market": 15.5,
+          "market": 18.5,
           "player_id": "4663",
-          "rebuild": 0.0,
+          "rebuild": 1.5,
           "risk": 76.0,
           "source": "heuristic-v0.2"
         },
@@ -11922,7 +11922,7 @@
           "full_name": "Marques Sigle",
           "injury_body_part": "Ankle",
           "injury_notes": null,
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "is_reserve": false,
           "is_starter": false,
           "is_taxi": false,
@@ -11936,12 +11936,12 @@
           "team": "SF",
           "value": {
             "confidence": 55.0,
-            "contender": 43.9,
+            "contender": 35.8,
             "liquidity": 41.1,
-            "market": 45.3,
+            "market": 39.3,
             "player_id": "12668",
-            "rebuild": 54.3,
-            "risk": 28.0,
+            "rebuild": 48.3,
+            "risk": 34.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 1
@@ -12213,8 +12213,8 @@
           "active": true,
           "age": 27,
           "age_bucket": "prime",
-          "depth_chart_order": 1,
-          "depth_chart_position": "RDE",
+          "depth_chart_order": null,
+          "depth_chart_position": "DL",
           "fantasy_positions": [
             "DL"
           ],
@@ -12235,12 +12235,12 @@
           "status": "Inactive",
           "team": "CHI",
           "value": {
-            "confidence": 55.0,
-            "contender": 17.8,
+            "confidence": 35.0,
+            "contender": 9.8,
             "liquidity": 48.0,
-            "market": 25.5,
+            "market": 17.5,
             "player_id": "7649",
-            "rebuild": 25.5,
+            "rebuild": 17.5,
             "risk": 46.0,
             "source": "heuristic-v0.2"
           },
@@ -13333,7 +13333,7 @@
           "active": true,
           "age": 31,
           "age_bucket": "veteran",
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -13356,11 +13356,11 @@
           "team": "WAS",
           "value": {
             "confidence": 55.0,
-            "contender": 15.5,
+            "contender": 18.5,
             "liquidity": 78.8,
-            "market": 15.5,
+            "market": 18.5,
             "player_id": "4663",
-            "rebuild": 0.0,
+            "rebuild": 1.5,
             "risk": 76.0,
             "source": "heuristic-v0.2"
           },
@@ -13790,7 +13790,7 @@
           "full_name": "Ja'Kobi Lane",
           "injury_body_part": "Wrist",
           "injury_notes": "Surgery",
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "is_reserve": false,
           "is_starter": false,
           "is_taxi": true,
@@ -13800,16 +13800,16 @@
           "player_id": "13293",
           "position": "WR",
           "search_full_name": "jakobilane",
-          "status": "Inactive",
+          "status": "Active",
           "team": "BAL",
           "value": {
             "confidence": 55.0,
-            "contender": 19.7,
+            "contender": 44.0,
             "liquidity": 93.2,
-            "market": 27.4,
+            "market": 45.4,
             "player_id": "13293",
-            "rebuild": 42.4,
-            "risk": 46.0,
+            "rebuild": 60.4,
+            "risk": 28.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 0
@@ -13938,7 +13938,7 @@
           "full_name": "KeAndre Lambert-Smith",
           "injury_body_part": "Hamstring",
           "injury_notes": null,
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "is_reserve": false,
           "is_starter": false,
           "is_taxi": false,
@@ -13952,12 +13952,12 @@
           "team": "LAC",
           "value": {
             "confidence": 55.0,
-            "contender": 24.8,
+            "contender": 32.9,
             "liquidity": 90.1,
-            "market": 32.5,
+            "market": 38.5,
             "player_id": "12670",
-            "rebuild": 38.5,
-            "risk": 46.0,
+            "rebuild": 44.5,
+            "risk": 40.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 1
@@ -20310,7 +20310,7 @@
         "full_name": "Omar Cooper",
         "injury_body_part": "Ankle",
         "injury_notes": "Sprain",
-        "injury_status": "IR",
+        "injury_status": "Questionable",
         "is_reserve": false,
         "is_starter": false,
         "is_taxi": false,
@@ -20324,12 +20324,12 @@
         "team": "NYJ",
         "value": {
           "confidence": 55.0,
-          "contender": 19.7,
+          "contender": 27.8,
           "liquidity": 93.2,
-          "market": 27.4,
+          "market": 33.4,
           "player_id": "13276",
-          "rebuild": 42.4,
-          "risk": 46.0,
+          "rebuild": 48.4,
+          "risk": 40.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 0
@@ -20826,9 +20826,9 @@
         ],
         "first_name": "Savion",
         "full_name": "Savion Williams",
-        "injury_body_part": "Undisclosed",
-        "injury_notes": null,
-        "injury_status": "IR",
+        "injury_body_part": "Ankle",
+        "injury_notes": "Sprain",
+        "injury_status": "Questionable",
         "is_reserve": true,
         "is_starter": false,
         "is_taxi": false,
@@ -20838,16 +20838,16 @@
         "player_id": "12482",
         "position": "WR",
         "search_full_name": "savionwilliams",
-        "status": "Inactive",
+        "status": "Active",
         "team": "GB",
         "value": {
           "confidence": 55.0,
-          "contender": 23.6,
+          "contender": 47.9,
           "liquidity": 91.2,
-          "market": 31.3,
+          "market": 49.3,
           "player_id": "12482",
-          "rebuild": 40.3,
-          "risk": 46.0,
+          "rebuild": 58.3,
+          "risk": 28.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 1
@@ -20967,7 +20967,7 @@
         "active": true,
         "age": 25,
         "age_bucket": "prime",
-        "depth_chart_order": 9,
+        "depth_chart_order": 8,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
@@ -20986,16 +20986,16 @@
         "player_id": "11630",
         "position": "WR",
         "search_full_name": "romanwilson",
-        "status": "Active",
+        "status": "Inactive",
         "team": "PIT",
         "value": {
           "confidence": 55.0,
-          "contender": 42.5,
+          "contender": 26.3,
           "liquidity": 90.1,
-          "market": 46.0,
+          "market": 34.0,
           "player_id": "11630",
-          "rebuild": 52.0,
-          "risk": 34.0,
+          "rebuild": 40.0,
+          "risk": 46.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 2
@@ -23696,7 +23696,7 @@
           "full_name": "Omar Cooper",
           "injury_body_part": "Ankle",
           "injury_notes": "Sprain",
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "is_reserve": false,
           "is_starter": false,
           "is_taxi": false,
@@ -23710,12 +23710,12 @@
           "team": "NYJ",
           "value": {
             "confidence": 55.0,
-            "contender": 19.7,
+            "contender": 27.8,
             "liquidity": 93.2,
-            "market": 27.4,
+            "market": 33.4,
             "player_id": "13276",
-            "rebuild": 42.4,
-            "risk": 46.0,
+            "rebuild": 48.4,
+            "risk": 40.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 0
@@ -23842,9 +23842,9 @@
           ],
           "first_name": "Savion",
           "full_name": "Savion Williams",
-          "injury_body_part": "Undisclosed",
-          "injury_notes": null,
-          "injury_status": "IR",
+          "injury_body_part": "Ankle",
+          "injury_notes": "Sprain",
+          "injury_status": "Questionable",
           "is_reserve": true,
           "is_starter": false,
           "is_taxi": false,
@@ -23854,16 +23854,16 @@
           "player_id": "12482",
           "position": "WR",
           "search_full_name": "savionwilliams",
-          "status": "Inactive",
+          "status": "Active",
           "team": "GB",
           "value": {
             "confidence": 55.0,
-            "contender": 23.6,
+            "contender": 47.9,
             "liquidity": 91.2,
-            "market": 31.3,
+            "market": 49.3,
             "player_id": "12482",
-            "rebuild": 40.3,
-            "risk": 46.0,
+            "rebuild": 58.3,
+            "risk": 28.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 1
@@ -23946,7 +23946,7 @@
           "active": true,
           "age": 25,
           "age_bucket": "prime",
-          "depth_chart_order": 9,
+          "depth_chart_order": 8,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -23965,16 +23965,16 @@
           "player_id": "11630",
           "position": "WR",
           "search_full_name": "romanwilson",
-          "status": "Active",
+          "status": "Inactive",
           "team": "PIT",
           "value": {
             "confidence": 55.0,
-            "contender": 42.5,
+            "contender": 26.3,
             "liquidity": 90.1,
-            "market": 46.0,
+            "market": 34.0,
             "player_id": "11630",
-            "rebuild": 52.0,
-            "risk": 34.0,
+            "rebuild": 40.0,
+            "risk": 46.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 2
@@ -24119,7 +24119,7 @@
       "13434",
       "13464"
     ],
-    "team_name": null
+    "team_name": "Bills Mafia"
   },
   {
     "display_name": "Grishnakk",
@@ -24789,8 +24789,8 @@
         "active": true,
         "age": 22,
         "age_bucket": "young",
-        "depth_chart_order": 3,
-        "depth_chart_position": "MLB",
+        "depth_chart_order": null,
+        "depth_chart_position": null,
         "fantasy_positions": [
           "LB"
         ],
@@ -24811,12 +24811,12 @@
         "status": "Active",
         "team": "HOU",
         "value": {
-          "confidence": 55.0,
-          "contender": 44.4,
+          "confidence": 35.0,
+          "contender": 42.4,
           "liquidity": 57.2,
-          "market": 44.4,
+          "market": 42.4,
           "player_id": "13572",
-          "rebuild": 59.4,
+          "rebuild": 57.4,
           "risk": 24.0,
           "source": "heuristic-v0.2"
         },
@@ -25085,7 +25085,7 @@
         "active": true,
         "age": 23,
         "age_bucket": "young",
-        "depth_chart_order": 2,
+        "depth_chart_order": 1,
         "depth_chart_position": "RDE",
         "fantasy_positions": [
           "DL"
@@ -25108,11 +25108,11 @@
         "team": "CHI",
         "value": {
           "confidence": 70.0,
-          "contender": 77.4,
+          "contender": 80.4,
           "liquidity": 52.2,
-          "market": 69.4,
+          "market": 72.4,
           "player_id": "11760",
-          "rebuild": 81.4,
+          "rebuild": 84.4,
           "risk": 24.0,
           "source": "heuristic-v0.2"
         },
@@ -26758,7 +26758,7 @@
           "active": true,
           "age": 23,
           "age_bucket": "young",
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "RDE",
           "fantasy_positions": [
             "DL"
@@ -26781,11 +26781,11 @@
           "team": "CHI",
           "value": {
             "confidence": 70.0,
-            "contender": 77.4,
+            "contender": 80.4,
             "liquidity": 52.2,
-            "market": 69.4,
+            "market": 72.4,
             "player_id": "11760",
-            "rebuild": 81.4,
+            "rebuild": 84.4,
             "risk": 24.0,
             "source": "heuristic-v0.2"
           },
@@ -27243,8 +27243,8 @@
           "active": true,
           "age": 22,
           "age_bucket": "young",
-          "depth_chart_order": 3,
-          "depth_chart_position": "MLB",
+          "depth_chart_order": null,
+          "depth_chart_position": null,
           "fantasy_positions": [
             "LB"
           ],
@@ -27265,12 +27265,12 @@
           "status": "Active",
           "team": "HOU",
           "value": {
-            "confidence": 55.0,
-            "contender": 44.4,
+            "confidence": 35.0,
+            "contender": 42.4,
             "liquidity": 57.2,
-            "market": 44.4,
+            "market": 42.4,
             "player_id": "13572",
-            "rebuild": 59.4,
+            "rebuild": 57.4,
             "risk": 24.0,
             "source": "heuristic-v0.2"
           },
@@ -29288,7 +29288,7 @@
         "injury_body_part": "Knee",
         "injury_notes": null,
         "injury_status": "Out",
-        "is_reserve": false,
+        "is_reserve": true,
         "is_starter": false,
         "is_taxi": false,
         "last_name": "Young",
@@ -29695,7 +29695,7 @@
         "injury_body_part": "Calf",
         "injury_notes": null,
         "injury_status": "Questionable",
-        "is_reserve": true,
+        "is_reserve": false,
         "is_starter": false,
         "is_taxi": false,
         "last_name": "Gordon",
@@ -30030,7 +30030,7 @@
         "injury_body_part": "Ankle",
         "injury_notes": "Sprain",
         "injury_status": "Questionable",
-        "is_reserve": true,
+        "is_reserve": false,
         "is_starter": false,
         "is_taxi": false,
         "last_name": "Etienne",
@@ -30178,7 +30178,7 @@
         "injury_body_part": "Calf",
         "injury_notes": null,
         "injury_status": "IR",
-        "is_reserve": false,
+        "is_reserve": true,
         "is_starter": false,
         "is_taxi": false,
         "last_name": "Hollins",
@@ -31551,7 +31551,7 @@
           "injury_body_part": "Calf",
           "injury_notes": null,
           "injury_status": "Questionable",
-          "is_reserve": true,
+          "is_reserve": false,
           "is_starter": false,
           "is_taxi": false,
           "last_name": "Gordon",
@@ -32598,7 +32598,7 @@
           "injury_body_part": "Ankle",
           "injury_notes": "Sprain",
           "injury_status": "Questionable",
-          "is_reserve": true,
+          "is_reserve": false,
           "is_starter": false,
           "is_taxi": false,
           "last_name": "Etienne",
@@ -33453,7 +33453,7 @@
           "injury_body_part": "Knee",
           "injury_notes": null,
           "injury_status": "Out",
-          "is_reserve": false,
+          "is_reserve": true,
           "is_starter": false,
           "is_taxi": false,
           "last_name": "Young",
@@ -33749,7 +33749,7 @@
           "injury_body_part": "Calf",
           "injury_notes": null,
           "injury_status": "IR",
-          "is_reserve": false,
+          "is_reserve": true,
           "is_starter": false,
           "is_taxi": false,
           "last_name": "Hollins",
@@ -33777,10 +33777,10 @@
     "reserve_ids": [
       "11651",
       "12486",
-      "12531",
       "12641",
       "13342",
-      "8365",
+      "13477",
+      "4177",
       "8408",
       "9481"
     ],
@@ -34758,7 +34758,7 @@
         "active": true,
         "age": 25,
         "age_bucket": "prime",
-        "depth_chart_order": 1,
+        "depth_chart_order": 6,
         "depth_chart_position": "RB",
         "fantasy_positions": [
           "RB"
@@ -34781,11 +34781,11 @@
         "team": "WAS",
         "value": {
           "confidence": 55.0,
-          "contender": 35.0,
+          "contender": 23.0,
           "liquidity": 85.1,
-          "market": 38.5,
+          "market": 26.5,
           "player_id": "12533",
-          "rebuild": 44.5,
+          "rebuild": 32.5,
           "risk": 50.0,
           "source": "heuristic-v0.2"
         },
@@ -37143,7 +37143,7 @@
           "active": true,
           "age": 25,
           "age_bucket": "prime",
-          "depth_chart_order": 1,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -37166,11 +37166,11 @@
           "team": "WAS",
           "value": {
             "confidence": 55.0,
-            "contender": 35.0,
+            "contender": 23.0,
             "liquidity": 85.1,
-            "market": 38.5,
+            "market": 26.5,
             "player_id": "12533",
-            "rebuild": 44.5,
+            "rebuild": 32.5,
             "risk": 50.0,
             "source": "heuristic-v0.2"
           },
@@ -39837,7 +39837,7 @@
         "full_name": "Jalen Hurts",
         "injury_body_part": "Calf",
         "injury_notes": null,
-        "injury_status": "Out",
+        "injury_status": "IR",
         "is_reserve": true,
         "is_starter": false,
         "is_taxi": false,
@@ -39847,16 +39847,16 @@
         "player_id": "6904",
         "position": "QB",
         "search_full_name": "jalenhurts",
-        "status": "Active",
+        "status": "Inactive",
         "team": "PHI",
         "value": {
           "confidence": 55.0,
-          "contender": 57.8,
+          "contender": 41.6,
           "liquidity": 77.0,
-          "market": 61.3,
+          "market": 49.3,
           "player_id": "6904",
-          "rebuild": 58.3,
-          "risk": 34.0,
+          "rebuild": 46.3,
+          "risk": 46.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 6
@@ -41221,7 +41221,7 @@
           "full_name": "Jalen Hurts",
           "injury_body_part": "Calf",
           "injury_notes": null,
-          "injury_status": "Out",
+          "injury_status": "IR",
           "is_reserve": true,
           "is_starter": false,
           "is_taxi": false,
@@ -41231,16 +41231,16 @@
           "player_id": "6904",
           "position": "QB",
           "search_full_name": "jalenhurts",
-          "status": "Active",
+          "status": "Inactive",
           "team": "PHI",
           "value": {
             "confidence": 55.0,
-            "contender": 57.8,
+            "contender": 41.6,
             "liquidity": 77.0,
-            "market": 61.3,
+            "market": 49.3,
             "player_id": "6904",
-            "rebuild": 58.3,
-            "risk": 34.0,
+            "rebuild": 46.3,
+            "risk": 46.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 6
@@ -42316,7 +42316,7 @@
     },
     "starter_ids": [
       "4943",
-      "9508",
+      "11576",
       "12490",
       "5927",
       "11783",
@@ -42325,7 +42325,7 @@
       "11581",
       "7525",
       "7600",
-      "11576",
+      "9508",
       "7523",
       "10917",
       "10898",
@@ -43814,7 +43814,7 @@
         "full_name": "A.J. Brown",
         "injury_body_part": "Ankle",
         "injury_notes": "Sprain",
-        "injury_status": "IR",
+        "injury_status": "Questionable",
         "is_reserve": true,
         "is_starter": false,
         "is_taxi": false,
@@ -43828,12 +43828,12 @@
         "team": "NE",
         "value": {
           "confidence": 55.0,
-          "contender": 25.0,
+          "contender": 33.1,
           "liquidity": 85.9,
-          "market": 28.5,
+          "market": 34.5,
           "player_id": "5859",
-          "rebuild": 22.5,
-          "risk": 52.0,
+          "rebuild": 28.5,
+          "risk": 46.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 7
@@ -47319,7 +47319,7 @@
           "full_name": "A.J. Brown",
           "injury_body_part": "Ankle",
           "injury_notes": "Sprain",
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "is_reserve": true,
           "is_starter": false,
           "is_taxi": false,
@@ -47333,12 +47333,12 @@
           "team": "NE",
           "value": {
             "confidence": 55.0,
-            "contender": 25.0,
+            "contender": 33.1,
             "liquidity": 85.9,
-            "market": 28.5,
+            "market": 34.5,
             "player_id": "5859",
-            "rebuild": 22.5,
-            "risk": 52.0,
+            "rebuild": 28.5,
+            "risk": 46.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 7
@@ -47601,7 +47601,7 @@
         "age": 29,
         "age_bucket": "veteran",
         "depth_chart_order": 4,
-        "depth_chart_position": "RWR",
+        "depth_chart_position": null,
         "fantasy_positions": [
           "WR"
         ],
@@ -47897,7 +47897,7 @@
         "age": 22,
         "age_bucket": "young",
         "depth_chart_order": 2,
-        "depth_chart_position": "LWR",
+        "depth_chart_position": "RWR",
         "fantasy_positions": [
           "WR"
         ],
@@ -49642,7 +49642,7 @@
         "active": true,
         "age": 27,
         "age_bucket": "prime",
-        "depth_chart_order": 2,
+        "depth_chart_order": 1,
         "depth_chart_position": "RB",
         "fantasy_positions": [
           "RB"
@@ -49665,11 +49665,11 @@
         "team": "WAS",
         "value": {
           "confidence": 70.0,
-          "contender": 66.5,
+          "contender": 69.5,
           "liquidity": 83.0,
-          "market": 58.5,
+          "market": 61.5,
           "player_id": "8136",
-          "rebuild": 53.5,
+          "rebuild": 56.5,
           "risk": 52.0,
           "source": "heuristic-v0.2"
         },
@@ -51364,7 +51364,7 @@
           "active": true,
           "age": 27,
           "age_bucket": "prime",
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -51387,11 +51387,11 @@
           "team": "WAS",
           "value": {
             "confidence": 70.0,
-            "contender": 66.5,
+            "contender": 69.5,
             "liquidity": 83.0,
-            "market": 58.5,
+            "market": 61.5,
             "player_id": "8136",
-            "rebuild": 53.5,
+            "rebuild": 56.5,
             "risk": 52.0,
             "source": "heuristic-v0.2"
           },
@@ -51850,7 +51850,7 @@
           "age": 22,
           "age_bucket": "young",
           "depth_chart_order": 2,
-          "depth_chart_position": "LWR",
+          "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
@@ -52146,7 +52146,7 @@
           "age": 29,
           "age_bucket": "veteran",
           "depth_chart_order": 4,
-          "depth_chart_position": "RWR",
+          "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
           ],
