@@ -17051,7 +17051,7 @@
       "type": "snake"
     }
   ],
-  "generated_at": "2026-10-19T04:47:27.822078+00:00",
+  "generated_at": "2026-10-19T10:49:37.815205+00:00",
   "league": {
     "avatar": "7c15319eacc56bfdeb741f4b006ca693",
     "bracket_id": null,
@@ -17064,9 +17064,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1417578733983793152",
+    "last_message_id": "1417820484124377088",
     "last_message_text_map": null,
-    "last_message_time": 1792339616823,
+    "last_message_time": 1792397254548,
     "last_pinned_message_id": "1398779056215928832",
     "last_read_id": null,
     "league_id": "1354800861066317824",
@@ -28462,6 +28462,7 @@
           "10219",
           "11674",
           "13366",
+          "12533",
           "12508",
           "5330",
           "3214",
@@ -28499,6 +28500,7 @@
           "12455": 0.0,
           "12476": 0.0,
           "12508": 0.0,
+          "12533": 0.0,
           "12535": 0.0,
           "13079": 0.0,
           "13358": 0.0,
@@ -29581,7 +29583,6 @@
           "7627",
           "11676",
           "10888",
-          "12533",
           "10213",
           "13387",
           "8266",
@@ -29623,7 +29624,6 @@
           "12500": 0.0,
           "12507": 7.9,
           "12519": 17.5,
-          "12533": 0.0,
           "12540": 0.0,
           "13275": 0.0,
           "13337": 4.4,
@@ -32644,6 +32644,7 @@
         "8280",
         "8323",
         "11685",
+        "1479",
         "8148",
         "2393",
         "6799",
@@ -32658,6 +32659,7 @@
         "10219",
         "11674",
         "13366",
+        "12533",
         "12508",
         "5330",
         "3214",
@@ -32665,7 +32667,6 @@
         "4034",
         "13417",
         "13393",
-        "5991",
         "6882",
         "5346",
         "8135",
@@ -32715,7 +32716,7 @@
         "2449",
         "8131",
         "11566",
-        "5991",
+        "0",
         "11665",
         "8280",
         "5346",
@@ -33466,17 +33467,16 @@
         "11017",
         "5017",
         "13275",
-        "1479",
         "2306",
         "7627",
         "11676",
         "10888",
-        "12533",
         "10213",
         "13387",
         "8266",
         "12540",
         "5912",
+        "5991",
         "13389",
         "7136",
         "7069",
@@ -33530,7 +33530,7 @@
         "7526",
         "5012",
         "10213",
-        "1479",
+        "0",
         "12519",
         "6790",
         "2306",
@@ -37303,7 +37303,7 @@
       "lineups": {
         "future": {
           "average": 72.2,
-          "bench_value": 1096.3,
+          "bench_value": 1064.8,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
@@ -37481,7 +37481,7 @@
         },
         "win_now": {
           "average": 76.7,
-          "bench_value": 1085.7,
+          "bench_value": 1043.7,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -37667,8 +37667,8 @@
         },
         "DL": {
           "contender_top": 295.3,
-          "count": 6,
-          "market": 361.0,
+          "count": 7,
+          "market": 402.5,
           "rebuild_top": 279.0
         },
         "LB": {
@@ -37685,8 +37685,8 @@
         },
         "RB": {
           "contender_top": 293.5,
-          "count": 10,
-          "market": 436.0,
+          "count": 9,
+          "market": 409.5,
           "rebuild_top": 296.5
         },
         "TE": {
@@ -37697,8 +37697,8 @@
         },
         "WR": {
           "contender_top": 362.0,
-          "count": 8,
-          "market": 540.2,
+          "count": 7,
+          "market": 487.7,
           "rebuild_top": 358.4
         }
       },
@@ -37706,9 +37706,9 @@
       "roster_id": 8,
       "scores": {
         "future": 72.2,
-        "liquidity": 65.7,
-        "market_total": 2769.0,
-        "risk": 33.4,
+        "liquidity": 64.9,
+        "market_total": 2731.5,
+        "risk": 32.5,
         "win_now": 76.7
       },
       "team_name": "Big Black Blocks",
@@ -40719,7 +40719,7 @@
       "lineups": {
         "future": {
           "average": 72.4,
-          "bench_value": 1239.5,
+          "bench_value": 1231.0,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
@@ -40896,8 +40896,8 @@
           "total": 1737.1
         },
         "win_now": {
-          "average": 75.1,
-          "bench_value": 1221.1,
+          "average": 74.6,
+          "bench_value": 1218.1,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -40966,10 +40966,10 @@
               "slot": "DL"
             },
             {
-              "full_name": "Maxx Crosby",
-              "player_id": "5991",
+              "full_name": "Dorance Armstrong",
+              "player_id": "5330",
               "position": "DL",
-              "score": 69.5,
+              "score": 66.5,
               "slot": "DL"
             },
             {
@@ -41050,13 +41050,6 @@
               "slot": "FLEX"
             },
             {
-              "full_name": "Dorance Armstrong",
-              "player_id": "5330",
-              "position": "DL",
-              "score": 66.5,
-              "slot": "IDP_FLEX"
-            },
-            {
               "full_name": "Cam Bynum",
               "player_id": "7715",
               "position": "DB",
@@ -41069,9 +41062,16 @@
               "position": "DL",
               "score": 63.5,
               "slot": "IDP_FLEX"
+            },
+            {
+              "full_name": "Henry To'oTo'o",
+              "player_id": "10970",
+              "position": "LB",
+              "score": 58.5,
+              "slot": "IDP_FLEX"
             }
           ],
-          "total": 1802.5
+          "total": 1791.5
         }
       },
       "positions": {
@@ -41082,10 +41082,10 @@
           "rebuild_top": 271.4
         },
         "DL": {
-          "contender_top": 303.1,
-          "count": 8,
-          "market": 450.0,
-          "rebuild_top": 278.8
+          "contender_top": 297.1,
+          "count": 7,
+          "market": 388.5,
+          "rebuild_top": 278.5
         },
         "LB": {
           "contender_top": 270.0,
@@ -41101,8 +41101,8 @@
         },
         "RB": {
           "contender_top": 261.0,
-          "count": 9,
-          "market": 398.5,
+          "count": 10,
+          "market": 425.0,
           "rebuild_top": 262.0
         },
         "TE": {
@@ -41113,8 +41113,8 @@
         },
         "WR": {
           "contender_top": 298.9,
-          "count": 8,
-          "market": 435.7,
+          "count": 9,
+          "market": 468.2,
           "rebuild_top": 303.6
         }
       },
@@ -41122,10 +41122,10 @@
       "roster_id": 2,
       "scores": {
         "future": 72.4,
-        "liquidity": 64.0,
-        "market_total": 2901.6,
-        "risk": 34.6,
-        "win_now": 75.1
+        "liquidity": 64.7,
+        "market_total": 2899.1,
+        "risk": 35.1,
+        "win_now": 74.6
       },
       "team_name": "Lokomotive Bodensee",
       "window": "contender"
@@ -46061,6 +46061,7 @@
         "8280",
         "8323",
         "11685",
+        "1479",
         "8148",
         "2393",
         "6799",
@@ -46075,6 +46076,7 @@
         "10219",
         "11674",
         "13366",
+        "12533",
         "12508",
         "5330",
         "3214",
@@ -46082,7 +46084,6 @@
         "4034",
         "13417",
         "13393",
-        "5991",
         "6882",
         "5346",
         "8135",
@@ -46844,6 +46845,43 @@
         },
         {
           "active": true,
+          "age": 34,
+          "age_bucket": "veteran",
+          "depth_chart_order": 2,
+          "depth_chart_position": "RWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "first_name": "Keenan",
+          "full_name": "Keenan Allen",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Allen",
+          "normalized_position": "WR",
+          "number": 10,
+          "player_id": "1479",
+          "position": "WR",
+          "search_full_name": "keenanallen",
+          "status": "Active",
+          "team": "IND",
+          "value": {
+            "confidence": 55.0,
+            "contender": 32.5,
+            "liquidity": 81.7,
+            "market": 32.5,
+            "player_id": "1479",
+            "rebuild": 14.5,
+            "risk": 72.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 13
+        },
+        {
+          "active": true,
           "age": 25,
           "age_bucket": "prime",
           "depth_chart_order": 2,
@@ -47364,6 +47402,43 @@
         },
         {
           "active": true,
+          "age": 25,
+          "age_bucket": "prime",
+          "depth_chart_order": 6,
+          "depth_chart_position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "first_name": "Jacory",
+          "full_name": "Jacory Croskey-Merritt",
+          "injury_body_part": "Groin",
+          "injury_notes": null,
+          "injury_status": "Out",
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Croskey-Merritt",
+          "normalized_position": "RB",
+          "number": 22,
+          "player_id": "12533",
+          "position": "RB",
+          "search_full_name": "jacorycroskeymerritt",
+          "status": "Active",
+          "team": "WAS",
+          "value": {
+            "confidence": 55.0,
+            "contender": 23.0,
+            "liquidity": 85.1,
+            "market": 26.5,
+            "player_id": "12533",
+            "rebuild": 32.5,
+            "risk": 50.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 1
+        },
+        {
+          "active": true,
           "age": 23,
           "age_bucket": "young",
           "depth_chart_order": 4,
@@ -47620,43 +47695,6 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 0
-        },
-        {
-          "active": true,
-          "age": 29,
-          "age_bucket": "veteran",
-          "depth_chart_order": 1,
-          "depth_chart_position": "LDE",
-          "fantasy_positions": [
-            "DL"
-          ],
-          "first_name": "Maxx",
-          "full_name": "Maxx Crosby",
-          "injury_body_part": null,
-          "injury_notes": null,
-          "injury_status": null,
-          "is_reserve": false,
-          "is_starter": true,
-          "is_taxi": false,
-          "last_name": "Crosby",
-          "normalized_position": "DL",
-          "number": 98,
-          "player_id": "5991",
-          "position": "DE",
-          "search_full_name": "maxxcrosby",
-          "status": "Active",
-          "team": "LV",
-          "value": {
-            "confidence": 70.0,
-            "contender": 69.5,
-            "liquidity": 45.9,
-            "market": 61.5,
-            "player_id": "5991",
-            "rebuild": 55.5,
-            "risk": 36.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 7
         },
         {
           "active": true,
@@ -48740,43 +48778,6 @@
           },
           {
             "active": true,
-            "age": 29,
-            "age_bucket": "veteran",
-            "depth_chart_order": 1,
-            "depth_chart_position": "LDE",
-            "fantasy_positions": [
-              "DL"
-            ],
-            "first_name": "Maxx",
-            "full_name": "Maxx Crosby",
-            "injury_body_part": null,
-            "injury_notes": null,
-            "injury_status": null,
-            "is_reserve": false,
-            "is_starter": true,
-            "is_taxi": false,
-            "last_name": "Crosby",
-            "normalized_position": "DL",
-            "number": 98,
-            "player_id": "5991",
-            "position": "DE",
-            "search_full_name": "maxxcrosby",
-            "status": "Active",
-            "team": "LV",
-            "value": {
-              "confidence": 70.0,
-              "contender": 69.5,
-              "liquidity": 45.9,
-              "market": 61.5,
-              "player_id": "5991",
-              "rebuild": 55.5,
-              "risk": 36.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 7
-          },
-          {
-            "active": true,
             "age": 31,
             "age_bucket": "veteran",
             "depth_chart_order": 1,
@@ -49750,6 +49751,43 @@
           },
           {
             "active": true,
+            "age": 25,
+            "age_bucket": "prime",
+            "depth_chart_order": 6,
+            "depth_chart_position": "RB",
+            "fantasy_positions": [
+              "RB"
+            ],
+            "first_name": "Jacory",
+            "full_name": "Jacory Croskey-Merritt",
+            "injury_body_part": "Groin",
+            "injury_notes": null,
+            "injury_status": "Out",
+            "is_reserve": false,
+            "is_starter": false,
+            "is_taxi": false,
+            "last_name": "Croskey-Merritt",
+            "normalized_position": "RB",
+            "number": 22,
+            "player_id": "12533",
+            "position": "RB",
+            "search_full_name": "jacorycroskeymerritt",
+            "status": "Active",
+            "team": "WAS",
+            "value": {
+              "confidence": 55.0,
+              "contender": 23.0,
+              "liquidity": 85.1,
+              "market": 26.5,
+              "player_id": "12533",
+              "rebuild": 32.5,
+              "risk": 50.0,
+              "source": "heuristic-v0.2"
+            },
+            "years_exp": 1
+          },
+          {
+            "active": true,
             "age": 27,
             "age_bucket": "prime",
             "depth_chart_order": 2,
@@ -50269,6 +50307,43 @@
               "source": "heuristic-v0.2"
             },
             "years_exp": 4
+          },
+          {
+            "active": true,
+            "age": 34,
+            "age_bucket": "veteran",
+            "depth_chart_order": 2,
+            "depth_chart_position": "RWR",
+            "fantasy_positions": [
+              "WR"
+            ],
+            "first_name": "Keenan",
+            "full_name": "Keenan Allen",
+            "injury_body_part": null,
+            "injury_notes": null,
+            "injury_status": null,
+            "is_reserve": false,
+            "is_starter": false,
+            "is_taxi": false,
+            "last_name": "Allen",
+            "normalized_position": "WR",
+            "number": 10,
+            "player_id": "1479",
+            "position": "WR",
+            "search_full_name": "keenanallen",
+            "status": "Active",
+            "team": "IND",
+            "value": {
+              "confidence": 55.0,
+              "contender": 32.5,
+              "liquidity": 81.7,
+              "market": 32.5,
+              "player_id": "1479",
+              "rebuild": 14.5,
+              "risk": 72.0,
+              "source": "heuristic-v0.2"
+            },
+            "years_exp": 13
           }
         ]
       },
@@ -50306,7 +50381,7 @@
         "2449",
         "8131",
         "11566",
-        "5991",
+        "0",
         "11665",
         "8280",
         "5346",
@@ -75073,17 +75148,16 @@
         "11017",
         "5017",
         "13275",
-        "1479",
         "2306",
         "7627",
         "11676",
         "10888",
-        "12533",
         "10213",
         "13387",
         "8266",
         "12540",
         "5912",
+        "5991",
         "13389",
         "7136",
         "7069",
@@ -75777,43 +75851,6 @@
         },
         {
           "active": true,
-          "age": 34,
-          "age_bucket": "veteran",
-          "depth_chart_order": 2,
-          "depth_chart_position": "RWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "first_name": "Keenan",
-          "full_name": "Keenan Allen",
-          "injury_body_part": null,
-          "injury_notes": null,
-          "injury_status": null,
-          "is_reserve": false,
-          "is_starter": true,
-          "is_taxi": false,
-          "last_name": "Allen",
-          "normalized_position": "WR",
-          "number": 10,
-          "player_id": "1479",
-          "position": "WR",
-          "search_full_name": "keenanallen",
-          "status": "Active",
-          "team": "IND",
-          "value": {
-            "confidence": 70.0,
-            "contender": 60.5,
-            "liquidity": 81.7,
-            "market": 52.5,
-            "player_id": "1479",
-            "rebuild": 34.5,
-            "risk": 72.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 13
-        },
-        {
-          "active": true,
           "age": 32,
           "age_bucket": "veteran",
           "depth_chart_order": 1,
@@ -75960,43 +75997,6 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 3
-        },
-        {
-          "active": true,
-          "age": 25,
-          "age_bucket": "prime",
-          "depth_chart_order": 6,
-          "depth_chart_position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "first_name": "Jacory",
-          "full_name": "Jacory Croskey-Merritt",
-          "injury_body_part": "Groin",
-          "injury_notes": null,
-          "injury_status": "Out",
-          "is_reserve": false,
-          "is_starter": false,
-          "is_taxi": false,
-          "last_name": "Croskey-Merritt",
-          "normalized_position": "RB",
-          "number": 22,
-          "player_id": "12533",
-          "position": "RB",
-          "search_full_name": "jacorycroskeymerritt",
-          "status": "Active",
-          "team": "WAS",
-          "value": {
-            "confidence": 55.0,
-            "contender": 23.0,
-            "liquidity": 85.1,
-            "market": 26.5,
-            "player_id": "12533",
-            "rebuild": 32.5,
-            "risk": 50.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 1
         },
         {
           "active": true,
@@ -76179,6 +76179,43 @@
             "market": 61.5,
             "player_id": "5912",
             "rebuild": 55.5,
+            "risk": 36.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 7
+        },
+        {
+          "active": true,
+          "age": 29,
+          "age_bucket": "veteran",
+          "depth_chart_order": 1,
+          "depth_chart_position": "LDE",
+          "fantasy_positions": [
+            "DL"
+          ],
+          "first_name": "Maxx",
+          "full_name": "Maxx Crosby",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Crosby",
+          "normalized_position": "DL",
+          "number": 98,
+          "player_id": "5991",
+          "position": "DE",
+          "search_full_name": "maxxcrosby",
+          "status": "Active",
+          "team": "LV",
+          "value": {
+            "confidence": 55.0,
+            "contender": 41.5,
+            "liquidity": 45.9,
+            "market": 41.5,
+            "player_id": "5991",
+            "rebuild": 35.5,
             "risk": 36.0,
             "source": "heuristic-v0.2"
           },
@@ -77671,6 +77708,43 @@
               "source": "heuristic-v0.2"
             },
             "years_exp": 5
+          },
+          {
+            "active": true,
+            "age": 29,
+            "age_bucket": "veteran",
+            "depth_chart_order": 1,
+            "depth_chart_position": "LDE",
+            "fantasy_positions": [
+              "DL"
+            ],
+            "first_name": "Maxx",
+            "full_name": "Maxx Crosby",
+            "injury_body_part": null,
+            "injury_notes": null,
+            "injury_status": null,
+            "is_reserve": false,
+            "is_starter": false,
+            "is_taxi": false,
+            "last_name": "Crosby",
+            "normalized_position": "DL",
+            "number": 98,
+            "player_id": "5991",
+            "position": "DE",
+            "search_full_name": "maxxcrosby",
+            "status": "Active",
+            "team": "LV",
+            "value": {
+              "confidence": 55.0,
+              "contender": 41.5,
+              "liquidity": 45.9,
+              "market": 41.5,
+              "player_id": "5991",
+              "rebuild": 35.5,
+              "risk": 36.0,
+              "source": "heuristic-v0.2"
+            },
+            "years_exp": 7
           }
         ],
         "LB": [
@@ -78348,43 +78422,6 @@
           },
           {
             "active": true,
-            "age": 25,
-            "age_bucket": "prime",
-            "depth_chart_order": 6,
-            "depth_chart_position": "RB",
-            "fantasy_positions": [
-              "RB"
-            ],
-            "first_name": "Jacory",
-            "full_name": "Jacory Croskey-Merritt",
-            "injury_body_part": "Groin",
-            "injury_notes": null,
-            "injury_status": "Out",
-            "is_reserve": false,
-            "is_starter": false,
-            "is_taxi": false,
-            "last_name": "Croskey-Merritt",
-            "normalized_position": "RB",
-            "number": 22,
-            "player_id": "12533",
-            "position": "RB",
-            "search_full_name": "jacorycroskeymerritt",
-            "status": "Active",
-            "team": "WAS",
-            "value": {
-              "confidence": 55.0,
-              "contender": 23.0,
-              "liquidity": 85.1,
-              "market": 26.5,
-              "player_id": "12533",
-              "rebuild": 32.5,
-              "risk": 50.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 1
-          },
-          {
-            "active": true,
             "age": 28,
             "age_bucket": "prime",
             "depth_chart_order": 4,
@@ -78796,43 +78833,6 @@
           },
           {
             "active": true,
-            "age": 34,
-            "age_bucket": "veteran",
-            "depth_chart_order": 2,
-            "depth_chart_position": "RWR",
-            "fantasy_positions": [
-              "WR"
-            ],
-            "first_name": "Keenan",
-            "full_name": "Keenan Allen",
-            "injury_body_part": null,
-            "injury_notes": null,
-            "injury_status": null,
-            "is_reserve": false,
-            "is_starter": true,
-            "is_taxi": false,
-            "last_name": "Allen",
-            "normalized_position": "WR",
-            "number": 10,
-            "player_id": "1479",
-            "position": "WR",
-            "search_full_name": "keenanallen",
-            "status": "Active",
-            "team": "IND",
-            "value": {
-              "confidence": 70.0,
-              "contender": 60.5,
-              "liquidity": 81.7,
-              "market": 52.5,
-              "player_id": "1479",
-              "rebuild": 34.5,
-              "risk": 72.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 13
-          },
-          {
-            "active": true,
             "age": 24,
             "age_bucket": "young",
             "depth_chart_order": 5,
@@ -78937,7 +78937,7 @@
         "7526",
         "5012",
         "10213",
-        "1479",
+        "0",
         "12519",
         "6790",
         "2306",
@@ -98363,32 +98363,6 @@
       "seller_roster_id": 7
     },
     {
-      "buyer_name": "Big Black Blocks",
-      "buyer_roster_id": 8,
-      "contender_value": 62.5,
-      "estimated_fit_score": 77.8,
-      "player_id": "4217",
-      "player_name": "George Kittle",
-      "position": "TE",
-      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
-      "rebuild_value": 36.5,
-      "seller_name": "Springfield Wildcats",
-      "seller_roster_id": 3
-    },
-    {
-      "buyer_name": "Big Black Blocks",
-      "buyer_roster_id": 8,
-      "contender_value": 62.5,
-      "estimated_fit_score": 77.8,
-      "player_id": "3271",
-      "player_name": "Tyler Higbee",
-      "position": "TE",
-      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
-      "rebuild_value": 36.5,
-      "seller_name": "Kindergarten Cop",
-      "seller_roster_id": 10
-    },
-    {
       "buyer_name": "Kindergarten Cop",
       "buyer_roster_id": 10,
       "contender_value": 73.1,
@@ -98405,7 +98379,7 @@
       "buyer_name": "Lokomotive Bodensee",
       "buyer_roster_id": 2,
       "contender_value": 62.5,
-      "estimated_fit_score": 77.5,
+      "estimated_fit_score": 77.7,
       "player_id": "4217",
       "player_name": "George Kittle",
       "position": "TE",
@@ -98418,7 +98392,33 @@
       "buyer_name": "Lokomotive Bodensee",
       "buyer_roster_id": 2,
       "contender_value": 62.5,
-      "estimated_fit_score": 77.5,
+      "estimated_fit_score": 77.7,
+      "player_id": "3271",
+      "player_name": "Tyler Higbee",
+      "position": "TE",
+      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
+      "rebuild_value": 36.5,
+      "seller_name": "Kindergarten Cop",
+      "seller_roster_id": 10
+    },
+    {
+      "buyer_name": "Big Black Blocks",
+      "buyer_roster_id": 8,
+      "contender_value": 62.5,
+      "estimated_fit_score": 77.7,
+      "player_id": "4217",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
+      "rebuild_value": 36.5,
+      "seller_name": "Springfield Wildcats",
+      "seller_roster_id": 3
+    },
+    {
+      "buyer_name": "Big Black Blocks",
+      "buyer_roster_id": 8,
+      "contender_value": 62.5,
+      "estimated_fit_score": 77.7,
       "player_id": "3271",
       "player_name": "Tyler Higbee",
       "position": "TE",
@@ -98623,45 +98623,6 @@
       "seller_roster_id": 12
     },
     {
-      "buyer_name": "Big Black Blocks",
-      "buyer_roster_id": 8,
-      "contender_value": 58.5,
-      "estimated_fit_score": 74.2,
-      "player_id": "4070",
-      "player_name": "T.J. Watt",
-      "position": "LB",
-      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
-      "rebuild_value": 35.5,
-      "seller_name": "Ostalb Highlanders",
-      "seller_roster_id": 7
-    },
-    {
-      "buyer_name": "Big Black Blocks",
-      "buyer_roster_id": 8,
-      "contender_value": 58.5,
-      "estimated_fit_score": 74.2,
-      "player_id": "2617",
-      "player_name": "Alex Singleton",
-      "position": "LB",
-      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
-      "rebuild_value": 35.5,
-      "seller_name": "Ravensburger Playmakers",
-      "seller_roster_id": 9
-    },
-    {
-      "buyer_name": "Big Black Blocks",
-      "buyer_roster_id": 8,
-      "contender_value": 58.5,
-      "estimated_fit_score": 74.2,
-      "player_id": "4118",
-      "player_name": "Alex Anzalone",
-      "position": "LB",
-      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
-      "rebuild_value": 35.5,
-      "seller_name": "The Infinite Rebuild",
-      "seller_roster_id": 12
-    },
-    {
       "buyer_name": "Kindergarten Cop",
       "buyer_roster_id": 10,
       "contender_value": 91.1,
@@ -98738,6 +98699,45 @@
       "rebuild_value": 37.5,
       "seller_name": "Kindergarten Cop",
       "seller_roster_id": 10
+    },
+    {
+      "buyer_name": "Big Black Blocks",
+      "buyer_roster_id": 8,
+      "contender_value": 58.5,
+      "estimated_fit_score": 74.1,
+      "player_id": "4070",
+      "player_name": "T.J. Watt",
+      "position": "LB",
+      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
+      "rebuild_value": 35.5,
+      "seller_name": "Ostalb Highlanders",
+      "seller_roster_id": 7
+    },
+    {
+      "buyer_name": "Big Black Blocks",
+      "buyer_roster_id": 8,
+      "contender_value": 58.5,
+      "estimated_fit_score": 74.1,
+      "player_id": "2617",
+      "player_name": "Alex Singleton",
+      "position": "LB",
+      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
+      "rebuild_value": 35.5,
+      "seller_name": "Ravensburger Playmakers",
+      "seller_roster_id": 9
+    },
+    {
+      "buyer_name": "Big Black Blocks",
+      "buyer_roster_id": 8,
+      "contender_value": 58.5,
+      "estimated_fit_score": 74.1,
+      "player_id": "4118",
+      "player_name": "Alex Anzalone",
+      "position": "LB",
+      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
+      "rebuild_value": 35.5,
+      "seller_name": "The Infinite Rebuild",
+      "seller_roster_id": 12
     },
     {
       "buyer_name": "Dirty's Devils",
@@ -99052,58 +99052,6 @@
       "seller_roster_id": 4
     },
     {
-      "buyer_name": "Big Black Blocks",
-      "buyer_roster_id": 8,
-      "contender_value": 68.5,
-      "estimated_fit_score": 70.6,
-      "player_id": "3214",
-      "player_name": "Hunter Henry",
-      "position": "TE",
-      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
-      "rebuild_value": 48.5,
-      "seller_name": "Lokomotive Bodensee",
-      "seller_roster_id": 2
-    },
-    {
-      "buyer_name": "Big Black Blocks",
-      "buyer_roster_id": 8,
-      "contender_value": 61.5,
-      "estimated_fit_score": 70.6,
-      "player_id": "5332",
-      "player_name": "Foyesade Oluokun",
-      "position": "LB",
-      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
-      "rebuild_value": 41.5,
-      "seller_name": "Ravensburger Playmakers",
-      "seller_roster_id": 9
-    },
-    {
-      "buyer_name": "Big Black Blocks",
-      "buyer_roster_id": 8,
-      "contender_value": 61.5,
-      "estimated_fit_score": 70.6,
-      "player_id": "6141",
-      "player_name": "Drue Tranquill",
-      "position": "LB",
-      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
-      "rebuild_value": 41.5,
-      "seller_name": "Ravensburger Playmakers",
-      "seller_roster_id": 9
-    },
-    {
-      "buyer_name": "Big Black Blocks",
-      "buyer_roster_id": 8,
-      "contender_value": 68.5,
-      "estimated_fit_score": 70.6,
-      "player_id": "5022",
-      "player_name": "Dallas Goedert",
-      "position": "TE",
-      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
-      "rebuild_value": 48.5,
-      "seller_name": "The Infinite Rebuild",
-      "seller_roster_id": 12
-    },
-    {
       "buyer_name": "Steffmeff",
       "buyer_roster_id": 11,
       "contender_value": 63.5,
@@ -99172,7 +99120,7 @@
       "buyer_name": "Lokomotive Bodensee",
       "buyer_roster_id": 2,
       "contender_value": 68.5,
-      "estimated_fit_score": 70.3,
+      "estimated_fit_score": 70.5,
       "player_id": "5012",
       "player_name": "Mark Andrews",
       "position": "TE",
@@ -99185,7 +99133,59 @@
       "buyer_name": "Lokomotive Bodensee",
       "buyer_roster_id": 2,
       "contender_value": 68.5,
-      "estimated_fit_score": 70.3,
+      "estimated_fit_score": 70.5,
+      "player_id": "5022",
+      "player_name": "Dallas Goedert",
+      "position": "TE",
+      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
+      "rebuild_value": 48.5,
+      "seller_name": "The Infinite Rebuild",
+      "seller_roster_id": 12
+    },
+    {
+      "buyer_name": "Big Black Blocks",
+      "buyer_roster_id": 8,
+      "contender_value": 68.5,
+      "estimated_fit_score": 70.5,
+      "player_id": "3214",
+      "player_name": "Hunter Henry",
+      "position": "TE",
+      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
+      "rebuild_value": 48.5,
+      "seller_name": "Lokomotive Bodensee",
+      "seller_roster_id": 2
+    },
+    {
+      "buyer_name": "Big Black Blocks",
+      "buyer_roster_id": 8,
+      "contender_value": 61.5,
+      "estimated_fit_score": 70.5,
+      "player_id": "5332",
+      "player_name": "Foyesade Oluokun",
+      "position": "LB",
+      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
+      "rebuild_value": 41.5,
+      "seller_name": "Ravensburger Playmakers",
+      "seller_roster_id": 9
+    },
+    {
+      "buyer_name": "Big Black Blocks",
+      "buyer_roster_id": 8,
+      "contender_value": 61.5,
+      "estimated_fit_score": 70.5,
+      "player_id": "6141",
+      "player_name": "Drue Tranquill",
+      "position": "LB",
+      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
+      "rebuild_value": 41.5,
+      "seller_name": "Ravensburger Playmakers",
+      "seller_roster_id": 9
+    },
+    {
+      "buyer_name": "Big Black Blocks",
+      "buyer_roster_id": 8,
+      "contender_value": 68.5,
+      "estimated_fit_score": 70.5,
       "player_id": "5022",
       "player_name": "Dallas Goedert",
       "position": "TE",
@@ -99328,7 +99328,7 @@
       "buyer_name": "Lokomotive Bodensee",
       "buyer_roster_id": 2,
       "contender_value": 59.5,
-      "estimated_fit_score": 69.1,
+      "estimated_fit_score": 69.3,
       "player_id": "5967",
       "player_name": "Tony Pollard",
       "position": "RB",
@@ -99665,32 +99665,6 @@
       "seller_roster_id": 7
     },
     {
-      "buyer_name": "Big Black Blocks",
-      "buyer_roster_id": 8,
-      "contender_value": 62.5,
-      "estimated_fit_score": 77.8,
-      "player_id": "4217",
-      "player_name": "George Kittle",
-      "position": "TE",
-      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
-      "rebuild_value": 36.5,
-      "seller_name": "Springfield Wildcats",
-      "seller_roster_id": 3
-    },
-    {
-      "buyer_name": "Big Black Blocks",
-      "buyer_roster_id": 8,
-      "contender_value": 62.5,
-      "estimated_fit_score": 77.8,
-      "player_id": "3271",
-      "player_name": "Tyler Higbee",
-      "position": "TE",
-      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
-      "rebuild_value": 36.5,
-      "seller_name": "Kindergarten Cop",
-      "seller_roster_id": 10
-    },
-    {
       "buyer_name": "Kindergarten Cop",
       "buyer_roster_id": 10,
       "contender_value": 73.1,
@@ -99707,7 +99681,7 @@
       "buyer_name": "Lokomotive Bodensee",
       "buyer_roster_id": 2,
       "contender_value": 62.5,
-      "estimated_fit_score": 77.5,
+      "estimated_fit_score": 77.7,
       "player_id": "4217",
       "player_name": "George Kittle",
       "position": "TE",
@@ -99720,7 +99694,33 @@
       "buyer_name": "Lokomotive Bodensee",
       "buyer_roster_id": 2,
       "contender_value": 62.5,
-      "estimated_fit_score": 77.5,
+      "estimated_fit_score": 77.7,
+      "player_id": "3271",
+      "player_name": "Tyler Higbee",
+      "position": "TE",
+      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
+      "rebuild_value": 36.5,
+      "seller_name": "Kindergarten Cop",
+      "seller_roster_id": 10
+    },
+    {
+      "buyer_name": "Big Black Blocks",
+      "buyer_roster_id": 8,
+      "contender_value": 62.5,
+      "estimated_fit_score": 77.7,
+      "player_id": "4217",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
+      "rebuild_value": 36.5,
+      "seller_name": "Springfield Wildcats",
+      "seller_roster_id": 3
+    },
+    {
+      "buyer_name": "Big Black Blocks",
+      "buyer_roster_id": 8,
+      "contender_value": 62.5,
+      "estimated_fit_score": 77.7,
       "player_id": "3271",
       "player_name": "Tyler Higbee",
       "position": "TE",
@@ -99925,45 +99925,6 @@
       "seller_roster_id": 12
     },
     {
-      "buyer_name": "Big Black Blocks",
-      "buyer_roster_id": 8,
-      "contender_value": 58.5,
-      "estimated_fit_score": 74.2,
-      "player_id": "4070",
-      "player_name": "T.J. Watt",
-      "position": "LB",
-      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
-      "rebuild_value": 35.5,
-      "seller_name": "Ostalb Highlanders",
-      "seller_roster_id": 7
-    },
-    {
-      "buyer_name": "Big Black Blocks",
-      "buyer_roster_id": 8,
-      "contender_value": 58.5,
-      "estimated_fit_score": 74.2,
-      "player_id": "2617",
-      "player_name": "Alex Singleton",
-      "position": "LB",
-      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
-      "rebuild_value": 35.5,
-      "seller_name": "Ravensburger Playmakers",
-      "seller_roster_id": 9
-    },
-    {
-      "buyer_name": "Big Black Blocks",
-      "buyer_roster_id": 8,
-      "contender_value": 58.5,
-      "estimated_fit_score": 74.2,
-      "player_id": "4118",
-      "player_name": "Alex Anzalone",
-      "position": "LB",
-      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
-      "rebuild_value": 35.5,
-      "seller_name": "The Infinite Rebuild",
-      "seller_roster_id": 12
-    },
-    {
       "buyer_name": "Kindergarten Cop",
       "buyer_roster_id": 10,
       "contender_value": 91.1,
@@ -100040,6 +100001,45 @@
       "rebuild_value": 37.5,
       "seller_name": "Kindergarten Cop",
       "seller_roster_id": 10
+    },
+    {
+      "buyer_name": "Big Black Blocks",
+      "buyer_roster_id": 8,
+      "contender_value": 58.5,
+      "estimated_fit_score": 74.1,
+      "player_id": "4070",
+      "player_name": "T.J. Watt",
+      "position": "LB",
+      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
+      "rebuild_value": 35.5,
+      "seller_name": "Ostalb Highlanders",
+      "seller_roster_id": 7
+    },
+    {
+      "buyer_name": "Big Black Blocks",
+      "buyer_roster_id": 8,
+      "contender_value": 58.5,
+      "estimated_fit_score": 74.1,
+      "player_id": "2617",
+      "player_name": "Alex Singleton",
+      "position": "LB",
+      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
+      "rebuild_value": 35.5,
+      "seller_name": "Ravensburger Playmakers",
+      "seller_roster_id": 9
+    },
+    {
+      "buyer_name": "Big Black Blocks",
+      "buyer_roster_id": 8,
+      "contender_value": 58.5,
+      "estimated_fit_score": 74.1,
+      "player_id": "4118",
+      "player_name": "Alex Anzalone",
+      "position": "LB",
+      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
+      "rebuild_value": 35.5,
+      "seller_name": "The Infinite Rebuild",
+      "seller_roster_id": 12
     },
     {
       "buyer_name": "Dirty's Devils",
@@ -100354,58 +100354,6 @@
       "seller_roster_id": 4
     },
     {
-      "buyer_name": "Big Black Blocks",
-      "buyer_roster_id": 8,
-      "contender_value": 68.5,
-      "estimated_fit_score": 70.6,
-      "player_id": "3214",
-      "player_name": "Hunter Henry",
-      "position": "TE",
-      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
-      "rebuild_value": 48.5,
-      "seller_name": "Lokomotive Bodensee",
-      "seller_roster_id": 2
-    },
-    {
-      "buyer_name": "Big Black Blocks",
-      "buyer_roster_id": 8,
-      "contender_value": 61.5,
-      "estimated_fit_score": 70.6,
-      "player_id": "5332",
-      "player_name": "Foyesade Oluokun",
-      "position": "LB",
-      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
-      "rebuild_value": 41.5,
-      "seller_name": "Ravensburger Playmakers",
-      "seller_roster_id": 9
-    },
-    {
-      "buyer_name": "Big Black Blocks",
-      "buyer_roster_id": 8,
-      "contender_value": 61.5,
-      "estimated_fit_score": 70.6,
-      "player_id": "6141",
-      "player_name": "Drue Tranquill",
-      "position": "LB",
-      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
-      "rebuild_value": 41.5,
-      "seller_name": "Ravensburger Playmakers",
-      "seller_roster_id": 9
-    },
-    {
-      "buyer_name": "Big Black Blocks",
-      "buyer_roster_id": 8,
-      "contender_value": 68.5,
-      "estimated_fit_score": 70.6,
-      "player_id": "5022",
-      "player_name": "Dallas Goedert",
-      "position": "TE",
-      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
-      "rebuild_value": 48.5,
-      "seller_name": "The Infinite Rebuild",
-      "seller_roster_id": 12
-    },
-    {
       "buyer_name": "Steffmeff",
       "buyer_roster_id": 11,
       "contender_value": 63.5,
@@ -100474,7 +100422,7 @@
       "buyer_name": "Lokomotive Bodensee",
       "buyer_roster_id": 2,
       "contender_value": 68.5,
-      "estimated_fit_score": 70.3,
+      "estimated_fit_score": 70.5,
       "player_id": "5012",
       "player_name": "Mark Andrews",
       "position": "TE",
@@ -100487,7 +100435,59 @@
       "buyer_name": "Lokomotive Bodensee",
       "buyer_roster_id": 2,
       "contender_value": 68.5,
-      "estimated_fit_score": 70.3,
+      "estimated_fit_score": 70.5,
+      "player_id": "5022",
+      "player_name": "Dallas Goedert",
+      "position": "TE",
+      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
+      "rebuild_value": 48.5,
+      "seller_name": "The Infinite Rebuild",
+      "seller_roster_id": 12
+    },
+    {
+      "buyer_name": "Big Black Blocks",
+      "buyer_roster_id": 8,
+      "contender_value": 68.5,
+      "estimated_fit_score": 70.5,
+      "player_id": "3214",
+      "player_name": "Hunter Henry",
+      "position": "TE",
+      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
+      "rebuild_value": 48.5,
+      "seller_name": "Lokomotive Bodensee",
+      "seller_roster_id": 2
+    },
+    {
+      "buyer_name": "Big Black Blocks",
+      "buyer_roster_id": 8,
+      "contender_value": 61.5,
+      "estimated_fit_score": 70.5,
+      "player_id": "5332",
+      "player_name": "Foyesade Oluokun",
+      "position": "LB",
+      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
+      "rebuild_value": 41.5,
+      "seller_name": "Ravensburger Playmakers",
+      "seller_roster_id": 9
+    },
+    {
+      "buyer_name": "Big Black Blocks",
+      "buyer_roster_id": 8,
+      "contender_value": 61.5,
+      "estimated_fit_score": 70.5,
+      "player_id": "6141",
+      "player_name": "Drue Tranquill",
+      "position": "LB",
+      "reason": "Targets a weak LB group and may fit seller window 'contender'.",
+      "rebuild_value": 41.5,
+      "seller_name": "Ravensburger Playmakers",
+      "seller_roster_id": 9
+    },
+    {
+      "buyer_name": "Big Black Blocks",
+      "buyer_roster_id": 8,
+      "contender_value": 68.5,
+      "estimated_fit_score": 70.5,
       "player_id": "5022",
       "player_name": "Dallas Goedert",
       "position": "TE",
@@ -100630,7 +100630,7 @@
       "buyer_name": "Lokomotive Bodensee",
       "buyer_roster_id": 2,
       "contender_value": 59.5,
-      "estimated_fit_score": 69.1,
+      "estimated_fit_score": 69.3,
       "player_id": "5967",
       "player_name": "Tony Pollard",
       "position": "RB",
@@ -111774,6 +111774,39 @@
       }
     ],
     "6": [
+      {
+        "adds": {
+          "12533": 2,
+          "1479": 2,
+          "5991": 8
+        },
+        "consenter_ids": [
+          2,
+          8
+        ],
+        "created": 1792390976841,
+        "creator": "1358816352504147968",
+        "draft_picks": [],
+        "drops": {
+          "12533": 8,
+          "1479": 8,
+          "5991": 2
+        },
+        "leg": 6,
+        "metadata": null,
+        "roster_ids": [
+          2,
+          8
+        ],
+        "settings": {
+          "is_counter": 1
+        },
+        "status": "complete",
+        "status_updated": 1792397254523,
+        "transaction_id": "1417794153512714240",
+        "type": "trade",
+        "waiver_budget": []
+      },
       {
         "adds": {
           "7696": 8
