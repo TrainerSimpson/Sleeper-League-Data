@@ -9350,7 +9350,7 @@
         "active": true,
         "age": 27,
         "age_bucket": "prime",
-        "depth_chart_order": 2,
+        "depth_chart_order": 3,
         "depth_chart_position": "RB",
         "fantasy_positions": [
           "RB"
@@ -9361,7 +9361,7 @@
         "injury_notes": null,
         "injury_status": null,
         "is_reserve": false,
-        "is_starter": true,
+        "is_starter": false,
         "is_taxi": false,
         "last_name": "Dobbins",
         "normalized_position": "RB",
@@ -9372,12 +9372,12 @@
         "status": "Active",
         "team": "DEN",
         "value": {
-          "confidence": 70.0,
-          "contender": 66.5,
+          "confidence": 55.0,
+          "contender": 35.5,
           "liquidity": 83.0,
-          "market": 58.5,
+          "market": 35.5,
           "player_id": "6806",
-          "rebuild": 53.5,
+          "rebuild": 30.5,
           "risk": 52.0,
           "source": "heuristic-v0.2"
         },
@@ -9398,7 +9398,7 @@
         "injury_notes": null,
         "injury_status": "Questionable",
         "is_reserve": false,
-        "is_starter": false,
+        "is_starter": true,
         "is_taxi": false,
         "last_name": "Hall",
         "normalized_position": "RB",
@@ -9409,12 +9409,12 @@
         "status": "Active",
         "team": "NYJ",
         "value": {
-          "confidence": 55.0,
-          "contender": 46.1,
+          "confidence": 70.0,
+          "contender": 74.1,
           "liquidity": 85.1,
-          "market": 47.5,
+          "market": 67.5,
           "player_id": "8155",
-          "rebuild": 53.5,
+          "rebuild": 73.5,
           "risk": 44.0,
           "source": "heuristic-v0.2"
         },
@@ -11671,7 +11671,7 @@
         "position": "DT",
         "search_full_name": "jefferysimmons",
         "status": "Active",
-        "team": "TEN",
+        "team": "CHI",
         "value": {
           "confidence": 70.0,
           "contender": 69.5,
@@ -12048,7 +12048,7 @@
           "position": "DT",
           "search_full_name": "jefferysimmons",
           "status": "Active",
-          "team": "TEN",
+          "team": "CHI",
           "value": {
             "confidence": 70.0,
             "contender": 69.5,
@@ -13147,6 +13147,43 @@
         },
         {
           "active": true,
+          "age": 25,
+          "age_bucket": "prime",
+          "depth_chart_order": 1,
+          "depth_chart_position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "first_name": "Breece",
+          "full_name": "Breece Hall",
+          "injury_body_part": "Quadriceps",
+          "injury_notes": null,
+          "injury_status": "Questionable",
+          "is_reserve": false,
+          "is_starter": true,
+          "is_taxi": false,
+          "last_name": "Hall",
+          "normalized_position": "RB",
+          "number": 20,
+          "player_id": "8155",
+          "position": "RB",
+          "search_full_name": "breecehall",
+          "status": "Active",
+          "team": "NYJ",
+          "value": {
+            "confidence": 70.0,
+            "contender": 74.1,
+            "liquidity": 85.1,
+            "market": 67.5,
+            "player_id": "8155",
+            "rebuild": 73.5,
+            "risk": 44.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 4
+        },
+        {
+          "active": true,
           "age": 26,
           "age_bucket": "prime",
           "depth_chart_order": 1,
@@ -13181,43 +13218,6 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 5
-        },
-        {
-          "active": true,
-          "age": 27,
-          "age_bucket": "prime",
-          "depth_chart_order": 2,
-          "depth_chart_position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "first_name": "J.K.",
-          "full_name": "J.K. Dobbins",
-          "injury_body_part": null,
-          "injury_notes": null,
-          "injury_status": null,
-          "is_reserve": false,
-          "is_starter": true,
-          "is_taxi": false,
-          "last_name": "Dobbins",
-          "normalized_position": "RB",
-          "number": 27,
-          "player_id": "6806",
-          "position": "RB",
-          "search_full_name": "jkdobbins",
-          "status": "Active",
-          "team": "DEN",
-          "value": {
-            "confidence": 70.0,
-            "contender": 66.5,
-            "liquidity": 83.0,
-            "market": 58.5,
-            "player_id": "6806",
-            "rebuild": 53.5,
-            "risk": 52.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 6
         },
         {
           "active": true,
@@ -13334,43 +13334,6 @@
           "active": true,
           "age": 25,
           "age_bucket": "prime",
-          "depth_chart_order": 1,
-          "depth_chart_position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "first_name": "Breece",
-          "full_name": "Breece Hall",
-          "injury_body_part": "Quadriceps",
-          "injury_notes": null,
-          "injury_status": "Questionable",
-          "is_reserve": false,
-          "is_starter": false,
-          "is_taxi": false,
-          "last_name": "Hall",
-          "normalized_position": "RB",
-          "number": 20,
-          "player_id": "8155",
-          "position": "RB",
-          "search_full_name": "breecehall",
-          "status": "Active",
-          "team": "NYJ",
-          "value": {
-            "confidence": 55.0,
-            "contender": 46.1,
-            "liquidity": 85.1,
-            "market": 47.5,
-            "player_id": "8155",
-            "rebuild": 53.5,
-            "risk": 44.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 4
-        },
-        {
-          "active": true,
-          "age": 25,
-          "age_bucket": "prime",
           "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
@@ -13403,6 +13366,43 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 2
+        },
+        {
+          "active": true,
+          "age": 27,
+          "age_bucket": "prime",
+          "depth_chart_order": 3,
+          "depth_chart_position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "first_name": "J.K.",
+          "full_name": "J.K. Dobbins",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Dobbins",
+          "normalized_position": "RB",
+          "number": 27,
+          "player_id": "6806",
+          "position": "RB",
+          "search_full_name": "jkdobbins",
+          "status": "Active",
+          "team": "DEN",
+          "value": {
+            "confidence": 55.0,
+            "contender": 35.5,
+            "liquidity": 83.0,
+            "market": 35.5,
+            "player_id": "6806",
+            "rebuild": 30.5,
+            "risk": 52.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 6
         },
         {
           "active": true,
@@ -14146,10 +14146,10 @@
       "9997",
       "11620",
       "4454",
-      "8172",
-      "11637",
-      "6806",
       "9479",
+      "11637",
+      "8155",
+      "8172",
       "9493",
       "11560",
       "7626",
@@ -15922,7 +15922,7 @@
         "active": true,
         "age": 25,
         "age_bucket": "prime",
-        "depth_chart_order": 3,
+        "depth_chart_order": 2,
         "depth_chart_position": "RB",
         "fantasy_positions": [
           "RB"
@@ -15945,11 +15945,11 @@
         "team": "DEN",
         "value": {
           "confidence": 70.0,
-          "contender": 70.5,
+          "contender": 73.5,
           "liquidity": 85.1,
-          "market": 62.5,
+          "market": 65.5,
           "player_id": "12489",
-          "rebuild": 68.5,
+          "rebuild": 71.5,
           "risk": 40.0,
           "source": "heuristic-v0.2"
         },
@@ -18082,7 +18082,7 @@
           "active": true,
           "age": 25,
           "age_bucket": "prime",
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -18105,11 +18105,11 @@
           "team": "DEN",
           "value": {
             "confidence": 70.0,
-            "contender": 70.5,
+            "contender": 73.5,
             "liquidity": 85.1,
-            "market": 62.5,
+            "market": 65.5,
             "player_id": "12489",
-            "rebuild": 68.5,
+            "rebuild": 71.5,
             "risk": 40.0,
             "source": "heuristic-v0.2"
           },
@@ -38525,7 +38525,7 @@
         "active": true,
         "age": 27,
         "age_bucket": "prime",
-        "depth_chart_order": 4,
+        "depth_chart_order": 3,
         "depth_chart_position": "TE",
         "fantasy_positions": [
           "TE"
@@ -38548,11 +38548,11 @@
         "team": "CHI",
         "value": {
           "confidence": 55.0,
-          "contender": 13.8,
+          "contender": 16.8,
           "liquidity": 68.0,
-          "market": 21.5,
+          "market": 24.5,
           "player_id": "6826",
-          "rebuild": 21.5,
+          "rebuild": 24.5,
           "risk": 46.0,
           "source": "heuristic-v0.2"
         },
@@ -41731,7 +41731,7 @@
           "active": true,
           "age": 27,
           "age_bucket": "prime",
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -41754,11 +41754,11 @@
           "team": "CHI",
           "value": {
             "confidence": 55.0,
-            "contender": 13.8,
+            "contender": 16.8,
             "liquidity": 68.0,
-            "market": 21.5,
+            "market": 24.5,
             "player_id": "6826",
-            "rebuild": 21.5,
+            "rebuild": 24.5,
             "risk": 46.0,
             "source": "heuristic-v0.2"
           },
