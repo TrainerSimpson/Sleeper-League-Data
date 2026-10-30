@@ -30,6 +30,13 @@
         "season": 2027
       },
       {
+        "is_own_pick": false,
+        "original_roster_id": 8,
+        "owner_roster_id": 1,
+        "round": 2,
+        "season": 2027
+      },
+      {
         "is_own_pick": true,
         "original_roster_id": 1,
         "owner_roster_id": 1,
@@ -39,6 +46,13 @@
       {
         "is_own_pick": true,
         "original_roster_id": 1,
+        "owner_roster_id": 1,
+        "round": 4,
+        "season": 2027
+      },
+      {
+        "is_own_pick": false,
+        "original_roster_id": 8,
         "owner_roster_id": 1,
         "round": 4,
         "season": 2027
@@ -118,9 +132,9 @@
     "summary": {
       "2027": {
         "1": 1,
-        "2": 1,
+        "2": 2,
         "3": 1,
-        "4": 1,
+        "4": 2,
         "5": 1
       },
       "2028": {
@@ -1279,13 +1293,6 @@
         "is_own_pick": true,
         "original_roster_id": 8,
         "owner_roster_id": 8,
-        "round": 2,
-        "season": 2027
-      },
-      {
-        "is_own_pick": true,
-        "original_roster_id": 8,
-        "owner_roster_id": 8,
         "round": 3,
         "season": 2027
       },
@@ -1294,13 +1301,6 @@
         "original_roster_id": 12,
         "owner_roster_id": 8,
         "round": 3,
-        "season": 2027
-      },
-      {
-        "is_own_pick": true,
-        "original_roster_id": 8,
-        "owner_roster_id": 8,
-        "round": 4,
         "season": 2027
       },
       {
@@ -1385,9 +1385,9 @@
     "summary": {
       "2027": {
         "1": 1,
-        "2": 1,
+        "2": 0,
         "3": 2,
-        "4": 1,
+        "4": 0,
         "5": 1
       },
       "2028": {
