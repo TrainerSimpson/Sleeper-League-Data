@@ -12510,6 +12510,42 @@
   "8": [
     {
       "adds": {
+        "4035": 10
+      },
+      "consenter_ids": [
+        1,
+        10
+      ],
+      "created": 1793372797480,
+      "creator": "587198224066977792",
+      "draft_picks": [
+        {
+          "league_id": null,
+          "owner_id": 1,
+          "previous_owner_id": 10,
+          "roster_id": 4,
+          "round": 3,
+          "season": "2028"
+        }
+      ],
+      "drops": {
+        "4035": 1
+      },
+      "leg": 8,
+      "metadata": null,
+      "roster_ids": [
+        1,
+        10
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1793374472209,
+      "transaction_id": "1421912207750434816",
+      "type": "trade",
+      "waiver_budget": []
+    },
+    {
+      "adds": {
         "9500": 8
       },
       "consenter_ids": [
@@ -12552,6 +12588,34 @@
       "status_updated": 1793366026438,
       "transaction_id": "1421861123791003648",
       "type": "trade",
+      "waiver_budget": []
+    },
+    {
+      "adds": {
+        "8286": 8
+      },
+      "consenter_ids": [
+        8
+      ],
+      "created": 1793314122611,
+      "creator": "1368351367726403584",
+      "draft_picks": [],
+      "drops": null,
+      "leg": 8,
+      "metadata": {
+        "notes": "Unfortunately, your roster will have too many players after this transaction."
+      },
+      "roster_ids": [
+        8
+      ],
+      "settings": {
+        "seq": 0,
+        "waiver_bid": 1
+      },
+      "status": "failed",
+      "status_updated": 1793376371115,
+      "transaction_id": "1421666107508477952",
+      "type": "waiver",
       "waiver_budget": []
     },
     {
