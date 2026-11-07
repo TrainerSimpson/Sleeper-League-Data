@@ -17051,7 +17051,7 @@
       "type": "snake"
     }
   ],
-  "generated_at": "2026-11-07T10:19:14.756192+00:00",
+  "generated_at": "2026-11-07T16:51:43.285216+00:00",
   "league": {
     "avatar": "7c15319eacc56bfdeb741f4b006ca693",
     "bracket_id": null,
@@ -35088,8 +35088,8 @@
           "6888",
           "6416",
           "11352",
-          "11712",
-          "8334"
+          "4224",
+          "11712"
         ],
         "starters_points": [
           0.0,
@@ -36355,7 +36355,7 @@
         "roster_id": 8,
         "starters": [
           "4984",
-          "12507",
+          "6790",
           "4199",
           "8137",
           "12519",
@@ -36364,7 +36364,7 @@
           "10213",
           "5850",
           "9500",
-          "6790",
+          "3271",
           "8132",
           "5991",
           "7627",
@@ -36376,7 +36376,7 @@
           "7069",
           "8286",
           "7136",
-          "5372",
+          "5912",
           "11656"
         ],
         "starters_points": [
@@ -36747,11 +36747,11 @@
           "11667",
           "8267",
           "13482",
-          "13379",
+          "5041",
           "12597",
           "7811",
           "8395",
-          "5041",
+          "13379",
           "8330",
           "4413"
         ],
@@ -37106,7 +37106,7 @@
           "5022",
           "9753",
           "8161",
-          "2311",
+          "2036",
           "6782",
           "2064",
           "5843",
@@ -39274,8 +39274,8 @@
         "6888",
         "6416",
         "11352",
-        "11712",
-        "8334"
+        "4224",
+        "11712"
       ],
       "taxi": [
         "12467",
@@ -40177,6 +40177,7 @@
       "reserve": [
         "2133",
         "4137",
+        "5372",
         "6025",
         "8698"
       ],
@@ -40198,7 +40199,7 @@
       },
       "starters": [
         "4984",
-        "12507",
+        "6790",
         "4199",
         "8137",
         "12519",
@@ -40207,7 +40208,7 @@
         "10213",
         "5850",
         "9500",
-        "6790",
+        "3271",
         "8132",
         "5991",
         "7627",
@@ -40219,7 +40220,7 @@
         "7069",
         "8286",
         "7136",
-        "5372",
+        "5912",
         "11656"
       ],
       "taxi": null
@@ -40481,11 +40482,11 @@
         "11667",
         "8267",
         "13482",
-        "13379",
+        "5041",
         "12597",
         "7811",
         "8395",
-        "5041",
+        "13379",
         "8330",
         "4413"
       ],
@@ -40708,9 +40709,9 @@
         "2064"
       ],
       "reserve": [
+        "3236",
         "4968",
         "7117",
-        "8129",
         "9226"
       ],
       "roster_id": 12,
@@ -40742,7 +40743,7 @@
         "5022",
         "9753",
         "8161",
-        "2311",
+        "2036",
         "6782",
         "2064",
         "5843",
@@ -41654,8 +41655,8 @@
       },
       "lineups": {
         "future": {
-          "average": 78.7,
-          "bench_value": 1662.1,
+          "average": 78.5,
+          "bench_value": 1667.0,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
@@ -41808,13 +41809,6 @@
               "slot": "FLEX"
             },
             {
-              "full_name": "Malcolm Rodriguez",
-              "player_id": "8334",
-              "position": "LB",
-              "score": 65.5,
-              "slot": "IDP_FLEX"
-            },
-            {
               "full_name": "Cedric Gray",
               "player_id": "11742",
               "position": "LB",
@@ -41827,13 +41821,20 @@
               "position": "LB",
               "score": 63.3,
               "slot": "IDP_FLEX"
+            },
+            {
+              "full_name": "Jake Golday",
+              "player_id": "13391",
+              "position": "LB",
+              "score": 60.6,
+              "slot": "IDP_FLEX"
             }
           ],
-          "total": 1888.0
+          "total": 1883.1
         },
         "win_now": {
-          "average": 80.4,
-          "bench_value": 1563.3,
+          "average": 79.7,
+          "bench_value": 1581.0,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -41986,13 +41987,6 @@
               "slot": "FLEX"
             },
             {
-              "full_name": "Malcolm Rodriguez",
-              "player_id": "8334",
-              "position": "LB",
-              "score": 73.5,
-              "slot": "IDP_FLEX"
-            },
-            {
               "full_name": "Mack Wilson Sr.",
               "player_id": "6131",
               "position": "LB",
@@ -42005,16 +41999,23 @@
               "position": "DB",
               "score": 62.5,
               "slot": "IDP_FLEX"
+            },
+            {
+              "full_name": "Cedric Gray",
+              "player_id": "11742",
+              "position": "LB",
+              "score": 55.8,
+              "slot": "IDP_FLEX"
             }
           ],
-          "total": 1929.6
+          "total": 1911.9
         }
       },
       "positions": {
         "DB": {
           "contender_top": 275.0,
           "count": 8,
-          "market": 388.0,
+          "market": 408.0,
           "rebuild_top": 248.0
         },
         "DL": {
@@ -42024,10 +42025,10 @@
           "rebuild_top": 261.3
         },
         "LB": {
-          "contender_top": 311.6,
+          "contender_top": 308.6,
           "count": 14,
-          "market": 708.8,
-          "rebuild_top": 300.6
+          "market": 688.8,
+          "rebuild_top": 299.9
         },
         "QB": {
           "contender_top": 333.2,
@@ -42057,11 +42058,11 @@
       "power_rank": 2,
       "roster_id": 1,
       "scores": {
-        "future": 78.7,
-        "liquidity": 68.5,
+        "future": 78.5,
+        "liquidity": 68.4,
         "market_total": 3367.6,
-        "risk": 33.1,
-        "win_now": 80.4
+        "risk": 33.2,
+        "win_now": 79.7
       },
       "team_name": "T’s Golden Browns",
       "window": "contender"
@@ -42838,7 +42839,7 @@
       "lineups": {
         "future": {
           "average": 76.2,
-          "bench_value": 2008.0,
+          "bench_value": 2011.0,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
@@ -43016,7 +43017,7 @@
         },
         "win_now": {
           "average": 78.2,
-          "bench_value": 1855.7,
+          "bench_value": 1858.7,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -43215,7 +43216,7 @@
         "QB": {
           "contender_top": 333.1,
           "count": 8,
-          "market": 534.3,
+          "market": 537.3,
           "rebuild_top": 329.1
         },
         "RB": {
@@ -43242,7 +43243,7 @@
       "scores": {
         "future": 76.2,
         "liquidity": 68.0,
-        "market_total": 3606.6,
+        "market_total": 3609.6,
         "risk": 30.6,
         "win_now": 78.2
       },
@@ -44567,7 +44568,7 @@
       "lineups": {
         "future": {
           "average": 77.2,
-          "bench_value": 1775.5,
+          "bench_value": 1772.5,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
@@ -44745,7 +44746,7 @@
         },
         "win_now": {
           "average": 77.0,
-          "bench_value": 1630.6,
+          "bench_value": 1627.6,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -44942,10 +44943,10 @@
           "rebuild_top": 341.9
         },
         "QB": {
-          "contender_top": 318.3,
+          "contender_top": 315.3,
           "count": 7,
-          "market": 436.7,
-          "rebuild_top": 311.3
+          "market": 433.7,
+          "rebuild_top": 308.3
         },
         "RB": {
           "contender_top": 232.3,
@@ -44971,7 +44972,7 @@
       "scores": {
         "future": 77.2,
         "liquidity": 66.7,
-        "market_total": 3361.3,
+        "market_total": 3358.3,
         "risk": 31.8,
         "win_now": 77.0
       },
@@ -45155,7 +45156,7 @@
       "lineups": {
         "future": {
           "average": 74.0,
-          "bench_value": 1408.1,
+          "bench_value": 1412.1,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
@@ -45333,7 +45334,7 @@
         },
         "win_now": {
           "average": 76.1,
-          "bench_value": 1458.3,
+          "bench_value": 1462.3,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -45518,15 +45519,15 @@
           "rebuild_top": 281.9
         },
         "DL": {
-          "contender_top": 234.5,
+          "contender_top": 232.7,
           "count": 7,
-          "market": 321.1,
+          "market": 301.1,
           "rebuild_top": 236.6
         },
         "LB": {
           "contender_top": 276.0,
           "count": 9,
-          "market": 404.5,
+          "market": 424.5,
           "rebuild_top": 226.0
         },
         "QB": {
@@ -45538,7 +45539,7 @@
         "RB": {
           "contender_top": 270.0,
           "count": 6,
-          "market": 282.0,
+          "market": 286.0,
           "rebuild_top": 251.0
         },
         "TE": {
@@ -45559,8 +45560,8 @@
       "scores": {
         "future": 74.0,
         "liquidity": 66.0,
-        "market_total": 3141.1,
-        "risk": 34.4,
+        "market_total": 3145.1,
+        "risk": 34.5,
         "win_now": 76.1
       },
       "team_name": "The Infinite Rebuild",
@@ -46834,8 +46835,8 @@
       },
       "lineups": {
         "future": {
-          "average": 71.7,
-          "bench_value": 1075.6,
+          "average": 70.8,
+          "bench_value": 1092.6,
           "filled": 24,
           "metric": "rebuild",
           "required": 24,
@@ -46848,8 +46849,8 @@
               "slot": "QB"
             },
             {
-              "full_name": "Colby Parkinson",
-              "player_id": "6865",
+              "full_name": "Mark Andrews",
+              "player_id": "5012",
               "position": "TE",
               "score": 48.5,
               "slot": "TE"
@@ -46858,7 +46859,7 @@
               "full_name": "Omarion Hampton",
               "player_id": "12507",
               "position": "RB",
-              "score": 97.5,
+              "score": 77.5,
               "slot": "RB"
             },
             {
@@ -47009,11 +47010,11 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1720.1
+          "total": 1700.1
         },
         "win_now": {
-          "average": 75.1,
-          "bench_value": 1128.7,
+          "average": 74.7,
+          "bench_value": 1135.3,
           "filled": 24,
           "metric": "contender",
           "required": 24,
@@ -47033,17 +47034,17 @@
               "slot": "TE"
             },
             {
-              "full_name": "Omarion Hampton",
-              "player_id": "12507",
-              "position": "RB",
-              "score": 93.5,
-              "slot": "RB"
-            },
-            {
               "full_name": "Tyler Allgeier",
               "player_id": "8132",
               "position": "RB",
               "score": 74.5,
+              "slot": "RB"
+            },
+            {
+              "full_name": "D'Andre Swift",
+              "player_id": "6790",
+              "position": "RB",
+              "score": 69.5,
               "slot": "RB"
             },
             {
@@ -47075,17 +47076,17 @@
               "slot": "DL"
             },
             {
-              "full_name": "Maxx Crosby",
-              "player_id": "5991",
+              "full_name": "Carl Granderson",
+              "player_id": "5912",
               "position": "DL",
               "score": 69.5,
               "slot": "DL"
             },
             {
-              "full_name": "Jalen Carter",
-              "player_id": "10888",
+              "full_name": "Maxx Crosby",
+              "player_id": "5991",
               "position": "DL",
-              "score": 56.3,
+              "score": 69.5,
               "slot": "DL"
             },
             {
@@ -47145,10 +47146,10 @@
               "slot": "FLEX"
             },
             {
-              "full_name": "D'Andre Swift",
-              "player_id": "6790",
+              "full_name": "Omarion Hampton",
+              "player_id": "12507",
               "position": "RB",
-              "score": 69.5,
+              "score": 65.5,
               "slot": "FLEX"
             },
             {
@@ -47159,10 +47160,10 @@
               "slot": "FLEX"
             },
             {
-              "full_name": "Jarquez Hunter",
-              "player_id": "11569",
-              "position": "RB",
-              "score": 57.5,
+              "full_name": "Tyler Higbee",
+              "player_id": "3271",
+              "position": "TE",
+              "score": 62.5,
               "slot": "FLEX"
             },
             {
@@ -47180,27 +47181,27 @@
               "slot": "IDP_FLEX"
             },
             {
-              "full_name": "Andrew Van Ginkel",
-              "player_id": "6183",
-              "position": "LB",
-              "score": 56.1,
+              "full_name": "Jalen Carter",
+              "player_id": "10888",
+              "position": "DL",
+              "score": 56.3,
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1802.8
+          "total": 1793.2
         }
       },
       "positions": {
         "DB": {
           "contender_top": 261.2,
           "count": 11,
-          "market": 510.7,
+          "market": 490.7,
           "rebuild_top": 253.8
         },
         "DL": {
-          "contender_top": 267.3,
+          "contender_top": 280.8,
           "count": 7,
-          "market": 385.5,
+          "market": 405.5,
           "rebuild_top": 262.0
         },
         "LB": {
@@ -47216,32 +47217,32 @@
           "rebuild_top": 283.7
         },
         "RB": {
-          "contender_top": 302.0,
+          "contender_top": 274.0,
           "count": 10,
-          "market": 485.5,
-          "rebuild_top": 288.0
+          "market": 465.5,
+          "rebuild_top": 268.0
         },
         "TE": {
-          "contender_top": 160.9,
+          "contender_top": 188.9,
           "count": 4,
-          "market": 162.0,
-          "rebuild_top": 132.0
+          "market": 182.0,
+          "rebuild_top": 152.0
         },
         "WR": {
           "contender_top": 375.0,
           "count": 9,
-          "market": 560.7,
+          "market": 557.7,
           "rebuild_top": 377.4
         }
       },
       "power_rank": 11,
       "roster_id": 8,
       "scores": {
-        "future": 71.7,
-        "liquidity": 66.2,
-        "market_total": 2776.2,
-        "risk": 33.9,
-        "win_now": 75.1
+        "future": 70.8,
+        "liquidity": 66.0,
+        "market_total": 2773.2,
+        "risk": 34.0,
+        "win_now": 74.7
       },
       "team_name": "Big Black Blocks",
       "window": "contender"
@@ -47387,7 +47388,7 @@
       },
       "lineups": {
         "future": {
-          "average": 71.2,
+          "average": 71.3,
           "bench_value": 1368.7,
           "filled": 24,
           "metric": "rebuild",
@@ -47425,7 +47426,7 @@
               "full_name": "Jordan Watkins",
               "player_id": "12634",
               "position": "WR",
-              "score": 91.3,
+              "score": 94.3,
               "slot": "WR"
             },
             {
@@ -47562,10 +47563,10 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1707.9
+          "total": 1710.9
         },
         "win_now": {
-          "average": 74.0,
+          "average": 74.1,
           "bench_value": 1370.6,
           "filled": 24,
           "metric": "contender",
@@ -47603,7 +47604,7 @@
               "full_name": "Jordan Watkins",
               "player_id": "12634",
               "position": "WR",
-              "score": 90.3,
+              "score": 93.3,
               "slot": "WR"
             },
             {
@@ -47740,7 +47741,7 @@
               "slot": "IDP_FLEX"
             }
           ],
-          "total": 1774.8
+          "total": 1777.8
         }
       },
       "positions": {
@@ -47781,20 +47782,20 @@
           "rebuild_top": 221.3
         },
         "WR": {
-          "contender_top": 330.9,
+          "contender_top": 333.9,
           "count": 16,
-          "market": 762.6,
-          "rebuild_top": 312.3
+          "market": 765.6,
+          "rebuild_top": 315.3
         }
       },
       "power_rank": 12,
       "roster_id": 9,
       "scores": {
-        "future": 71.2,
+        "future": 71.3,
         "liquidity": 67.5,
-        "market_total": 3079.1,
+        "market_total": 3082.1,
         "risk": 36.2,
-        "win_now": 74.0
+        "win_now": 74.1
       },
       "team_name": "Ravensburger Playmakers",
       "window": "contender"
@@ -48852,7 +48853,7 @@
           "injury_notes": null,
           "injury_status": null,
           "is_reserve": false,
-          "is_starter": true,
+          "is_starter": false,
           "is_taxi": false,
           "last_name": "Rodriguez",
           "normalized_position": "LB",
@@ -48863,12 +48864,12 @@
           "status": "Active",
           "team": "DET",
           "value": {
-            "confidence": 70.0,
-            "contender": 73.5,
+            "confidence": 55.0,
+            "contender": 45.5,
             "liquidity": 52.0,
-            "market": 65.5,
+            "market": 45.5,
             "player_id": "8334",
-            "rebuild": 65.5,
+            "rebuild": 45.5,
             "risk": 30.0,
             "source": "heuristic-v0.2"
           },
@@ -49334,7 +49335,7 @@
           "injury_notes": null,
           "injury_status": null,
           "is_reserve": false,
-          "is_starter": false,
+          "is_starter": true,
           "is_taxi": false,
           "last_name": "Clark",
           "normalized_position": "DB",
@@ -49345,12 +49346,12 @@
           "status": "Active",
           "team": "DET",
           "value": {
-            "confidence": 55.0,
-            "contender": 25.5,
+            "confidence": 70.0,
+            "contender": 53.5,
             "liquidity": 33.8,
-            "market": 25.5,
+            "market": 45.5,
             "player_id": "4224",
-            "rebuild": 13.5,
+            "rebuild": 33.5,
             "risk": 54.0,
             "source": "heuristic-v0.2"
           },
@@ -50363,6 +50364,43 @@
           },
           {
             "active": true,
+            "age": 31,
+            "age_bucket": "veteran",
+            "depth_chart_order": 2,
+            "depth_chart_position": "FS",
+            "fantasy_positions": [
+              "DB"
+            ],
+            "first_name": "Chuck",
+            "full_name": "Chuck Clark",
+            "injury_body_part": null,
+            "injury_notes": null,
+            "injury_status": null,
+            "is_reserve": false,
+            "is_starter": true,
+            "is_taxi": false,
+            "last_name": "Clark",
+            "normalized_position": "DB",
+            "number": 36,
+            "player_id": "4224",
+            "position": "DB",
+            "search_full_name": "chuckclark",
+            "status": "Active",
+            "team": "DET",
+            "value": {
+              "confidence": 70.0,
+              "contender": 53.5,
+              "liquidity": 33.8,
+              "market": 45.5,
+              "player_id": "4224",
+              "rebuild": 33.5,
+              "risk": 54.0,
+              "source": "heuristic-v0.2"
+            },
+            "years_exp": 9
+          },
+          {
+            "active": true,
             "age": 25,
             "age_bucket": "prime",
             "depth_chart_order": 1,
@@ -50468,43 +50506,6 @@
               "player_id": "4071",
               "rebuild": 22.5,
               "risk": 48.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 9
-          },
-          {
-            "active": true,
-            "age": 31,
-            "age_bucket": "veteran",
-            "depth_chart_order": 2,
-            "depth_chart_position": "FS",
-            "fantasy_positions": [
-              "DB"
-            ],
-            "first_name": "Chuck",
-            "full_name": "Chuck Clark",
-            "injury_body_part": null,
-            "injury_notes": null,
-            "injury_status": null,
-            "is_reserve": false,
-            "is_starter": false,
-            "is_taxi": false,
-            "last_name": "Clark",
-            "normalized_position": "DB",
-            "number": 36,
-            "player_id": "4224",
-            "position": "DB",
-            "search_full_name": "chuckclark",
-            "status": "Active",
-            "team": "DET",
-            "value": {
-              "confidence": 55.0,
-              "contender": 25.5,
-              "liquidity": 33.8,
-              "market": 25.5,
-              "player_id": "4224",
-              "rebuild": 13.5,
-              "risk": 54.0,
               "source": "heuristic-v0.2"
             },
             "years_exp": 9
@@ -50888,43 +50889,6 @@
           },
           {
             "active": true,
-            "age": 27,
-            "age_bucket": "prime",
-            "depth_chart_order": 1,
-            "depth_chart_position": "LOLB",
-            "fantasy_positions": [
-              "LB"
-            ],
-            "first_name": "Malcolm",
-            "full_name": "Malcolm Rodriguez",
-            "injury_body_part": null,
-            "injury_notes": null,
-            "injury_status": null,
-            "is_reserve": false,
-            "is_starter": true,
-            "is_taxi": false,
-            "last_name": "Rodriguez",
-            "normalized_position": "LB",
-            "number": 44,
-            "player_id": "8334",
-            "position": "LB",
-            "search_full_name": "malcolmrodriguez",
-            "status": "Active",
-            "team": "DET",
-            "value": {
-              "confidence": 70.0,
-              "contender": 73.5,
-              "liquidity": 52.0,
-              "market": 65.5,
-              "player_id": "8334",
-              "rebuild": 65.5,
-              "risk": 30.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 4
-          },
-          {
-            "active": true,
             "age": 28,
             "age_bucket": "prime",
             "depth_chart_order": 1,
@@ -51142,6 +51106,43 @@
               "player_id": "8362",
               "rebuild": 21.5,
               "risk": 46.0,
+              "source": "heuristic-v0.2"
+            },
+            "years_exp": 4
+          },
+          {
+            "active": true,
+            "age": 27,
+            "age_bucket": "prime",
+            "depth_chart_order": 1,
+            "depth_chart_position": "LOLB",
+            "fantasy_positions": [
+              "LB"
+            ],
+            "first_name": "Malcolm",
+            "full_name": "Malcolm Rodriguez",
+            "injury_body_part": null,
+            "injury_notes": null,
+            "injury_status": null,
+            "is_reserve": false,
+            "is_starter": false,
+            "is_taxi": false,
+            "last_name": "Rodriguez",
+            "normalized_position": "LB",
+            "number": 44,
+            "player_id": "8334",
+            "position": "LB",
+            "search_full_name": "malcolmrodriguez",
+            "status": "Active",
+            "team": "DET",
+            "value": {
+              "confidence": 55.0,
+              "contender": 45.5,
+              "liquidity": 52.0,
+              "market": 45.5,
+              "player_id": "8334",
+              "rebuild": 45.5,
+              "risk": 30.0,
               "source": "heuristic-v0.2"
             },
             "years_exp": 4
@@ -52610,8 +52611,8 @@
         "6888",
         "6416",
         "11352",
-        "11712",
-        "8334"
+        "4224",
+        "11712"
       ],
       "taxi_ids": [
         "12467",
@@ -57558,7 +57559,7 @@
           "active": true,
           "age": 33,
           "age_bucket": "veteran",
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -57581,11 +57582,11 @@
           "team": "BAL",
           "value": {
             "confidence": 55.0,
-            "contender": 58.3,
+            "contender": 61.3,
             "liquidity": 71.7,
-            "market": 58.3,
+            "market": 61.3,
             "player_id": "3257",
-            "rebuild": 40.3,
+            "rebuild": 43.3,
             "risk": 42.0,
             "source": "heuristic-v0.2"
           },
@@ -60800,7 +60801,7 @@
             "active": true,
             "age": 33,
             "age_bucket": "veteran",
-            "depth_chart_order": 2,
+            "depth_chart_order": 1,
             "depth_chart_position": "QB",
             "fantasy_positions": [
               "QB"
@@ -60823,11 +60824,11 @@
             "team": "BAL",
             "value": {
               "confidence": 55.0,
-              "contender": 58.3,
+              "contender": 61.3,
               "liquidity": 71.7,
-              "market": 58.3,
+              "market": 61.3,
               "player_id": "3257",
-              "rebuild": 40.3,
+              "rebuild": 43.3,
               "risk": 42.0,
               "source": "heuristic-v0.2"
             },
@@ -81405,7 +81406,7 @@
           "active": true,
           "age": 27,
           "age_bucket": "prime",
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -81428,11 +81429,11 @@
           "team": "LAR",
           "value": {
             "confidence": 55.0,
-            "contender": 47.1,
+            "contender": 44.1,
             "liquidity": 68.0,
-            "market": 48.5,
+            "market": 45.5,
             "player_id": "6865",
-            "rebuild": 48.5,
+            "rebuild": 45.5,
             "risk": 28.0,
             "source": "heuristic-v0.2"
           },
@@ -81563,8 +81564,8 @@
           "injury_body_part": "Hip",
           "injury_notes": null,
           "injury_status": "Out",
-          "is_reserve": false,
-          "is_starter": true,
+          "is_reserve": true,
+          "is_starter": false,
           "is_taxi": false,
           "last_name": "Reed",
           "normalized_position": "DB",
@@ -81575,12 +81576,12 @@
           "status": "Active",
           "team": "DET",
           "value": {
-            "confidence": 70.0,
-            "contender": 49.0,
+            "confidence": 55.0,
+            "contender": 21.0,
             "liquidity": 35.9,
-            "market": 44.5,
+            "market": 24.5,
             "player_id": "5372",
-            "rebuild": 38.5,
+            "rebuild": 18.5,
             "risk": 52.0,
             "source": "heuristic-v0.2"
           },
@@ -82418,7 +82419,7 @@
           "injury_notes": null,
           "injury_status": null,
           "is_reserve": false,
-          "is_starter": false,
+          "is_starter": true,
           "is_taxi": false,
           "last_name": "Granderson",
           "normalized_position": "DL",
@@ -82429,12 +82430,12 @@
           "status": "Active",
           "team": "NO",
           "value": {
-            "confidence": 55.0,
-            "contender": 41.5,
+            "confidence": 70.0,
+            "contender": 69.5,
             "liquidity": 45.9,
-            "market": 41.5,
+            "market": 61.5,
             "player_id": "5912",
-            "rebuild": 35.5,
+            "rebuild": 55.5,
             "risk": 36.0,
             "source": "heuristic-v0.2"
           },
@@ -82666,7 +82667,7 @@
           "active": true,
           "age": 33,
           "age_bucket": "veteran",
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -82677,7 +82678,7 @@
           "injury_notes": null,
           "injury_status": null,
           "is_reserve": false,
-          "is_starter": false,
+          "is_starter": true,
           "is_taxi": false,
           "last_name": "Higbee",
           "normalized_position": "TE",
@@ -82688,12 +82689,12 @@
           "status": "Active",
           "team": "LAR",
           "value": {
-            "confidence": 55.0,
-            "contender": 31.5,
+            "confidence": 70.0,
+            "contender": 62.5,
             "liquidity": 61.7,
-            "market": 31.5,
+            "market": 54.5,
             "player_id": "3271",
-            "rebuild": 13.5,
+            "rebuild": 36.5,
             "risk": 60.0,
             "source": "heuristic-v0.2"
           },
@@ -83000,7 +83001,7 @@
           "active": true,
           "age": 33,
           "age_bucket": "veteran",
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -83023,11 +83024,11 @@
           "team": "SF",
           "value": {
             "confidence": 55.0,
-            "contender": 38.5,
+            "contender": 35.5,
             "liquidity": 81.7,
-            "market": 38.5,
+            "market": 35.5,
             "player_id": "2197",
-            "rebuild": 20.5,
+            "rebuild": 17.5,
             "risk": 66.0,
             "source": "heuristic-v0.2"
           },
@@ -83307,7 +83308,7 @@
           "injury_notes": null,
           "injury_status": null,
           "is_reserve": false,
-          "is_starter": true,
+          "is_starter": false,
           "is_taxi": false,
           "last_name": "Hampton",
           "normalized_position": "RB",
@@ -83318,12 +83319,12 @@
           "status": "Active",
           "team": "LAC",
           "value": {
-            "confidence": 70.0,
-            "contender": 93.5,
+            "confidence": 55.0,
+            "contender": 65.5,
             "liquidity": 87.2,
-            "market": 85.5,
+            "market": 65.5,
             "player_id": "12507",
-            "rebuild": 97.5,
+            "rebuild": 77.5,
             "risk": 34.0,
             "source": "heuristic-v0.2"
           },
@@ -83479,43 +83480,6 @@
               "source": "heuristic-v0.2"
             },
             "years_exp": 6
-          },
-          {
-            "active": true,
-            "age": 29,
-            "age_bucket": "veteran",
-            "depth_chart_order": 1,
-            "depth_chart_position": "RCB",
-            "fantasy_positions": [
-              "DB"
-            ],
-            "first_name": "D.J.",
-            "full_name": "D.J. Reed",
-            "injury_body_part": "Hip",
-            "injury_notes": null,
-            "injury_status": "Out",
-            "is_reserve": false,
-            "is_starter": true,
-            "is_taxi": false,
-            "last_name": "Reed",
-            "normalized_position": "DB",
-            "number": 4,
-            "player_id": "5372",
-            "position": "CB",
-            "search_full_name": "djreed",
-            "status": "Active",
-            "team": "DET",
-            "value": {
-              "confidence": 70.0,
-              "contender": 49.0,
-              "liquidity": 35.9,
-              "market": 44.5,
-              "player_id": "5372",
-              "rebuild": 38.5,
-              "risk": 52.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 8
           },
           {
             "active": true,
@@ -83707,6 +83671,43 @@
             "age": 29,
             "age_bucket": "veteran",
             "depth_chart_order": 1,
+            "depth_chart_position": "RCB",
+            "fantasy_positions": [
+              "DB"
+            ],
+            "first_name": "D.J.",
+            "full_name": "D.J. Reed",
+            "injury_body_part": "Hip",
+            "injury_notes": null,
+            "injury_status": "Out",
+            "is_reserve": true,
+            "is_starter": false,
+            "is_taxi": false,
+            "last_name": "Reed",
+            "normalized_position": "DB",
+            "number": 4,
+            "player_id": "5372",
+            "position": "CB",
+            "search_full_name": "djreed",
+            "status": "Active",
+            "team": "DET",
+            "value": {
+              "confidence": 55.0,
+              "contender": 21.0,
+              "liquidity": 35.9,
+              "market": 24.5,
+              "player_id": "5372",
+              "rebuild": 18.5,
+              "risk": 52.0,
+              "source": "heuristic-v0.2"
+            },
+            "years_exp": 8
+          },
+          {
+            "active": true,
+            "age": 29,
+            "age_bucket": "veteran",
+            "depth_chart_order": 1,
             "depth_chart_position": "LCB",
             "fantasy_positions": [
               "DB"
@@ -83778,6 +83779,44 @@
               "source": "heuristic-v0.2"
             },
             "years_exp": 5
+          },
+          {
+            "active": true,
+            "age": 29,
+            "age_bucket": "veteran",
+            "depth_chart_order": 1,
+            "depth_chart_position": "LOLB",
+            "fantasy_positions": [
+              "DL",
+              "LB"
+            ],
+            "first_name": "Carl",
+            "full_name": "Carl Granderson",
+            "injury_body_part": null,
+            "injury_notes": null,
+            "injury_status": null,
+            "is_reserve": false,
+            "is_starter": true,
+            "is_taxi": false,
+            "last_name": "Granderson",
+            "normalized_position": "DL",
+            "number": 96,
+            "player_id": "5912",
+            "position": "DE",
+            "search_full_name": "carlgranderson",
+            "status": "Active",
+            "team": "NO",
+            "value": {
+              "confidence": 70.0,
+              "contender": 69.5,
+              "liquidity": 45.9,
+              "market": 61.5,
+              "player_id": "5912",
+              "rebuild": 55.5,
+              "risk": 36.0,
+              "source": "heuristic-v0.2"
+            },
+            "years_exp": 7
           },
           {
             "active": true,
@@ -83963,44 +84002,6 @@
               "source": "heuristic-v0.2"
             },
             "years_exp": 5
-          },
-          {
-            "active": true,
-            "age": 29,
-            "age_bucket": "veteran",
-            "depth_chart_order": 1,
-            "depth_chart_position": "LOLB",
-            "fantasy_positions": [
-              "DL",
-              "LB"
-            ],
-            "first_name": "Carl",
-            "full_name": "Carl Granderson",
-            "injury_body_part": null,
-            "injury_notes": null,
-            "injury_status": null,
-            "is_reserve": false,
-            "is_starter": false,
-            "is_taxi": false,
-            "last_name": "Granderson",
-            "normalized_position": "DL",
-            "number": 96,
-            "player_id": "5912",
-            "position": "DE",
-            "search_full_name": "carlgranderson",
-            "status": "Active",
-            "team": "NO",
-            "value": {
-              "confidence": 55.0,
-              "contender": 41.5,
-              "liquidity": 45.9,
-              "market": 41.5,
-              "player_id": "5912",
-              "rebuild": 35.5,
-              "risk": 36.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 7
           }
         ],
         "LB": [
@@ -84419,43 +84420,6 @@
         "RB": [
           {
             "active": true,
-            "age": 23,
-            "age_bucket": "young",
-            "depth_chart_order": 1,
-            "depth_chart_position": "RB",
-            "fantasy_positions": [
-              "RB"
-            ],
-            "first_name": "Omarion",
-            "full_name": "Omarion Hampton",
-            "injury_body_part": null,
-            "injury_notes": null,
-            "injury_status": null,
-            "is_reserve": false,
-            "is_starter": true,
-            "is_taxi": false,
-            "last_name": "Hampton",
-            "normalized_position": "RB",
-            "number": 8,
-            "player_id": "12507",
-            "position": "RB",
-            "search_full_name": "omarionhampton",
-            "status": "Active",
-            "team": "LAC",
-            "value": {
-              "confidence": 70.0,
-              "contender": 93.5,
-              "liquidity": 87.2,
-              "market": 85.5,
-              "player_id": "12507",
-              "rebuild": 97.5,
-              "risk": 34.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 1
-          },
-          {
-            "active": true,
             "age": 26,
             "age_bucket": "prime",
             "depth_chart_order": 1,
@@ -84634,6 +84598,43 @@
               "market": 57.5,
               "player_id": "11569",
               "rebuild": 69.5,
+              "risk": 34.0,
+              "source": "heuristic-v0.2"
+            },
+            "years_exp": 1
+          },
+          {
+            "active": true,
+            "age": 23,
+            "age_bucket": "young",
+            "depth_chart_order": 1,
+            "depth_chart_position": "RB",
+            "fantasy_positions": [
+              "RB"
+            ],
+            "first_name": "Omarion",
+            "full_name": "Omarion Hampton",
+            "injury_body_part": null,
+            "injury_notes": null,
+            "injury_status": null,
+            "is_reserve": false,
+            "is_starter": false,
+            "is_taxi": false,
+            "last_name": "Hampton",
+            "normalized_position": "RB",
+            "number": 8,
+            "player_id": "12507",
+            "position": "RB",
+            "search_full_name": "omarionhampton",
+            "status": "Active",
+            "team": "LAC",
+            "value": {
+              "confidence": 55.0,
+              "contender": 65.5,
+              "liquidity": 87.2,
+              "market": 65.5,
+              "player_id": "12507",
+              "rebuild": 77.5,
               "risk": 34.0,
               "source": "heuristic-v0.2"
             },
@@ -84828,9 +84829,46 @@
           },
           {
             "active": true,
+            "age": 33,
+            "age_bucket": "veteran",
+            "depth_chart_order": 1,
+            "depth_chart_position": "TE",
+            "fantasy_positions": [
+              "TE"
+            ],
+            "first_name": "Tyler",
+            "full_name": "Tyler Higbee",
+            "injury_body_part": null,
+            "injury_notes": null,
+            "injury_status": null,
+            "is_reserve": false,
+            "is_starter": true,
+            "is_taxi": false,
+            "last_name": "Higbee",
+            "normalized_position": "TE",
+            "number": 89,
+            "player_id": "3271",
+            "position": "TE",
+            "search_full_name": "tylerhigbee",
+            "status": "Active",
+            "team": "LAR",
+            "value": {
+              "confidence": 70.0,
+              "contender": 62.5,
+              "liquidity": 61.7,
+              "market": 54.5,
+              "player_id": "3271",
+              "rebuild": 36.5,
+              "risk": 60.0,
+              "source": "heuristic-v0.2"
+            },
+            "years_exp": 10
+          },
+          {
+            "active": true,
             "age": 27,
             "age_bucket": "prime",
-            "depth_chart_order": 1,
+            "depth_chart_order": 2,
             "depth_chart_position": "TE",
             "fantasy_positions": [
               "TE"
@@ -84853,11 +84891,11 @@
             "team": "LAR",
             "value": {
               "confidence": 55.0,
-              "contender": 47.1,
+              "contender": 44.1,
               "liquidity": 68.0,
-              "market": 48.5,
+              "market": 45.5,
               "player_id": "6865",
-              "rebuild": 48.5,
+              "rebuild": 45.5,
               "risk": 28.0,
               "source": "heuristic-v0.2"
             },
@@ -84899,43 +84937,6 @@
               "source": "heuristic-v0.2"
             },
             "years_exp": 4
-          },
-          {
-            "active": true,
-            "age": 33,
-            "age_bucket": "veteran",
-            "depth_chart_order": 2,
-            "depth_chart_position": "TE",
-            "fantasy_positions": [
-              "TE"
-            ],
-            "first_name": "Tyler",
-            "full_name": "Tyler Higbee",
-            "injury_body_part": null,
-            "injury_notes": null,
-            "injury_status": null,
-            "is_reserve": false,
-            "is_starter": false,
-            "is_taxi": false,
-            "last_name": "Higbee",
-            "normalized_position": "TE",
-            "number": 89,
-            "player_id": "3271",
-            "position": "TE",
-            "search_full_name": "tylerhigbee",
-            "status": "Active",
-            "team": "LAR",
-            "value": {
-              "confidence": 55.0,
-              "contender": 31.5,
-              "liquidity": 61.7,
-              "market": 31.5,
-              "player_id": "3271",
-              "rebuild": 13.5,
-              "risk": 60.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 10
           }
         ],
         "WR": [
@@ -85202,7 +85203,7 @@
             "active": true,
             "age": 33,
             "age_bucket": "veteran",
-            "depth_chart_order": 1,
+            "depth_chart_order": 2,
             "depth_chart_position": "LWR",
             "fantasy_positions": [
               "WR"
@@ -85225,11 +85226,11 @@
             "team": "SF",
             "value": {
               "confidence": 55.0,
-              "contender": 38.5,
+              "contender": 35.5,
               "liquidity": 81.7,
-              "market": 38.5,
+              "market": 35.5,
               "player_id": "2197",
-              "rebuild": 20.5,
+              "rebuild": 17.5,
               "risk": 66.0,
               "source": "heuristic-v0.2"
             },
@@ -85277,6 +85278,7 @@
       "reserve_ids": [
         "2133",
         "4137",
+        "5372",
         "6025",
         "8698"
       ],
@@ -85298,7 +85300,7 @@
       },
       "starter_ids": [
         "4984",
-        "12507",
+        "6790",
         "4199",
         "8137",
         "12519",
@@ -85307,7 +85309,7 @@
         "10213",
         "5850",
         "9500",
-        "6790",
+        "3271",
         "8132",
         "5991",
         "7627",
@@ -85319,7 +85321,7 @@
         "7069",
         "8286",
         "7136",
-        "5372",
+        "5912",
         "11656"
       ],
       "taxi_ids": [],
@@ -86402,7 +86404,7 @@
           "active": true,
           "age": 24,
           "age_bucket": "young",
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -86425,11 +86427,11 @@
           "team": "SF",
           "value": {
             "confidence": 70.0,
-            "contender": 90.3,
+            "contender": 93.3,
             "liquidity": 91.2,
-            "market": 82.3,
+            "market": 85.3,
             "player_id": "12634",
-            "rebuild": 91.3,
+            "rebuild": 94.3,
             "risk": 24.0,
             "source": "heuristic-v0.2"
           },
@@ -86959,7 +86961,7 @@
           "active": true,
           "age": 24,
           "age_bucket": "young",
-          "depth_chart_order": 6,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -89088,7 +89090,7 @@
             "active": true,
             "age": 24,
             "age_bucket": "young",
-            "depth_chart_order": 6,
+            "depth_chart_order": 5,
             "depth_chart_position": "RB",
             "fantasy_positions": [
               "RB"
@@ -89499,7 +89501,7 @@
             "active": true,
             "age": 24,
             "age_bucket": "young",
-            "depth_chart_order": 2,
+            "depth_chart_order": 1,
             "depth_chart_position": "RWR",
             "fantasy_positions": [
               "WR"
@@ -89522,11 +89524,11 @@
             "team": "SF",
             "value": {
               "confidence": 70.0,
-              "contender": 90.3,
+              "contender": 93.3,
               "liquidity": 91.2,
-              "market": 82.3,
+              "market": 85.3,
               "player_id": "12634",
-              "rebuild": 91.3,
+              "rebuild": 94.3,
               "risk": 24.0,
               "source": "heuristic-v0.2"
             },
@@ -90452,7 +90454,7 @@
           "active": true,
           "age": 25,
           "age_bucket": "prime",
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -90475,11 +90477,11 @@
           "team": "BAL",
           "value": {
             "confidence": 55.0,
-            "contender": 66.2,
+            "contender": 63.2,
             "liquidity": 80.1,
-            "market": 66.2,
+            "market": 63.2,
             "player_id": "13350",
-            "rebuild": 72.2,
+            "rebuild": 69.2,
             "risk": 24.0,
             "source": "heuristic-v0.2"
           },
@@ -93842,7 +93844,7 @@
             "active": true,
             "age": 25,
             "age_bucket": "prime",
-            "depth_chart_order": 1,
+            "depth_chart_order": 2,
             "depth_chart_position": "QB",
             "fantasy_positions": [
               "QB"
@@ -93865,11 +93867,11 @@
             "team": "BAL",
             "value": {
               "confidence": 55.0,
-              "contender": 66.2,
+              "contender": 63.2,
               "liquidity": 80.1,
-              "market": 66.2,
+              "market": 63.2,
               "player_id": "13350",
-              "rebuild": 72.2,
+              "rebuild": 69.2,
               "risk": 24.0,
               "source": "heuristic-v0.2"
             },
@@ -94963,11 +94965,11 @@
         "11667",
         "8267",
         "13482",
-        "13379",
+        "5041",
         "12597",
         "7811",
         "8395",
-        "5041",
+        "13379",
         "8330",
         "4413"
       ],
@@ -99752,7 +99754,7 @@
           "injury_body_part": "Elbow",
           "injury_notes": null,
           "injury_status": "Out",
-          "is_reserve": false,
+          "is_reserve": true,
           "is_starter": false,
           "is_taxi": false,
           "last_name": "Collins",
@@ -100519,8 +100521,8 @@
           "active": true,
           "age": 26,
           "age_bucket": "prime",
-          "depth_chart_order": 5,
-          "depth_chart_position": "RB",
+          "depth_chart_order": null,
+          "depth_chart_position": null,
           "fantasy_positions": [
             "RB"
           ],
@@ -100529,7 +100531,7 @@
           "injury_body_part": "Undisclosed",
           "injury_notes": null,
           "injury_status": "Questionable",
-          "is_reserve": true,
+          "is_reserve": false,
           "is_starter": false,
           "is_taxi": false,
           "last_name": "Pierce",
@@ -100541,12 +100543,12 @@
           "status": "Inactive",
           "team": "PHI",
           "value": {
-            "confidence": 55.0,
-            "contender": 12.9,
+            "confidence": 35.0,
+            "contender": 16.9,
             "liquidity": 84.0,
-            "market": 18.5,
+            "market": 22.5,
             "player_id": "8129",
-            "rebuild": 16.5,
+            "rebuild": 20.5,
             "risk": 62.0,
             "source": "heuristic-v0.2"
           },
@@ -101086,7 +101088,7 @@
           "injury_notes": null,
           "injury_status": null,
           "is_reserve": false,
-          "is_starter": false,
+          "is_starter": true,
           "is_taxi": false,
           "last_name": "Mack",
           "normalized_position": "LB",
@@ -101097,12 +101099,12 @@
           "status": "Active",
           "team": "LAC",
           "value": {
-            "confidence": 55.0,
-            "contender": 21.5,
+            "confidence": 70.0,
+            "contender": 49.5,
             "liquidity": 45.7,
-            "market": 21.5,
+            "market": 41.5,
             "player_id": "2036",
-            "rebuild": 3.5,
+            "rebuild": 23.5,
             "risk": 78.0,
             "source": "heuristic-v0.2"
           },
@@ -101752,7 +101754,7 @@
           "injury_notes": "Stinger",
           "injury_status": "Out",
           "is_reserve": false,
-          "is_starter": true,
+          "is_starter": false,
           "is_taxi": false,
           "last_name": "Williams",
           "normalized_position": "DL",
@@ -101763,12 +101765,12 @@
           "status": "Active",
           "team": "SEA",
           "value": {
-            "confidence": 70.0,
-            "contender": 47.0,
+            "confidence": 55.0,
+            "contender": 19.0,
             "liquidity": 42.8,
-            "market": 42.5,
+            "market": 22.5,
             "player_id": "2311",
-            "rebuild": 27.5,
+            "rebuild": 7.5,
             "risk": 64.0,
             "source": "heuristic-v0.2"
           },
@@ -102410,43 +102412,6 @@
           },
           {
             "active": true,
-            "age": 32,
-            "age_bucket": "veteran",
-            "depth_chart_order": 1,
-            "depth_chart_position": "LDE",
-            "fantasy_positions": [
-              "DL"
-            ],
-            "first_name": "Leonard",
-            "full_name": "Leonard Williams",
-            "injury_body_part": "Shoulder",
-            "injury_notes": "Stinger",
-            "injury_status": "Out",
-            "is_reserve": false,
-            "is_starter": true,
-            "is_taxi": false,
-            "last_name": "Williams",
-            "normalized_position": "DL",
-            "number": 99,
-            "player_id": "2311",
-            "position": "DE",
-            "search_full_name": "leonardwilliams",
-            "status": "Active",
-            "team": "SEA",
-            "value": {
-              "confidence": 70.0,
-              "contender": 47.0,
-              "liquidity": 42.8,
-              "market": 42.5,
-              "player_id": "2311",
-              "rebuild": 27.5,
-              "risk": 64.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 11
-          },
-          {
-            "active": true,
             "age": 34,
             "age_bucket": "veteran",
             "depth_chart_order": 1,
@@ -102607,7 +102572,7 @@
             "injury_body_part": "Elbow",
             "injury_notes": null,
             "injury_status": "Out",
-            "is_reserve": false,
+            "is_reserve": true,
             "is_starter": false,
             "is_taxi": false,
             "last_name": "Collins",
@@ -102629,6 +102594,43 @@
               "source": "heuristic-v0.2"
             },
             "years_exp": 10
+          },
+          {
+            "active": true,
+            "age": 32,
+            "age_bucket": "veteran",
+            "depth_chart_order": 1,
+            "depth_chart_position": "LDE",
+            "fantasy_positions": [
+              "DL"
+            ],
+            "first_name": "Leonard",
+            "full_name": "Leonard Williams",
+            "injury_body_part": "Shoulder",
+            "injury_notes": "Stinger",
+            "injury_status": "Out",
+            "is_reserve": false,
+            "is_starter": false,
+            "is_taxi": false,
+            "last_name": "Williams",
+            "normalized_position": "DL",
+            "number": 99,
+            "player_id": "2311",
+            "position": "DE",
+            "search_full_name": "leonardwilliams",
+            "status": "Active",
+            "team": "SEA",
+            "value": {
+              "confidence": 55.0,
+              "contender": 19.0,
+              "liquidity": 42.8,
+              "market": 22.5,
+              "player_id": "2311",
+              "rebuild": 7.5,
+              "risk": 64.0,
+              "source": "heuristic-v0.2"
+            },
+            "years_exp": 11
           }
         ],
         "LB": [
@@ -102819,6 +102821,44 @@
           },
           {
             "active": true,
+            "age": 35,
+            "age_bucket": "veteran",
+            "depth_chart_order": 1,
+            "depth_chart_position": "ROLB",
+            "fantasy_positions": [
+              "DL",
+              "LB"
+            ],
+            "first_name": "Khalil",
+            "full_name": "Khalil Mack",
+            "injury_body_part": null,
+            "injury_notes": null,
+            "injury_status": null,
+            "is_reserve": false,
+            "is_starter": true,
+            "is_taxi": false,
+            "last_name": "Mack",
+            "normalized_position": "LB",
+            "number": 52,
+            "player_id": "2036",
+            "position": "LB",
+            "search_full_name": "khalilmack",
+            "status": "Active",
+            "team": "LAC",
+            "value": {
+              "confidence": 70.0,
+              "contender": 49.5,
+              "liquidity": 45.7,
+              "market": 41.5,
+              "player_id": "2036",
+              "rebuild": 23.5,
+              "risk": 78.0,
+              "source": "heuristic-v0.2"
+            },
+            "years_exp": 12
+          },
+          {
+            "active": true,
             "age": 28,
             "age_bucket": "prime",
             "depth_chart_order": null,
@@ -102927,44 +102967,6 @@
               "source": "heuristic-v0.2"
             },
             "years_exp": 7
-          },
-          {
-            "active": true,
-            "age": 35,
-            "age_bucket": "veteran",
-            "depth_chart_order": 1,
-            "depth_chart_position": "ROLB",
-            "fantasy_positions": [
-              "DL",
-              "LB"
-            ],
-            "first_name": "Khalil",
-            "full_name": "Khalil Mack",
-            "injury_body_part": null,
-            "injury_notes": null,
-            "injury_status": null,
-            "is_reserve": false,
-            "is_starter": false,
-            "is_taxi": false,
-            "last_name": "Mack",
-            "normalized_position": "LB",
-            "number": 52,
-            "player_id": "2036",
-            "position": "LB",
-            "search_full_name": "khalilmack",
-            "status": "Active",
-            "team": "LAC",
-            "value": {
-              "confidence": 55.0,
-              "contender": 21.5,
-              "liquidity": 45.7,
-              "market": 21.5,
-              "player_id": "2036",
-              "rebuild": 3.5,
-              "risk": 78.0,
-              "source": "heuristic-v0.2"
-            },
-            "years_exp": 12
           }
         ],
         "QB": [
@@ -103307,8 +103309,8 @@
             "active": true,
             "age": 26,
             "age_bucket": "prime",
-            "depth_chart_order": 5,
-            "depth_chart_position": "RB",
+            "depth_chart_order": null,
+            "depth_chart_position": null,
             "fantasy_positions": [
               "RB"
             ],
@@ -103317,7 +103319,7 @@
             "injury_body_part": "Undisclosed",
             "injury_notes": null,
             "injury_status": "Questionable",
-            "is_reserve": true,
+            "is_reserve": false,
             "is_starter": false,
             "is_taxi": false,
             "last_name": "Pierce",
@@ -103329,12 +103331,12 @@
             "status": "Inactive",
             "team": "PHI",
             "value": {
-              "confidence": 55.0,
-              "contender": 12.9,
+              "confidence": 35.0,
+              "contender": 16.9,
               "liquidity": 84.0,
-              "market": 18.5,
+              "market": 22.5,
               "player_id": "8129",
-              "rebuild": 16.5,
+              "rebuild": 20.5,
               "risk": 62.0,
               "source": "heuristic-v0.2"
             },
@@ -104124,9 +104126,9 @@
         ]
       },
       "reserve_ids": [
+        "3236",
         "4968",
         "7117",
-        "8129",
         "9226"
       ],
       "roster_id": 12,
@@ -104158,7 +104160,7 @@
         "5022",
         "9753",
         "8161",
-        "2311",
+        "2036",
         "6782",
         "2064",
         "5843",
@@ -104201,6 +104203,19 @@
       "seller_roster_id": 3
     },
     {
+      "buyer_name": "Ostalb Highlanders",
+      "buyer_roster_id": 7,
+      "contender_value": 62.5,
+      "estimated_fit_score": 78.7,
+      "player_id": "3271",
+      "player_name": "Tyler Higbee",
+      "position": "TE",
+      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
+      "rebuild_value": 36.5,
+      "seller_name": "Big Black Blocks",
+      "seller_roster_id": 8
+    },
+    {
       "buyer_name": "T’s Golden Browns",
       "buyer_roster_id": 1,
       "contender_value": 62.5,
@@ -104212,6 +104227,32 @@
       "rebuild_value": 36.5,
       "seller_name": "Springfield Wildcats",
       "seller_roster_id": 3
+    },
+    {
+      "buyer_name": "T’s Golden Browns",
+      "buyer_roster_id": 1,
+      "contender_value": 62.5,
+      "estimated_fit_score": 78.2,
+      "player_id": "3271",
+      "player_name": "Tyler Higbee",
+      "position": "TE",
+      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
+      "rebuild_value": 36.5,
+      "seller_name": "Big Black Blocks",
+      "seller_roster_id": 8
+    },
+    {
+      "buyer_name": "Springfield Wildcats",
+      "buyer_roster_id": 3,
+      "contender_value": 62.5,
+      "estimated_fit_score": 78.2,
+      "player_id": "3271",
+      "player_name": "Tyler Higbee",
+      "position": "TE",
+      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
+      "rebuild_value": 36.5,
+      "seller_name": "Big Black Blocks",
+      "seller_roster_id": 8
     },
     {
       "buyer_name": "Ravensburger Playmakers",
@@ -104227,6 +104268,19 @@
       "seller_roster_id": 3
     },
     {
+      "buyer_name": "Ravensburger Playmakers",
+      "buyer_roster_id": 9,
+      "contender_value": 62.5,
+      "estimated_fit_score": 78.1,
+      "player_id": "3271",
+      "player_name": "Tyler Higbee",
+      "position": "TE",
+      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
+      "rebuild_value": 36.5,
+      "seller_name": "Big Black Blocks",
+      "seller_roster_id": 8
+    },
+    {
       "buyer_name": "Eggs of Desperation",
       "buyer_roster_id": 11,
       "contender_value": 62.5,
@@ -104238,6 +104292,19 @@
       "rebuild_value": 36.5,
       "seller_name": "Springfield Wildcats",
       "seller_roster_id": 3
+    },
+    {
+      "buyer_name": "Eggs of Desperation",
+      "buyer_roster_id": 11,
+      "contender_value": 62.5,
+      "estimated_fit_score": 78.0,
+      "player_id": "3271",
+      "player_name": "Tyler Higbee",
+      "position": "TE",
+      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
+      "rebuild_value": 36.5,
+      "seller_name": "Big Black Blocks",
+      "seller_roster_id": 8
     },
     {
       "buyer_name": "Big Black Blocks",
@@ -104266,6 +104333,19 @@
       "seller_roster_id": 3
     },
     {
+      "buyer_name": "Lokomotive Bodensee",
+      "buyer_roster_id": 2,
+      "contender_value": 62.5,
+      "estimated_fit_score": 77.6,
+      "player_id": "3271",
+      "player_name": "Tyler Higbee",
+      "position": "TE",
+      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
+      "rebuild_value": 36.5,
+      "seller_name": "Big Black Blocks",
+      "seller_roster_id": 8
+    },
+    {
       "buyer_name": "Dirty's Devils",
       "buyer_roster_id": 4,
       "contender_value": 62.5,
@@ -104277,6 +104357,19 @@
       "rebuild_value": 36.5,
       "seller_name": "Springfield Wildcats",
       "seller_roster_id": 3
+    },
+    {
+      "buyer_name": "Dirty's Devils",
+      "buyer_roster_id": 4,
+      "contender_value": 62.5,
+      "estimated_fit_score": 77.3,
+      "player_id": "3271",
+      "player_name": "Tyler Higbee",
+      "position": "TE",
+      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
+      "rebuild_value": 36.5,
+      "seller_name": "Big Black Blocks",
+      "seller_roster_id": 8
     },
     {
       "buyer_name": "Ostalb Highlanders",
@@ -104438,7 +104531,7 @@
       "buyer_name": "Big Black Blocks",
       "buyer_roster_id": 8,
       "contender_value": 65.5,
-      "estimated_fit_score": 74.3,
+      "estimated_fit_score": 74.2,
       "player_id": "4066",
       "player_name": "Evan Engram",
       "position": "TE",
@@ -105395,97 +105488,6 @@
       "rebuild_value": 42.5,
       "seller_name": "Ostalb Highlanders",
       "seller_roster_id": 7
-    },
-    {
-      "buyer_name": "Eggs of Desperation",
-      "buyer_roster_id": 11,
-      "contender_value": 71.5,
-      "estimated_fit_score": 67.2,
-      "player_id": "7002",
-      "player_name": "Juwan Johnson",
-      "position": "TE",
-      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
-      "rebuild_value": 54.5,
-      "seller_name": "The Infinite Rebuild",
-      "seller_roster_id": 12
-    },
-    {
-      "buyer_name": "Big Black Blocks",
-      "buyer_roster_id": 8,
-      "contender_value": 71.5,
-      "estimated_fit_score": 67.1,
-      "player_id": "5001",
-      "player_name": "Dalton Schultz",
-      "position": "TE",
-      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
-      "rebuild_value": 54.5,
-      "seller_name": "Springfield Wildcats",
-      "seller_roster_id": 3
-    },
-    {
-      "buyer_name": "Big Black Blocks",
-      "buyer_roster_id": 8,
-      "contender_value": 59.5,
-      "estimated_fit_score": 67.1,
-      "player_id": "4081",
-      "player_name": "Budda Baker",
-      "position": "DB",
-      "reason": "Targets a weak DB group and may fit seller window 'contender'.",
-      "rebuild_value": 42.5,
-      "seller_name": "Ostalb Highlanders",
-      "seller_roster_id": 7
-    },
-    {
-      "buyer_name": "Big Black Blocks",
-      "buyer_roster_id": 8,
-      "contender_value": 71.5,
-      "estimated_fit_score": 67.1,
-      "player_id": "7002",
-      "player_name": "Juwan Johnson",
-      "position": "TE",
-      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
-      "rebuild_value": 54.5,
-      "seller_name": "The Infinite Rebuild",
-      "seller_roster_id": 12
-    },
-    {
-      "buyer_name": "Lokomotive Bodensee",
-      "buyer_roster_id": 2,
-      "contender_value": 71.5,
-      "estimated_fit_score": 66.8,
-      "player_id": "5001",
-      "player_name": "Dalton Schultz",
-      "position": "TE",
-      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
-      "rebuild_value": 54.5,
-      "seller_name": "Springfield Wildcats",
-      "seller_roster_id": 3
-    },
-    {
-      "buyer_name": "Lokomotive Bodensee",
-      "buyer_roster_id": 2,
-      "contender_value": 71.5,
-      "estimated_fit_score": 66.8,
-      "player_id": "7002",
-      "player_name": "Juwan Johnson",
-      "position": "TE",
-      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
-      "rebuild_value": 54.5,
-      "seller_name": "The Infinite Rebuild",
-      "seller_roster_id": 12
-    },
-    {
-      "buyer_name": "Dirty's Devils",
-      "buyer_roster_id": 4,
-      "contender_value": 71.5,
-      "estimated_fit_score": 66.5,
-      "player_id": "5001",
-      "player_name": "Dalton Schultz",
-      "position": "TE",
-      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
-      "rebuild_value": 54.5,
-      "seller_name": "Springfield Wildcats",
-      "seller_roster_id": 3
     }
   ],
   "trade_targets": [
@@ -105503,6 +105505,19 @@
       "seller_roster_id": 3
     },
     {
+      "buyer_name": "Ostalb Highlanders",
+      "buyer_roster_id": 7,
+      "contender_value": 62.5,
+      "estimated_fit_score": 78.7,
+      "player_id": "3271",
+      "player_name": "Tyler Higbee",
+      "position": "TE",
+      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
+      "rebuild_value": 36.5,
+      "seller_name": "Big Black Blocks",
+      "seller_roster_id": 8
+    },
+    {
       "buyer_name": "T’s Golden Browns",
       "buyer_roster_id": 1,
       "contender_value": 62.5,
@@ -105514,6 +105529,32 @@
       "rebuild_value": 36.5,
       "seller_name": "Springfield Wildcats",
       "seller_roster_id": 3
+    },
+    {
+      "buyer_name": "T’s Golden Browns",
+      "buyer_roster_id": 1,
+      "contender_value": 62.5,
+      "estimated_fit_score": 78.2,
+      "player_id": "3271",
+      "player_name": "Tyler Higbee",
+      "position": "TE",
+      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
+      "rebuild_value": 36.5,
+      "seller_name": "Big Black Blocks",
+      "seller_roster_id": 8
+    },
+    {
+      "buyer_name": "Springfield Wildcats",
+      "buyer_roster_id": 3,
+      "contender_value": 62.5,
+      "estimated_fit_score": 78.2,
+      "player_id": "3271",
+      "player_name": "Tyler Higbee",
+      "position": "TE",
+      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
+      "rebuild_value": 36.5,
+      "seller_name": "Big Black Blocks",
+      "seller_roster_id": 8
     },
     {
       "buyer_name": "Ravensburger Playmakers",
@@ -105529,6 +105570,19 @@
       "seller_roster_id": 3
     },
     {
+      "buyer_name": "Ravensburger Playmakers",
+      "buyer_roster_id": 9,
+      "contender_value": 62.5,
+      "estimated_fit_score": 78.1,
+      "player_id": "3271",
+      "player_name": "Tyler Higbee",
+      "position": "TE",
+      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
+      "rebuild_value": 36.5,
+      "seller_name": "Big Black Blocks",
+      "seller_roster_id": 8
+    },
+    {
       "buyer_name": "Eggs of Desperation",
       "buyer_roster_id": 11,
       "contender_value": 62.5,
@@ -105540,6 +105594,19 @@
       "rebuild_value": 36.5,
       "seller_name": "Springfield Wildcats",
       "seller_roster_id": 3
+    },
+    {
+      "buyer_name": "Eggs of Desperation",
+      "buyer_roster_id": 11,
+      "contender_value": 62.5,
+      "estimated_fit_score": 78.0,
+      "player_id": "3271",
+      "player_name": "Tyler Higbee",
+      "position": "TE",
+      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
+      "rebuild_value": 36.5,
+      "seller_name": "Big Black Blocks",
+      "seller_roster_id": 8
     },
     {
       "buyer_name": "Big Black Blocks",
@@ -105568,6 +105635,19 @@
       "seller_roster_id": 3
     },
     {
+      "buyer_name": "Lokomotive Bodensee",
+      "buyer_roster_id": 2,
+      "contender_value": 62.5,
+      "estimated_fit_score": 77.6,
+      "player_id": "3271",
+      "player_name": "Tyler Higbee",
+      "position": "TE",
+      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
+      "rebuild_value": 36.5,
+      "seller_name": "Big Black Blocks",
+      "seller_roster_id": 8
+    },
+    {
       "buyer_name": "Dirty's Devils",
       "buyer_roster_id": 4,
       "contender_value": 62.5,
@@ -105579,6 +105659,19 @@
       "rebuild_value": 36.5,
       "seller_name": "Springfield Wildcats",
       "seller_roster_id": 3
+    },
+    {
+      "buyer_name": "Dirty's Devils",
+      "buyer_roster_id": 4,
+      "contender_value": 62.5,
+      "estimated_fit_score": 77.3,
+      "player_id": "3271",
+      "player_name": "Tyler Higbee",
+      "position": "TE",
+      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
+      "rebuild_value": 36.5,
+      "seller_name": "Big Black Blocks",
+      "seller_roster_id": 8
     },
     {
       "buyer_name": "Ostalb Highlanders",
@@ -105740,7 +105833,7 @@
       "buyer_name": "Big Black Blocks",
       "buyer_roster_id": 8,
       "contender_value": 65.5,
-      "estimated_fit_score": 74.3,
+      "estimated_fit_score": 74.2,
       "player_id": "4066",
       "player_name": "Evan Engram",
       "position": "TE",
@@ -106697,97 +106790,6 @@
       "rebuild_value": 42.5,
       "seller_name": "Ostalb Highlanders",
       "seller_roster_id": 7
-    },
-    {
-      "buyer_name": "Eggs of Desperation",
-      "buyer_roster_id": 11,
-      "contender_value": 71.5,
-      "estimated_fit_score": 67.2,
-      "player_id": "7002",
-      "player_name": "Juwan Johnson",
-      "position": "TE",
-      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
-      "rebuild_value": 54.5,
-      "seller_name": "The Infinite Rebuild",
-      "seller_roster_id": 12
-    },
-    {
-      "buyer_name": "Big Black Blocks",
-      "buyer_roster_id": 8,
-      "contender_value": 71.5,
-      "estimated_fit_score": 67.1,
-      "player_id": "5001",
-      "player_name": "Dalton Schultz",
-      "position": "TE",
-      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
-      "rebuild_value": 54.5,
-      "seller_name": "Springfield Wildcats",
-      "seller_roster_id": 3
-    },
-    {
-      "buyer_name": "Big Black Blocks",
-      "buyer_roster_id": 8,
-      "contender_value": 59.5,
-      "estimated_fit_score": 67.1,
-      "player_id": "4081",
-      "player_name": "Budda Baker",
-      "position": "DB",
-      "reason": "Targets a weak DB group and may fit seller window 'contender'.",
-      "rebuild_value": 42.5,
-      "seller_name": "Ostalb Highlanders",
-      "seller_roster_id": 7
-    },
-    {
-      "buyer_name": "Big Black Blocks",
-      "buyer_roster_id": 8,
-      "contender_value": 71.5,
-      "estimated_fit_score": 67.1,
-      "player_id": "7002",
-      "player_name": "Juwan Johnson",
-      "position": "TE",
-      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
-      "rebuild_value": 54.5,
-      "seller_name": "The Infinite Rebuild",
-      "seller_roster_id": 12
-    },
-    {
-      "buyer_name": "Lokomotive Bodensee",
-      "buyer_roster_id": 2,
-      "contender_value": 71.5,
-      "estimated_fit_score": 66.8,
-      "player_id": "5001",
-      "player_name": "Dalton Schultz",
-      "position": "TE",
-      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
-      "rebuild_value": 54.5,
-      "seller_name": "Springfield Wildcats",
-      "seller_roster_id": 3
-    },
-    {
-      "buyer_name": "Lokomotive Bodensee",
-      "buyer_roster_id": 2,
-      "contender_value": 71.5,
-      "estimated_fit_score": 66.8,
-      "player_id": "7002",
-      "player_name": "Juwan Johnson",
-      "position": "TE",
-      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
-      "rebuild_value": 54.5,
-      "seller_name": "The Infinite Rebuild",
-      "seller_roster_id": 12
-    },
-    {
-      "buyer_name": "Dirty's Devils",
-      "buyer_roster_id": 4,
-      "contender_value": 71.5,
-      "estimated_fit_score": 66.5,
-      "player_id": "5001",
-      "player_name": "Dalton Schultz",
-      "position": "TE",
-      "reason": "Targets a weak TE group and may fit seller window 'contender'.",
-      "rebuild_value": 54.5,
-      "seller_name": "Springfield Wildcats",
-      "seller_roster_id": 3
     }
   ],
   "traded_picks": [
