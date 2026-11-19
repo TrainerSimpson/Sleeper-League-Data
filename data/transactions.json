@@ -8042,6 +8042,101 @@
   "11": [
     {
       "adds": {
+        "421": 10
+      },
+      "consenter_ids": [
+        5,
+        10
+      ],
+      "created": 1795119930314,
+      "creator": "963572049115508736",
+      "draft_picks": [
+        {
+          "league_id": null,
+          "owner_id": 5,
+          "previous_owner_id": 10,
+          "roster_id": 10,
+          "round": 4,
+          "season": "2028"
+        },
+        {
+          "league_id": null,
+          "owner_id": 5,
+          "previous_owner_id": 10,
+          "roster_id": 10,
+          "round": 5,
+          "season": "2028"
+        }
+      ],
+      "drops": {
+        "421": 5
+      },
+      "leg": 11,
+      "metadata": null,
+      "roster_ids": [
+        5,
+        10
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1795122342218,
+      "transaction_id": "1429240213984518144",
+      "type": "trade",
+      "waiver_budget": []
+    },
+    {
+      "adds": null,
+      "consenter_ids": [
+        8
+      ],
+      "created": 1795119856963,
+      "creator": "1368351367726403584",
+      "draft_picks": [],
+      "drops": {
+        "11569": 8
+      },
+      "leg": 11,
+      "metadata": null,
+      "roster_ids": [
+        8
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1795119856963,
+      "transaction_id": "1429239906328121344",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
+    {
+      "adds": {
+        "5792": 9
+      },
+      "consenter_ids": [
+        9
+      ],
+      "created": 1795102841616,
+      "creator": "1368391950998212608",
+      "draft_picks": [],
+      "drops": null,
+      "leg": 11,
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      },
+      "roster_ids": [
+        9
+      ],
+      "settings": {
+        "seq": 0,
+        "waiver_bid": 2
+      },
+      "status": "complete",
+      "status_updated": 1795107976349,
+      "transaction_id": "1429168538790166528",
+      "type": "waiver",
+      "waiver_budget": []
+    },
+    {
+      "adds": {
         "8349": 10
       },
       "consenter_ids": [
