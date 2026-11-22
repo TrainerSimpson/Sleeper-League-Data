@@ -11204,7 +11204,7 @@
         "active": true,
         "age": 25,
         "age_bucket": "prime",
-        "depth_chart_order": 6,
+        "depth_chart_order": 8,
         "depth_chart_position": null,
         "fantasy_positions": [
           "WR"
@@ -13966,7 +13966,7 @@
           "active": true,
           "age": 25,
           "age_bucket": "prime",
-          "depth_chart_order": 6,
+          "depth_chart_order": 8,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -34725,7 +34725,7 @@
         "injury_body_part": "Coach's Decision",
         "injury_notes": null,
         "injury_status": "Out",
-        "is_reserve": false,
+        "is_reserve": true,
         "is_starter": false,
         "is_taxi": false,
         "last_name": "Terrell",
@@ -35123,7 +35123,7 @@
         "active": true,
         "age": 33,
         "age_bucket": "veteran",
-        "depth_chart_order": 5,
+        "depth_chart_order": 6,
         "depth_chart_position": "LWR",
         "fantasy_positions": [
           "WR"
@@ -35318,7 +35318,7 @@
         "injury_body_part": "Groin",
         "injury_notes": "Surgery",
         "injury_status": "Questionable",
-        "is_reserve": true,
+        "is_reserve": false,
         "is_starter": false,
         "is_taxi": false,
         "last_name": "Jackson",
@@ -35728,7 +35728,7 @@
           "injury_body_part": "Coach's Decision",
           "injury_notes": null,
           "injury_status": "Out",
-          "is_reserve": false,
+          "is_reserve": true,
           "is_starter": false,
           "is_taxi": false,
           "last_name": "Terrell",
@@ -35987,7 +35987,7 @@
           "injury_body_part": "Groin",
           "injury_notes": "Surgery",
           "injury_status": "Questionable",
-          "is_reserve": true,
+          "is_reserve": false,
           "is_starter": false,
           "is_taxi": false,
           "last_name": "Jackson",
@@ -37584,7 +37584,7 @@
           "active": true,
           "age": 33,
           "age_bucket": "veteran",
-          "depth_chart_order": 5,
+          "depth_chart_order": 6,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -37623,10 +37623,10 @@
       "11435",
       "13275",
       "13387",
+      "13389",
       "2133",
       "4137",
       "5850",
-      "6025",
       "8698"
     ],
     "roster_id": 8,
@@ -38430,7 +38430,7 @@
         "injury_notes": null,
         "injury_status": "IR",
         "is_reserve": false,
-        "is_starter": true,
+        "is_starter": false,
         "is_taxi": false,
         "last_name": "Spears",
         "normalized_position": "RB",
@@ -38441,12 +38441,12 @@
         "status": "Inactive",
         "team": "TEN",
         "value": {
-          "confidence": 70.0,
-          "contender": 37.8,
+          "confidence": 55.0,
+          "contender": 9.8,
           "liquidity": 85.1,
-          "market": 37.5,
+          "market": 17.5,
           "player_id": "9508",
-          "rebuild": 43.5,
+          "rebuild": 23.5,
           "risk": 62.0,
           "source": "heuristic-v0.2"
         },
@@ -39060,7 +39060,7 @@
         "injury_notes": null,
         "injury_status": null,
         "is_reserve": false,
-        "is_starter": false,
+        "is_starter": true,
         "is_taxi": false,
         "last_name": "Engram",
         "normalized_position": "TE",
@@ -39071,12 +39071,12 @@
         "status": "Active",
         "team": "DEN",
         "value": {
-          "confidence": 55.0,
-          "contender": 37.5,
+          "confidence": 70.0,
+          "contender": 65.5,
           "liquidity": 62.8,
-          "market": 37.5,
+          "market": 57.5,
           "player_id": "4066",
-          "rebuild": 22.5,
+          "rebuild": 42.5,
           "risk": 54.0,
           "source": "heuristic-v0.2"
         },
@@ -39309,7 +39309,7 @@
         "active": true,
         "age": 24,
         "age_bucket": "young",
-        "depth_chart_order": 5,
+        "depth_chart_order": 2,
         "depth_chart_position": "RB",
         "fantasy_positions": [
           "RB"
@@ -39332,11 +39332,11 @@
         "team": "PHI",
         "value": {
           "confidence": 55.0,
-          "contender": 37.6,
+          "contender": 46.6,
           "liquidity": 86.2,
-          "market": 39.0,
+          "market": 48.0,
           "player_id": "11577",
-          "rebuild": 48.0,
+          "rebuild": 57.0,
           "risk": 38.0,
           "source": "heuristic-v0.2"
         },
@@ -41436,43 +41436,6 @@
         },
         {
           "active": true,
-          "age": 25,
-          "age_bucket": "prime",
-          "depth_chart_order": 5,
-          "depth_chart_position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "first_name": "Tyjae",
-          "full_name": "Tyjae Spears",
-          "injury_body_part": "Knee",
-          "injury_notes": null,
-          "injury_status": "IR",
-          "is_reserve": false,
-          "is_starter": true,
-          "is_taxi": false,
-          "last_name": "Spears",
-          "normalized_position": "RB",
-          "number": 2,
-          "player_id": "9508",
-          "position": "RB",
-          "search_full_name": "tyjaespears",
-          "status": "Inactive",
-          "team": "TEN",
-          "value": {
-            "confidence": 70.0,
-            "contender": 37.8,
-            "liquidity": 85.1,
-            "market": 37.5,
-            "player_id": "9508",
-            "rebuild": 43.5,
-            "risk": 62.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 3
-        },
-        {
-          "active": true,
           "age": 27,
           "age_bucket": "prime",
           "depth_chart_order": 1,
@@ -41512,7 +41475,7 @@
           "active": true,
           "age": 24,
           "age_bucket": "young",
-          "depth_chart_order": 5,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -41535,11 +41498,11 @@
           "team": "PHI",
           "value": {
             "confidence": 55.0,
-            "contender": 37.6,
+            "contender": 46.6,
             "liquidity": 86.2,
-            "market": 39.0,
+            "market": 48.0,
             "player_id": "11577",
-            "rebuild": 48.0,
+            "rebuild": 57.0,
             "risk": 38.0,
             "source": "heuristic-v0.2"
           },
@@ -41581,6 +41544,43 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 2
+        },
+        {
+          "active": true,
+          "age": 25,
+          "age_bucket": "prime",
+          "depth_chart_order": 5,
+          "depth_chart_position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "first_name": "Tyjae",
+          "full_name": "Tyjae Spears",
+          "injury_body_part": "Knee",
+          "injury_notes": null,
+          "injury_status": "IR",
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Spears",
+          "normalized_position": "RB",
+          "number": 2,
+          "player_id": "9508",
+          "position": "RB",
+          "search_full_name": "tyjaespears",
+          "status": "Inactive",
+          "team": "TEN",
+          "value": {
+            "confidence": 55.0,
+            "contender": 9.8,
+            "liquidity": 85.1,
+            "market": 17.5,
+            "player_id": "9508",
+            "rebuild": 23.5,
+            "risk": 62.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 3
         },
         {
           "active": true,
@@ -41808,6 +41808,43 @@
         },
         {
           "active": true,
+          "age": 32,
+          "age_bucket": "veteran",
+          "depth_chart_order": 1,
+          "depth_chart_position": "TE",
+          "fantasy_positions": [
+            "TE"
+          ],
+          "first_name": "Evan",
+          "full_name": "Evan Engram",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": true,
+          "is_taxi": false,
+          "last_name": "Engram",
+          "normalized_position": "TE",
+          "number": 1,
+          "player_id": "4066",
+          "position": "TE",
+          "search_full_name": "evanengram",
+          "status": "Active",
+          "team": "DEN",
+          "value": {
+            "confidence": 70.0,
+            "contender": 65.5,
+            "liquidity": 62.8,
+            "market": 57.5,
+            "player_id": "4066",
+            "rebuild": 42.5,
+            "risk": 54.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 9
+        },
+        {
+          "active": true,
           "age": 25,
           "age_bucket": "prime",
           "depth_chart_order": 2,
@@ -41879,43 +41916,6 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 6
-        },
-        {
-          "active": true,
-          "age": 32,
-          "age_bucket": "veteran",
-          "depth_chart_order": 1,
-          "depth_chart_position": "TE",
-          "fantasy_positions": [
-            "TE"
-          ],
-          "first_name": "Evan",
-          "full_name": "Evan Engram",
-          "injury_body_part": null,
-          "injury_notes": null,
-          "injury_status": null,
-          "is_reserve": false,
-          "is_starter": false,
-          "is_taxi": false,
-          "last_name": "Engram",
-          "normalized_position": "TE",
-          "number": 1,
-          "player_id": "4066",
-          "position": "TE",
-          "search_full_name": "evanengram",
-          "status": "Active",
-          "team": "DEN",
-          "value": {
-            "confidence": 55.0,
-            "contender": 37.5,
-            "liquidity": 62.8,
-            "market": 37.5,
-            "player_id": "4066",
-            "rebuild": 22.5,
-            "risk": 54.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 9
         }
       ],
       "WR": [
@@ -42547,7 +42547,7 @@
       "11783",
       "3155",
       "7600",
-      "9508",
+      "4066",
       "8134",
       "7525",
       "10236",
