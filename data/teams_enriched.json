@@ -1532,7 +1532,7 @@
         "injury_notes": null,
         "injury_status": null,
         "is_reserve": false,
-        "is_starter": true,
+        "is_starter": false,
         "is_taxi": false,
         "last_name": "Heyward",
         "normalized_position": "DL",
@@ -1543,12 +1543,12 @@
         "status": "Active",
         "team": "PIT",
         "value": {
-          "confidence": 70.0,
-          "contender": 45.5,
+          "confidence": 55.0,
+          "contender": 17.5,
           "liquidity": 41.7,
-          "market": 37.5,
+          "market": 17.5,
           "player_id": "843",
-          "rebuild": 19.5,
+          "rebuild": 0.0,
           "risk": 84.0,
           "source": "heuristic-v0.2"
         },
@@ -2423,7 +2423,7 @@
         "injury_notes": null,
         "injury_status": null,
         "is_reserve": false,
-        "is_starter": false,
+        "is_starter": true,
         "is_taxi": false,
         "last_name": "Herbig",
         "normalized_position": "LB",
@@ -2434,12 +2434,12 @@
         "status": "Active",
         "team": "PIT",
         "value": {
-          "confidence": 55.0,
-          "contender": 55.5,
+          "confidence": 70.0,
+          "contender": 83.5,
           "liquidity": 54.1,
-          "market": 55.5,
+          "market": 75.5,
           "player_id": "10940",
-          "rebuild": 61.5,
+          "rebuild": 81.5,
           "risk": 24.0,
           "source": "heuristic-v0.2"
         },
@@ -2786,43 +2786,6 @@
         },
         {
           "active": true,
-          "age": 37,
-          "age_bucket": "veteran",
-          "depth_chart_order": 1,
-          "depth_chart_position": "RDE",
-          "fantasy_positions": [
-            "DL"
-          ],
-          "first_name": "Cameron",
-          "full_name": "Cameron Heyward",
-          "injury_body_part": null,
-          "injury_notes": null,
-          "injury_status": null,
-          "is_reserve": false,
-          "is_starter": true,
-          "is_taxi": false,
-          "last_name": "Heyward",
-          "normalized_position": "DL",
-          "number": 97,
-          "player_id": "843",
-          "position": "DT",
-          "search_full_name": "cameronheyward",
-          "status": "Active",
-          "team": "PIT",
-          "value": {
-            "confidence": 70.0,
-            "contender": 45.5,
-            "liquidity": 41.7,
-            "market": 37.5,
-            "player_id": "843",
-            "rebuild": 19.5,
-            "risk": 84.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 15
-        },
-        {
-          "active": true,
           "age": 23,
           "age_bucket": "young",
           "depth_chart_order": 1,
@@ -2931,6 +2894,43 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 3
+        },
+        {
+          "active": true,
+          "age": 37,
+          "age_bucket": "veteran",
+          "depth_chart_order": 1,
+          "depth_chart_position": "RDE",
+          "fantasy_positions": [
+            "DL"
+          ],
+          "first_name": "Cameron",
+          "full_name": "Cameron Heyward",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": false,
+          "is_taxi": false,
+          "last_name": "Heyward",
+          "normalized_position": "DL",
+          "number": 97,
+          "player_id": "843",
+          "position": "DT",
+          "search_full_name": "cameronheyward",
+          "status": "Active",
+          "team": "PIT",
+          "value": {
+            "confidence": 55.0,
+            "contender": 17.5,
+            "liquidity": 41.7,
+            "market": 17.5,
+            "player_id": "843",
+            "rebuild": 0.0,
+            "risk": 84.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 15
         }
       ],
       "LB": [
@@ -3008,6 +3008,44 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 2
+        },
+        {
+          "active": true,
+          "age": 25,
+          "age_bucket": "prime",
+          "depth_chart_order": 2,
+          "depth_chart_position": "LOLB",
+          "fantasy_positions": [
+            "DL",
+            "LB"
+          ],
+          "first_name": "Nick",
+          "full_name": "Nick Herbig",
+          "injury_body_part": null,
+          "injury_notes": null,
+          "injury_status": null,
+          "is_reserve": false,
+          "is_starter": true,
+          "is_taxi": false,
+          "last_name": "Herbig",
+          "normalized_position": "LB",
+          "number": 51,
+          "player_id": "10940",
+          "position": "LB",
+          "search_full_name": "nickherbig",
+          "status": "Active",
+          "team": "PIT",
+          "value": {
+            "confidence": 70.0,
+            "contender": 83.5,
+            "liquidity": 54.1,
+            "market": 75.5,
+            "player_id": "10940",
+            "rebuild": 81.5,
+            "risk": 24.0,
+            "source": "heuristic-v0.2"
+          },
+          "years_exp": 3
         },
         {
           "active": true,
@@ -3267,44 +3305,6 @@
             "source": "heuristic-v0.2"
           },
           "years_exp": 1
-        },
-        {
-          "active": true,
-          "age": 25,
-          "age_bucket": "prime",
-          "depth_chart_order": 2,
-          "depth_chart_position": "LOLB",
-          "fantasy_positions": [
-            "DL",
-            "LB"
-          ],
-          "first_name": "Nick",
-          "full_name": "Nick Herbig",
-          "injury_body_part": null,
-          "injury_notes": null,
-          "injury_status": null,
-          "is_reserve": false,
-          "is_starter": false,
-          "is_taxi": false,
-          "last_name": "Herbig",
-          "normalized_position": "LB",
-          "number": 51,
-          "player_id": "10940",
-          "position": "LB",
-          "search_full_name": "nickherbig",
-          "status": "Active",
-          "team": "PIT",
-          "value": {
-            "confidence": 55.0,
-            "contender": 55.5,
-            "liquidity": 54.1,
-            "market": 55.5,
-            "player_id": "10940",
-            "rebuild": 61.5,
-            "risk": 24.0,
-            "source": "heuristic-v0.2"
-          },
-          "years_exp": 3
         },
         {
           "active": true,
@@ -4882,8 +4882,8 @@
       "6788",
       "10974",
       "5341",
-      "843",
       "6131",
+      "10940",
       "1052"
     ],
     "taxi_ids": [
@@ -6711,7 +6711,7 @@
         "active": true,
         "age": 23,
         "age_bucket": "young",
-        "depth_chart_order": 6,
+        "depth_chart_order": 5,
         "depth_chart_position": "RB",
         "fantasy_positions": [
           "RB"
@@ -8468,7 +8468,7 @@
           "active": true,
           "age": 23,
           "age_bucket": "young",
-          "depth_chart_order": 6,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -37224,9 +37224,9 @@
         ],
         "first_name": "Jalen",
         "full_name": "Jalen Royals",
-        "injury_body_part": null,
+        "injury_body_part": "Ankle",
         "injury_notes": null,
-        "injury_status": null,
+        "injury_status": "Out",
         "is_reserve": false,
         "is_starter": false,
         "is_taxi": true,
@@ -37240,12 +37240,12 @@
         "team": "KC",
         "value": {
           "confidence": 55.0,
-          "contender": 52.1,
+          "contender": 38.6,
           "liquidity": 92.2,
-          "market": 52.1,
+          "market": 42.1,
           "player_id": "12505",
-          "rebuild": 64.1,
-          "risk": 24.0,
+          "rebuild": 54.1,
+          "risk": 34.0,
           "source": "heuristic-v0.2"
         },
         "years_exp": 1
@@ -41617,9 +41617,9 @@
           ],
           "first_name": "Jalen",
           "full_name": "Jalen Royals",
-          "injury_body_part": null,
+          "injury_body_part": "Ankle",
           "injury_notes": null,
-          "injury_status": null,
+          "injury_status": "Out",
           "is_reserve": false,
           "is_starter": false,
           "is_taxi": true,
@@ -41633,12 +41633,12 @@
           "team": "KC",
           "value": {
             "confidence": 55.0,
-            "contender": 52.1,
+            "contender": 38.6,
             "liquidity": 92.2,
-            "market": 52.1,
+            "market": 42.1,
             "player_id": "12505",
-            "rebuild": 64.1,
-            "risk": 24.0,
+            "rebuild": 54.1,
+            "risk": 34.0,
             "source": "heuristic-v0.2"
           },
           "years_exp": 1
@@ -53008,7 +53008,7 @@
         "active": true,
         "age": 26,
         "age_bucket": "prime",
-        "depth_chart_order": 4,
+        "depth_chart_order": 3,
         "depth_chart_position": "RB",
         "fantasy_positions": [
           "RB"
@@ -53031,11 +53031,11 @@
         "team": "KC",
         "value": {
           "confidence": 55.0,
-          "contender": 24.0,
+          "contender": 27.0,
           "liquidity": 84.0,
-          "market": 27.5,
+          "market": 30.5,
           "player_id": "8151",
-          "rebuild": 25.5,
+          "rebuild": 28.5,
           "risk": 56.0,
           "source": "heuristic-v0.2"
         },
@@ -55981,7 +55981,7 @@
           "active": true,
           "age": 26,
           "age_bucket": "prime",
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -56004,11 +56004,11 @@
           "team": "KC",
           "value": {
             "confidence": 55.0,
-            "contender": 24.0,
+            "contender": 27.0,
             "liquidity": 84.0,
-            "market": 27.5,
+            "market": 30.5,
             "player_id": "8151",
-            "rebuild": 25.5,
+            "rebuild": 28.5,
             "risk": 56.0,
             "source": "heuristic-v0.2"
           },
